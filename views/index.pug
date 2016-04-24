@@ -7,3 +7,20 @@ block head
 
 block body
     h1 Welcome to Vexillopedia!
+    
+    label(for="search-flag") Search a flag
+    input#search-flag(type="text")
+    ul#flag-list
+        each flag in flags
+            a(href="/flag/" + flag.name)
+                li 
+                    img(src="/flag/" + flag.image alt= flag.name)
+                    span #{flag.name}
+    
+    p -or-
+    
+    label Browse a category
+    ul#category-list
+        each category in categories
+            a(href="/category/" + category)
+                li #{category}
