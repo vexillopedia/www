@@ -1,5 +1,9 @@
-var express = require("express")
-var app = express()
+"use strict"
+
+const express = require("express")
+const fetch = require("node-fetch")
+
+const app = express()
 
 // Templating engine
 app.set("views", "./views")
@@ -9,8 +13,23 @@ app.set("view engine", "pug")
 app.use(express.static(__dirname + "/public"))
 
 // Home
-app.get("/", (req, res) => {
-    res.render("index")
+app.get("/", (req, res, next) => {
+    let urls = [
+        req.protocol + "://" + req.get("host") + "/api/categories",
+        req.protocol + "://" + req.get("host") + "/api/flags"
+    ]
+
+    Promise.all(urls.map(url => 
+        fetch(url).then(data => data.json())
+    )).then((json) => {
+        res.render("index", {
+            categories: json[0],
+            flags: json[1]
+        })
+    })
+    .catch((err) => {
+        next(err)
+    })
 })
 
 // Categories
@@ -28,14 +47,15 @@ app.get("/flag/:flag", (req, res) => {
 })
 
 // API
+const data = require("./data.json")
+
 app.get("/api/categories", (req, res) => {
-    res.json([
-        {
-            name: "Countries"
-        },{
-            name: "All"
-        }
-    ])
+    res.json(data.reduce((categories, flag) => {
+        if (categories.indexOf(flag.category) === -1)
+            categories.push(flag.category)
+        
+        return categories;
+    }, []))
 })
 app.get("/api/category/:category", (req, res) => {
     res.json([
@@ -48,11 +68,25 @@ app.get("/api/category/:category", (req, res) => {
         }
     ])
 })
+app.get("/api/flags", (req, res) => {
+    res.json(data.map(flag => {
+        return {
+            name: flag.name,
+            image: flag.image
+        }
+    }))
+})
 app.get("/api/flag/:flag", (req, res) => {
     res.json({
         name: "Test",
-        flag: "test.svg",
-        description: "This is a test flag"
+        image: "test.svg",
+        description: "This is a test flag",
+        meaning: "This is some meaning",
+        colors: [],
+        design: "Some design",
+        adoptionDate: 1234,
+        historical: [],
+        sources: []
     })
 })
 
