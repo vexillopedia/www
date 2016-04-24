@@ -1,24 +1,111 @@
 [
     {
-        "name": "",
-        "flag": "",
-        "category": "",
+        "name": "Afghanistan",
+        "image": "afghanistan.svg",
+        "category": "Countries",
         "description": "",
         "meaning": "",
-        "ratio": "",
+        "ratio": "2:3",
         "colors": [
             {
-                "name": "",
+                "name": "black",
+                "notation": ""
+            },{
+                "name": "red",
+                "notation": ""
+            },{
+                "name": "green",
                 "notation": ""
             }
         ],
-        "design": "",
-        "adoptionDate": 1234,
+        "design": "A vertical tricolor of black, red, and green charged in the center with the national emblem [0]",
+        "adoptionDate": 2004,
         "historical": [
             ""
         ],
         "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Afghanistan"
+        ]
+    }
+    ,{
+        "name": "Albania",
+        "image": "albania.svg",
+        "category": "Countries",
+        "description": "",
+        "meaning": "The red stands for bravery, strength and valor, while the double-headed eagle represents the sovereign state of Albania located in the Balkans. [0]",
+        "ratio": "5:7",
+        "colors": [
+            {
+                "name": "red",
+                "notation": ""
+            },{
+                "name": "black",
+                "notation": ""
+            }
+        ],
+        "design": "A silhouette of an open-winged bicephalated eagle on a red field. [0]",
+        "adoptionDate": 1992,
+        "historical": [
             ""
+        ],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Albania"
+        ]
+    }
+    ,{
+        "name": "Algeria",
+        "image": "algeria.svg",
+        "category": "Countries",
+        "description": "The flag's design is derived from the standard of Emir Abdel Kadir in the 19th century which consisted of two equal vertical bands, green and white, as well as being inspired from the flag of the Algerian Regency from the 16th to the 19th century, which consisted of a white crescent and star on a red background (the same as the modern flag of Turkey; the Algerian Regency was an autonomous vassal of the Ottoman Empire). [0]",
+        "meaning": "The white color represents peace; the green represents Islam; the red, the blood of those killed fighting for independence in the Algerian War (1954 to 1962) and the star and crescent represent Islam. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "green",
+                "notation": ""
+            },{
+                "name": "white",
+                "notation": ""
+            },{
+                "name": "red",
+                "notation": ""
+            }
+        ],
+        "design": "A red star and crescent centered on a vertical bicolor of green and white. [0]",
+        "adoptionDate": 1962,
+        "historical": [
+            ""
+        ],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Algeria"
+        ]
+    }
+    ,{
+        "name": "Andorra",
+        "image": "andorra.svg",
+        "category": "Countries",
+        "description": "",
+        "meaning": "",
+        "ratio": "7:10",
+        "colors": [
+            {
+                "name": "blue",
+                "notation": ""
+            },{
+                "name": "yellow",
+                "notation": ""
+            },{
+                "name": "red",
+                "notation": ""
+            }
+        ],
+        "design": "A vertical tricolour of blue, yellow and red with the national coat of arms centred on the middle stripe. The middle stripe is one eighth thicker than the outer bands. [0]",
+        "adoptionDate": 1971,
+        "historical": [
+            ""
+        ],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Andorra"
         ]
     }
 ]
