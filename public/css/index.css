@@ -1,3 +1,38 @@
+/* Global */
 body {
-    background: ivory
+    background: white;
+}
+
+.hidden {
+    display: none;
+}
+
+.section-title {
+    display: block;
+    text-align: center;
+}
+
+/*  Welcome */
+.welcome {
+    text-align: center;
+}
+
+/* Search */
+.search {
+    text-align: center;
+}
+.search-input {
+    width: 75%;
+}
+
+/* Or */
+.or {
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;  
+}
+
+/* Categories */
+.category-card {
+    
 }
