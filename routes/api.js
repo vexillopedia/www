@@ -14,15 +14,9 @@ router.get("/categories", (req, res) => {
     }, []))
 })
 router.get("/category/:category", (req, res) => {
-    res.json([
-        {
-            name: "Test",
-            flag: "test.svg"
-        },{
-            name: "Another Test",
-            flag: "another-test.svg"
-        }
-    ])
+    res.json(data.filter(flag => {
+        return flag.category === req.params.category
+    }))
 })
 router.get("/flags", (req, res) => {
     res.json(data.map(flag => {
@@ -33,17 +27,9 @@ router.get("/flags", (req, res) => {
     }))
 })
 router.get("/flag/:flag", (req, res) => {
-    res.json({
-        name: "Test",
-        image: "test.svg",
-        description: "This is a test flag",
-        meaning: "This is some meaning",
-        colors: [],
-        design: "Some design",
-        adoptionDate: 1234,
-        historical: [],
-        sources: []
-    })
+    res.json(data.find(flag => {
+        return flag.name === req.params.flag
+    }))
 })
 
 module.exports = router
