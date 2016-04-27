@@ -15,6 +15,14 @@ body {
 /*  Welcome */
 .welcome {
     text-align: center;
+    margin-bottom: 4em;
+}
+.welcome-title {
+    font-size: 1.5em;
+    margin-bottom: 0em;
+}
+.welcome-text {
+    font-size: 1.25em;
 }
 
 /* Search */
@@ -33,6 +41,40 @@ body {
 }
 
 /* Categories */
-.category-card {
+.categories {
+    text-align: center;
+}
+
+/* Cards */
+.card-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
     
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.card {
+    border: 1px solid grey;
+    margin: 0 1em 1.5em 1em;
+    
+    flex: 0 0 0%;
+}
+.card:hover {
+    box-shadow: 0px 0px 11px grey;
+    transition: box-shadow ease-in 0.22s;
+}
+
+.card a {
+    text-decoration: none;
+    color: black;
+}
+.card img {
+    height: 111px;
+}
+.card span {
+    border-top: 1px solid grey;
+    display: block;
 }

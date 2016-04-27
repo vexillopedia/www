@@ -6,26 +6,26 @@ block head
     script(defer scr="/js/index.js")
 
 block body
-    div.mdl-layout.mdl-js-layout
+    div(class="mdl-layout mdl-js-layout mdl-layout--fixed-header")
         
-        header.mdl-layout__header
-            div.mdl-layout__header-row
-                span.mdl-layout__title Vexillopedia | The flag encyclopedia
+        header(class="mdl-layout__header")
+            div(class="mdl-layout__header-row")
+                span(class="mdl-layout__title") Vexillopedia | The flag encyclopedia
         
-        main.mdl-layout__content        
+        main(class="mdl-layout__content")        
             div.welcome
                 h3.welcome-title Welcome to Vexillopedia,
                 p.welcome-text the flag encyclopedia!
             
             div.search
                 h2.section-title Search Flags
-                div.mdl-textfield.mdl-js-textfield.search-input
-                    input.mdl-textfield__input#search-flag(type="text")
-                    label.mdl-textfield__label(for="search-flag") Search a flag ...
-                ul#flag-list
+                div.search-input(class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label")
+                    input#search-flag(class="mdl-textfield__input" type="text")
+                    label(class="mdl-textfield__label" for="search-flag") Search a flag ...
+                ul.card-list
                     each flag in flags
-                        a(href="/flag/" + flag.name)
-                            li.flag-card 
+                        li.card
+                            a(href="/flag/" + flag.name) 
                                 img(src="/flag/" + flag.image alt= flag.name)
                                 span #{flag.name}
             
@@ -33,7 +33,9 @@ block body
             
             div.categories
                 h2.section-title Browse Categories
-                ul#category-list
+                ul.card-list
                     each category in categories
-                        a(href="/category/" + category)
-                            li.category-card #{category}
+                        li.card
+                            a(href="/category/" + category) 
+                                img(src="/category/" + category + ".svg" alt= category)
+                                span #{category}
