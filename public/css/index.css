@@ -1,12 +1,4 @@
-/* Global */
-body {
-    background: white;
-}
-
-.hidden {
-    display: none;
-}
-
+/* Section Titles */
 .section-title {
     display: block;
     text-align: center;
