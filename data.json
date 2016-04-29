@@ -108,4 +108,206 @@
             "https://en.wikipedia.org/wiki/Flag_of_Andorra"
         ]
     }
+    ,{
+        "name": "Angola",
+        "image": "angola.svg",
+        "category": "Countries",
+        "description": "",
+        "meaning": "The red is for the blood spilt by Angolans during their independence struggles, while the black is for the continent of Africa. The symbol in the middle is of a crossed cog wheel (representing workers and industry) and machete (representing the peasantry, agricultural production and the armed struggle) with a gold star. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "notation": ""
+            },{
+                "name": "black",
+                "notation": ""
+            },{
+                "name": "yellow",
+                "notation": ""
+            }
+        ],
+        "design": "It is split horizontally into an upper red half and a lower black half, and features a yellow half-gear crossed with a machete and crowned with a star. [0]",
+        "adoptionDate": 1975,
+        "historical": [
+            ""
+        ],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Angola"
+        ]
+    }
+    ,{
+        "name": "Antigua and Barbuda",
+        "image": "antigua-and-barbuda.svg",
+        "category": "Countries",
+        "description": "",
+        "meaning": "The rising sun symbolises the dawning of a new era. The colours have different meanings, the black is for the African ancestry of the people, the blue for hope, the red for energy or dynamism of the people. The successive colouring of yellow, blue, and white (from the sun down) also stands for the sun, sea, and sand. The blue also represents the Caribbean Sea, and the V-shape is the symbol of victory. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "notation": ""
+            },{
+                "name": "black",
+                "notation": ""
+            },{
+                "name": "yellow",
+                "notation": ""
+            },{
+                "name": "blue",
+                "notation": ""
+            },{
+                "name": "white",
+                "notation": ""
+            }
+        ],
+        "design": "The design of the National Flag is a red field with an inverted isosceles triangle based on the top edge of the field; the triangle contains a horizontal tricolor of black, light blue and white with a rising sun centered on top of the black band. [0]",
+        "adoptionDate": 1967,
+        "historical": [
+            ""
+        ],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Antigua_and_Barbuda"
+        ]
+    }
+    ,{
+        "name": "Argentina",
+        "image": "argentina.svg",
+        "category": "Countries",
+        "description": "",
+        "meaning": "",
+        "ratio": "5:8",
+        "colors": [
+            {
+                "name": "sky blue",
+                "notation": ""
+            },{
+                "name": "white",
+                "notation": ""
+            },{
+                "name": "yellow",
+                "notation": ""
+            }
+        ],
+        "design": "A horizontal triband of light blue (top and bottom) and white with the yellow Sun of May charged in the center. [0]",
+        "adoptionDate": 1812,
+        "historical": [
+            ""
+        ],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Argentina"
+        ]
+    }
+    ,{
+        "name": "Armenia",
+        "image": "armenia.svg",
+        "category": "Countries",
+        "description": "",
+        "meaning": "The red emblematizes the Armenian Highland, the Armenian people's continued struggle for survival, maintenance of the Christian faith, Armenia's independence and freedom. The blue emblematizes the will of the people of Armenia to live beneath peaceful skies. The orange emblematizes the creative talent and hard-working nature of the people of Armenia. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "red",
+                "notation": ""
+            },{
+                "name": "blue",
+                "notation": ""
+            },{
+                "name": "orange",
+                "notation": ""
+            }
+        ],
+        "design": "A horizontal tricolour of red, blue, and orange [0]",
+        "adoptionDate": 1990,
+        "historical": [
+            ""
+        ],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Armenia"
+        ]
+    }
+    ,{
+        "name": "Australia",
+        "image": "australia.svg",
+        "category": "Countries",
+        "description": "",
+        "meaning": "",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "notation": ""
+            },{
+                "name": "red",
+                "notation": ""
+            },{
+                "name": "white",
+                "notation": ""
+            }
+        ],
+        "design": "A Blue Ensign defaced with the Commonwealth Star (also known as the Federation Star) in the lower hoist quarter and the five stars of the Southern Cross in the fly half. [0]",
+        "adoptionDate": 1903,
+        "historical": [
+            ""
+        ],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Australia"
+        ]
+    }
+    ,{
+        "name": "Austria",
+        "image": "austria.svg",
+        "category": "Countries",
+        "description": "",
+        "meaning": "",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "notation": ""
+            },{
+                "name": "white",
+                "notation": ""
+            }
+        ],
+        "design": "A horizontal bicolour triband of red (top and bottom) and white. [0]",
+        "adoptionDate": 1918,
+        "historical": [
+            ""
+        ],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Austria"
+        ]
+    }
+    ,{
+        "name": "Azerbaijan",
+        "image": "azerbaijan.svg",
+        "category": "Countries",
+        "description": "",
+        "meaning": "The blue symbolises Azerbaijan's Turkic heritage, the red stands for progress, and the green represents Islam. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "notation": ""
+            },{
+                "name": "red",
+                "notation": ""
+            },{
+                "name": "green",
+                "notation": ""
+            },{
+                "name": "white",
+                "notation": ""
+            }
+        ],
+        "design": "A horizontal tricolor of blue, red, and green, with a white crescent and an eight-pointed star centered on a red band [0]",
+        "adoptionDate": 1918,
+        "historical": [
+            ""
+        ],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Azerbaijan"
+        ]
+    }
 ]
