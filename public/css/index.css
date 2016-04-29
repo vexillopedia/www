@@ -23,6 +23,7 @@
 }
 .search-input {
     width: 75%;
+    margin-bottom: 2.5em;
 }
 
 /* Or */
@@ -62,9 +63,11 @@
 .card a {
     text-decoration: none;
     color: black;
+    display: inline-block;
 }
 .card img {
     height: 111px;
+    display: block;
 }
 .card span {
     border-top: 1px solid grey;
