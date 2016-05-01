@@ -1,10 +1,18 @@
-;(function (){
-    // Progressive enhancement
-    document.getElementById("select-text").classList.add("hidden")
-    document.getElementById("search-text").classList.remove("hidden")
-    document.getElementById("search-flag").classList.remove("hidden")
+;(function () {
+    // Caching DOM elements/arrays
+    let selectTextSpan = document.getElementById("select-text")
+    let searchTextSpan = document.getElementById("search-text")
+    let searchFlagInput = document.getElementById("search-flag")
     
-    Array.from(document.querySelectorAll(".search .card")).forEach((card) => {
-        card.classList.add("hidden")
+    let flagCards = document.querySelectorAll(".search .card")
+    let flagCardsArray = Array.from(flagCards)
+    
+    // Progressive enhancement
+    selectTextSpan.classList.add("hidden")
+    searchTextSpan.classList.remove("hidden")
+    searchFlagInput.classList.remove("hidden")
+    
+    flagCardsArray.forEach((card) => { 
+        card.classList.add("hidden") 
     })
 }())
