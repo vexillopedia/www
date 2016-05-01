@@ -6,4 +6,50 @@ block head
     script(src="/js/flag.js", defer)
 
 block body
-    h1 Flag of #{name}
+    header.header
+        h1.title Vexillopedia | The flag encyclopedia
+    
+    main.main
+        h2.flag-title Flag of #{name}
+        
+        div.left-section
+            img.flag-image(src="/flag/" + image alt= name)
+        
+            table.flag-information
+                tr.flag-ratio 
+                    th Ratio 
+                    td #{ratio}
+                tr.flag-adoption 
+                    th Adoption 
+                    td #{adoptionDate}
+                tr.flag-design 
+                    th Design 
+                    td #{design}
+                tr.flag-colors 
+                    th Colors
+                    td 
+                        table.color-table
+                            each color in colors
+                                tr
+                                    th.color-box(style="background-color:" + color.notation)
+                                    td #{color.notation}
+
+        div.right-section
+            div.flag-description
+                h3.flag-subtitle Description
+                p #{description}
+                
+            div.flag-meaning
+                h3.flag-subtitle Meaning
+                p #{meaning}
+        
+        div.bottom-section
+            div.flag-related
+                h3.flag-subtitle Related Flags
+            
+            div.flag-sources
+                h3.flag-subtitle Sources
+                ul.sources
+                    each link, index in sources
+                        li.link [#{index}] 
+                            a(href= link target="_blank") #{link}

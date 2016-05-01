@@ -1,0 +1,55 @@
+/* Flag Title */
+.flag-title {
+   border-bottom: 1px solid black; 
+}
+
+/* Flag Subtitle */
+.flag-subtitle {
+    border-bottom: 1px dotted black;
+    margin-top: 0;
+}
+
+/* Layout */
+.left-section,
+.right-section {
+    display: inline-block;
+    vertical-align: top;
+}
+.left-section {
+    width: 50%;
+    margin-bottom: 2em;
+}
+.right-section {
+    width: 45%;
+    margin-left: 5%;
+}
+
+/* Flag Image */
+.flag-image {
+    width: calc(100% - 2px);
+    border: 1px solid black;
+}
+
+/* Flag Information */
+.flag-information {
+    border: 1px solid black;
+    border-spacing: 0.75em;
+    text-align: left;
+    width: 100%;
+}
+
+.flag-ratio,
+.flag-adoption,
+.flag-design,
+.flag-colors {
+    vertical-align: top;
+}
+
+.color-table {
+    width: 100%;
+    text-align: center;
+}
+.color-box {
+    width: 50%;
+    border: 1px solid grey;
+}

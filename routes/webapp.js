@@ -46,8 +46,17 @@ router.get("/category/:category", (req, res) => {
 
 // Flags
 router.get("/flag/:flag", (req, res) => {
-    res.render("flag", {
-        name: req.params.flag
+    let urls = [
+        req.protocol + "://" + req.get("host") + "/api/flag/" + req.params.flag
+    ]
+    
+    Promise.all(urls.map(url => 
+        fetch(url).then(data => data.json())
+    )).then((json) => {
+        res.render("flag", json[0])
+    })
+    .catch((err) => {
+        next(err)
     })
 })
 
