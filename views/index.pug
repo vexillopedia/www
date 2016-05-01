@@ -3,7 +3,7 @@ extends layout
 block head
     title Vexillopedia | The flag encyclopedia
     link(rel="stylesheet", href="/css/index.css")
-    script(defer scr="/js/index.js")
+    script(defer src="/js/index.js")
 
 block body
     header.header
@@ -15,8 +15,10 @@ block body
             p.welcome-text the flag encyclopedia!
         
         div.search
-            h2.section-title Search Flags
-            input#search-flag.search-input
+            h2.section-title 
+                span#search-text(class="hidden") Search Flags
+                span#select-text Select a Flag
+            input#search-flag.search-input(class="hidden")
             ul.card-list
                 each flag in flags
                     li.card
