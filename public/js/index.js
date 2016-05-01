@@ -6,6 +6,9 @@
     
     let flagCards = document.querySelectorAll(".search .card")
     let flagCardsArray = Array.from(flagCards)
+    let flagNamesArray = flagCardsArray.map((card) => {
+        return card.querySelector("span").innerText.toLowerCase()
+    })
     
     // Progressive enhancement
     selectTextSpan.classList.add("hidden")
@@ -14,5 +17,16 @@
     
     flagCardsArray.forEach((card) => { 
         card.classList.add("hidden") 
+    })
+    
+    // Search flags
+    searchFlagInput.addEventListener("keyup", (e) => {
+        let searchText = e.target.value.toLowerCase()
+
+        flagCardsArray.forEach((card, i) => {
+            (searchText && flagNamesArray[i].indexOf(searchText) > -1) ?
+                card.classList.remove("hidden") :
+                card.classList.add("hidden")
+        })
     })
 }())
