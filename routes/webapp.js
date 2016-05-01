@@ -27,8 +27,20 @@ router.get("/", (req, res, next) => {
 
 // Categories
 router.get("/category/:category", (req, res) => {
-    res.render("category", {
-        name: req.params.category
+    let urls = [
+        req.protocol + "://" + req.get("host") + "/api/category/" + req.params.category
+    ]
+    
+    Promise.all(urls.map(url => 
+        fetch(url).then(data => data.json())
+    )).then((json) => {
+        res.render("category", {
+            name: req.params.category,
+            flags: json[0]
+        })
+    })
+    .catch((err) => {
+        next(err)
     })
 })
 

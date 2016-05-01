@@ -6,4 +6,15 @@ block head
     script(src="/js/category.js", defer)
 
 block body
-    h1 Category #{name}
+    header.header
+        h1.title Vexillopedia | The flag encyclopedia
+    
+    main.main
+        h2.category-title #{name}
+        
+        ul.card-list
+            each flag in flags
+                li.card
+                    a(href="/flag/" + flag.name) 
+                        img(src="/flag/" + flag.image alt= flag.name)
+                        span #{flag.name}
