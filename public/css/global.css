@@ -14,8 +14,50 @@ body {
 }
 .title {
     margin: 0;
-    padding: 0.5em 0.5em 0.5em 2em;
     color: white;
     font-size: 1.5em;
     font-weight: normal;
+}
+
+/* Main Padding */
+.header,
+.main {
+    padding: 1em 1.618em;
+}
+
+/* Cards */
+.card-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.card {
+    border: 1px solid grey;
+    margin: 0 1em 1.5em 1em;
+    text-align: center;
+    
+    flex: 0 0 0%;
+}
+.card:hover {
+    box-shadow: 0px 0px 11px grey;
+    transition: box-shadow ease-in 0.22s;
+}
+
+.card a {
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+}
+.card img {
+    height: 111px;
+    display: block;
+}
+.card span {
+    border-top: 1px solid grey;
+    display: block;
 }
