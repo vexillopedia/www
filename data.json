@@ -63,20 +63,18 @@
         "colors": [
             {
                 "name": "green",
-                "hex": ""
+                "hex": "#006233"
             },{
                 "name": "white",
-                "hex": ""
+                "hex": "#FFFFFF"
             },{
                 "name": "red",
-                "hex": ""
+                "hex": "#D21034"
             }
         ],
         "design": "A red star and crescent centered on a vertical bicolor of green and white. [0]",
         "adoptionDate": 1962,
-        "related": [
-            ""
-        ],
+        "related": [],
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Algeria"
         ]
