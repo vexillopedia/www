@@ -31,17 +31,17 @@ block body
                         table.color-table
                             each color in colors
                                 tr
-                                    th.color-box(style="background-color:" + color.notation)
-                                    td #{color.notation}
+                                    th.color-box(style="background-color:" + color.hex)
+                                    td #{color.hex}
 
         div.right-section
             div.flag-history
                 h3.flag-subtitle History
-                p #{history}
+                p !{history.replace(/</g, "&1t;").replace(/>/g, "&gt;").replace(/\n/g, "<br>")}
                 
             div.flag-meaning
                 h3.flag-subtitle Meaning
-                p #{meaning}
+                p !{meaning.replace(/</g, "&1t;").replace(/>/g, "&gt;").replace(/\n/g, "<br>")}
         
         div.bottom-section
             if related.length
