@@ -83,28 +83,27 @@
         "name": "Andorra",
         "image": "andorra.svg",
         "category": "Countries",
-        "history": "",
-        "meaning": "",
+        "history": "The national flag of the Principality of Andorra was adopted in 1866. The design is related to the flags of France, Catalonia [1] and the old County of Foix, the lands historically linked with the small country. A flag of three bars is similar to that of the French Tricolor, while the pattern of a wider middle stripe can be noted on the Catalan flag (as the royal symbol of the Crown of Aragon) and on the flag of the County of Foix (currently in France). The blue and red of the Andorran flag are also found on the French flag, with red and yellow also being the principal colors of the other two flags. From 1806 to 1866, Andorra's flag was a vertical bi-color of yellow and red. The motto in the coat of arms in the middle stripe Virtus Unita Fortior means \"Virtue United is Stronger\". [0]",
+        "meaning": "The blue and red colors are similar to the French flag, while the yellow and red are related to Catalonia.",
         "ratio": "7:10",
         "colors": [
             {
                 "name": "blue",
-                "hex": ""
+                "hex": "#0018A8"
             },{
                 "name": "yellow",
-                "hex": ""
+                "hex": "#FEDF00"
             },{
                 "name": "red",
-                "hex": ""
+                "hex": "#D0103A"
             }
         ],
         "design": "A vertical tricolour of blue, yellow and red with the national coat of arms centred on the middle stripe. The middle stripe is one eighth thicker than the outer bands. [0]",
-        "adoptionDate": 1971,
-        "related": [
-            ""
-        ],
+        "adoptionDate": 1866,
+        "related": [],
         "sources": [
-            "https://en.wikipedia.org/wiki/Flag_of_Andorra"
+            "https://en.wikipedia.org/wiki/Flag_of_Andorra",
+            "https://flagspot.net/flags/ad.html"
         ]
     }
     ,{
