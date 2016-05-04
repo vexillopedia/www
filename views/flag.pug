@@ -35,21 +35,23 @@ block body
                                     td #{color.notation}
 
         div.right-section
-            div.flag-description
-                h3.flag-subtitle Description
-                p #{description}
+            div.flag-history
+                h3.flag-subtitle History
+                p #{history}
                 
             div.flag-meaning
                 h3.flag-subtitle Meaning
                 p #{meaning}
         
         div.bottom-section
-            div.flag-related
-                h3.flag-subtitle Related Flags
+            if related.length
+                div.flag-related
+                    h3.flag-subtitle Related Flags
             
-            div.flag-sources
-                h3.flag-subtitle Sources
-                ul.sources
-                    each link, index in sources
-                        li.link [#{index}] 
-                            a(href= link target="_blank") #{link}
+            if sources.length
+                div.flag-sources
+                    h3.flag-subtitle Sources
+                    ul.sources
+                        each link, index in sources
+                            li.link [#{index}] 
+                                a(href= link target="_blank") #{link}
