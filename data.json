@@ -34,23 +34,21 @@
         "name": "Albania",
         "image": "albania.svg",
         "category": "Countries",
-        "history": "",
+        "history": "Elements of the flag's design such as the double-headed eagle were borrowed from the banner of the Byzantine Empire (specifically the emblem of the Palaiologoi dynasty). The eagle was used for heraldic purposes in the Late Middle Ages by a number of noble families in Albania (it is said that Skanderbeg used it on his flag) and became the symbol of the Albanians. The Kastrioti's coat of arms, depicting a black double-headed eagle on a red field, became famous when he led a revolt against the Ottoman Empire resulting in the independence of Albania from 1443 to 1479. This was the flag of the League of Lezhë, which was the first unified Albanian state in the Middle Ages.\n\nThe symbol of the double-headed eagle was re-used by Albanian nationalists during the 19th and early 20th centuries as a symbol of their campaign for their country's independence from the Ottoman Empire. On 28 November 1912, the Albanian Declaration of Independence was proclaimed in Vlora and the flag, raised by Ismail Qemal, was adopted as the symbol of the new nation. [0]",
         "meaning": "The red stands for bravery, strength and valor, while the double-headed eagle represents the sovereign state of Albania located in the Balkans. [0]",
         "ratio": "5:7",
         "colors": [
             {
                 "name": "red",
-                "hex": ""
+                "hex": "#E41E20"
             },{
                 "name": "black",
-                "hex": ""
+                "hex": "#000000"
             }
         ],
         "design": "A silhouette of an open-winged bicephalated eagle on a red field. [0]",
         "adoptionDate": 1992,
-        "related": [
-            ""
-        ],
+        "related": [],
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Albania"
         ]
