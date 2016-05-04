@@ -1,30 +1,33 @@
 [
     {
         "name": "Afghanistan",
-        "image": "afghanistan.svg",
+        "image": "afghanistan.jpg",
         "category": "Countries",
-        "history": "",
-        "meaning": "",
+        "history": "Afghanistan has had 20 different flags since the first flag when the Hotaki dynasty which made Afghanistan independent was established in 1709.\n\nThe current flag was adopted by the Islamic Republic of Afghanistan in 2004. This flag is similar to the one flown in Afghanistan during the monarchy between 1930 and 1973. The difference is the addition of the shahadah at the top of the coat of arms (seen in yellow) in the center. This flag consists of three stripes of the colors black, red, and green. This has been present on most flags of Afghanistan in the last twenty years. The center emblem is the classical emblem of Afghanistan with a mosque with its mihrab facing Mecca. [0]",
+        "meaning": "According to the website of the Embassy of Afghanistan in Washington, DC: Black represents the occupation of foreigners, the Red represents the blood of freedom fighters, and the Green represents freedom and Islam. [1]\n\nAntoher meaning could be: black appeared representing the previous (monochrome) field of Afghan flags, which in turn represented the sovereign; red was possibly introduced by emir, later king, Aman Allah as a sign of modernity and progress, copied from the Soviet flag as happened also with the 1928-1929 emblem; green stood for Islam. [2]",
         "ratio": "2:3",
         "colors": [
             {
                 "name": "black",
-                "notation": ""
+                "hex": "#000000"
             },{
                 "name": "red",
-                "notation": ""
+                "hex": "#FE0000"
             },{
                 "name": "green",
-                "notation": ""
+                "hex": "#009900"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
             }
         ],
         "design": "A vertical tricolor of black, red, and green charged in the center with the national emblem [0]",
         "adoptionDate": 2004,
-        "related": [
-            ""
-        ],
+        "related": [],
         "sources": [
-            "https://en.wikipedia.org/wiki/Flag_of_Afghanistan"
+            "https://en.wikipedia.org/wiki/Flag_of_Afghanistan",
+            "http://www.embassyofafghanistan.org/page/afghanistan-in-brief",
+            "https://flagspot.net/flags/af.html#col"
         ]
     }
     ,{
@@ -37,10 +40,10 @@
         "colors": [
             {
                 "name": "red",
-                "notation": ""
+                "hex": ""
             },{
                 "name": "black",
-                "notation": ""
+                "hex": ""
             }
         ],
         "design": "A silhouette of an open-winged bicephalated eagle on a red field. [0]",
@@ -62,13 +65,13 @@
         "colors": [
             {
                 "name": "green",
-                "notation": ""
+                "hex": ""
             },{
                 "name": "white",
-                "notation": ""
+                "hex": ""
             },{
                 "name": "red",
-                "notation": ""
+                "hex": ""
             }
         ],
         "design": "A red star and crescent centered on a vertical bicolor of green and white. [0]",
@@ -90,13 +93,13 @@
         "colors": [
             {
                 "name": "blue",
-                "notation": ""
+                "hex": ""
             },{
                 "name": "yellow",
-                "notation": ""
+                "hex": ""
             },{
                 "name": "red",
-                "notation": ""
+                "hex": ""
             }
         ],
         "design": "A vertical tricolour of blue, yellow and red with the national coat of arms centred on the middle stripe. The middle stripe is one eighth thicker than the outer bands. [0]",
@@ -118,13 +121,13 @@
         "colors": [
             {
                 "name": "red",
-                "notation": ""
+                "hex": ""
             },{
                 "name": "black",
-                "notation": ""
+                "hex": ""
             },{
                 "name": "yellow",
-                "notation": ""
+                "hex": ""
             }
         ],
         "design": "It is split horizontally into an upper red half and a lower black half, and features a yellow half-gear crossed with a machete and crowned with a star. [0]",
@@ -146,19 +149,19 @@
         "colors": [
             {
                 "name": "red",
-                "notation": ""
+                "hex": ""
             },{
                 "name": "black",
-                "notation": ""
+                "hex": ""
             },{
                 "name": "yellow",
-                "notation": ""
+                "hex": ""
             },{
                 "name": "blue",
-                "notation": ""
+                "hex": ""
             },{
                 "name": "white",
-                "notation": ""
+                "hex": ""
             }
         ],
         "design": "The design of the National Flag is a red field with an inverted isosceles triangle based on the top edge of the field; the triangle contains a horizontal tricolor of black, light blue and white with a rising sun centered on top of the black band. [0]",
@@ -180,13 +183,13 @@
         "colors": [
             {
                 "name": "sky blue",
-                "notation": ""
+                "hex": ""
             },{
                 "name": "white",
-                "notation": ""
+                "hex": ""
             },{
                 "name": "yellow",
-                "notation": ""
+                "hex": ""
             }
         ],
         "design": "A horizontal triband of light blue (top and bottom) and white with the yellow Sun of May charged in the center. [0]",
@@ -208,13 +211,13 @@
         "colors": [
             {
                 "name": "red",
-                "notation": ""
+                "hex": ""
             },{
                 "name": "blue",
-                "notation": ""
+                "hex": ""
             },{
                 "name": "orange",
-                "notation": ""
+                "hex": ""
             }
         ],
         "design": "A horizontal tricolour of red, blue, and orange [0]",
@@ -236,13 +239,13 @@
         "colors": [
             {
                 "name": "blue",
-                "notation": ""
+                "hex": ""
             },{
                 "name": "red",
-                "notation": ""
+                "hex": ""
             },{
                 "name": "white",
-                "notation": ""
+                "hex": ""
             }
         ],
         "design": "A Blue Ensign defaced with the Commonwealth Star (also known as the Federation Star) in the lower hoist quarter and the five stars of the Southern Cross in the fly half. [0]",
@@ -264,10 +267,10 @@
         "colors": [
             {
                 "name": "red",
-                "notation": ""
+                "hex": ""
             },{
                 "name": "white",
-                "notation": ""
+                "hex": ""
             }
         ],
         "design": "A horizontal bicolour triband of red (top and bottom) and white. [0]",
@@ -289,16 +292,16 @@
         "colors": [
             {
                 "name": "blue",
-                "notation": ""
+                "hex": ""
             },{
                 "name": "red",
-                "notation": ""
+                "hex": ""
             },{
                 "name": "green",
-                "notation": ""
+                "hex": ""
             },{
                 "name": "white",
-                "notation": ""
+                "hex": ""
             }
         ],
         "design": "A horizontal tricolor of blue, red, and green, with a white crescent and an eight-pointed star centered on a red band [0]",
