@@ -227,28 +227,27 @@
         "name": "Australia",
         "image": "australia.svg",
         "category": "Countries",
-        "history": "",
-        "meaning": "",
+        "history": "The flag's original design (with a six-pointed Commonwealth Star) was chosen in 1901 from entries in a competition held by the Melbourne Herald following Federation in which entries were required to include the Union Flag and Southern Cross, resulting in a British Ensign style flag, and was first flown in Melbourne on 3 September 1901, the date proclaimed as Australian National Flag Day. A slightly different design was approved by King Edward VII in 1903. The seven-pointed commonwealth star version was introduced by a proclamation dated 23 February 1908. [0]",
+        "meaning": "The flag is blue with the flag of the UK in the upper hoist-side quadrant and a large seven-pointed star in the lower hoist-side quadrant known as the Commonwealth or Federation Star, representing the federation of the colonies of Australia in 1901; the star depicts one point for each of the six original states and one representing all of Australia's internal and external territories; on the fly half is a representation of the Southern Cross constellation in white with one small, five-pointed star and four larger, seven-pointed stars. [1]",
         "ratio": "1:2",
         "colors": [
             {
                 "name": "blue",
-                "hex": ""
+                "hex": "#00008B"
             },{
                 "name": "red",
-                "hex": ""
+                "hex": "#FF0000"
             },{
                 "name": "white",
-                "hex": ""
+                "hex": "#FFFFFF"
             }
         ],
         "design": "A Blue Ensign defaced with the Commonwealth Star (also known as the Federation Star) in the lower hoist quarter and the five stars of the Southern Cross in the fly half. [0]",
         "adoptionDate": 1903,
-        "related": [
-            ""
-        ],
+        "related": [],
         "sources": [
-            "https://en.wikipedia.org/wiki/Flag_of_Australia"
+            "https://en.wikipedia.org/wiki/Flag_of_Australia",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
         ]
     }
     ,{
