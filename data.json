@@ -254,56 +254,54 @@
         "name": "Austria",
         "image": "austria.svg",
         "category": "Countries",
-        "history": "",
-        "meaning": "",
+        "history": "The flag traces back to the coat of arms of the medieval Babenberg dynasty, a silver band on a red field (in heraldry: Gules a fess Argent). The origin of the Bindenschild has not been conclusively established, it possibly derived from the Styrian margraves of the Otakar noble family, who themselves may have adopted the colours from the descendants of the Carinthian duke Adalbero (ruled 1011–1035), a scion of the House of Eppenstein extinct in 1122. However, the Babenberg margrave Leopold III of Austria (1095–1136) had already been depicted with a triband shield in 1105.\n\nWhen the last Otakar Duke Ottokar IV of Styria died in 1192, the Styrian duchy was inherited by the Babenberg duke Leopold V of Austria according to the 1186 Georgenberg Pact. According to the 18th century historian Chrysostomus Hanthaler, his grandson Duke Frederick II of Austria (1230–1246), nicknamed the \"Quarrelsome\" or the \"Warlike\", the last of the Babenberg dynasty, designed a new coat of arms in red-white-red after his accession—an attempt to prevail against reluctant local nobles and to stress his autonomy towards Emperor Frederick II. The triband is first documented in a seal on a deed issued on 30 November 1230, confirming the privileges of Lilienfeld Abbey. The medieval chronicler Jans der Enikel reports that the duke appeared in a red-white-red ceremonial dress at his 1232 accolade in the Vienna Schottenstift.\n\nThe Babenberg family colors developed to the coat of arms of their Austrian possessions. After the dynasty had become extinct with Frederick's death at the 1246 Battle of the Leitha River, they were adopted by his Přemyslid successor King Ottokar II of Bohemia. Upon the 1278 Battle on the Marchfeld the colours were assumed by the victorious House of Habsburg and gradually became the coat of arms of the dynasty's Hereditary Lands within the Habsburg Monarchy. [0]",
+        "meaning": "According to legend, the flag was already invented by Duke Leopold V of Austria as a consequence of his fighting during the Siege of Acre. After a fierce battle, his white surcoat was completely drenched in blood. When he removed his belt, the cloth underneath was untouched by it, revealing the combination of red-white-red. So taken was he by this singular sight that he adopted the colors and scheme as his banner. [0][1]",
         "ratio": "2:3",
         "colors": [
             {
                 "name": "red",
-                "hex": ""
+                "hex": "#ED2939"
             },{
                 "name": "white",
-                "hex": ""
+                "hex": "#FFFFFF"
             }
         ],
         "design": "A horizontal bicolour triband of red (top and bottom) and white. [0]",
         "adoptionDate": 1918,
-        "related": [
-            ""
-        ],
+        "related": [],
         "sources": [
-            "https://en.wikipedia.org/wiki/Flag_of_Austria"
+            "https://en.wikipedia.org/wiki/Flag_of_Austria",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
         ]
     }
     ,{
         "name": "Azerbaijan",
         "image": "azerbaijan.svg",
         "category": "Countries",
-        "history": "",
-        "meaning": "The blue symbolises Azerbaijan's Turkic heritage, the red stands for progress, and the green represents Islam. [0]",
+        "history": "In 1828, after the last Russo-Persian War, several Khanates of the Caucasus were annexed to the Russian Empire . When the Russian Empire collapsed, Russian Azerbaijan declared its independence and joined the short-lived Transcaucasian Democratic Federative Republic, together with Georgia and Armenia. The federation was dissolved on May 26, 1918, when Georgia declared its independence as the Democratic Republic of Georgia. Both Armenia and Azerbaijan declared their independence two days later, on May 28, 1918, as the Democratic Republic of Armenia (DRA) and the Azerbaijan Democratic Republic, respectively. After gaining independence, the blue-red-green tricolour was adopted by the government of the Democratic Republic of Azerbaijan on November 9, 1918.\n\nDuring the Soviet period, Jahid Hilaloglu raised the tricolor over Baku's Maiden Tower in 1956 showing his defiance towards the system. Hilaloglu was ultimately sentenced to four years of imprisonment and his supporter Chingiz Abdullayev was institutionalized. On May 28, 1952 during the Republic Day celebrations in Germany, Mammed Amin Rasulzade raised the tricolor and asked for anyone who can be entrusted to take the flag back to Azerbaijan. Gulmirza Bagirov ultimately brought it to Azerbaijan in secret in the 1970s; this flag was hung over his house in Maştağa on January 20, 1990. During the late 1980s, unrest in Soviet Azerbaijan, the tricolor Azerbaijan Democratic Republic flag was used in demonstrations calling for independence. On November 17, 1990 on the first session of the Supreme Assembly of the Nakhichevan Autonomous Republic, the 1918 Azerbaijani flag was adopted as the national flag of the autonomous state. The first constitution since independence was adopted on November 12, 1995 after a national vote; one of the articles which described the three-color flag of the republic. [0]",
+        "meaning": "The blue symbolises Azerbaijan's Turkic heritage, the red stands for progress, and the green represents Islam. [0] The crescent moon is an Islamic symbol, while the eight-pointed star represents the eight Turkic peoples of the world. [1]",
         "ratio": "1:2",
         "colors": [
             {
                 "name": "blue",
-                "hex": ""
+                "hex": "#00B5E2"
             },{
                 "name": "red",
-                "hex": ""
+                "hex": "#EF3340"
             },{
                 "name": "green",
-                "hex": ""
+                "hex": "#509E2F"
             },{
                 "name": "white",
-                "hex": ""
+                "hex": "#FFFFFF"
             }
         ],
         "design": "A horizontal tricolor of blue, red, and green, with a white crescent and an eight-pointed star centered on a red band [0]",
         "adoptionDate": 1918,
-        "related": [
-            ""
-        ],
+        "related": [],
         "sources": [
-            "https://en.wikipedia.org/wiki/Flag_of_Azerbaijan"
+            "https://en.wikipedia.org/wiki/Flag_of_Azerbaijan",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
         ]
     }
 ]
