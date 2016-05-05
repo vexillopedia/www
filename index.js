@@ -21,6 +21,7 @@ app.use("/", webapp)
 app.use("/api", api)
 
 // Start on port 1337
-app.listen(1337, () => {
-    console.log("Listening on port 1337 ...")
+let port = process.env.PORT || 8080
+app.listen(port, () => {
+    console.log("Listening on port " + port + " ...")
 })
