@@ -191,35 +191,36 @@
         "related": [],
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Argentina",
-            "https://flagspot.net/flags/ar.html","https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+            "https://flagspot.net/flags/ar.html",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
         ]
     }
     ,{
         "name": "Armenia",
         "image": "armenia.svg",
         "category": "Countries",
-        "history": "",
-        "meaning": "The red emblematizes the Armenian Highland, the Armenian people's continued struggle for survival, maintenance of the Christian faith, Armenia's independence and freedom. The blue emblematizes the will of the people of Armenia to live beneath peaceful skies. The orange emblematizes the creative talent and hard-working nature of the people of Armenia. [0]",
+        "history": "The Armenian Supreme Soviet adopted the current flag on 24 August 1990. On 15 June 2006, the Law on the National Flag of Armenia, governing its usage, was passed by the National Assembly of Armenia.\n\nThroughout history, there have been many variations of the Armenian flag. In ancient times, Armenian dynasties were represented by different symbolic animals displayed on their flags. \n\nAfter gaining independence, the First Republic of Armenia adopted the modern Armenian tricolor. Upon Stepan Malkhasyants's appearance in the Armenian National Council,[6] the independent Armenian government selected the colors used during the last period of Rubenid Dynasty: red, blue and yellow. An earlier prototype, which was eventually rejected, was the rainbow flag. This prototype can be seen at the Martiros Saryan House Museum in Yerevan, Armenia. They chose to replace the yellow with orange \"because it merged better with the other two colors, presenting a more pleasing composition\". [0]",
+        "meaning": "According to the Constitution of the Republic of Armenia: The red emblematizes the Armenian Highland, the Armenian people's continued struggle for survival, maintenance of the Christian faith, Armenia's independence and freedom. The blue emblematizes the will of the people of Armenia to live beneath peaceful skies. The orange emblematizes the creative talent and hard-working nature of the people of Armenia. [0]\n\nHowever, the colors can be interpreted in many different ways. For example, the red symbolises the blood split by Armenians in defence of their country, orange symbolises the fertile soil of their nation and blue is for the sky. [1][2]",
         "ratio": "1:2",
         "colors": [
             {
                 "name": "red",
-                "hex": ""
+                "hex": "#D90012"
             },{
                 "name": "blue",
-                "hex": ""
+                "hex": "#0033A0"
             },{
                 "name": "orange",
-                "hex": ""
+                "hex": "#F2A800"
             }
         ],
         "design": "A horizontal tricolour of red, blue, and orange [0]",
         "adoptionDate": 1990,
-        "related": [
-            ""
-        ],
+        "related": [],
         "sources": [
-            "https://en.wikipedia.org/wiki/Flag_of_Armenia"
+            "https://en.wikipedia.org/wiki/Flag_of_Armenia",
+            "http://www.vexilla-mundi.com/armenia_flag.html",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
         ]
     }
     ,{
