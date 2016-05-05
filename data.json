@@ -110,26 +110,24 @@
         "name": "Angola",
         "image": "angola.svg",
         "category": "Countries",
-        "history": "",
+        "history": "As in some other African countries, this flag is a modification of the ruling party's flag. The guerrilla movement and eventual governing party, the Popular Movement for the Liberation of Angola (MPLA), used the same design with a golden star in the center. Red stood for socialism and black for Africa. The star was modeled after the red star of the Soviet Union, which sponsored the MPLA. Later the explanation was made less party-specific. [0]",
         "meaning": "The red is for the blood spilt by Angolans during their independence struggles, while the black is for the continent of Africa. The symbol in the middle is of a crossed cog wheel (representing workers and industry) and machete (representing the peasantry, agricultural production and the armed struggle) with a gold star. [0]",
         "ratio": "2:3",
         "colors": [
             {
                 "name": "red",
-                "hex": ""
+                "hex": "#CE1126"
             },{
                 "name": "black",
-                "hex": ""
+                "hex": "#000000"
             },{
                 "name": "yellow",
-                "hex": ""
+                "hex": "#F9D616"
             }
         ],
         "design": "It is split horizontally into an upper red half and a lower black half, and features a yellow half-gear crossed with a machete and crowned with a star. [0]",
         "adoptionDate": 1975,
-        "related": [
-            ""
-        ],
+        "related": [],
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Angola"
         ]
@@ -138,32 +136,30 @@
         "name": "Antigua and Barbuda",
         "image": "antigua-and-barbuda.svg",
         "category": "Countries",
-        "history": "",
+        "history": "The flag dates from the achievement of self-government in 1967. It was the winning design in a competition that more than 600 local people entered. The designer and winner was Sir Reginald Samuel. [0]",
         "meaning": "The rising sun symbolises the dawning of a new era. The colours have different meanings, the black is for the African ancestry of the people, the blue for hope, the red for energy or dynamism of the people. The successive colouring of yellow, blue, and white (from the sun down) also stands for the sun, sea, and sand. The blue also represents the Caribbean Sea, and the V-shape is the symbol of victory. [0]",
         "ratio": "2:3",
         "colors": [
             {
                 "name": "red",
-                "hex": ""
+                "hex": "#CE1126"
             },{
                 "name": "black",
-                "hex": ""
+                "hex": "#000000"
             },{
                 "name": "yellow",
-                "hex": ""
+                "hex": "#FCD116"
             },{
                 "name": "blue",
-                "hex": ""
+                "hex": "#0072C6"
             },{
                 "name": "white",
-                "hex": ""
+                "hex": "#FFFFFF"
             }
         ],
         "design": "The design of the National Flag is a red field with an inverted isosceles triangle based on the top edge of the field; the triangle contains a horizontal tricolor of black, light blue and white with a rising sun centered on top of the black band. [0]",
         "adoptionDate": 1967,
-        "related": [
-            ""
-        ],
+        "related": [],
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Antigua_and_Barbuda"
         ]
@@ -172,28 +168,30 @@
         "name": "Argentina",
         "image": "argentina.svg",
         "category": "Countries",
-        "history": "",
-        "meaning": "",
+        "history": "The flag of Argentina was created by Manuel Belgrano during the Argentine War of Independence. While in Rosario he noticed that both the royalist and patriotic forces were using the same colors, Spain's yellow and red. After realizing this, Manuel Belgrano created the Cockade of Argentina, which was approved by the First Triumvirate on February 18, 1812. Encouraged by this success, he created a flag of the same colours nine days later. It used the colors that were used by the Criollos during the May Revolution in 1810.\n\nThe flag would be finally declared the national flag by the Congress of Tucumán on July 20, 1816, shortly after the declaration of independence. The proposal was made by the deputy Juan José Paso and the text written by the deputy of Charcas, José Serrano. On February 25, 1818, the Congress (now working at Buenos Aires) included the Sun of May in the War flag, after the proposal of deputy Chorroarín. The sun was copied after the one that the first Argentine coin featured in 1813. It was subsequently decided to keep it as part of the regular flag afterwards, and thus the sun no longer represents war.[0]",
+        "meaning": "There are several theories about the exact design raised by Manuel Belgrano on February 27th, 1812. The same happens with the reason why he chose the colors (white and sky blue). [1] \n\nHowever, historians usually disregard this idea, and attribute them to loyalty towards the House of Bourbon. [0]\n\nAccording to the CIA World Factbook, the colors of the flag represent the clear skies and snow of the Andes, the sun symbol commemorates the appearance of the sun through cloudy skies on 25 May 1810 during the first mass demonstration in favor of independence. Besides the sun features are those of Inti, the Inca god of the sun. [2]",
         "ratio": "5:8",
         "colors": [
             {
                 "name": "sky blue",
-                "hex": ""
+                "hex": "#75AADB"
             },{
                 "name": "white",
-                "hex": ""
+                "hex": "#FFFFFF"
             },{
                 "name": "yellow",
-                "hex": ""
+                "hex": "#FCBF49"
+            },{
+                "name": "brown",
+                "hex": "#843511"
             }
         ],
         "design": "A horizontal triband of light blue (top and bottom) and white with the yellow Sun of May charged in the center. [0]",
         "adoptionDate": 1812,
-        "related": [
-            ""
-        ],
+        "related": [],
         "sources": [
-            "https://en.wikipedia.org/wiki/Flag_of_Argentina"
+            "https://en.wikipedia.org/wiki/Flag_of_Argentina",
+            "https://flagspot.net/flags/ar.html","https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
         ]
     }
     ,{
