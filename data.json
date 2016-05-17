@@ -304,4 +304,187 @@
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
         ]
     }
+    ,{
+        "name": "Bahamas",
+        "image": "bahamas.svg",
+        "category": "Countries",
+        "history": "The Bahamas became a crown colony of the United Kingdom within its colonial empire in 1717. Under colonial rule, the Bahama Islands used the British Blue Ensign and defaced it with the emblem of the territory. This was inspired by the ousting of the pirates, and consisted of a scene depicting a British ship chasing two pirate ships out at the high seas encircled by the motto \"Expulsis piratis restituta commercia\" (\"Pirates expelled, commerce restored\"). The emblem was designed in around 1850, but did not receive official approval until 1964.\n\nThe Bahama Islands were granted \"internal autonomy\" in 1964. After the 1972 elections, the territory started negotiations on independence. A search for a national flag began soon after, with a contest being held to determine the new design. Instead of choosing a single winning design, it was decided that the new flag was to be an amalgamation of the elements from various submissions. It was first hoisted at midnight on July 10, 1973, the day the Bahamas became an independent country. The new country also changed its name from the Bahama Islands to the Bahamas upon independence. [0]",
+        "meaning": "The yellow alludes to the golden sand and the shining sun– as well as other key land-based natural resources – while the aquamarine epitomizes the sea surrounding the country (specifically the Caribbean Sea). The black symbolizes the \"strength\", \"vigor, and force\" of the Bahamian people, while the directed triangle evokes their \"enterprising and determined\" nature to cultivate the abundant natural resources on the land and in the sea. [0][1]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#00ABC9"
+            },{
+                "name": "yellow",
+                "hex": "#FAE042"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            }
+        ],
+        "design": "A horizontal triband of aquamarine (top and bottom) and gold with a black chevron based on the hoist side [0]",
+        "adoptionDate": 1973,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Bahamas",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Bahrain",
+        "image": "bahrain.svg",
+        "category": "Countries",
+        "history": "The earliest known flags of Bahrain were plain red. In 1820, Bahrain signed a general maritime treaty with the British Empire, and as result, a white stripe was added to the flag to signify the treaty and to distinguish it from the flags commonly used by pirates. In 1932, a serrated edge was added to the flag in order to differentiate it from those of its neighbours.\n\nThe flag originally had twenty-eight white points, but this was reduced to eight in 1972. On 14 February 2002, the number was again reduced to five, so that each of the points could stand for one of the Five Pillars of Islam. [0]",
+        "meaning": "The five triangles symbolises the 5 Pillars of Islam. [0][1]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "Red, the traditional color for flags of Persian Gulf states, with a white serrated band (five white points) on the hoist side [1]",
+        "adoptionDate": 2002,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Bahrain",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Bangladesh",
+        "image": "bangladesh.svg",
+        "category": "Countries",
+        "history": "The flag is based on a similar flag used during the Bangladesh Liberation War of 1971, which had a yellow map of the country inside the red disc. In 1972 this map was deleted from the flag. One reason given was the difficulty for rendering the map correctly on both sides of the flag. [0]",
+        "meaning": "The red disc represents the sun rising over Bengal, and also the blood of those who died for the independence of Bangladesh. The green field stands for the lushness of the land of Bangladesh. [0][1]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#01796F"
+            },{
+                "name": "red",
+                "hex": "#E11837"
+            }
+        ],
+        "design": "A red disc on a green field. [0]",
+        "adoptionDate": 1972,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Bangladesh",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Barbados",
+        "image": "barbados.svg",
+        "category": "Countries",
+        "history": "The design for the flag was created by Grantley W. Prescod and was chosen from an open competition arranged by the Barbados government. Over a thousand entries were received. [0]",
+        "meaning": "The band colors represent the blue of the sea and sky and the gold of the beaches. [1]\n\nThe trident symbol was taken from Barbados' colonial badge, where the trident is shown with Britannia holding it. The broken lower part symbolises a symbolic break from its status as a colony. The three points of the trident represent the three principles of democracy – 1) government of, 2) for, and 3) by the people. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#00267F"
+            },{
+                "name": "yellow",
+                "hex": "#FFC726"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            }
+        ],
+        "design": "A vertical triband of ultramarine (hoist side and fly side) and gold with a black trident-head centered on the gold band [0]",
+        "adoptionDate": 1966,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Barbados",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Belarus",
+        "image": "belarus.svg",
+        "category": "Countries",
+        "history": "The current design was introduced in 2012 by the State Committee for Standardization of the Republic of Belarus, and is adapted from a design approved in a referendum in May 1995. It is a modification of the 1951 flag used while the country was a republic of the Soviet Union. Changes made to the Soviet-era flag were the removal of symbols of communism (the hammer and sickle and the red star) and the reversal of the colors of the ornament pattern, from white on red to red on white. Since the 1995 referendum, several flags used by government officials and agencies were modeled from the national flag.\n\nThis design replaced the historical white-red-white flag used by the Belarusian People's Republic of 1918, before Belarus became a Soviet Republic, and again after it regained its independence in 1991. Opposition groups have continued to use this flag, though its display in Belarus has been restricted by the government of Belarus, which claims it was linked with Nazi collaboration during the Second World War. The white-red-white flag is used in protests against the government and by the Belarusian diaspora. [0]",
+        "meaning": "The red band color recalls past struggles from oppression, the green band represents hope and the many forests of the country. [1]\n\n decorative pattern, designed in 1917 by Matrena Markevich, is displayed on the hoist of the flag (as it was previously, on the 1951 flag). The pattern, derived from local plants and flowers, is a traditional type commonly used in Belarus. These patterns are sometimes used in woven garments, most importantly in the traditional 'rushnik' – a woven towel used for ceremonial events like religious services, funerals, and other social functions. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#C8313E"
+            },{
+                "name": "green",
+                "hex": "#4AA657"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A horizontal bicolor of red over green in a 2:1 ratio, with a red ornamental pattern on a white vertical stripe at the hoist. [0]",
+        "adoptionDate": 2012,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Belarus",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Belgium",
+        "image": "belgium.svg",
+        "category": "Countries",
+        "history": "After the death of Charlemagne, the present-day territory of Belgium (except the County of Flanders) became part of Lotharingia, which had a flag of two horizontal red stripes separated by a white stripe. The territory then passed into Spanish hands, and after the coronation of Charles V, Holy Roman Emperor yellow and red, the colours of Spain, were added. From the 16th century to the end of the 18th century, the colours of what is now Belgium were red, white and yellow. Occasionally the red cross of Burgundy was placed on the white section of the flag.\n\nDuring the period of Austrian rule, a number of different flags were tried, until the Austrian Emperor imposed the Austrian flag. The population of Brussels was opposed to this, and following the example of France, red, yellow and black cockades began to appear; those being the colours of Brabant. The colours thus correspond to the red lion of Hainaut, Limburg and Luxembourg, the yellow lion of Brabant, and the black lion of Flanders and Namur.\n\nOn August 26, 1830, the day after the rioting at the Brussels Opera and the start of the Belgian Revolution, the flag of France flew from the city hall of Brussels. The insurgents hastily replaced it with a tricolour of red, yellow and black horizontal stripes (similar to the one used during the Brabant Revolution of 1789-1790 which had established the United States of Belgium) made at a nearby fabric store. As a result, Article 193 of the Constitution of Belgium describes the colours of the Belgian nation as Red, Yellow and Black instead of using the order shown in the official flag.\n\nOn January 23, 1831, the stripes changed from horizontal to vertical and October 12 saw the flag attain its modern form, with the black placed at the hoist side of the flag. It is suggested that the change occurred to more clearly distinguish the flag of Belgium from the Dutch flag (which also has three horizontal stripes) - especially important during naval battles. [0]",
+        "meaning": "The vertical design was based on the flag of France. The colors are those of the arms of the duchy of Brabant (yellow lion with red claws and tongue on a black field). [1]",
+        "ratio": "13:15",
+        "colors": [
+            {
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "yellow",
+                "hex": "#FFE936"
+            },{
+                "name": "red",
+                "hex": "#FF0F21"
+            }
+        ],
+        "design": "A vertical tricolour of black, yellow, and red. [0]",
+        "adoptionDate": 1831,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Belgium",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Belize",
+        "image": "belize.svg",
+        "category": "Countries",
+        "history": "From 1950 onward an unofficial national flag was in use. It was blue, with the coat of arms on a white disc in the centre (sometimes a blank white circle was used as the coat of arms was difficult to draw).\n\nIn 1981, Belize gained its independence and a competition was held to design a national flag for the country. The winning submission consisted of the unofficial national flag used by the People's United Party with a red border added to all four sides. This was changed to a red border on just the top and bottom before the design was officially adopted. [0]",
+        "meaning": "The coat of arms features a shield flanked by two workers in front of a mahogany tree with the related motto SUB UMBRA FLOREO (I Flourish in the Shade) on a scroll at the bottom, all encircled by a green garland of 50 mahogany leaves; the colors are those of the two main political parties: blue for the PUP and red for the UDP. Various elements of the coat of arms - the figures, the tools, the mahogany tree, and the garland of leaves - recall the logging industry that led to British settlement of Belize. [1]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#003F87"
+            },{
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A royal blue field with two red narrow stripes along the top and the bottom edges and a large white disk in the center bearing the National Coat of Arms of Belize [0]",
+        "adoptionDate": 1981,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Belize",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
 ]
