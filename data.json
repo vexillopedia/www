@@ -173,7 +173,7 @@
         "ratio": "5:8",
         "colors": [
             {
-                "name": "sky blue",
+                "name": "blue",
                 "hex": "#75AADB"
             },{
                 "name": "white",
@@ -485,6 +485,277 @@
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Belize",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Benin",
+        "image": "benin.svg",
+        "category": "Countries",
+        "history": "Under French colonial rule over Dahomey, French authorities forbade the colony from having its own regional flag. This was because they were worried that this could increase nationalistic sentiment and lead to calls for independence. However, with the rise of the decolonization movement in Africa, the French were obliged to grant limited autonomy to Dahomey as a self-governing republic within the French Community. This was granted on December 4, 1958, and a search for a national flag began soon after.\n\nThe new flag was chosen on November 16, 1959, and remained unchanged when Dahomey became independent less than a year later on August 1, 1960. In 1972, a coup d'état took place in the country, with the new government aligning itself with Marxist–Leninist ideals. In order to symbolize the revolutionary change, the regime renamed the country to Benin and instituted a new flag three years later. This featured a green field charged with a five-pointed red star in the top-left canton.\n\nHowever, the regime's flag was never adopted by law, making it only the de facto flag of Benin.\n\nThe green flag remained in place until 1990, when economic problems and the weakening of the Soviet Union's power due to the Revolutions of 1989 culminated in the collapse of the People's Republic of Benin. The socialist regime was replaced and the original flag from 1959 was reinstated on August 1, 1990. [0]",
+        "meaning": "Nationally, the yellow and green allude to the northern savannas and palm groves located in the south of the country, while the red symbolizes the blood shed by those who fought for Dahomey. [0]\n\nAccording to the Benin's national anthem: the green represents hope and revival, the red symbolizes the courage of ancestors, and the yellow represents the country's wealth. The colors are traditional Pan-African colors. [1][2]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#008751"
+            },{
+                "name": "yellow",
+                "hex": "#FCD116"
+            },{
+                "name": "red",
+                "hex": "#E8112D"
+            }
+        ],
+        "design": "A horizontal bicolor of yellow and red with a green vertical band at the hoist. [0]",
+        "adoptionDate": 1959,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Benin",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html",
+            "http://www.worldflags101.com/b/benin-flag.aspx"
+        ]
+    }
+    ,{
+        "name": "Bhutan",
+        "image": "bhutan.svg",
+        "category": "Countries",
+        "history": "The original Bhutanese flag was a bicolour square flag divided diagonally from the lower hoist to the upper fly. The field of yellow extended from the hoist to the upper fly, and the red field extended from the fly end to the lower hoist. In the centre of the flag, at the convergence of the yellow and red fields, is a green Druk, located parallel to the bottom edge and facing the fly. The design of the flag is credited to Mayeum Choying Wongmo Dorji in 1947.\n\nThe second version of the national flag was developed in 1956 for the visit of the third Druk Gyalpo Jigme Dorji Wangchuk to eastern Bhutan. During the trip the Druk Gyalpo's Secretariat began to use flags of a new design based upon a photograph of the first national flag of 1949, with the colour of the dragon changed from green to white.\n\nBeginning in the late 1950s, Dasho Shingkhar Lam, former Secretary to Jigme Dorji Wangchuck and Sixth Speaker of the National Assembly (1971–74), was requested by the king to make several modifications to the flag; he is responsible for its current design, which has remained unchanged since 1969. The king was reportedly dissatisfied that the early square Bhutanese flags did not flutter like the rectangular Indian flag displayed on the visit of an Indian official to the country. The standard measurements of the flag of Bhutan were thereafter altered to resemble the flag of India, which was 9 feet by 6 feet.\n\nIn another change, the dragon, which had formerly been placed in a roughly horizontal position in the center of the flag, was repositioned to spread out over the diagonal dividing line between the background colours. This change sought to avoid having the dragon \"face the earth\" when the flag was hanging limp. Bhutanese artist Kilkhor Lopen Jada painted a new design for the druk in which the curves of the dragon's body are relaxed to create a somewhat longer and more gently undulating shape. The king also ordered the colour of the lower half changed from red to orange. [0]",
+        "meaning": "The dragon, called the Druk (Thunder Dragon), is the emblem of the nation, its white color stands for purity and the jewels in its claws symbolize wealth. The background colors represent spiritual and secular powers within Bhutan: the orange is associated with Buddhism, while the yellow denotes the ruling dynasty. [1]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "yellow",
+                "hex": "#FFCC33"
+            },{
+                "name": "orange",
+                "hex": "#FF4E12"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "Divided diagonally from the lower hoist-side corner; the upper triangle is yellow and the lower triangle is orange; centered along the dividing line is a large black and white dragon facing away from the hoist side. [0]",
+        "adoptionDate": 1969,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Bhutan",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Bolivia",
+        "image": "bolivia.svg",
+        "category": "Countries",
+        "history": "The current flag of Bolivia was originally adopted in 1851.\n\nAccording to the revised Constitution of Bolivia of 2009, the Wiphala is considered a national symbol of Bolivia (along with the flag, national anthem, coat of arms, the cockade; kantuta flower and patujú flower).\n\nDespite its landlocked status, Bolivia has a naval ensign used by navy vessels on rivers and lakes. It consists of a blue field with the state flag in the canton bordered by nine small yellow five-pointed stars, with a larger yellow five-pointed star in the fly. The nine small stars represent the nine departments of Bolivia, and the larger star the nation's right to access the sea (access that it lost in 1884 in the War of the Pacific). [0]",
+        "meaning": "The first description of Bolivia's national flag, together with the significance of its colors, were first established by the Supreme Decree of 1888 during the government of President Gregorio Pacheco, which specifies that:\n• Red: \"represents the blood shed by our heroes for the birth and preservation of the Republic\"\n• Yellow: \"represents our wealth and resources\"\n• Green: \"represents the richness of our natural areas as well as hope, a foundational value of our society\"",
+        "ratio": "15:22",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#D52B1E"
+            },{
+                "name": "yellow",
+                "hex": "#FCD116"
+            },{
+                "name": "green",
+                "hex": "#007934"
+            }
+        ],
+        "design": "A horizontal tricolor of red, yellow and green with the National Coat of Arms centered on a yellow band. [0]",
+        "adoptionDate": 1851,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Bolivia"
+        ]
+    }
+    ,{
+        "name": "Bosnia and Herzegovina",
+        "image": "bosnia-herzegovina.svg",
+        "category": "Countries",
+        "history": "On 6 April 1992 Bosnia and Herzegovina gained its independence from Yugoslavia and a new flag. The flag picked was the arms of the Kings of Bosnia Kotromanić dynasty, who ruled from 1377 until 1463 over the area that is present day Bosnia-Herzegovina and Dalmatia, consisted of a blue shield with six gold fleur de lys displayed around a white bend; the fleur de lys perhaps symbolic of Lilium bosniacum, which is a native lily to the area. The flag chosen in 1992 has a white background with the Bosnian Fleur-de-lis in the center.\n\nThe Bosnian Serbs who lived in Bosnia-Herzegovina after the signing of the Dayton Agreement viewed the flag with the 6 lys as only representing the Bosniaks (formerly: Bosnian Muslims) of Bosnia-Herzegovina, even though the flag was taken from the medieval Bosnian state. The flag was eventually changed into the current flag. The new flag was introduced by the UN High Representative after the Parliament of Bosnia-Herzegovina could not decide on a solution that was acceptable to all parties. The new flag contains no historical or other references to the Bosnian state and was designed by Carlos Westendorp. [0]\n\n The original design used a blue color based on the flag of the United Nations but was then changed for a darker blue similar to the one found on the flag of Europe.",
+        "meaning": "The triangle approximates the shape of the country and its three points stand for the constituent peoples - Bosniaks, Croats, and Serbs, the stars represent Europe and are meant to be continuous (thus the half stars at top and bottom), the colors (white, blue, and yellow) are often associated with neutrality and peace, and traditionally are linked with Bosnia. [1]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002395"
+            },{
+                "name": "yellow",
+                "hex": "#FECB00"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A wide medium blue vertical band on the fly side with a yellow right triangle abutting the band and the top of the flag; the remainder of the flag is medium blue with seven full five-pointed white stars and two half stars top and bottom along the hypotenuse of the triangle. [0]",
+        "adoptionDate": 1998,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Bosnia_and_Herzegovina",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Botswana",
+        "image": "botswana.svg",
+        "category": "Countries",
+        "history": "In 1885, Bechuanaland became a protectorate of the United Kingdom within its colonial empire. This occurred after the leaders of the Tswana people negotiated with the British to offer them protection from the Boers, who were invading their lands from the neighbouring South African Republic. In spite of this newfound protection, South Africa continued to pressure the British to allow them to annex Bechuanaland into their union. However, this did not occur, due to widespread opposition from the Batswana people, and Bechuanaland gained independence from Britain in 1966; the new nation was renamed Botswana.\n\nBefore it gained independence, Botswana did not have its own distinctive colonial flag, with the flag of the United Kingdom serving as the de facto flag of the protectorate. When Botswana's national flag was created in 1966, it was symbolically designed to contrast with the flag of South Africa, since the latter country was ruled under an apartheid regime. Hence, the black stripe with the white frame came to epitomize the peace and harmony between the people of African and European descent who reside in Botswana. The new flag was first hoisted at midnight on September 30, 1966, the day Botswana became an independent country. [0]",
+        "meaning": "The light blue represents water—specifically, in its form of rain, as it is a precious resource in Botswana, which relies on agriculture and suffers from frequent droughts due to the dry and arid climate of the Kalahari Desert. The blue also alludes to the motto featured on the coat of arms of Botswana—Pula, which means \"Let there be rain\" in Setswana—as well as life, which is sustained by water.\n\nThe black band with the white frame has two meanings. Firstly, they symbolize the harmony and cooperation between the people of different races who live in Botswana, as well as the racial diversity of the country. Furthermore, they represent the stripes of the zebra, the national animal of Botswana. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#75AADB"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A light blue field cut horizontally in the centre by a black stripe with a thin white frame. [0]",
+        "adoptionDate": 1966,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Botswana"
+        ]
+    }
+    ,{
+        "name": "Brazil",
+        "image": "brazil.svg",
+        "category": "Countries",
+        "history": "The national flag of Brazil is often colloquially called the Auriverde (The Gold and Green). Brazil officially adopted this design for its national flag on November 19, 1889, replacing the flag of the Empire of Brazil. The concept was the work of Raimundo Teixeira Mendes, with the collaboration of Miguel Lemos, Manuel Pereira Reis and Décio Villares.\n\nUpon the proclamation of the Republic, one of the civilian leaders of the movement, the lawyer Ruy Barbosa, proposed a design for the nation's new flag strongly inspired by the flag of the United States. It was flown from November 15, 1889, until November 19, 1889, when Marshal Deodoro da Fonseca (acting as provisional president of Brazil) vetoed the design, citing concerns that it looked too similar to the flag of another state.\n\nFonseca suggested that the flag of the new republic should resemble the old imperial flag. This was intended to underscore continuity of national unity during the transition from a constitutional monarchy to a republic. Raimundo Teixeira Mendes presented a project in which the imperial coat of arms was replaced by a blue celestial globe and the positivist motto. It was presented to Fonseca, who promptly accepted. The flag was designed by a group formed by Raimundo Teixeira Mendes, Miguel Lemos, Manuel Pereira Reis and Décio Villares.\n\nThe flag has been modified on three occasions to add additional stars intended to reflect newly created states: 1960 (22 stars), 1968 (23 stars) and 1992 (27 stars). The most recent modification was made on May 12, 1992, with the addition of four stars to the celestial globe (representing states created between 1982 and 1991), and a slight change in the stars' positions was made to match the astronomical coordinates correctly. [0]",
+        "meaning": "The globe has a white equatorial band with the motto ORDEM E PROGRESSO (Order and Progress). The current flag was inspired by the banner of the former Empire of Brazil (1822-1889). On the imperial flag, the green represented the House of Braganza of Pedro I, the first Emperor of Brazil, while the yellow stood for the Habsburg Family of his wife. On the modern flag the green represents the forests of the country and the yellow rhombus its mineral wealth; the blue circle and stars, which replaced the coat of arms of the original flag, depict the sky over Rio de Janeiro on the morning of 15 November 1889 - the day the Republic of Brazil was declared. The number of stars has changed with the creation of new states and has risen from an original 21 to the current 27 (one for each state and the Federal District). [1]\n\nAccording to Professor Paulo Araújo Duarte of the Federal University of Santa Catarina, \"the creators of our republican flag intended to represent the stars in the sky at Rio de Janeiro at 8:30 in the morning on 15 November 1889, the moment at which the constellation of the Southern Cross was on the meridian of Rio de Janeiro and the longer arm [of the cross] was vertical.\" Another article, citing \"O Céu da Bandeira (The Sky of the Flag)\", by J.R.V. Costa, says the exact time was actually 08:37. This last article includes the designer of the flag's explanation of his intentions regarding the stars.\n\nAccording to Brazil's national act number 5,700 of 1 September 1971, the flag portrays the stars as they would be seen by an imaginary observer an infinite distance above Rio de Janeiro standing outside the firmament in which the stars are meant to be placed (i.e. as found on a celestial globe). Thus Beta Crucis appears to the right of the constellation and Delta Crucis to the left, in mirror image of the way they actually appear in the sky (and, coincidentally, the way they appear on the Brazilian coat of arms). [0]\n\nThe motto \"Ordem e Progresso\" (\"Order and Progress\") is inspired by Auguste Comte's motto of positivism: \"L'amour pour principe et l'ordre pour base; le progrès pour but\" (\"Love as a principle and order as the basis; progress as the goal\"). [0]",
+        "ratio": "7:10",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#00A859"
+            },{
+                "name": "yellow",
+                "hex": "#FFCC29"
+            },{
+                "name": "blue",
+                "hex": "#3E4095"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A blue disc depicting a starry sky spanned by a curved band inscribed with the national motto, within a yellow rhombus, on a green field. [0]",
+        "adoptionDate": 1889,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Brazil"
+        ]
+    }
+    ,{
+        "name": "Brunei",
+        "image": "brunei.svg",
+        "category": "Countries",
+        "history": "The flag in its present form, except for the crest, has been in use since 1906 when Brunei became a British protectorate, following the signing of an agreement between Brunei and Great Britain. Even though Brunei was only nominally independent after this, Bruneians retained certain symbols like the flag.\n\nThe crest was superimposed in 1959 after the promulgation of the Constitution of 29 September 1959.\n\nThe design was retained when the country gained full independence on 1 January 1984 as Brunei Darussalam (Brunei, Abode of Peace). [0]",
+        "meaning": "The yellow field represents the sultan of Brunei.\n\nThe crest consists of a crescent (symbolising Islam) facing upwards, joined with a parasol (symbolising monarchy), with hands on the sides (signifying the benevolence of the government). On the crescent is the national motto in Arabic: \"Always render service with God's guidance\" (الدائمون المحسنون بالهدى). Below this is a banner inscribed with Brunei Darussalam (‘Brunei, the Abode of Peace’).\n\nThe black and white stripes represent Brunei's chief ministers who were once joint-regents and then – after the sultan came of age – senior advisors: the Pengiran Bendahara (First Minister, symbolised by a slightly thicker white stripe) and the Pengiran Pemancha (Second Minister, governing foreign affairs, symbolised by black). [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "yellow",
+                "hex": "#F7E017"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "red",
+                "hex": "#CF1126"
+            }
+        ],
+        "design": "The crest of Brunei in the centre, on a yellow field cut by black and white diagonal stripes (parallelograms). [0]",
+        "adoptionDate": 1959,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Brunei",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Bulgaria",
+        "image": "bulgaria.svg",
+        "category": "Countries",
+        "history": "After the liberation of Bulgaria following the Russo-Turkish War of 1877–1878, the flag was described in the Tarnovo Constitution of 1879 as follows:\n\"Art. 23. The Bulgarian people's flag is three-coloured and consists of white, green and red colours, placed horizontally.\"\n\nFrom 1948 until 1990 the emblem of People's Republic of Bulgaria was placed on the left side of the white stripe. It contained a lion within a wreath of wheat ears below a red five-pointed star and above a ribbon bearing the years 681, the year of the establishment of the First Bulgarian Empire by Asparukh, and 1944, the year when the Fatherland Front took power which led to the establishment of the People's Republic of Bulgaria.\n\nThe new Constitution of Bulgaria, adopted in 1991, describes the Bulgarian flag as follows:\n\"Art. 166. The flag of the Republic of Bulgaria shall be a tricolour: white, green, and red from top, placed horizontally.\" [0]",
+        "meaning": "The pan-Slavic white-blue-red colors were modified by substituting a green band (representing freedom) for the blue. [1]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#00966E"
+            },{
+                "name": "red",
+                "hex": "#D62612"
+            }
+        ],
+        "design": "A horizontal tricolour of white, green and red. [0]",
+        "adoptionDate": 1881,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Bulgaria"
+        ]
+    }
+    ,{
+        "name": "Burkina Faso",
+        "image": "burkina-faso.svg",
+        "category": "Countries",
+        "history": "The flag was adopted following the coup of 1983 which brought Thomas Sankara to power. [0]",
+        "meaning": "The flag is coloured in the popular Pan-African colours of the Ethiopian flag, reflecting both a break with the country’s colonial past and its unity with other African ex-colonies. The red is also said to symbolize the revolution and the green the abundance of agricultural and natural riches. The yellow star placed over the red and green stripes is the guiding light of the revolution. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#EF2B2D"
+            },{
+                "name": "green",
+                "hex": "#009E49"
+            },{
+                "name": "yellow",
+                "hex": "#FCD116"
+            }
+        ],
+        "design": "A horizontal bicolor of red and green with a yellow star in the center. [0]",
+        "adoptionDate": 1984,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Burkina_Faso"
+        ]
+    }
+    ,{
+        "name": "Burundi",
+        "image": "burundi.svg",
+        "category": "Countries",
+        "history": "The national flag of Burundi was adopted on June 28, 1967 after the country's independence from Belgium on 1 July 1962.\n\nWhen the monarchy ruled over Burundi the flag featured a karyenda (a drum said to have divine power). It was believed that the drum's messages could be understood only by the rulers (mwami) who made it the laws of the state. In November 1966 the karyenda was removed from the flag following the end of the monarchy and a new flag was adopted on June 28, 1967. The karyenda was replaced with a sorghum plant which is an important agricultural product of the country. [0]",
+        "meaning": "The flag is divided into four parts by a white cross. The upper and lower parts are red in color while the left and right ones are green in color. White color of the cross represents peace, green represents the nation's hopes placed on future development and red symbolizes the suffering of the nation during its freedom struggle. The three stars in triangular configuration stand for the three major ethnic groups of Burundi: the Hutu, the Twa and the Tutsi. The three stars also stand for the three elements of the national motto: Unité, Travail, Progrès (\"Unity, Work and Progress\"), which can be seen on the Coat of arms of Burundi. They also represent the loyalty that the citizens of the nations have pledged to their God, king and country. [0]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "green",
+                "hex": "#1EB53A"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A white saltire on a red and green field with a white disk, consisting of three red solid six-pointed stars outlined in green, being on the center. [0]",
+        "adoptionDate": 1967,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Burundi"
         ]
     }
 ]
