@@ -1082,4 +1082,134 @@
             "https://en.wikipedia.org/wiki/Flag_of_the_Republic_of_the_Congo"
         ]
     }
+    ,{
+        "name": "Costa Rica",
+        "image": "costa-rica.svg",
+        "category": "Countries",
+        "history": "The blue, white and red horizontal design was created in 1848 by Pacífica Fernández, wife of then president José María Castro Madriz. Fernández was inspired by France's 1848 Revolution, and the creation of the French Second Republic. The new design to the Costa Rican flag adopted the colors of the French tricolor. The coat of arms of Costa Rica was also revised in 1848 and placed in the center of the flag. In 1906, when the coat of arms was modified, the update was placed in a white disk on the flag's red stripe, and later on an oval, set toward the hoist. [0]",
+        "meaning": "The blue color stands for the sky, opportunities, idealism and perseverance. The white color stands for peace, wisdom and happiness. The red color stands for the blood spilt by martyrs in defense of the country, as well as the warmth and generosity of the people. [0]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002B7F"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#CE1126"
+            }
+        ],
+        "design": "Five horizontal bands of blue, white, red (double width), white and blue. [0]",
+        "adoptionDate": 1906,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Costa_Rica"
+        ]
+    }
+    ,{
+        "name": "Croatia",
+        "image": "croatia.svg",
+        "category": "Countries",
+        "history": "The red-white-blue tricolor has been used as the Croatian flag since 1848, and the pan-Slavic colors are widely associated with romantic nationalism. While the Banovina of Croatia existed within the Kingdom of Yugoslavia, it had a similar flag without the modern crown above the chequy. During the Independent State of Croatia, flag was like the modern, but without crown and there was letter \"U\" at the top left of the flag. Also, first field of Croatian chequy was white. While Croatia was part of SFR Yugoslavia its tricolor was the same, but it had a five-pointed red star with a yellow border in place of the coat of arms. The star was replaced by the coat in May 1990, shortly after the first multiparty elections. The current flag and the coat of arms were officially adopted on 21 December 1990, about ten months before the proclamation of independence from Yugoslavia and a day before the Constitution of Croatia on 22 December 1990. [0]",
+        "meaning": "The flag combines the colors of the flags of the Kingdom of Croatia (red and white), the Kingdom of Slavonia (white and blue) and the Kingdom of Dalmatia (red and blue). Those three kingdoms are the historic constituent states of the Croatian Kingdom.\n\nThe shield is in the red and white checks of Croatia. Above is a crown made of shields of its various regions. From left to right they are the ancient arms of Croatia, Dubrovnik, Dalmatia, Istria, and Slavonia. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#FF0000"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#171796"
+            }
+        ],
+        "design": "A horizontal tricolor of red, white, and blue with the Coat of Arms of Croatia in the center. [0]",
+        "adoptionDate": 1990,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Croatia"
+        ]
+    }
+    ,{
+        "name": "Cuba",
+        "image": "cuba.svg",
+        "category": "Countries",
+        "history": "After fighting for the Spanish Crown against the rebel armies of Venezuela, Narciso López moved from his native Caracas to Cuba. His involvement in anticolonial movements forced him into exile. In 1849 he moved to New York City, where he continued to advocate for an independent Cuba.\n\nIt is believed that when López awoke, one morning, and looked outside the window, he saw colors of the dawn sky. He could see \"a triangle of red clouds announcing the dawn, and in the triangle shone the morning star Venus, while two white clouds departed from the triangle to divide into three blue stripes of shining heaven\". Excited by what they had just seen, López turned to his friend, Miguel Teurbe Tolón, to tell of the event that unfolded. Aside from this anecdotal version, an alternative story is that the flag was inspired by the U.S. flag (the U.S. expedition to Cuba in 1850 was intended as an annexation).\n\nThe poet Miguel Teurbe Tolón designed the flag alongside López, based upon the story of López's vision. Emilia Teurbe Tolón, Miguel's wife, sewed the first flag. López and Tolón, together with José Aniceto Iznaga Borrell, his nephew José María Sánchez Iznaga, Cirilo Villaverde and Juan Manuel Macias, settled upon the final design for the flag of Cuba: two white stripes, three blue, a red triangle, a lone star. On it they swore to fight and lay down their lives to create an independent Cuba.\n\nNarciso López used this same flag in 1850 to carry out his coup attempt, which resulted in failure. The coastal town of Cardenas was the first town that saw the splendor of the lone star flag hoisted on May 19, 1850, in the taking of the city by Cuban rebels.\n\nA year after the start of the Ten Years' War, the first Constituent Assembly of the Republic of Cuba met arms in Guáimaro, Camagüey Province. The debate focused between two flags of great symbolism, the Demajagua – which was very similar to the Chilean flag – created by Carlos Manuel de Céspedes to give start to the war of independence, and the Lone Star of Narciso López, the latter being chosen since Narciso López had taken the first step for the freedom of Cuba. [0]",
+        "meaning": "The three blue stripes represent the three departments in which Cuba was divided at that time, the white purity of ideals, the light; the red triangle, originating from the French Revolution – and the three ideals of liberty, equality and fraternity: red for the blood and the courage; the star was the new state that should be added to the United States. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CF142B"
+            },{
+                "name": "blue",
+                "hex": "#002A8F"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "Five horizontal bands of blue alternate with white with a red chevron based on the hoist side bearing a white five-pointed star in the center. [0]",
+        "adoptionDate": 1902,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Cuba"
+        ]
+    }
+    ,{
+        "name": "Cyprus",
+        "image": "cyprus.svg",
+        "category": "Countries",
+        "history": "The current flag was created as the result of a design competition in 1960. Under the constitution, the flag should not include either blue or red colours (the colours of the flag of Greece and the flag of Turkey), nor portray a cross or a crescent. All participants deliberately avoided use of these four elements in an attempt to make the flag \"neutral\".\n\nThe winning design was based on a proposal by İsmet Güney, a Turkish Cypriot art teacher. The design was chosen by Makarios III, the first President of the Republic, with the consent of Fazil Küçük, the first Vice-President.\n\nDespite the attempt at a neutral design to promote unity amongst the constituent communities, this flag is most often used only by the Greek Cypriots, since it is associated by the Turkish Cypriots with the Greek-dominated Republic of Cyprus. Following the Turkish invasion of Cyprus and the establishment of the self-declared Turkish Republic of Northern Cyprus, Turkish-Cypriots use the Flag of Northern Cyprus. [0]",
+        "meaning": "The state flag features a map of the entirety of the island, with two olive branches below (a symbol of peace) on white (another symbol of peace). The olive branches signify peace between the Turks and Greeks. The map on the flag is a copper-orange colour, symbolizing the large deposits of copper ore on the island (chiefly in the form of chalcopyrite, which is yellow in colour), from which it may have received its name.\n\nThe flag deliberately chose peaceful and neutral symbols in an attempt to indicate harmony between the rival Greek and Turkish communities, an ideal that has not yet been realized. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#D57800"
+            },{
+                "name": "green",
+                "hex": "#4E5B31"
+            }
+        ],
+        "design": "An outline of the country of Cyprus above twin olive branches on a white field. [0]",
+        "adoptionDate": 1960,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Cyprus"
+        ]
+    }
+    ,{
+        "name": "Czech Republic",
+        "image": "czech-republic.svg",
+        "category": "Countries",
+        "history": "Upon the dissolution of Czechoslovakia, the Czech Republic kept the Czechoslovak flag while the Slovak Republic adopted its own flag. After the establishment of an independent Czechoslovakia in 1918, the country had been using the red and white flag of Bohemia, identical to the Polish flag. Following calls for a new flag to be adopted by the fledgling state, a committee picked a design by Jaroslav Kursa, an archivist in the Czechoslovak Ministry of the Interior. His design included the red and white horizontal stripes derived from the coat of arms of Bohemia, and added a blue wedge extended halfway along the flag. The flag was banned by the Nazis in 1939, and a horizontal tricolor of white, red, and blue was enforced. The 1920 flag was restored in 1945.\n\nDuring the 1992 negotiations on the split of Czechoslovakia, a clause forbidding the use of the state symbols of Czechoslovakia by either successor state was inserted into the legislation concerning the dissolution of the federation. The Czech Republic violated this clause, passing legislation overruling the previous agreement and keeping the use of the flag. [0]",
+        "meaning": "The red and white horizontal stripes derived from the coat of arms of Bohemia. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#11457E"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#D7141A"
+            }
+        ],
+        "design": "Two equal horizontal bands of white (top) and red with a blue isosceles triangle based on the hoist side. [0]",
+        "adoptionDate": 1920,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Czech_Republic"
+        ]
+    }
 ]
