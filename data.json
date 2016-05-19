@@ -758,4 +758,218 @@
             "https://en.wikipedia.org/wiki/Flag_of_Burundi"
         ]
     }
+    ,{
+        "name": "Cambodia",
+        "image": "cambodia.svg",
+        "category": "Countries",
+        "history": "Since around 1850, the Cambodian flag has featured a depiction of Angkor Wat in the centre. The current flag, with a blue border and red central was adopted following Cambodia's independence in 1948. It was used until 9 October 1970, when a new flag was introduced for Lon Nol's Khmer Republic that lasted until the takeover of the Khmer Rouge in 1975. In 1993, the 1948 Cambodian flag was readopted.\n\nThe flag used today is the same as that established in 1948, although since then five other designs have been used. Almost all made use of the image of the temple of Angkor Wat in one form or another. This famous temple site, which dates from the 12th century, was built by the Mahidharapura monarchs. [0]",
+        "meaning": "Red and blue are traditional colours of Cambodia. [0]",
+        "ratio": "16:25",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#E00025"
+            },{
+                "name": "blue",
+                "hex": "#032EA1"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "Three horizontal bands of blue, red (double width) and blue, with a depiction of Angkor Wat in white centred on the red band. [0]",
+        "adoptionDate": 1948,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Cambodia"
+        ]
+    }
+    ,{
+        "name": "Cameroon",
+        "image": "cameroon.svg",
+        "category": "Countries",
+        "history": "The original flag, made law by Law 46 of 26 October 1957, was the simple tricolor. It was confirmed on 21 February 1960 in the new constitution. [0]",
+        "meaning": "The color scheme uses the traditional Pan-African colors (Cameroon was the second state to adopt them). The center stripe is thought to stand for unity: red is the colour of unity, and the star is referred to as \"the star of unity\". The yellow stands for the sun, and also the savannas in the northern part of the country, while the green is for the forests in the southern part of Cameroon. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#007A5E"
+            },{
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "yellow",
+                "hex": "#FCD116"
+            }
+        ],
+        "design": "A vertical tricolor of green, red and yellow, with a yellow star centered on the red band. [0]",
+        "adoptionDate": 1975,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Cameroon"
+        ]
+    }
+    ,{
+        "name": "Canada",
+        "image": "canada.svg",
+        "category": "Countries",
+        "history": "The current flag is the first ever specified by law for use as the country's national flag. In 1964, Prime Minister Lester B. Pearson formed a committee to resolve the issue, sparking a serious debate about a flag change to replace the Union Flag. Out of three choices, the maple leaf design by George Stanley, based on the flag of the Royal Military College of Canada, was selected. The flag made its first official appearance on February 15, 1965; the date is now celebrated annually as National Flag of Canada Day. [0]",
+        "meaning": "The maple leaf has long been a Canadian symbol. The official colors of Canada are red and white. [1]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#FF0000"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A vertical bicolour triband of red, white, and red in the ratio 1:2:1, with a red maple leaf charged in the centre. [0]",
+        "adoptionDate": 1965,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Canada",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Cape Verde",
+        "image": "cape-verde.svg",
+        "category": "Countries",
+        "history": "Before independence from Portugal, Cape Verde did not have an official flag, and the Portuguese national flag was used. In the late 1960s, a flag for the Portuguese overseas province of Cape Verde was proposed, consisting of the flag of Portugal defaced with the shield from the provincial arms in the lower fly. However, this flag was never adopted.\n\nThe original national flag of Cape Verde was introduced on independence in 1975, and was based on the flag of the Partido Africano para a Independência da Guiné e Cabo Verde (PAIGC). It used the common African colours of red, green and yellow, and was identical to the flag of Guinea-Bissau except for the charge in the hoist-side stripe. Their similarity evoked the plans to unite both countries, which, however, were abandoned shortly after independence. Guinea-Bissau gained independence on September 10, 1974. The national flag of Cape Verde was adopted on September 22, 1992. [0]",
+        "meaning": "The 10 stars on the flag represent the main islands of the nation (a chain of islands off the coast of West Africa). The blue represents the ocean and the sky. The band of white and red represents the road toward the construction of the nation, and the colours stand for peace (white) and effort (red). [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#003893"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#CF2027"
+            },{
+                "name": "yellow",
+                "hex": "#F7D116"
+            }
+        ],
+        "design": "Five unequal horizontal bands; the top-most band of blue - equal to one half the width of the flag - is followed by three bands of white, red, and white, each equal to 1/12 of the width, and a bottom stripe of blue equal to one quarter of the flag width; a circle of 10, yellow, five-pointed stars is centered on the red stripe and positioned 3/8 of the length of the flag from the hoist side. [1]",
+        "adoptionDate": 1992,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Cape_Verde",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Central African Republic",
+        "image": "central-african-republic.svg",
+        "category": "Countries",
+        "history": "The flag of the Central African Republic was adopted on December 1, 1958. It was designed by Barthélemy Boganda, the first president of the autonomous territory of Oubangui-Chari, who believed that \"France and Africa must march together.\" Thus he combined the blue, white and red of the French tricolour and the Pan-African colors red, green and yellow. [0]",
+        "meaning": "According to its official description, red symbolizes the blood of the people of the nation, the blood that was spilt in order to bring it independence, and the blood that they would spill to protect their nation. Blue represents the sky and freedom. White represents peace, and dignity. Green represents hope, and faith. Yellow represents tolerance.\n\nThe star guides the steps of the Central African people towards freedom and emancipation. The star is taken from that of MESAN (Movement for the Social Evolution of Black Africa), the ruling party of Central Africa from independence in August 1960 until the overthrow of General Bokassa in September 1979. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#003082"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#289728"
+            },{
+                "name": "yellow",
+                "hex": "#FFCE00"
+            },{
+                "name": "red",
+                "hex": "#D21034"
+            }
+        ],
+        "design": "Four equal horizontal bands of blue (top), white, green, and yellow with a vertical red band in center; a yellow five-pointed star to the hoist side of the blue band. [1]",
+        "adoptionDate": 1958,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Central_African_Republic",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Chad",
+        "image": "chad.svg",
+        "category": "Countries",
+        "history": "The flag was adopted by law #59/13 for the autonomous republic and retained on independence in 1960, and in the constitution of 1962. Despite many political upheavals within Chad since independence, the flag has not been changed. This may be because the flag is not associated with any of the main power rivals within Chad, which had no sense of national identity before independence, and little after independence. [0]",
+        "meaning": "Blue symbolizes, officially, the sky, hope, and water; yellow the sun and the desert to the north of the country; red progress, unity, and sacrifice. Red also recalls the blood shed for independence. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002664"
+            },{
+                "name": "yellow",
+                "hex": "#FECB00"
+            },{
+                "name": "red",
+                "hex": "#C60C30"
+            }
+        ],
+        "design": "A vertical tricolor of blue, yellow, and red. [0]",
+        "adoptionDate": 1959,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Chad"
+        ]
+    }
+    ,{
+        "name": "Chile",
+        "image": "chile.svg",
+        "category": "Countries",
+        "history": "The design of the current Chilean flag is commonly attributed to Bernardo O'Higgins's Minister of War, José Ignacio Zenteno, having been designed by the Spanish soldier Antonio Arcos, although historians argue that it was Gregorio de Andía y Varela who drew it.\n\nThe flag was made official on 18 October 1817 by a decree, of which only indirect references to the absence of a copy thereof, which was officially presented during the Pledge of Independence ceremony on 12 February 1818, a ceremony in which the bearer was Tomás Guido.\n\nThe original flag was designed according to the Golden Ratio, which is reflected in the relation between the widths of the white and blue parts of the flag, as well as several elements in blue canton. The star does not appear upright in the center of the rectangular canton, instead the upper point appears slightly inclined toward the pole in such a way that the projection of its sides divide the length of the canton golden proportion. Additionally, in the center is printed the National Coat of Arms, known from the previous Flag of the Transition and adopted in 1817.\n\nThe adoption of the star configuration goes back to the star used by the Mapuches. According to O'Higgins, the star of the flag was the Star of Arauco. In Mapuche iconography, the morning star or Venus, (Mapudungun: Wünelfe or the Hispanicized Guñelve) was represented through the figure of an octagram star or a foliated cross. Although, the star which was finally adopted bore a star having five points with the design of the guñelve remaining reflected in an asterisk inserted in the center of the star, representing the combination of European and indigenous traditions.\n\nThese designs soon fell into oblivion due to the difficulty in the flag's construction. So, the embroidered seal and the eight-pointed asterisk disappeared while the star was kept completely upright. In 1854 the proportion was determined in keeping with the colors of the flag, leaving the canton as a square and the ratio of hoist to fly set to 2:3. Finally in 1912, the diameter of the star was established, the precedence of the colors in the presidential flag and decorative cockade was determined, setting the order as blue, white and red from top to bottom or from left to right of the viewer. [0]",
+        "meaning": "The star may represent a guide to progress and honor while other interpretations refer to its reference to an independent state; blue symbolizes the sky and the Pacific Ocean, white is for the snow-covered Andes, and red stands for the blood spilled to achieve independence.\n\nAccording to the epic poem La Araucana, the colors were derived from those from the flag flown by the Mapuche during the Arauco War. \"Flag Day\" is held each year on the ninth of July to commemorate the 77 soldiers who died in the 1882 Battle of La Concepción. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0039A6"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#D52B1E"
+            }
+        ],
+        "design": "It has a 3:2 ratio between length and width, it is divided horizontally into two bands of equal size (being the lower red). The upper area is divided once: in a square (blue), with a single centered white star; and rectangle (white), whose lengths are in proportion 1:2. [0]",
+        "adoptionDate": 1817,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Chile"
+        ]
+    }
+    ,{
+        "name": "China",
+        "image": "china.svg",
+        "category": "Countries",
+        "history": "On July 4, 1949, the sixth working group of the Preparatory Committee of the New Political Consultative Conference (新政治協商會議籌備會, PCNPCC) created a notice to submit designs for the national flag. After a few changes, the notice was published in the papers People's Daily, Beiping Liberation News, Xinmin News, Dazhong Daily, Guangming Daily, Jinbu Daily and Tianjin Daily during a period between July 15–26.\n\nZeng Liansong was working in Shanghai at the time the announcement came out; he wanted to create a flag design to express his patriotic enthusiasm for the new country. In the middle of July, he sat down in his attic for multiple nights to come up with designs. His inspiration for the current design comes from the stars shining in the night sky. He thought of a Chinese proverb \"longing for the stars, longing for the moon,\" (盼星星盼月亮, pàn xīngxīng pàn yuèliàng) which shows yearning. Later, he realized that the CPC was the great savior (大救星, dà jiùxīng) of the Chinese people, being represented by a larger star. The idea of four small stars came from On the People's Democratic Dictatorship a speech by Mao Zedong, which defined the Chinese people as consisting of four social classes. Yellow also implies that China belongs to the Chinese people, a \"yellow race\". After working out the details of the placement of the stars and their sizes (he had tried to put all of the stars in the center, but believed it would be too heavy and dull), he sent his \"Five Stars on a Field of Red\" (紅地五星旗, hóng dì wǔxīng qí) design to the committee in the middle of August.\n\nAs of August 20, a total of 3,012 designs were sent to the flag committee, which included input from committee members themselves, such as Guo Moruo and Tan Kah Kee. From August 16 to 20, the designs were viewed at the Beijing Hotel and culled down to a list of 38. These designs are collected into a book named A Reference of National Flag Designs (國旗圖案參考資料). This book was then submitted to the newly established Chinese People's Political Consultative Conference (CPPCC) for further discussion. However, Zeng's design wasn't included until Tian Han nominated it again.\n\nIn the morning of September 23, the representatives of the CPPCC discussed the national flags, but came to no conclusion. Some didn't like the symbolism which Zeng attached to the four smaller stars, and said it shouldn't include the bourgeoisie. The design Mao and others liked had a giant golden star in the corner on a red flag that was charged with a golden horizontal bar. But this design was strongly opposed by Zhang Zhizhong due to the golden bar symbolizing the tearing apart of the revolution and the country. In the night, Peng Guanghan (彭光涵) recommended Zeng's design to Zhou Enlai, Zhou was satisfied with it and asked for a larger copy of the design to be made. Tan Kah Kee also gave his advice to Mao and Zhou that the power characteristics are more important than Chinese geography characteristics, so there's no need to insist on the golden bar which stands for the Yellow River. Two days later, Mao had a meeting in his office about the flag. He persuaded everyone to adopt Zeng's design, with some slight modifications. According to earlier discussions at the Beijing Hotel, the hammer and sickle from Zeng's original design was removed since it was similar to the Flag of the Soviet Union. On September 27, 1949, Zeng's modified design was selected unanimously by the First Plenary Session of CPPCC, which changed the flag's name to \"Five-star Red Flag\". [0]",
+        "meaning": "According to the current government interpretation of the flag, the red background symbolizes the revolution and the golden colours were used to \"radiate\" on the red background. The five stars and their relationship represents the unity of Chinese people under the leadership of the Communist Party of China. The orientation of the stars shows that the unity should go around a center.\n\nIn the original description of the flag by Zeng, the larger star symbolizes the Communist Party of China, and the four smaller stars that surround the big star symbolize the four social classes (the working class, the peasantry, the urban petite bourgeoisie and the national bourgeoisie) of Chinese people mentioned in Mao's \"On the People's Democratic Dictatorship\".\n\nThe five stars that formed an ellipse represent the territory of China (including Outer Mongolia) which is shaped like a Begonia leaf. It is sometimes stated that the five stars of the flag represent the five largest ethnic groups. This is generally regarded as an erroneous conflation with the \"Five Races Under One Union\" flag, used 1912–28 by the Beiyang Government of Republic of China, whose different-coloured stripes represented the Han, Manchus, Mongols, Hui, and Tibetans. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#DE2910"
+            },{
+                "name": "yellow",
+                "hex": "#FFDE00"
+            }
+        ],
+        "design": "A large golden star within an arc of four smaller golden stars, in the canton, on a field of red. [0]",
+        "adoptionDate": 1949,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_China"
+        ]
+    }
 ]
