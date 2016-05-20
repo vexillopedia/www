@@ -1212,4 +1212,117 @@
             "https://en.wikipedia.org/wiki/Flag_of_the_Czech_Republic"
         ]
     }
+    ,{
+        "name": "Denmark",
+        "image": "denmark.svg",
+        "category": "Countries",
+        "history": "According to legend, the flag came into Danish possession during the Battle of Lyndanisse in 1219. The Danes were on a failing crusade in Estonia, but after praying to God a flag fell from the sky. After this event, Danish King Valdemar II went on to defeat the Estonians. The first recorded use of the flag appears one hundred years later. [0]",
+        "meaning": "The cross design represents Christianity. [0]",
+        "ratio": "28:37",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#C60C30"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A red field charged with a white cross extending to the edges; the vertical part of the cross is shifted to the hoist side. [0]",
+        "adoptionDate": 1400,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Denmark"
+        ]
+    }
+    ,{
+        "name": "Djibouti",
+        "image": "djibouti.svg",
+        "category": "Countries",
+        "history": "Before the establishment of French Somaliland, the flag of the Sultanate of Tajoura was the only ensign used in the territory. The flag of Djibouti was later created in 1972. Adopted in 1977, the national flag was an adaptation of the flag of the Ligue Populaire Africaine pour l'Independence (LPAI), a political party that led Djibouti to independence. The LPAI flag had a red triangle with a white star. For the national flag, the star was placed in an upright rather than a slanted position, and the proportions of the flag were lengthened. White, green, and light blue are the colors of the LPAI. The flag of Djibouti was raised for the first time upon independence on 27 June 1977, by the head of police Yacine Yabeh Galab. It is today flown on many governmental buildings. [0]",
+        "meaning": "The light blue represents the Issa Somalis, and the green represents the Afars. The five-pointed star in its center represents the Somali-inhabited territories in Greater Somalia.\n\nEach colour symbolizes something different; namely, the earth (green), the sea and sky (light blue), peace (white), and unity (red). [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#6AB2E7"
+            },{
+                "name": "green",
+                "hex": "#12AD2B"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#D7141A"
+            }
+        ],
+        "design": "A horizontal bi-color of light blue and light green, with a white isosceles triangle at the hoist bearing a red star in its center. [0]",
+        "adoptionDate": 1977,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Djibouti"
+        ]
+    }
+    ,{
+        "name": "Dominica",
+        "image": "dominica.svg",
+        "category": "Countries",
+        "history": "The flag of Dominica was adopted on November 3, 1978, with some small changes having been made in 1981, 1988, and 1990. The original flag was designed by playwright Alwin Bully in early 1978 as the country prepared for independence.\n\nThe flag features the national bird emblem, the sisserou parrot, which also appears on the coat of arms granted on 21 July 1961. This parrot, endemic to Dominica, is an endangered species with a population of only 250–350 individuals. [0]",
+        "meaning": "The green field represents the lush vegetation of the island. The cross represents the Trinity and Christianity, with its three colours symbolising the native Indians, the fertile soil, and the pure water. The 10 green five-pointed stars stand for the country's 10 parishes: (St. Andrew, St. David, St. George, St. John, St. Joseph, St. Luke, St. Mark, St. Patrick, St. Paul, and St. Peter), while the red disc stands for social justice. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#006B3F"
+            },{
+                "name": "yellow",
+                "hex": "#FCD116"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#D41C30"
+            },{
+                "name": "purple",
+                "hex": "#9461C9"
+            }
+        ],
+        "design": "A green field with a central cross of three bands (the vertical part is yellow, black and white and the horizontal part is yellow, black and white) and a red disk superimposed at the center of the cross bearing a Sisserou parrot in the center encircled by ten green five-pointed stars. [0]",
+        "adoptionDate": 1978,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Dominica"
+        ]
+    }
+    ,{
+        "name": "Dominican Republic",
+        "image": "dominican-republic.svg",
+        "category": "Countries",
+        "history": "The flag was designed by Concepción Bona and Maria Trinidad Sanchez. [0]",
+        "meaning": "The blue on the flag stands for liberty, the white for salvation, the red for the blood of heroes.\n\nThe national coat of arms, featuring a shield with the flag design and supported by a bay laurel branch (left) and a palm frond (right), is at the center of the cross. Above the shield, a blue ribbon displays the national motto \"Dios, Patria, Libertad\" (English: God, Fatherland, Liberty). Below the shield, the words República Dominicana appear on a red ribbon (this red ribbon is depicted in more recent versions as having its tips pointing upward). In the center of the shield, flanked by three spears (two of them holding Dominican banners) on each side, is a Bible with a small cross above it and said to be opened to the Gospel of John, chapter 8, verse 32, which reads \"Y la verdad os hará libres\" (And the truth shall make you free). [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002D62"
+            },{
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A white cross with the national coat of arms in the centre that divides the flag into four rectangles, blue and red at the top and red and blue at the bottom. [0]",
+        "adoptionDate": 1863,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Dominican_Republic"
+        ]
+    }
 ]
