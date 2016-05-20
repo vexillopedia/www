@@ -1325,4 +1325,226 @@
             "https://en.wikipedia.org/wiki/Flag_of_the_Dominican_Republic"
         ]
     }
+    ,{
+        "name": "East Timor",
+        "image": "east-timor.svg",
+        "category": "Countries",
+        "history": "The flag of East Timor was adopted in 2002. It is the same as the flag adopted when the country first declared independence from Portugal in 1975, nine days before being occupied by Indonesia.\n\nAt midnight on 19 May 2002, and during the first moments of Independence Day the next day, the United Nations flag was lowered and the flag of an independent East Timor was raised. [0]",
+        "meaning": "As per the Constitution of the Democratic Republic of Timor-Leste, the yellow triangle represents \"the traces of colonialism in East Timor's history\". The black triangle represents \"the obscurantism that needs to be overcome\"; the red base of the flag represents \"the struggle for national liberation\"; the star, or \"the light that guides\", is white to represent peace. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#DC241F"
+            },{
+                "name": "yellow",
+                "hex": "#FFC726"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A black triangle bearing a white five-pointed star over a larger yellow triangle based on the hoist, on a red field. [0]",
+        "adoptionDate": 1975,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_East_Timor"
+        ]
+    }
+    ,{
+        "name": "Ecuador",
+        "image": "ecuador.svg",
+        "category": "Countries",
+        "history": "After the territory of Ecuador was conquered by Sebastián de Benalcázar, the emblems of the Spanish Empire flew over the newly founded city of Quito.\n\nThe first calls for independence from the Spanish crown came on 10 August 1809; a plain red flag was flown by the rebels. The independence movement was defeated in November 1812 at the hands of Spanish officer Juan Sámano. On 9 October 1820, a new flag, a blue and white bicolour, with five horizontal alternating stripes, and three white stars in the middle stripe, was raised for the first time. The three stars represent Guayaquil, Portoviejo and Machala. This flag was later adopted by the Guayas Province.\n\nGabriel García Moreno, upon assuming power two days after the Battle of Guayaquil in September 1860, the yellow, blue and red triband was returned to use; its reinstatement on September 26 is commemorated during Ecuador's national flag day. Previously, a vertical white, blue and white flag was used. In the middle of the blue stripe, there were white stars placed to signify the number of provinces in Ecuador. The highest star total was seven before this flag was abandoned. In 1900, the flag was made the definitive national standard, and was charged with the coat of arms for official national government use while the plain flag was reserved for the merchant marine. [0]",
+        "meaning": "The colors have the following meanings: yellow represents the crops and the fertile soil, blue represents he ocean and the clear skies, and red represents the blood spilled by the heroes who died in the name of their countrymen's Fatherland and Freedom. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "yellow",
+                "hex": "#FFDD00"
+            },{
+                "name": "blue",
+                "hex": "#034EA2"
+            },{
+                "name": "red",
+                "hex": "#ED1C24"
+            }
+        ],
+        "design": "A horizontal tricolor of yellow (double width), blue and red with the Coat of arms of Ecuador charged in the center. [0]",
+        "adoptionDate": 1860,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Ecuador"
+        ]
+    }
+    ,{
+        "name": "Egypt",
+        "image": "egypt.svg",
+        "category": "Countries",
+        "history": "Following the Revolution of 1952, the Free Officers retained the flag of the Kingdom, but also introduced the Arab Liberation flag of red, white, and black horizontal bands, with the emblem of the Revolution, the Eagle of Saladin, in the center band. This earlier version of the eagle differs somewhat from the one later adopted. Even when the Kingdom was formally abolished by the declaration of the Republic on July 18, 1953, the flag of the Kingdom remained in official use until the formation of the United Arab Republic in 1958.\n\nIn 1958, Egypt and Syria united as the United Arab Republic (UAR) and adopted a national flag based on the Arab Liberation flag, with two green stars (representing the two countries of the union) replacing the Eagle of Saladin in the white band. A modified version of the Eagle of Saladin was adopted as the UAR's coat of arms.\n\nThough Syria withdrew from the U.A.R. in 1961, Egypt continued to use the official name of the United Arab Republic until 1971, when the country was renamed officially as the Arab Republic of Egypt. In 1972, when Egypt formed the Federation of Arab Republics along with Syria, and Libya, the U.A.R. flag (whose design Syria would reuse for their own flag, eight years later) was replaced by a common flag for the Federation, once again based on the Arab Liberation flag. The two green stars in the white band were replaced by the Hawk of Qureish, which had been the coat of arms of Syria prior to the formation of the U.A.R. in 1958. The Hawk of Qureish was also adopted as the Federation's coat of arms. The shade of red used in the red band was lightened slightly.\n\nWhilst the Federation of Arab Republics was dissolved in 1977, Egypt retained the Federation's flag until October 4, 1984, when the black Hawk of Qureish was replaced in the white band (and on the coat of arms) by the Eagle of Saladin (the 1958 version as opposed to the 1952 version). The shield held by the eagle is coloured entirely gold and white, as opposed to the colours seen on the shield on Egypt's coat of arms. In addition, the shade of red in the red band was restored to the slightly darker shade of the red band in the pre-Federation flag. [0]",
+        "meaning": "The Free Officers who toppled King Farouk in the Revolution of 1952 assigned specific symbolism to each of the three bands of the Arab Liberation flag. The red band symbolises the period before the Revolution, a time characterized by the struggle against the monarchy, and the British occupation of the country. The white band symbolizes the bloodless nature of the Revolution itself. The black band symbolizes the end of the oppression of the Egyptian people at the hands of the monarchy, and foreign imperialism. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "yellow",
+                "hex": "#C09300"
+            }
+        ],
+        "design": "Horizontally divided red-white-black flag with the Eagle of Saladin. [0]",
+        "adoptionDate": 1984,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Egypt"
+        ]
+    }
+    ,{
+        "name": "El Salvador",
+        "image": "el-salvador.svg",
+        "category": "Countries",
+        "history": "The banner is based on the former blue-white-blue flag of the Federal Republic of Central America. [1]",
+        "meaning": "The blue bands symbolize the Pacific Ocean and the Caribbean Sea, while the white band represents the land between the two bodies of water, as well as peace and prosperity. [1]",
+        "ratio": "189:335",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0F47AF"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A horizontal triband of blue (top and bottom) and white and blue with the National Coat of Arms of El Salvador centered on the white band. [0]",
+        "adoptionDate": 1912,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_El_Salvador",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Equatorial Guinea",
+        "image": "equatorial-guinea.svg",
+        "category": "Countries",
+        "history": "The flag was first flown on the day of independence, October 12, 1968, and it showed the national emblem in the center. However, in 1973, during the regime of Francisco Nguema, a different national emblem was used on the flag. Under Nguema's rule, the coat of arm consisted of several tools, a sword and a chicken. The modified national motto Trabajo (work), and Unitad, Paz, Justicia (Unity, Peace, Justice) was written in two stripes. The original coat of arms was restored after Nguema was deposed on 21 August 1979. The arms consists of a silver shield with a silk-cotton tree, which was derived from the arms of Rio Muni. Above the shield is an arc of 6 six-pointed yellow stars, that represent Rio Muni and the offshore islands. Beneath the shield is a silver scroll with the national motto, Unidad, Paz, Justicia (\"Unity, Peace, Justice\"). It is considered that under a silk-cotton tree a treaty was signed between Spain and a local ruler that marked the beginning of the colonial rule. [0]",
+        "meaning": "Green symbolizes the natural resources, agriculture and jungles of the country. Blue symbolizes the sea, which connects the main country with the islands. White symbolizes peace. Red symbolizes the blood shed by the fighters for independence. [1]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#3E9A00"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#E32118"
+            },{
+                "name": "blue",
+                "hex": "#0073CE"
+            }
+        ],
+        "design": "A horizontal tricolor of green, white and red with a blue isosceles triangle based on the hoist side and the National Coat of arms of Equatorial Guinea centered in the white band. [0]",
+        "adoptionDate": 1979,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Equatorial_Guinea",
+            "https://flagspot.net/flags/gq.html"
+        ]
+    }
+    ,{
+        "name": "Eritrea",
+        "image": "eritrea.svg",
+        "category": "Countries",
+        "history": "On September 15, 1952, Eritrea became independent from British rule and was made an autonomous part of Ethiopia. Since the United Nations had helped the country obtain independence from British rule, the 1952 Eritrean flag was designed with a light blue background to honour the organisation's assistance. The flag at that time had an olive wreath in the centre, symbolising peace. The wreath encircled a six-leafed plant which represented the six administrative divisions of Eritrea.\n\nAfter civil war broke out in Eritrea in 1961, Ethiopian emperor Haile Selassie banned the Eritrean flag, coat of arms, and all other government seals from public places. He annexed Eritrea in 1962 with the approval of the United Nations.\n\nThe Eritrean People's Liberation Front fought for the country's independence, and in January 1977, the party adopted its own official flag. The current flag of Eritrea bears resemblance to the party's official flag. The flag had three triangles: red, blue, and green. The yellow star in the red triangle symbolised the country's rich mineral resources. After Eritrea was proclaimed an independent nation, the flag was modified and its first official hoisting was performed on May 24, 1993. In the red triangle, a gold wreath symbol with 14 leaves on each side, derived from the 1952 flag, replaced the gold star of the Eritrean People's Liberation Front's flag. In 1995 the number of leaves in the wreath were standardised. [0]",
+        "meaning": "The green color in the flag stands for the agriculture and livestock of the country, the blue stands for the sea, and the red for the blood lost in the fight for freedom. The 30 leaves symbolise the number of years spent in civil war before achieving independence. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#EA0437"
+            },{
+                "name": "green",
+                "hex": "#12AD2B"
+            },{
+                "name": "blue",
+                "hex": "#4189DD"
+            },{
+                "name": "yellow",
+                "hex": "#FFC726"
+            }
+        ],
+        "design": "A red isosceles triangle based on the hoist-side pointed toward the fly-side and then divided into two right triangles: the upper triangle is green and the lower triangle is blue with an Emblem (1952-1962) in gold (a vertical olive branch encircled by an olive wreath) centered on the hoist side of the triangle. [0]",
+        "adoptionDate": 1995,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Eritrea"
+        ]
+    }
+    ,{
+        "name": "Estonia",
+        "image": "estonia.svg",
+        "category": "Countries",
+        "history": "The story of the flag begins 17 September 1881, when the constituent Assembly of the first Estonian national student Corps \"Vironia\" in the city of Tartu was also identified in color, later became national.\n\nThe flag became associated with Estonian nationalism and was used as the national flag (riigilipp) when the Estonian Declaration of Independence was issued on February 24, 1918. The flag was formally adopted on November 21, 1918. December 12, 1918, was the first time the flag was raised as the national symbol atop of the Pikk Hermann Tower in Tallinn.\n\nThe invasion by the Soviet Union in June 1940 led to the flag's ban. It was taken down from the most symbolic location, the tower of Pikk Hermann in Tallinn, on June 21, 1940, when Estonia was still formally independent. On the next day, 22 June, it was hoisted along with the red flag. The tricolour disappeared completely from the tower on July 27, 1940, and was replaced by the flag of the Estonian SSR.\n\nDuring the German occupation from 1941 until 1944, the flag was accepted as the ethnic flag of Estonians but not the national flag. After the German retreat from Tallinn in September 1944, the Estonian flag was hoisted once again.\n\nWhen the Red Army arrived on 22 September, the red flag was just added at first. Soon afterwards, however, the blue-black-white flag disappeared. The flag remained illegal until the days of perestroika in the late 1980s. 21 October 1987 was the first time when Soviet forces didn't dare to take the flag that had been put up in a public event. 24 February 1989 the blue-black-white flag was again flown from the Pikk Hermann tower in Tallinn. It was formally re-declared as the national flag on 7 August 1990, little over a year before Estonia regained full independence. [0]",
+        "meaning": "There are a number of interpretations attributed to the colours of the flag. A historical interpretation of the colours has blue representing ancient freedom, truth, sky and sea, black symbolizing soil, lost independence and dark coats, and white, the promise and pursuit of a brighter future.\n\nAnother interpretation made popular by the poetry of Martin Lipp is as follows: blue represents the vaulted blue sky above the native land, black represents the attachment to the soil of the homeland as well as the fate of Estonians – for centuries black with worries, and white represents purity, hard work, and commitment [0]",
+        "ratio": "7:11",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0072CE"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A horizontal triband of blue, black and white. [0]",
+        "adoptionDate": 1918,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Estonia"
+        ]
+    }
+    ,{
+        "name": "Ethiopia",
+        "image": "ethiopia.svg",
+        "category": "Countries",
+        "history": "The current flag of Ethiopia was adopted on 31 October 1996. It conforms to the specifications set forth in Article 3 of the 1995 Constitution of Ethiopia. However, the diameter of the central disc is increased from that of the flag used from 6 February to 31 October 1996. The three traditional colours of green, yellow and red date back to Empress Zewditu (r. 1889–1913) and were first used in a flag in 1897. The current national flag and emblem were adopted after the defeat of Ethiopia's Marxist Derg regime (in power from 1974 to 1991). The emblem is intended to represent both the diversity and unity of the country. [0]",
+        "meaning": "The red, green and yellow were used for the flag of the Ethiopian Empire in 1897, a year after Ethiopia decisively defended itself from Italian colonization at the Battle of Adwa. The flag's tri-colour scheme has existed since the early 19th century, and was previously the official banner of the Ethiopian Empire's Solomonic dynasty. The colours green, yellow, and red have carried special importance since at least the early 17th century.\n\nBlue represents peace, the star represents diversity and unity, and the sun's rays symbolise prosperity. The green recalls the land, yellow stands for peace and hope, and red is symbolic of strength.\n\nThe star is yellow on a blue disc which overlaps the green and red stripes. The star testifies to Ethiopia's bright future and possibly echoes the connection with the House of King Solomon, while the yellow rays which it emits are equidistant and are said to represent the equality of all Ethiopians regardless of race, creed, or sex. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#079830"
+            },{
+                "name": "yellow",
+                "hex": "#FCDD09"
+            },{
+                "name": "red",
+                "hex": "#DA121A"
+            },{
+                "name": "blue",
+                "hex": "#0F47AF"
+            }
+        ],
+        "design": "A horizontal tricolor of green, yellow and red with the National Emblem superimposed at the center. [0]",
+        "adoptionDate": 1996,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Ethiopia"
+        ]
+    }
 ]
