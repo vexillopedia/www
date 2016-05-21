@@ -1634,4 +1634,109 @@
             "https://en.wikipedia.org/wiki/Flag_of_France"
         ]
     }
+    ,{
+        "name": "Gabon",
+        "image": "gabon.svg",
+        "category": "Countries",
+        "history": "The French gained control of modern-day Gabon in 1839, when a local chief surrendered the sovereignty of his land to them. The Berlin Conference of 1885 solidified France's claim to the territory through diplomatic recognition, and it later became part of French Equatorial Africa in 1910. Under French colonial rule over Gabon, the authorities forbade the colony from utilizing its own distinctive colonial flag. This was because they were worried that this could increase nationalistic sentiment and lead to calls for independence. However, with the rise of the decolonization movement in Africa, the French were obliged to grant limited autonomy to Gabon as a self-governing republic within the French Community. This was granted in 1958 after a referendum was held supporting the proposal.\n\nGabon – considered \"one of the more progressive\" of French colonies – swiftly formulated a design for a new flag, which was officially adopted a year later in 1959. It featured a horizontal tricolour identical to the current flag, but with the yellow stripe at the centre narrower than the green and blue bands surrounding it. The French Tricolour was situated at the canton of the flag, making Gabon the only French autonomous republic to feature this \"symbolic link\" with France.\n\nOn August 9, 1960 – just over a week before Gabon became an independent country on August 17 – the flag was slightly modified. The change entailed removing the Tricolour at the canton and enlarging the yellow stripe at the centre, thus giving it equal width with the two other bands. [0]",
+        "meaning": "The yellow alludes to the Equator – which cuts across the country – and also symbolizes the sun. The green epitomizes the natural resources of Gabon, as well as its \"extensive forested area\" that the Gabonese people are economically dependent on in the form of lumber. The blue represents the sea, specifically the South Atlantic Ocean along which the country has an \"extensive coast\". [0]",
+        "ratio": "3:4",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#009E60"
+            },{
+                "name": "yellow",
+                "hex": "#FCD116"
+            },{
+                "name": "blue",
+                "hex": "#3A75C4"
+            }
+        ],
+        "design": "A horizontal triband of green, gold and blue. [0]",
+        "adoptionDate": 1960,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Gabon"
+        ]
+    }
+    ,{
+        "name": "Gambia",
+        "image": "gambia.svg",
+        "category": "Countries",
+        "history": "The British first arrived in what is now modern-day Gambia in 1661, when they conquered James Island. They proceeded to construct forts around the confluence of the Gambia River with the Atlantic Ocean, and gradually expanded their control upstream. This area became a protectorate in the 1820s under the jurisdiction of Sierra Leone, and eventually emerged as a separate crown colony of the United Kingdom within its colonial empire in 1888. This newfound status gave the Gambia its own \"distinctive\" colonial flag. This is because colonies were permitted to utilize the British Blue Ensign and deface it with the arms of the territory under the Colonial Naval Defence Act 1865. The arms of the Gambia at the time consisted of a circle depicting an elephant, a palm tree and hills, along with the letter \"G\" standing for the first letter of the territory's name.\n\nThe Gambia was granted self-governance in 1963. The defaced blue ensign continued to be used until full independence was granted in 1965. The winning design for the new flag was created by Louis Thomasi, who worked as an accountant. It is one of the few African flags that does not utilize the colours of the country's leading political party, since its design \"has no political basis\". It was first hoisted at midnight on February 18, 1965, the day the Gambia became an independent country. In 1982, the Gambia formed a confederation with Senegal, which lasted for seven years before its dissolution in 1989. However, this closer union did not result in change of national symbols, and the Gambian flag continued to be flown during this time. [0]",
+        "meaning": "The blue alludes to the Gambia River, which is the nation's key feature and is where the country derives its name from. The red evokes the sun – given the Gambia's close proximity to the Equator – as well as the savanna, while the thin white stripes represents \"unity and peace\". The green epitomizes the forest and the agricultural goods that the Gambian people are heavily dependent on, both for exports and their personal use. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "blue",
+                "hex": "#0C1C8C"
+            },{
+                "name": "green",
+                "hex": "#3A7728"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A horizontal tricolor of red, blue and green; each band of colour is separated by a narrow band of white. [0]",
+        "adoptionDate": 1965,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Gambia"
+        ]
+    }
+    ,{
+        "name": "Georgia",
+        "image": "georgia.svg",
+        "category": "Countries",
+        "history": "The current flag was used by the Georgian patriotic movement following the country's independence from the Soviet Union in 1991. By the late 1990s, the design had become widely known as 'the Georgian historical national flag' as vexillologists had pointed out the red-on-white Jerusalem cross shown as the flag of Tblisi in a 14th-century map by Domenico and Francesco Pizzigano.\n\nA majority of Georgians, including the influential Catholicos-Patriarch of the Georgian Orthodox Church, supported the restoration of the flag and in 1999 the Parliament of Georgia passed a bill to change the flag. However, it was not endorsed by the President, Eduard Shevardnadze. It was adopted in the early 2000s by the main opposition party, the United National Movement led by Mikheil Saakashvili, as a symbol of popular resistance to Shevardnadze's rule.\n\nThe flag was adopted by Parliament on 14 January 2004. Saakashvili formally endorsed it via Presidential Decree No. 31 signed on 25 January, following his election as President. 14 January is annually marked as a Flag Day in Georgia. [0]",
+        "meaning": "Originally a banner of the medieval Kingdom of Georgia, it was brought back to popular use in the late 20th and early 21st centuries during periods of the Georgian national revival. Prior to obtaining its official status in 2004, the flag was popularized by the United National Movement and served as one of the most recognizable symbols of the Rose Revolution. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#FF0000"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "White rectangle, with in its central portion a large red cross that extends to the edge of the flag. In the four corners there are four Bolnur-Katskhuri crosses of the same color. [0]",
+        "adoptionDate": 2004,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Georgia_(country)"
+        ]
+    }
+    ,{
+        "name": "Germany",
+        "image": "germany.svg",
+        "category": "Countries",
+        "history": "Germany has two competing traditions of national colours, black-red-gold and black-white-red, which have played an important role in the modern history of Germany. The black-red-gold tricolour first appeared in the early 19th century and achieved prominence during the 1848 Revolutions. The short-lived Frankfurt Parliament of 1848–1850 proposed the tricolour as a flag for a united and democratic German state. With the formation of the Weimar Republic after World War I, the tricolour was adopted as the national flag of Germany. Following World War II, the tricolour was designated as the flag of both West and East Germany in 1949. The two flags were identical until 1959, when the East German flag was augmented with the coat of arms of East Germany. Since reunification on 3 October 1990, the black-red-gold tricolour has become the flag of reunified Germany. After the Austro-Prussian War in 1866, the Prussian-dominated North German Confederation adopted a tricolour of black-white-red as its flag. This flag later became the flag of the German Empire, formed following the unification of Germany in 1871, and was used until 1918. Black, white, and red were reintroduced as the German national colours with the establishment of Nazi Germany in 1933, replacing German republican colours with imperial colours until the end of World War II. The colours of the modern flag are associated with the republican democracy formed after World War I, and represent German unity and freedom. During the Weimar Republic, the black-red-gold colours were the colours of the democratic, centrist, and republican political parties, as seen in the name of Reichsbanner Schwarz-Rot-Gold, formed by members of the Social Democratic, the Centre, and the Democratic parties to defend the republic against extremists on the right and left. [0]",
+        "meaning": "Black, red and yellow have played an important role in German history and can be traced back to the medieval banner of the Holy Roman Emperor - a black eagle with red claws and beak on a gold field. [1]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "red",
+                "hex": "#DD0000"
+            },{
+                "name": "yellow",
+                "hex": "#FFCE00"
+            }
+        ],
+        "design": "A horizontal tricolour of black, red, and gold. [0]",
+        "adoptionDate": 1949,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Germany",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
 ]
