@@ -1547,4 +1547,91 @@
             "https://en.wikipedia.org/wiki/Flag_of_Ethiopia"
         ]
     }
+    ,{
+        "name": "Fiji",
+        "image": "fiji.svg",
+        "category": "Countries",
+        "history": "The flag is very similar to the colonial ensign used prior to independence, the main differences being the latter used a darker shade of blue and displayed the entire Fijian coat of arms as opposed to just the shield. While some reformists have called for the removal of the Union Flag, seeing it a British colonial emblem, others support its retention for the sake of historical continuity. The flags of five other independent countries (see Flags of Australia, Cook Islands, New Zealand, Niue, and Tuvalu articles) retain the Union Flag in their national flags.\n\nIn 2013, Prime Minister Frank Bainimarama announced plans of replacing the flag with a new design that would not include the Union Jack. Following a three-month-long public vote, the new flag is expected to be announced on 1 July 2016. [0]",
+        "meaning": "The flag's bright blue background symbolizes the Pacific Ocean, which plays an important part in the lives of the islanders, both in terms of the fishing industry, and the huge tourist trade. The Union Jack reflects the country's links with the United Kingdom. The shield is derived from the country's coat of arms, which was granted by Royal Warrant in 1908. It is a white shield with a red cross and a red chief (upper third of a shield). The images depicted on the shield represent agricultural activities on the islands, and the historical associations with the United Kingdom. At the top of the shield, a British lion holds a cocoa pod between its paws. The upper left is sugar cane, upper right is a coconut palm, the lower left a dove of peace, and the lower right a bunch of bananas. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#68BFE5"
+            },{
+                "name": "blue",
+                "hex": "#002868"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "yellow",
+                "hex": "#FFD100"
+            },{
+                "name": "green",
+                "hex": "#00A651"
+            },{
+                "name": "brown",
+                "hex": "#964B36"
+            }
+        ],
+        "design": "A Light Blue Ensign with the Fijian shield-of-arms taken from the National Coat of Arms centered on the outer half of the flag. [0]",
+        "adoptionDate": 1970,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Fiji"
+        ]
+    }
+    ,{
+        "name": "Finland",
+        "image": "finland.svg",
+        "category": "Countries",
+        "history": "Shortly after Finland gained independence in 1917, a competition was held for the design of the Finnish flag. Several different designs were submitted. Regarding the colours, the entries fell mainly into two categories – one using the red and yellow from the Finnish coat of arms, and the other using the present blue and white colours.\n\nOne entry had the Dannebrog cross design, but with a yellow cross on a red background. Another entry had diagonal blue and white stripes, but it was criticized as being more suitable for a barber shop than a newly independent country. Akseli Gallen-Kallela proposed a similar cross flag, but with colors inverted (white cross on blue), but this was considered too similar to the Swedish flag and particularly the Greek flag of the time. Finally, artists Eero Snellman and Bruno Tuukkanen specified the final form of the flag.\n\nThe current blue-crossed design was first used in Finland by Nyländska Jaktklubben, a yacht club founded in Helsinki in 1861. [0]",
+        "meaning": "On a white background, it features a blue Nordic cross, which represents Christianity. The blue coloring is said to represent the country's thousands of lakes and the sky, with white for the snow that covers the land in winter. [0]",
+        "ratio": "11:18",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#003580"
+            }
+        ],
+        "design": "Sea-blue Nordic cross on white field. [0]",
+        "adoptionDate": 1918,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Finland"
+        ]
+    }
+    ,{
+        "name": "France",
+        "image": "france.svg",
+        "category": "Countries",
+        "history": "The tricolour flag is derived from the cockades used during the French Revolution. These were circular rosette-like emblems attached to the hat. Camille Desmoulins asked his followers to wear green cockades on 12 July 1789. The Paris militia, formed on 13 July, adopted a blue and red cockade. Blue and red are the traditional colours of Paris, and they are used on the city's coat of arms. Cockades with various colour schemes were used during the storming of the Bastille on 14 July. The blue and red cockade was presented to King Louis XVI at the Hôtel de Ville on 17 July. Lafayette argued for the addition of a white stripe to \"nationalise\" the design. On 27 July, a tricolour cockade was adopted as part of the uniform of the National Guard, the national police force that succeeded the militia.\n\nA drapeau tricolore with vertical red, white and blue stripes was approved by the Constituent Assembly on 24 October 1790. Simplified designs were used to illustrate how the revolution had broken with the past. The order was reversed to blue-white-red, the current design, by a resolution passed on 15 February 1794. Despite its official status, the tricolore was rarely used during the revolution. Instead, the red flag of the Jacobin Club, symbolizing defiance and national emergency, was flown. The tricolore was restored to prominence under Napoleon.\n\nWhen the Bourbon dynasty was restored following the defeat of Napoleon in 1815, the tricolore—with its revolutionary connotations—was replaced by a white flag, the pre-revolutionary naval flag. However, following the July Revolution of 1830, the \"citizen-king\", Louis-Philippe, restored the tricolore, and it has remained France's national flag since that time. [0]",
+        "meaning": "The three colours are occasionally taken to represent the three elements of the revolutionary motto, liberté (freedom: blue), égalité (equality: white), fraternité (brotherhood: red); this symbolism was referenced in Krzysztof Kieślowski's three colours film trilogy, for example.\n\nOn the other hand, the French government website wrote that the white field is the color of the king, while blue and red were the colors of Paris.\n\nBlue and red are associated with the Virgin Mary, the patroness of France, and were the colours of the oriflamme. The colours of the French flag may also represent the three main estates of the Ancien Régime (the clergy: white, the nobility: red and the third estate: blue). [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0055A4"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#EF4135"
+            }
+        ],
+        "design": "A vertical tricolour of blue, white, and red. [0]",
+        "adoptionDate": 1794,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_France"
+        ]
+    }
 ]
