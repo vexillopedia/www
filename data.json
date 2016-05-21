@@ -1739,4 +1739,192 @@
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
         ]
     }
+    ,{
+        "name": "Ghana",
+        "image": "ghana.svg",
+        "category": "Countries",
+        "history": "The Ghanaian government flag, adopted in 1957, was flown until 1962. Similarly, when the country formed the Union of African States, the flag of the Union was modelled on Bolivia's flag, but with two black stars, representing the nations. In May 1959, a third star was added. Nowhere specified how the stars were arranged, and it was possible that they were arranged in a triangle, although the three-in-a-line formation (as shown here) is more likely.\n\nIn 1962, prior to the dissolution of the Union the following year, Ghana adopted a variant of the 1957 tricolour with white in the place of yellow, after the colours of Kwame Nkrumah's ruling Convention People's Party, and similar to the flag of Hungary. The original 1957 flag was reinstated in 1966 following Nkrumah's overthrow in a coup d'état.\n\nThe black star was adopted from the flag of the Black Star Line, a shipping line incorporated by Marcus Garvey that operated from 1919 to 1922, and gives the Ghana national football team their nickname, the Black Stars.\n\nThe flag was designed by Theodosia Okoh. [0]",
+        "meaning": "The red represents the blood of those who died in the country's struggle for independence from the United Kingdom, the gold represents the mineral wealth of the country, the green symbolises the country's rich forests and natural wealth, and the black star is the symbol of African emancipation. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "yellow",
+                "hex": "#FCD116"
+            },{
+                "name": "green",
+                "hex": "#006B3F"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            }
+        ],
+        "design": "A horizontal triband of red, gold, and green, charged with a black star in the center. [0]",
+        "adoptionDate": 1957,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Ghana"
+        ]
+    }
+    ,{
+        "name": "Greece",
+        "image": "greece.svg",
+        "category": "Countries",
+        "history": "The origins of today's national flag with its cross-and-stripe pattern are a matter of debate. Every part of it, including the blue and white colours (see below), the cross, as well as the stripe arrangement can be connected to very old historical elements; however it is difficult to establish \"continuity\", especially as there is no record of the exact reasoning behind its official adoption in early 1822.\n\nIt has been suggested by some Greek historians that the current flag derived from an older design, the virtually identical flag of the powerful Cretan Kallergis family. This flag was based on their coat of arms, whose pattern is supposed to be derived from the standards of their claimed ancestor, Byzantine Emperor Nicephorus II Phocas (963–969 AD). This pattern (according to not easily verifiable descriptions) included nine stripes of alternating blue and white, as well as a cross, assumed to be placed on the upper left.\n\nThe stripe-pattern of the Greek flag is visibly similar to that used in several other flags that have appeared over the centuries, most notably that of the British East India Company's pre-1707 flag or the flag of the United States. However, in such cases of flags derived from much older designs, it is very difficult to prove or trace original influences. [0]",
+        "meaning": "The cross symbolises Eastern Orthodox Christianity, the established religion of the Greek people of Greece and Cyprus. According to popular tradition, the nine stripes represent the nine syllables of the phrase \"Ελευθερία ή Θάνατος\" (\"Freedom or Death\"), the five blue stripes for the syllables \"Έλευθερία\" and the four white stripes \"ή Θάνατος\". The nine stripes are also said to represent the letters of the word \"freedom\" (Greek: Ελευθερία). There is also a different theory, that the nine stripes symbolise the nine Muses, the goddesses of art and civilisation (nine has traditionally been one of the numbers of reference for the Greeks). [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0D5EAF"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "Nine horizontal stripes, in turn blue and white; a white cross on a blue square field in canton. [0]",
+        "adoptionDate": 1978,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Greece"
+        ]
+    }
+    ,{
+        "name": "Grenada",
+        "image": "grenada.svg",
+        "category": "Countries",
+        "history": "The flag was designed by Anthony C. George of Soubise in Saint Andrew Parish. [0]",
+        "meaning": "The red colour of the flag stands for courage and vitality, gold for wisdom and warmth, and green for vegetation and agriculture. The six stars in the red border represent the country's six parishes, with the middle star, encircled by a red disk, representing Carriacou and Petite Martinique. The symbol in the hoist represents a clove of nutmeg, one of the principal crops of Grenada. It also represents a link to Grenada's former name, which was the \"Isle of Spice\". [0]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "yellow",
+                "hex": "#FCD116"
+            },{
+                "name": "green",
+                "hex": "#007A5E"
+            }
+        ],
+        "design": "A rectangle divided diagonally into two triangles of gold (top and bottom) and green (hoist side and fly side) with a large red border around the field; there are seven yellow five-pointed stars with three centered on the top border, three centered on the bottom border and one on a red disk superimposed at the center; there is also a symbolic nutmeg pod on the hoist-side of a triangle. [0]",
+        "adoptionDate": 1974,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Grenada"
+        ]
+    }
+    ,{
+        "name": "Guatemala",
+        "image": "guatemala.svg",
+        "category": "Countries",
+        "history": "The Central American flag was used in Guatemala until 1851, when a pro-Spanish faction took over and added the Spanish colors of red and yellow to the flag. The original colors were restored on August 17, 1871, but as vertical (rather than horizontal) stripes in order to distinguish it from other flags and with a new coat of arms. The resplendent quetzal previously appeared in the 1830s in the flag of Los Altos, the sixth state in the Federal Republic. [0]",
+        "meaning": "The two sky blue stripes represent the fact that Guatemala is a land located between two oceans, the Pacific Ocean and the Atlantic Ocean (Caribbean sea); and the sky over the country (see Guatemala's National Anthem). The white color signifies peace and purity.\n\nIn the center of the flag is the Guatemalan coat of arms. It includes the resplendent quetzal, the national bird of Guatemala that symbolizes liberty; a parchment scroll bearing the date of Central America's independence from Spain, 15 September 1821; crossed rifles, indicating Guatemala's willingness to defend itself by force if need be; a bay laurel crown, the symbol for victory; and crossed swords, representing honor. [0]",
+        "ratio": "5:8",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#4997D0"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A vertical triband of light blue (hoist side and fly side) and white with the National Emblem of Guatemala centered on the white band. [0]",
+        "adoptionDate": 1871,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Guatemala"
+        ]
+    }
+    ,{
+        "name": "Guinea",
+        "image": "guinea.svg",
+        "category": "Countries",
+        "history": "The colors of the flag were adapted from those of the Rassemblement Démocratique Africain, the dominant movement at the time of independence. The colors were in turn derived from those of Ghana, which had first adopted them in 1957. Sekou Toure, the first President of Guinea, was a close associate of Kwame Nkrumah, the former president of Ghana. [0]",
+        "meaning": "Red symbolizes the blood of the martyrs who died from slavery and wars, yellow represents the sun and the riches of the country, and green the country's vegetation. In keeping with other flags in the region, the Pan-African movement's colours of red, yellow, and green are used. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "yellow",
+                "hex": "#FCD116"
+            },{
+                "name": "green",
+                "hex": "#009460"
+            }
+        ],
+        "design": "A vertical tricolour of red, yellow and green. [0]",
+        "adoptionDate": 1958,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Guinea"
+        ]
+    }
+    ,{
+        "name": "Guinea-Bissau",
+        "image": "guinea-bissau.svg",
+        "category": "Countries",
+        "history": "Like the former flag of Cape Verde, the flag is based on that of the Partido Africano para a Independencia da Guine e Cabo Verde (PAIGC), still the dominant party in Guinea-Bissau. The party flag was derived from that of Ghana, which first used the Pan-African combination of red, yellow, green, and black in 1957. [0]",
+        "meaning": "The flag features the traditional Pan-African colors of gold, green, red, and also the Black Star of Africa. The flag's design is heavily influenced by the flag of Ghana. The colors have the same meanings: specifically, the red is for the blood of martyrs, green for forests, and gold for mineral wealth.\n\nIn the Ghanaian view, the black star stands for the unity of Africa. Red stands for the blood shed during the struggle for independence, yellow stands for the sun, and green represents hope. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "yellow",
+                "hex": "#FCD116"
+            },{
+                "name": "green",
+                "hex": "#009E49"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            }
+        ],
+        "design": "One vertical red line on the hoist side charged with a black five-pointed star; two horizontal lines on the fly side (yellow and green). [0]",
+        "adoptionDate": 1973,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Guinea-Bissau"
+        ]
+    }
+    ,{
+        "name": "Guyana",
+        "image": "guyana.svg",
+        "category": "Countries",
+        "history": "The flag of Guyana, known as The Golden Arrow, has been the national flag of Guyana since May 1966 when the country became independent from the United Kingdom. It was designed by Whitney Smith, an American vexillologist (though originally without the black and white fimbriations, which were later additions suggested by the College of Arms in the United Kingdom). [0]",
+        "meaning": "The colours are symbolic, with green for agriculture and forests, white for rivers and water, gold for mineral wealth, black for endurance, and red for zeal and dynamism. [0]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "yellow",
+                "hex": "#FCD116"
+            },{
+                "name": "green",
+                "hex": "#009E49"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A black-edged red triangle over a larger white-edged gold triangle, both based on the hoist and pointing toward the fly, on a green field. [0]",
+        "adoptionDate": 1966,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Guyana"
+        ]
+    }
 ]
