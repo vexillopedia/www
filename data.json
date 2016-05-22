@@ -2237,4 +2237,82 @@
             "https://flagspot.net/flags/ci.html"
         ]
     }
+    ,{
+        "name": "Jamaica",
+        "image": "jamaica.svg",
+        "category": "Countries",
+        "history": "The present design emerged from those sent in by the public in a national competition. It was originally designed with horizontal stripes, but this was considered too similar to the Tanganyikan flag, and so the saltire was substituted. It hints at the Scottish and Irish roots of much of the population, while black, green, and gold are Pan-African colors, representing the country's black majority population. [0]",
+        "meaning": "An earlier interpretation of the colors was, \"hardships there are but the land is green and the sun shineth\": gold recalls the shining sun, black reflects hardships, and green represents the land. It was changed to black representing the strength and creativity of the people which has allowed them to overcome the odds, yellow for the golden sunshine and green for the lush vegetation of the island. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "yellow",
+                "hex": "#FED100"
+            },{
+                "name": "green",
+                "hex": "#009B3A"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            }
+        ],
+        "design": "A yellow diagonal cross divides into four triangles of green (top and bottom) and black (hoist side and fly side). [0]",
+        "adoptionDate": 1962,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Jamaica"
+        ]
+    }
+    ,{
+        "name": "Japan",
+        "image": "japan.svg",
+        "category": "Countries",
+        "history": "The Nisshōki (日章旗, \"sun-mark flag\") is designated as the national flag in the Law Regarding the National Flag and National Anthem, which was promulgated and became effective on August 13, 1999. Although no earlier legislation had specified a national flag, the sun-disc flag had already become the de facto national flag of Japan. Two proclamations issued in 1870 by the Daijō-kan, the governmental body of the early Meiji period, each had a provision for a design of the national flag. A sun-disc flag was adopted as the national flag for merchant ships under Proclamation No. 57 of Meiji 3 (issued on February 27, 1870), and as the national flag used by the Navy under Proclamation No. 651 of Meiji 3 (issued on October 27, 1870). Use of the Hinomaru was severely restricted during the early years of the American occupation after World War II; these restrictions were later relaxed. [0]",
+        "meaning": "The red disc represents the sun at sunrise.",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#BC002D"
+            }
+        ],
+        "design": "A red sun-disc centered on a white rectangular field. [0]",
+        "adoptionDate": 1870,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Japan"
+        ]
+    }
+    ,{
+        "name": "Jordan",
+        "image": "jordan.svg",
+        "category": "Countries",
+        "history": "The flag of Jordan, officially adopted on 18 April 1928, is based on the flag of the Arab Revolt against the Ottoman Empire during World War I. [0]",
+        "meaning": "The colors stand are the Pan-Arab Colors, representing the Abbasid (black band), Umayyad (white band), and Fatimid (green band) caliphates. The red chevron is for the Hashemite dynasty, and the Arab Revolt.\n\nIn addition to the bands and chevron, a white star with seven points is featured on the hoist side of the red chevron. The star stands for the unity of the Arab people. It is also said to stand for the seven verses of the first surah in the Qur'an, or refer to the seven hills on which Amman, the capital, was built. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#007A3D"
+            }
+        ],
+        "design": "A horizontal triband of black, white and green; with a red chevron based on the hoist side containing a white seven-pointed star. [0]",
+        "adoptionDate": 1928,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Jordan"
+        ]
+    }
 ]
