@@ -2000,4 +2000,241 @@
             "https://en.wikipedia.org/wiki/Flag_of_Hungary"
         ]
     }
+    ,{
+        "name": "Iceland",
+        "image": "iceland.svg",
+        "category": "Countries",
+        "history": "According to a legend described in Andrew Evans' Iceland, a red cloth with a white cross fell from the heavens, ensuring Danish victory at the Battle of Valdemar in the 13th century. Denmark then used the cross on its flag throughout its territories in Scandinavia as a sign of divine right. Upon Iceland's independence, they continued to use the Christian symbol.\n\nThe civil flag of Iceland had been used as an unofficial symbol since 1913. It was officially adopted on 19 June 1915, to represent Iceland, and has been in use at sea since 1 December 1918, when Iceland became a separate Kingdom in the family of Scandinavian countries. Other symbolic meanings refer to the natural features of Iceland itself. [0]",
+        "meaning": "For the Icelandic people the flag's colouring represents a vision of their country's landscape. The colours stand for 3 of the elements that make up the island. Red is the fire produced by the island's volcanoes, white recalls the ice and snow that covers Iceland, and blue is for the ocean. [0]",
+        "ratio": "18:25",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0048E0"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#FF0F00"
+            }
+        ],
+        "design": "A white-fimbriated red Nordic cross on a blue field. [0]",
+        "adoptionDate": 1944,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Iceland"
+        ]
+    }
+    ,{
+        "name": "India",
+        "image": "india.svg",
+        "category": "Countries",
+        "history": "The National Flag of India is a horizontal rectangular tricolour of deep saffron, white and India green; with the Ashoka Chakra, a 24-spoke wheel, in navy blue at its centre. It was adopted in its present form during a meeting of the Constituent Assembly held on 22 July 1947, when it became the official flag of the Dominion of India. The flag was subsequently retained as that of the Republic of India. In India, the term \"tricolour\" (Hindi: तिरंगा, Tiraṅgā) almost always refers to the Indian national flag. The flag is based on the Swaraj flag, a flag of the Indian National Congress designed by Pingali Venkayya.\n\nIn April 1921, Mohandas Karamchand Gandhi wrote in his journal Young India about the need for an Indian flag, proposing a flag with the charkha or spinning wheel at the centre. The idea of the spinning wheel was put forth by Lala Hansraj, and Gandhi commissioned Pingali Venkayya to design a flag with the spinning wheel on a red and green banner, the red colour signifying Hindus and the green standing for Muslims. Gandhi wanted the flag to be presented at the Congress session of 1921, but it was not delivered on time, and another flag was proposed at the session. Gandhi later wrote that the delay was fortuitous since it allowed him to realise that other religions were not represented; he then added white to the banner colours, to represent all the other religions. Finally, owing to the religious-political sensibilities, in 1929, Gandhi moved towards a more secular interpretation of the flag colours, stating that red stood for the sacrifices of the people, white for purity, and green for hope.\n\nOn 14 July 1947, the committee recommended that the flag of the Indian National Congress be adopted as the National Flag of India with suitable modifications, so as to make it acceptable to all parties and communities. It was also resolved that the flag should not have any communal undertones. The spinning wheel of the Congress flag was replaced by the Chakra (wheel) from the Lion Capital of Ashoka. According to Sarvepalli Radhakrishnan, the chakra was chosen as it was representative of dharma and law. However, Nehru explained that the change was more practical in nature, as unlike the flag with the spinning wheel, this design would appear symmetrical. Gandhi was not very pleased by the change, but eventually came around to accepting it. [0]",
+        "meaning": "Gandhi first proposed a flag to the Indian National Congress in 1921. The flag was designed by Pingali Venkayya. In the centre was a traditional spinning wheel, symbolising Gandhi's goal of making Indians self-reliant by fabricating their own clothing. The design was then modified to include a white stripe in the centre for other religious communities, and provide a background for the spinning wheel. Subsequently, to avoid sectarian associations with the colour scheme, saffron, white and green were chosen for the three bands, representing courage and sacrifice, peace and truth, and faith and chivalry respectively. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "orage",
+                "hex": "#FF9933"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#128807"
+            },{
+                "name": "blue",
+                "hex": "#000088"
+            }
+        ],
+        "design": "A horizontal triband of India saffron, white, and India green; charged with a navy blue wheel with 24 spokes in the centre. [0]",
+        "adoptionDate": 1947,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_India"
+        ]
+    }
+    ,{
+        "name": "Indonesia",
+        "image": "indonesia.svg",
+        "category": "Countries",
+        "history": "Its colours are derived from the banner of the 13th century Majapahit Empire. However it was suggested that the reverence for the colours red and white can trace its origin to older common Austronesian mythology of Mother Earth and Father Sky; both symbolise in colours red (earth) and white (sky). This is one of the reasons why the colours red and white appears in many of the flags throughout Austronesia — from Tahiti to Indonesia and Madagascar. White and Red would also later on symbolise the duality of nature.\n\nLater, these colours were revived by students and then nationalists in the early 20th century as an expression of nationalism against the Dutch. The red-white flag was flown for the first time in Java in 1928. Under Dutch rule, the flag was prohibited. It was adopted as the national flag on 17 August 1945, when independence was declared and has been in use since then. [0]",
+        "meaning": "Several opinions have been expressed on the meaning of the red and white in the Indonesian flag. One opinion is that the red stands for courage, while the white stands for purity. Another is that red represents the human body or physical life, while white represents the soul or spiritual life; together they stand for a complete human being.\n\nTraditionally, most Indonesians have used red and white as their ceremonial colours, mixing the colour of sugar (the red colour comes from palm sugar or gula aren) and rice (white in colour). Inarguably, until today, both of these are the major components of daily Indonesian cuisine or cooking. The Majapahit Empire have the same colours in its flag. [1]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A horizontal bicolour of red and white. [0]",
+        "adoptionDate": 1945,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Indonesia",
+            "https://flagspot.net/flags/id.html"
+        ]
+    }
+    ,{
+        "name": "Iran",
+        "image": "iran.svg",
+        "category": "Countries",
+        "history": "The first version of the modern Iranian tricolour was adopted in the wake of the Iranian Constitutional Revolution of 1906. The Supplementary Fundamental Laws of 7 October 1907 described the flag as a tricolour of green, white, and red, with a lion and sun emblem in the middle. A decree dated 4 September 1910 specified the exact details of the emblem, including the shape of the lion's tail (\"like an italic S\") and the position and the size of the lion, the sword, and the sun.\n\nDuring this period, the colours of the flag were very pale, with the red appearing closer to pink in practice. There were three variants of the flag in use. The state flag was a tricolour with the lion and sun emblem in the centre. The national flag and civil ensign was a plain tricolour with no emblem. The naval ensign and war flag was similar to the state flag, but the emblem was surrounded by a wreath and surmounted by a crown. All three flags had a 1:3 ratio.\n\nThe flag was modified twice during the Pahlavi era. In 1933, the colours of the flag were darkened and the design of the emblem was changed. The sun's facial features were removed and the Kiani Crown on the naval ensign was replaced with the Pahlavi Crown. In 1964, the ratio was changed from 1:3 to 4:7 and the emblem on the naval ensign was shrunk to fit entirely within the white stripe.\n\nFollowing the Iranian Revolution, the Interim Government of Iran removed the crown from the naval ensign. The old state and national flags remained unchanged until 29 July 1980, when the modern Iranian flag was adopted. [0]",
+        "meaning": "In the Iranian culture, green symbolizes growth, happiness, unity, nature, vitality, and the Persian Language. Historically, a green and white flag in a triangular form used to be the flag of the Persians (Pars).\n\nThe traditional colour of white stands for freedom. Because white is blank and it's free to hold anything on it.\n\nRed stands for martyrdom. In the Iranian culture, it symbolizes bravery, fire, life, love, warmth, and sophistication. Historically, a red and white flag in a triangular form used to be the flag of the Medes (Mada).\n\nSince Cyrus the Great, a Persian, defeated his grandfather Astyages the High Judge (King) of the Medes and founded Iran by uniting the Persians and the Medes. The Iranian flag (which was later designed under Darius I the Great) symbolized this unity and victory (green above white and red) as the flag of the people of Iran. [0]",
+        "ratio": "1:1.7477",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#239F40"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#DA0000"
+            }
+        ],
+        "design": "A horizontal tricolour of green, white, and red charged with the emblem of Iran in red centred on the white stripe. The statement \"الله اکبر\" (lit. God is Great) is written in white square Kufic script a total of 22 times on the fringe of both the green and red bands. [0]",
+        "adoptionDate": 1980,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Iran"
+        ]
+    }
+    ,{
+        "name": "Iraq",
+        "image": "iraq.svg",
+        "category": "Countries",
+        "history": "After Qassim was overthrown by the Ba'ath Party in 1963, the new Ba'athist government adopted a modified version of the Arab Liberation flag as the new flag of Iraq on 31 July 1963 (Law 28 of 1963). This horizontal tricolour of red, white, and black bands (first used in the Egyptian Revolution of 1952) formed the basis of the flag of the United Arab Republic (UAR). Though the UAR broke up in 1961, hopes for Arab unity persisted. As such, whereas the UAR flag had two green stars in the white band, signifying its two members (Egypt and Syria), the new Iraqi flag had three stars, symbolising the aspiration that Iraq would join with Egypt and Syria in a new union. Sharing this goal, Syria adopted the new Iraqi flag as its own later that same year. This remained the flag of Syria until 1971, when the green stars were replaced by the Hawk of Qureish.\n\nThe Iraqi Flag Law No. 28 of 1963 was replaced by Flag Law No. 33 of 1986, during the presidency of Saddam Hussein, in which although the flag remained the same, the meaning of the three stars was changed from their original geographic meaning to representations of the three tenets of the Ba'ath Party motto: wahda, hurriyah, ishtirakiyah (unity, freedom and socialism).\n\nOn 13 January 1991, the flag was modified by Flag Law No. 6 of 1991. At the instigation of Saddam Hussein, the takbīr (the phrase Allahu akbar, meaning \"God is great\" in Arabic) was added in green between the stars. The form of the takbīr was said to be Saddam's own handwriting.\n\nDue to these differing views, and the prevailing opposition to an outright abandonment of the current Iraqi flag, a compromise measure was adopted by the U.S.-appointed Iraqi interim administration in 2004. The basic form of the existing flag was retained; however, the takbīr was rendered in traditional stylized Kufic script, as opposed to the handwriting of Saddam Hussein.\n\nOn 22 January 2008, a new design for the flag was confirmed by Law 9 of 2008. In this current version, the three stars were removed. The parliament intended that the new design last for one year, after which a final decision on the flag would be made. However, the flag law was reviewed in parliament on 30 April 2009. [0]",
+        "meaning": "The band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white); the Council of Representatives approved this flag in 2008 as a compromise temporary replacement for the Ba'athist Saddam-era flag [1]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "green",
+                "hex": "#007A3D"
+            }
+        ],
+        "design": "A horizontal tricolour of red, white, and black, charged with the takbīr (Allahu akbar, \"God is great\") in green Kufic script, centered on the white stripe. [0]",
+        "adoptionDate": 2008,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Iraq",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Ireland",
+        "image": "ireland.svg",
+        "category": "Countries",
+        "history": "Presented as a gift in 1848 to Thomas Francis Meagher from a small group of French women sympathetic to the Irish cause, it was not until the Easter Rising of 1916, when it was raised above the General Post Office in Dublin, that the tricolour came to be regarded as the national flag. Meagher was the son of Newfoundland-born mayor of Waterford, Thomas Meagher Jr. However, there are two theories on his inspiration for the flag: the similarly-coloured Newfoundland Tricolour credited in legend as having been created in 1843, though this seems unlikely given the actual known history surrounding the Newfoundland Tricolour; and the French Tricolour.\n\nThe flag was adopted in 1916 by the Easter Rising rebels and subsequently by the Irish Republic during the Irish War of Independence (1919–1921). Its use was continued by the Irish Free State (1922–1937) and it was later given constitutional status under the 1937 Constitution of Ireland. The tricolour is used by nationalists on both sides of the border as the national flag of the whole island of Ireland since 1916. Thus it is flown by many nationalists in Northern Ireland as well as by the Gaelic Athletic Association. [0]",
+        "meaning": "The Irish government has described the symbolism behind each colour as being that of green representing the Gaelic tradition of Ireland, orange representing the followers of William of Orange in Ireland, and white representing the aspiration for peace between them. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#169B62"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "orange",
+                "hex": "#FF883E"
+            }
+        ],
+        "design": "A vertical tricolour of green, white, and orange. [0]",
+        "adoptionDate": 1922,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Ireland"
+        ]
+    }
+    ,{
+        "name": "Israel",
+        "image": "israel.svg",
+        "category": "Countries",
+        "history": "The flag of Israel was adopted on October 28, 1948, five months after the establishment of the State of Israel. The flag was designed for the Zionist Movement in 1891. The basic design recalls the Tallit, the Jewish prayer shawl, which is white with black or blue stripes. The symbol in the center represents the Star of David (\"Magen David\"), a Jewish symbol dating from late medieval Prague, which was adopted by the First Zionist Congress in 1897. [0]",
+        "meaning": "The blue stripes are intended to symbolize the stripes on a tallit, the traditional Jewish prayer shawl. The portrayal of a Star of David on the flag of the State of Israel is a widely acknowledged symbol of the Jewish people and of Judaism. [0]",
+        "ratio": "8:11",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#0038B8"
+            }
+        ],
+        "design": "A blue Star of David between two horizontal blue stripes on a white field. [0]",
+        "adoptionDate": 1948,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Israel"
+        ]
+    }
+    ,{
+        "name": "Italy",
+        "image": "italy.svg",
+        "category": "Countries",
+        "history": "The first entity to use the Italian tricolour was the Cisalpine Republic in 1797, which supplanted Milan after Napoleon's victorious army crossed Italy in 1796. The colours chosen by the Cispadane Republic were red and white, which were the colours of the recently conquered flag of Milan; and green, which was the colour of the uniform of the Milanese civic guard. During this time, many small French-proxy republics of Jacobin inspiration supplanted the ancient absolute Italian states and almost all, with variants of colour, used flags characterised by three bands of equal size, clearly inspired by the French model of 1790. [0]",
+        "meaning": "Some have attributed particular values to the colours, and a common interpretation is that the green represents the country's plains and the hills; white, the snow-capped Alps; and red, blood spilt in the Wars of Italian Independence. A more religious interpretation is that the green represents hope, the white represents faith, and the red represents charity; this references the three theological virtues. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#009246"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#CE2B37"
+            }
+        ],
+        "design": "A vertical tricolour of green, white and red. [0]",
+        "adoptionDate": 1946,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Italy"
+        ]
+    }
+    ,{
+        "name": "Ivory Coast",
+        "image": "ivory-coast.svg",
+        "category": "Countries",
+        "history": "After independence, the Ivory Coast formed a loose alliance of West African states. The flags of these states were influenced both by the Pan-African colours first used by Ghana, and also by the model of the French Tricolour, the flag of the former colonial power. The colours chosen for the Ivory Coast's flag were also used by Niger, with which the Ivory Coast had an alliance. [0]",
+        "meaning": "The orange colour stands for the land, the savannah found in the northern part and its fertility, the white represents peace, and the green represents hope and also the forest of the southern part of the country. [1]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "orange",
+                "hex": "#F77F00"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#009E60"
+            }
+        ],
+        "design": "A vertical tricolour of orange, white, and green. [0]",
+        "adoptionDate": 1959,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Ivory_Coast",
+            "https://flagspot.net/flags/ci.html"
+        ]
+    }
 ]
