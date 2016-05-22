@@ -1927,4 +1927,77 @@
             "https://en.wikipedia.org/wiki/Flag_of_Guyana"
         ]
     }
+    ,{
+        "name": "Haiti",
+        "image": "Haiti.svg",
+        "category": "Countries",
+        "history": "The first purely Haitian flag was adopted on May 18, 1803, on the last day of the Congress of Arcahaie, about fifty miles north of Port-au-Prince. Haitian lore holds that the newly appointed revolutionary leader Jean-Jacques Dessalines created the flag by taking a French tricolor and ripping out the white center, which he discarded. He then asked Catherine Flon, his god-daughter, to sew the remaining bands together. The white pale removed, the blue was taken to represent Haiti's black citizens and the red the gens de couleur. The story is widely known in Haiti: the anniversary of the date is celebrated as the Haitian Flag Day and images of Catherine Flon have appeared on Haitian currency and stamps.\n\nFollowing his proclamation as Emperor Jacques I, Dessalines promulgated a new constitution on May 20, 1805. In it, the colors of the flag were altered to black and red. This flag being subsequently adopted by Henri Christophe, the republicans under Alexandre Pétion returned to the colors blue and red, subsequently turning them horizontal and adding the newly adopted Haitian coat of arms.\n\nDuring the period of the Haitian Empire of Faustin I, his coat of arms was used on the flag and for official functions, but it was subsequently abandoned upon his removal from office.\n\nBetween 1964 and 1986, the family dictatorships of François \"Papa Doc\" and Jean-Claude \"Baby Doc\" Duvalier returned to Dessalines' black and red design. They included the national coat of arms, but altered the flags in its trophy to black as well.\n\nBecause the coat of arms is only used for national and military flags, whereas the civil flag consists solely of the two unaugmented horizontal bands, it was discovered at the 1936 Berlin Summer Olympics that Haiti and Liechtenstein were using the same flag. This led to the addition of a crown to the design of the flag of Liechtenstein. [0]",
+        "meaning": "The coat of arms depicts a trophy of weapons ready to defend freedom and a royal palm for independence. The palm is topped by the Cap of Liberty. The motto is on a white scroll reading L'Union Fait La Force (\"Unity Makes Strength.\"). [0] The colors are taken from the French Tricolor and represent the union of blacks and mulattoes. [1]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#00209F"
+            },{
+                "name": "red",
+                "hex": "#D21034"
+            }
+        ],
+        "design": "A horizontal bicolour of blue and red, charged with the Coat of Arms in a small white box in the center. [0]",
+        "adoptionDate": 1986,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Haiti",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Honduras",
+        "image": "honduras.svg",
+        "category": "Countries",
+        "history": "This national flag of Honduras was adopted on March 7, 1866, based on the flag of the Federal Republic of Central America. In 1823 Honduras joined the United Provinces of Central America and adopted their flag. In 1866 it was amended; five cerulean stars were placed in the center to represent the five original Central American provinces. The colors and pattern are the same as the flag of the United Provinces of Central America. [0]",
+        "meaning": "The two outer cerulean bands represent the Pacific Ocean and the Caribbean Sea, and also represent the blue sky and brotherhood. The inner white band represents the land between the ocean and the sea, the peace and prosperity of its people, and purity of thoughts.\n\nThe five cerulean five-pointed stars arranged in an X pattern centered in the white band represent the five nations of the former Federal Republic of Central America (El Salvador, Costa Rica, Nicaragua, Honduras, and Guatemala) and the hope that the nations may form a union again. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0073CF"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A horizontal triband of blue (top and bottom) and white with five blue five-pointed stars arranged in an X pattern centered on the white band. [0]",
+        "adoptionDate": 1866,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Honduras"
+        ]
+    }
+    ,{
+        "name": "Hungary",
+        "image": "hungary.svg",
+        "category": "Countries",
+        "history": "The nation of Hungary originated from the national freedom movement from before 1848, which culminated in the Hungarian Revolution of 1848. The revolution was not only in opposition against the monarchy but also the Habsburg Empire, as well as to form an independent republic. Accordingly, the Hungarian flag features a tricolour element, which is based upon the French flag, as a reflection of the ideas of the French revolution; while red, white, and green are colours derived from the historical Hungarian coat of arms, which have essentially remained in the same form since the mid-15th century, with exception to some minor differences, and were marshalled from arms that first appeared in the late 12th and early 13th century as arms of the Árpáds, Hungary's founding dynasty. The stripes are horizontal rather than vertical to prevent confusion with the Italian flag, which had also been designed after the French flag. [0]",
+        "meaning": "Folklore of the romantic period attributed the colours to virtues: red for strength, white for faithfulness and green for hope. Alternatively, red for the blood spilled for the fatherland, white for freedom and green for the land, for the pastures of Hungary. The new constitution, which took effect on 1 January 2012, makes the ex-post interpretation mentioned first official (in the semi-official translation: strength (erő), fidelity (hűség) and hope (remény)). [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CD2A3E"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#436F4D"
+            }
+        ],
+        "design": "A horizontal triband of red, white and green. [0]",
+        "adoptionDate": 1957,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Hungary"
+        ]
+    }
 ]
