@@ -2315,4 +2315,195 @@
             "https://en.wikipedia.org/wiki/Flag_of_Jordan"
         ]
     }
+    ,{
+        "name": "Kazakhstan",
+        "image": "kazakhstan.svg",
+        "category": "Countries",
+        "history": "The current flag of Kazakhstan was adopted on 4 June 1992, replacing the flag of the Kazakh Soviet Socialist Republic. The flag was designed by Shaken Niyazbekov. The color choices had preserved the Soviet era flag minus the red. [0]",
+        "meaning": "The pattern represents the art and cultural traditions of the old khanate and the Kazakh people. The blue color is of religious significance to the Turkic peoples of the country, and so symbolizes cultural and ethnic unity; it also represents the endless sky as well as water. The sun, a source of life and energy, exemplifies wealth and plenitude. The sun's rays are shaped like grain, which is the basis of abundance and prosperity. The eagle has appeared on the flags of Kazakh tribes for centuries and represents freedom, power, and the flight to the future. [1][2]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#00AFCA"
+            },{
+                "name": "yellow",
+                "hex": "#FEC50C"
+            }
+        ],
+        "design": "A gold sun with 32 rays above a soaring golden steppe eagle, both centered on a sky blue field. The hoist side displays a national ornamental pattern \"koshkar-muiz\" (the horns of the ram) in gold. [0]",
+        "adoptionDate": 1992,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Kazakhstan",
+            "http://aboutkazakhstan.com/about-kazakhstan-government/kazakhstan-flag",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Kenya",
+        "image": "kenya.svg",
+        "category": "Countries",
+        "history": "The Kenyan flag is based on that of Kenya African National Union and was adopted in December 12, 1963 as the country's flag. [0]",
+        "meaning": "The color black represents the people of the Republic of Kenya, red for the blood shed during the fight for independence, and green for the country's landscape and natural wealth. The white fimbriation was added later to symbolize peace and honesty. The black, red, and white traditional Maasai shield and two spears symbolize the defense of all the things mentioned above. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "red",
+                "hex": "#BB0000"
+            },{
+                "name": "green",
+                "hex": "#006600"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A horizontal tricolour of black, white-edged red, and green with two crossed white spears behind a red, white, and black Maasai shield. [0]",
+        "adoptionDate": 1963,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Kenya"
+        ]
+    }
+    ,{
+        "name": "Kiribati",
+        "image": "kiribati.svg",
+        "category": "Countries",
+        "history": "The badge was designed by Sir Arthur Grimble in 1932 for the Gilbert and Ellice Islands British colony.\n\nKiribati's flag is an armorial banner, a flag having a design corresponding exactly to that of the shield in the coat of arms.\n\nThe coat of arms dates back to May 1937 when it was granted to the Gilbert and Ellice Islands, as Kiribati and Tuvalu were then known. The shield was incorporated into the centre of the fly half of a British Blue Ensign as the state ensign of the colony.\n\nShortly before independence was granted in 1979, a local competition was held to choose a new national flag, and a design based on the colonial coat of arms was submitted to the College of Arms. The College of Arms decided to modify this design. Both the golden frigatebird and the sun were enlarged to occupy more of the top of the flag, and the width of the blue and white wavy bands was reduced. The local people, however, insisted on the original design, in which the top and bottom halves of the flag were equal, the sun and local frigate bird small, and the various design elements outlined in black. The new flag was hoisted during the independence day celebrations in the capital, Tarawa, on July 12, 1979. [0]",
+        "meaning": "The frigatebird symbolises command of the sea, power, freedom. The blue with three horizontal wavy white stripes to represent the ocean and the three groups (Gilbert, Phoenix and Line Islands). The 17 rays of the sun represent the 16 Gilbert Islands and Banaba (former Ocean Island). [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "yellow",
+                "hex": "#FCD116"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#003F87"
+            }
+        ],
+        "design": "A horizontal bicolor of red and blue with a yellow frigate bird flying over a rising sun on the upper half and three white wavy horizontal stripes on the lower half. [0]",
+        "adoptionDate": 1979,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Kiribati"
+        ]
+    }
+    ,{
+        "name": "North Korea",
+        "image": "north-korea.svg",
+        "category": "Countries",
+        "history": "The flag was adopted when the northern portion of Korea became a socialist republic supported by the People's Republic of China and the Soviet Union following the restoration of independence of Korea and the surrender of the Empire of Japan. The flag itself was designed in the Soviet Union and formally replaced the previous one in July 1948. [0]",
+        "meaning": "The red stripe expresses revolutionary traditions. The two blue stripes stand for sovereignty, peace and friendship. The white stripes symbolize purity. The North Korean flag's prominent red star is a universal symbol of communism, although since the flag's adoption, the application of the Marxist-Leninist-natured philosophy of Juche has replaced communist authority as the state's guiding ideology, and references to Communism have been systematically removed from the country's constitution and legal documents.\n\nThe website of the Korean Friendship Association indicates, on the contrary, the red star represents revolutionary traditions, the red panel is indicative of the patriotism and determination of the Korean people. The white stripes symbolizes the unified nation and its culture. The blue stripes represent unity. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#ED1C27"
+            },{
+                "name": "blue",
+                "hex": "#024FA2"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A wide red stripe at the center, bordered by a narrow white stripe both above and below, followed by a blue stripe. The central red stripe carries a five-pointed red star within a white circle near the hoist. [0]",
+        "adoptionDate": 1948,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_North_Korea"
+        ]
+    }
+    ,{
+        "name": "South Korea",
+        "image": "south-korea.svg",
+        "category": "Countries",
+        "history": "The lack of the national flag only became an issue in 1876, in the Joseon Dynasty. Before 1876, a national flag did not exist and it was not considered important. The issue began during the negotiations for the Japan–Korea Treaty of 1876. Although the delegate of the Empire of Japan had the Japanese national flag, the Joseon Dynasty could not hang a corresponding flag.\n\nThe issue was then shelved but reemerged with the ratification of the United States–Korea Treaty of 1882. The controversy arose after the delegate Lee Eung-Jun presented a flag similar to the flag of Japan to the Chinese official Ma Jianzhong. In response to the discussion, Ma Jianzhong argued against the proposed idea of using the flag of the Qing Dynasty and proposed a flag with a white background, with a half-red and half-black circle in the center, with eight black bars around the flag. On August 22, 1882, Park Yeong-hyo created a scale model of the Taegukgi to the Joseon government. Park Yeong-hyo became the first person to use the Taegukgi in the Empire of Japan in 1882. On January 27, 1883, the Joseon government officially promulgated Taegukgi to be used as the official national flag. [0]",
+        "meaning": "The flag's background is white, which is a traditional Korean color, common to the daily attire of 19th century Koreans and the color is also use for a traditional Korean wear (hanbok). It represents peace and purity. The circle in the middle is derived from the philosophy of yin-yang and represents the balance of the universe. The blue section represents the negative cosmic forces, and the red section represents the opposing positive cosmic forces. The trigrams together represent the principle of movement and harmony. Each trigram (geon (건 / 乾), ri (리 / 離), gam (감 / 坎) and gon (곤 / 坤)) represents one of the four classical elements. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#C60C30"
+            },{
+                "name": "blue",
+                "hex": "#003478"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            }
+        ],
+        "design": "White with a red (top) and blue yin-yang symbol in the center; there is a different black trigram from the ancient I Ching (Book of Changes) in each corner of the white field [1]",
+        "adoptionDate": 1883,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_South_Korea",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Kuwait",
+        "image": "kuwait.svg",
+        "category": "Countries",
+        "history": "Before 1961, the flag of Kuwait was red and/or white, like those of other Persian Gulf states at the time, with the field being red and words and/or charges being written in white. Until 1899, the flag consisted solely of a red field. From 1899 to 1915, the red field bore a white crescent and star and, also in white, the word \"كويت\" (Kuwait) styled so as to de-emphasize the word-initial K:  From 1899 to 1909, the crescent-and-star symbol and the country's name were of equal height; between 1909 and 1915, the crescent and star predominated at the center, with the country's name reduced in size and relegated to the top fly-side corner. Between 1915 and 1956, the crescent and star were removed and the name was enlarged and returned to the center of the flag. Between 1956 and 1961, the crescent and star remained absent, the name was written in a different style placing greater emphasis on the word-initial K, the hoist side of the flag bore a wavy white bordure, and the Shahadah was written vertically and oriented so as to be read top-to-bottom. The present flag is in the Pan-Arab colours, but each colour is also significant in its own right. [0]",
+        "meaning": "Black represents the defeat of the enemy, while red is the colour of blood on the Kuwaiti swords. White symbolizes purity, and green is for the fertile land.\n\nThe colours' meaning came from a poem by Safie Al-Deen Al-Hali: \"White are our deeds. Black are our battles. Green are our lands. Red are our swords.\". [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#007A3D"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            }
+        ],
+        "design": "A horizontal triband of green, white and red; with a black trapezium based on the hoist side. [0]",
+        "adoptionDate": 1961,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Kuwait"
+        ]
+    }
+    ,{
+        "name": "Kyrgyzstan",
+        "image": "kyrgyzstan.svg",
+        "category": "Countries",
+        "history": "The flag was adopted on 3 March 1992 by the Supreme Council of Kyrgyzstan. The red and yellow colors retain the heritage of the Soviet flag. In the center of the sun is a red ring crossed by two sets of three lines, a stylized representation of the tündük (Kyrgyz: түндүк [tyndyk]), or crown of the traditional Kyrgyz yurt, a symbol also on the national emblem and replicated in many facets of Kyrgyz architecture. [0]",
+        "meaning": "The red background of the flag symbolizes bravery and valor, the sun represents peace and wealth, and the tunduk signifies the family home or, by extension, the universe. According to popular interpretations, the sun's 40 rays represent the 40 Kyrgyz tribes unified against the Mongols by the epic hero Manas. [0]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#E8112D"
+            },{
+                "name": "yellow",
+                "hex": "#FFEF00"
+            }
+        ],
+        "design": "A red field charged with a yellow sun with forty uniformly spaced rays; the sun is crossed by two sets of three lines. [0]",
+        "adoptionDate": 1992,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Kyrgyzstan"
+        ]
+    }
 ]
