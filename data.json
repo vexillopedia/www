@@ -2506,4 +2506,243 @@
             "https://en.wikipedia.org/wiki/Flag_of_Kyrgyzstan"
         ]
     }
+    ,{
+        "name": "Laos",
+        "image": "laos.svg",
+        "category": "Countries",
+        "history": "The current Lao flag was designed in 1945 by Maha Sila Viravong, a famous Lao nationalist, intellectual, and scholar of traditional Lao literature, history, and culture. As one of the members of the Lao Issara government, he was tasked with creating a new Lao national flag that is to be distinct from the royalist flag (the red flag with the white three-headed elephant) that represented the monarchy of Luang Prabang, inspired in how Thailand in 1917 adopted the red-white-blue tricolour as its national flag over the traditional royalist flag (the red flag with the white elephant). In accordance with the establishment of the Lao Issara government and its first Lao constitution on October 12, 1945, Viravong's flag was adopted by the new government as its national flag until the French takeover in 1946. The Lao Issara, as a political movement, continued to use the flag in exile until its dissolution in 1949. Its communist-led successor, the Pathet Lao, re-used Viravong's flag to represent the movement until the fall of the royal government in 1975 when the Pathet Lao re-adopted it as the national flag. [0]",
+        "meaning": "The red bands recall the blood shed for liberation. The blue band represents the Mekong River and prosperity. The white disk symbolizes the full moon against the Mekong River, but also signifies the unity of the people under the Lao People's Revolutionary Party, as well as the country's bright future. [1]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "blue",
+                "hex": "#002868"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A horizontal triband of red, blue (double height) and red; charged with a white circle in the centre (the diameter of white circle is four-fifths the height of blue band). [0]",
+        "adoptionDate": 1945,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Laos",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Latvia",
+        "image": "latvia.svg",
+        "category": "Countries",
+        "history": "The red-white-red Latvian flag (German: die banier der Letten ) was first mentioned in the chapters of the Rhymed Chronicle of Livonia (Livländische Reimchronik). This historical evidence places the Latvian flag among the oldest flags in the world. The chronicle tells about a battle that took place around 1279, in which ancient Latvian tribes from Cēsis, a city in the northern part of Latvia, went to war, bearing a red flag with a white stripe.\n\nA legend refers to a mortally wounded chief of a Latvian tribe who was wrapped in a white sheet. The part of the sheet on which he was lying remained white, but the two edges were stained in his blood. During the next battle the bloodstained sheet was used as a flag. According to the legend this time the Latvian warriors were successful and drove the enemy away. Ever since then Latvian tribes have used these colours.\n\nBased on the aforementioned historical record, the present day flag design was adapted by artist Ansis Cīrulis in May 1917. The Latvian national flag, together with the national coat of arms was affirmed in this format by a special parliamentary decree of the Republic of Latvia passed on 15 June 1921. [0]",
+        "meaning": "The red colour is sometimes described as symbolizing the readiness of the Latvians to give the blood from their hearts for freedom and their willingness to defend their liberty. An alternative interpretation, according to one legend, is that a Latvian leader was wounded in battle, and the edges of the white sheet in which he was wrapped were stained by his blood. The white stripe may stand for the sheet that wrapped him. This story is similar to the legend of the origins of the flag of Austria. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#9E1B34"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A carmine field bisected by a narrow white stripe (one-fifth the width of the flag). [0]",
+        "adoptionDate": 1923,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Latvia"
+        ]
+    }
+    ,{
+        "name": "Lebanon",
+        "image": "lebanon.svg",
+        "category": "Countries",
+        "history": "The present Lebanese flag was adopted just prior to independence from France in 1943. Seeking independence, the actual flag was first drawn by member of parliament Henri Pharaon in the Chamber of deputies Saeb Salam's house in Mousaitbeh by the deputies of the Lebanese parliament. It was adopted on December 7, 1943, during a meeting in the parliament, where the article 5 in the Lebanese constitution was modified.\n\nOne theory is that since Henri Pharaon was a long-time consul in Vienna, Austria and was an avid friend and founder of the \"Austro-Lebanese Association of Friendship\", the colors could have been inspired by the red-white-red Flag of Austria, where the flag colors are based on the Lebanese geography and therefore, the first red represents the Mount Lebanon and the second red represents the Anti-Lebanon mountains and the white represents the Beqaa Valley, which is situated in the middle of the two mountain ranges on the map of Lebanon. And the green cedar (Lebanon Cedar) in the middle of the white part touches each of the red stripes is added because Lebanon is sometimes metonymically referred to as the Land of the Cedars. The Austrian flag is the second oldest in the world, dating to the 13th century when it first probably appeared after the Siege of Acre during the Third Crusade. The colors could have been inspired by the red-white-red Flag of Austria, but the white stripe (a Spanish fess) could have been inspired by the red-yellow-red Flag of Spain, where the flag structure is based on the Lebanese connection to the Mediterranean sea and its Phoenician past that reached to the Mediterranean shores of present-day Spain. [0]",
+        "meaning": "The white color on the flag represents the snow as a symbol of purity and peace. The two red stripes refer to the Lebanese blood shed to preserve the country against the successive invaders. The presence and position of the Cedar in the middle of the flag is directly inspired by the mountains of Lebanon cedar (Cedrus libani). The Cedar is a symbol of holiness, eternity and peace. As an emblem of longevity, the cedar of Lebanon has its origin in many biblical references. For the Lebanese, the cedar is a symbol of hope, freedom and memory. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#ED1C24"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#00A651"
+            }
+        ],
+        "design": "A horizontal triband of red, white (double height) and red; charged with a green Lebanon Cedar. [0]",
+        "adoptionDate": 1943,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Lebanon"
+        ]
+    }
+    ,{
+        "name": "Lesotho",
+        "image": "lesotho.svg",
+        "category": "Countries",
+        "history": "In 2006, a new flag was chosen from four proposed designs; all of these designs included a brown Basotho. This was subsequently changed to a black Basotho hat in order to represent Lesotho as a black nation. The design, introduced to honour the 40th anniversary of independence, is intended to reflect a peaceful orientation for the country. [0]",
+        "meaning": "Blue represents the sky or rain. Lesotho is mountainous and the rain symbolises the vast volumes of water Lesotho has. Green represents prosperity. White represents peace. Lesotho has had the ideology of peace since the ages of King Moshoeshoe I. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#00209F"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#009543"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            }
+        ],
+        "design": "A horizontal triband of blue, white and green; charged with a black mokorotlo (a Basotho hat) centred on the white band. [0]",
+        "adoptionDate": 2006,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Lesotho"
+        ]
+    }
+    ,{
+        "name": "Liberia",
+        "image": "liberia.svg",
+        "category": "Countries",
+        "history": "The Liberian flag is the only flag in the world to be modeled after and resemble the American flag because Liberia was the only nation in the world that was founded, colonized, established and controlled by freed African-American and ex-Caribbean slaves as settlers from the United States and the Caribbean islands with the help and support from the American Colonization Society. The American Colonization Society was a private organization establishment which sent freed American and ex-Caribbean slaves as settlers from the United States and the Caribbean islands. When the freed American slaves arrived in Liberia on January 7,1822 they identify themselves as Americo-Liberian, in which to separate themselves from the native Liberians and other settlers. The Americo-Liberian was offspring and bloodline origins of black American from the United States. The Americo-Liberian wasn't the only ethnic group that came to Liberia; there were other ethnic groups who came with the Americo-Liberian, which were Native American, Afro-Caribbean, African-European and white American. [0]",
+        "meaning": "The eleven stripes symbolize the signatories of the Liberian Declaration of Independence, red and white symbolizing courage and moral excellence. The white star represents the first independent western-styled republic in Africa, above the blue square representing the African continent. [0]",
+        "ratio": "10:19",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#BF0A30"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#002868"
+            }
+        ],
+        "design": "Eleven horizontal stripes alternating red and white; in the canton, a white star on a blue field. [0]",
+        "adoptionDate": 1847,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Liberia"
+        ]
+    }
+    ,{
+        "name": "Libya",
+        "image": "libya.svg",
+        "category": "Countries",
+        "history": "The flag of Libya was originally introduced in 1951, following the creation of the Kingdom of Libya. It was designed by Omar Faiek Shennib and approved by King Idris Al Senussi who comprised the UN delegation representing the regions of Cyrenaica, Fezzan and Tripolitania at UN unification discussions.\n\nThe flag fell out of use in 1969, but was subsequently adopted by the National Transitional Council and anti-Gaddafi forces and effectively reinstated as the country’s national flag in article three of the Libyan Draft Constitutional Charter for the Transitional Stage issued on 3 August 2011. [0]",
+        "meaning": "The colors represent the three major regions of the country: red stands for Fezzan, black symbolizes Cyrenaica, and green denotes Tripolitania. The crescent and star represent Islam, the main religion of the country. [1]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#E70013"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "green",
+                "hex": "#239E46"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A horizontal triband of red, black (double width) and green; charged with a white crescent and five-pointed star centred on the black stripe. [0]",
+        "adoptionDate": 1951,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Libya",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Liechtenstein",
+        "image": "liechtenstein.svg",
+        "category": "Countries",
+        "history": "Liechtenstein was formed in 1719 as a principality within the Holy Roman Empire, and gained complete independence in 1866. Within this period, the colours blue and red were selected to feature on the flag, instead of the gold and red on the coat of arms that would have customarily been employed instead. These new livery colours were first utilized by Prince Joseph Wenzel I in 1764.\n\nA new constitution for the Principality was formulated and proclaimed in October 1921. It made the blue and red banner the national flag by granting it \"official status\". Fifteen years later, during the 1936 Summer Olympics, the country came to the realization that its flag was identical to the flag of Haiti. Because of this finding, the government added the prince's crown to the canton. This change served two purposes – to signify Liechtenstein's position as a principality, and to distinguish its flag from Haiti's. This modified design was adopted on June 24, 1937. [0]",
+        "meaning": "The blue represents the sky, while red alludes to the \"evening fires\" that are lit inside houses throughout the country. The crown epitomizes the \"unity of the people and their prince\". [0]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002B7F"
+            },{
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "yellow",
+                "hex": "#FFD83D"
+            }
+        ],
+        "design": "Horizontal bicolour of blue and red; charged with a gold crown in the canton. [0]",
+        "adoptionDate": 1921,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Liechtenstein"
+        ]
+    }
+    ,{
+        "name": "Lithuania",
+        "image": "lithuania.svg",
+        "category": "Countries",
+        "history": "The birth of the yellow, green, and red tricolor occurred during a drive by other European republics to change their flags. One example that gave life to the idea of the tricolor was the French blue, white and red flag adopted after the French Revolution. The only tricolor that existed for Lithuania before the yellow, green and red flag was a green, white and red flag used to represent Lithuania Minor.\n\nDuring 1988, when the Lithuanian movement towards independence was gaining strength, the Lithuanian Supreme Soviet again recognized the tricolor as the national flag, by amending article 168 of the Constitution (Fundamental Law) of the Lithuanian SSR. The flag was defined as rectangular tricolor which consists of three equally sized horizontal stripes: the upper is yellow, the middle is green, the lower is red; the flag ratio was to be 1:2 (as that of Soviet flags). This flag was confirmed by the Provisional Constitution of 11 March 1990 № I-10.\n\nAfter independence from the Soviet Union, the tricolor flag was written into the new Constitution of Lithuania, which was adopted by a referendum in 1992. This constitution has not specified the flag aspect ratio and therefore it has remained 1:2 until 2004, when 1991 law \"On the national flag and other flags\" was revised by 8 July 2004 law № IX-2331, making flag ratio 3:5. [0]",
+        "meaning": "The yellow in the flag is meant to symbolize the sun and prosperity, the green is for the forests, the countryside, liberty, and hope, and the red represents the blood and bravery of those who have died for Lithuania. [0]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "yellow",
+                "hex": "#FDB913"
+            },{
+                "name": "green",
+                "hex": "#006A44"
+            },{
+                "name": "red",
+                "hex": "#C1272D"
+            }
+        ],
+        "design": "A horizontal triband of yellow, green and red. [0]",
+        "adoptionDate": 1918,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Lithuania"
+        ]
+    }
+    ,{
+        "name": "Luxembourg",
+        "image": "luxembourg.svg",
+        "category": "Countries",
+        "history": "Luxembourg had no flag until 1830, when patriots were urged to display the national colors. The flag was defined as a horizontal tricolor of red, white, and blue in 1848, but it was not officially adopted until 1972. The tricolor flag is almost identical to that of the Netherlands, except that it is longer and its blue stripe is a lighter shade.\n\nThe colours of the flag of Luxembourg were first adopted around 1830 during the Belgian Revolution. They were probably derived from the counts, dukes and later grand-dukes of Luxembourg's coat of arms which in turn was derived from the combination of the dukes of Limbourg's Lion and the supposed striped banner of the early counts of Luxembourg. [0]",
+        "meaning": "The red, white, and blue coloring was derived from the coat of arms of the county of the Ardennes, renamed county (1339 duchy, 1815 grand-duchy) of Luxembourg after the creation of its identical named capital city in 963 A.D. by then count Siegfried. [0]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#ED2939"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#00A1DE"
+            }
+        ],
+        "design": "A horizontal triband of red, white and light blue. [0]",
+        "adoptionDate": 1972,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Luxembourg"
+        ]
+    }
 ]
