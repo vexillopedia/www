@@ -2849,4 +2849,207 @@
             "https://en.wikipedia.org/wiki/Flag_of_Malaysia"
         ]
     }
+    ,{
+        "name": "Maldives",
+        "image": "maldives.svg",
+        "category": "Countries",
+        "history": "The earliest flag of the Maldives consisted of a plain red field. Later, a black and white striped hoist called the Dhandimathi was added to the flag.\n\nThis version of the flag was used until early in the 20th century, when Abdul Majeed Didi added a crescent to the national flag. At the same time, a distinct state flag was made, which had the crescent on a green rectangle. These changes were made some time between 1926 and 1932, during Abdul Majeed's term as Prime Minister.\n\nIn 1953, the Maldives became a republic, resulting in another flag change. The national flag was dropped and the crescent on the state flag was reversed, so that it faced the hoist. The Sultanate was restored in 1954, but the flag was not changed back. Instead, Muhammad Fareed Didi created a new flag specifically for the Sultan, with a five-pointed star next to the crescent. A version of this flag is still used today as the Presidential Standard.\n\nWhen the Maldives gained independence in 1965, the black and white hoist was removed, giving the flag its modern form. [0]",
+        "meaning": "The red rectangle represents the boldness of the nation's heroes, and their willingness to sacrifice their every drop of blood in defense of their country. The green rectangle in the center symbolizes peace and prosperity. The white crescent moon symbolizes a state of unified Islamic faith. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#D21034"
+            },{
+                "name": "green",
+                "hex": "#007E3A"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A green rectangle centred on a red field; charged with a white crescent facing the fly side. [0]",
+        "adoptionDate": 1965,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Maldives"
+        ]
+    }
+    ,{
+        "name": "Mali",
+        "image": "mali.svg",
+        "category": "Countries",
+        "history": "The current flag was adopted on March 1, 1961. The original flag was adopted on April 4, 1959, when Mali joined the Mali Federation. This flag was the same, except the golden stripe had a human stick figure, a kanaga, in black, with arms raised to the sky. The figure was removed due to the opposition, in a country whose population is 90% Muslim, of Islamic fundamentalists (see Aniconism in Islam, the belief against making pictures of the human figure). [0]",
+        "meaning": "The green stands for fertility of the land, gold means purity and mineral wealth and lastly red symbolizes the blood shed for independence from the French. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#14B53A"
+            },{
+                "name": "yellow",
+                "hex": "#FCD116"
+            },{
+                "name": "red",
+                "hex": "#CE1126"
+            }
+        ],
+        "design": "A vertical tricolor of green, gold and red. [0]",
+        "adoptionDate": 1961,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Mali"
+        ]
+    }
+    ,{
+        "name": "Malta",
+        "image": "malta.svg",
+        "category": "Countries",
+        "history": "Tradition states that the colours of the flag were given to Malta by Roger I of Sicily in 1090. Roger's fleet landed in Malta on the completion of the Norman conquest of Sicily. It is said that local Christians offered to fight by Roger's side against the Arab defenders. In order to recognise the locals fighting on his side from the defenders, Roger reportedly tore off part of his chequered red-and-white flag. This story has, however, been debunked as a 19th-century myth, possibly even earlier due to the Mdina, Malta's old capital, associating its colours with Roger's in the late Middle Ages.\n\nThe flag of the Knights of Malta, a white cross on a red field, was a more likely source of the Maltese colours, inspiring the red and white shield used during the British colonial period.\n\nThe George Cross originally appeared on the flag placed on a blue canton (see List of flags of Malta). The flag was changed on 21 September 1964 with Malta's independence when the blue canton was replaced by a red fimbriation the intention being that the Cross appear less prominent. The flag has remained unchanged since. [0]",
+        "meaning": "See History.",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#CF142B"
+            }
+        ],
+        "design": "A vertical bicolor of white and red; charged with a representation of George Cross (showing a design of St. George and the Dragon), outlined in red on the upper hoist side of the white band. [0]",
+        "adoptionDate": 1964,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Malta"
+        ]
+    }
+    ,{
+        "name": "Marshall Islands",
+        "image": "marshall-islands.svg",
+        "category": "Countries",
+        "history": "The Marshall Islands were part of the Trust Territory of the Pacific Islands administered by the United States, from which the Marshall Islands, Palau, and the Federated States of Micronesia split. In common with other island nations in the region, this flag features the symbolic representation of the islands' place within the ocean.\n\nThe flag was designed by Emlain Kabua, who served as the first First Lady of the republic. [0]",
+        "meaning": "The rising diagonal band represents the equator, the star above representing this Northern Hemisphere archipelago. The white and orange portions of the band represent, respectively, the Ratak Chain (\"sunrise\") and the Ralik Chain (\"sunset\"), as well as symbolizing peace and courage. The sun's 24 points represent the number of electoral districts, while the four elongated points represent the principal cultural centers of Majuro, Jaluit, Wotje and Ebeye. [0]",
+        "ratio": "10:19",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#003893"
+            },{
+                "name": "orange",
+                "hex": "#DD7500"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A blue field with two diagonal stripes of orange and white radiating from the lower hoist-side corner to the upper fly-side corner with a large white star with four large rays and twenty small rays on the upper hoist-side corner above the stripes. [0]",
+        "adoptionDate": 1979,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Marshall_Islands"
+        ]
+    }
+    ,{
+        "name": "Mauritania",
+        "image": "mauritania.svg",
+        "category": "Countries",
+        "history": "The flag was adopted on April 1, 1959. It was introduced under the instructions of Moktar Ould Daddah, and the subsequent constitution of 22 March 1959. [0]",
+        "meaning": "The colors green and gold are considered Pan-African colors. Green is also used to symbolize Islam, and the gold for the sands of the Sahara desert. The crescent and star are symbols of Islam, which is the major religion in the nation. [0]\n\nSome writers have also speculated that green symbolises a bright future, and growth. [1]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#006233"
+            },{
+                "name": "yellow",
+                "hex": "#FFC400"
+            }
+        ],
+        "design": "A green field; charged with a golden upward-pointed crescent and star. [0]",
+        "adoptionDate": 1959,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Mauritania",
+            "https://flagspot.net/flags/mr.html"
+        ]
+    }
+    ,{
+        "name": "Mauritius",
+        "image": "mauritius.svg",
+        "category": "Countries",
+        "history": "The national flag of Mauritius, also known as the Four Bands and Les Quatre Bandes (French for \"the four bands\"), was adopted upon independence, March 12, 1968. [0]",
+        "meaning": "Red represents the bloodshed at the time of slavery and colonisation; blue represents the Indian Ocean, in the middle of which Mauritius is situated; yellow represents the new light of independence shining over the island and the golden sunshine; green represents the lush vegetation of the island. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#EA2839"
+            },{
+                "name": "blue",
+                "hex": "#1A206D"
+            },{
+                "name": "yellow",
+                "hex": "#FFD500"
+            },{
+                "name": "green",
+                "hex": "#00A551"
+            }
+        ],
+        "design": "Four horizontal bands of red, blue, yellow and green. [0]",
+        "adoptionDate": 1968,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Mauritius"
+        ]
+    }
+    ,{
+        "name": "Mexico",
+        "image": "mexico.svg",
+        "category": "Countries",
+        "history": "The current national flag was adopted on September 16, 1968, and was confirmed by law on February 24, 1984. The current version is an adaptation of the design approved by presidential decree in 1916 by Venustiano Carranza, where the eagle was changed from a front-facing to a side-facing position. Before the adoption of the current national flag, official flags have been used by the government. All of these flags used the tricolor pattern, with the only differences being the changes in the coat of arms, which was still charged in the center of the white stripe. One possible reason for the 1968 flag and arms change was that Mexico City was the host of the 1968 Summer Olympic Games. Around this same time period, the plain tricolor flag that Mexico used as its merchant ensign was also legally abandoned. The reasoning is that without the coat of arms, the flag would not be the Mexican flag; it would become nearly identical to the Italian flag. [0]",
+        "meaning": "Red, white, and green are the colors of the national liberation army in Mexico. The central emblem is the Mexican coat of arms, based on the Aztec symbol for Tenochtitlan (now Mexico City), the center of the Aztec empire. It recalls the legend that inspired the Aztecs to settle on what was originally a lake-island. The form of the coat of arms was most recently revised in 1968. A ribbon in the national colors is at the bottom of the coat of arms. Throughout history, the flag has changed several times, as the design of the coat of arms and the length-width ratios of the flag have been modified. However, the coat of arms has had the same features throughout: an eagle, holding a serpent in its talon, is perched on top of a prickly pear cactus; the cactus is situated on a rock that rises above a lake. The coat of arms is derived from an Aztec legend that their gods told them to build a city where they spot an eagle on a nopal eating a serpent, which is now Mexico City. [0]",
+        "ratio": "4:7",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#006847"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#CE1126"
+            }
+        ],
+        "design": "A vertical tricolor of green, white, and red with the National Coat of Arms of Mexico centered on the white band. [0]",
+        "adoptionDate": 1968,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Mexico"
+        ]
+    }
+    ,{
+        "name": "Micronesia",
+        "image": "micronesia.svg",
+        "category": "Countries",
+        "history": "The flag of the Federated States of Micronesia (FSM) was adopted on 30 November 1978.\n\nA similar design with six stars was in use from 1965 for the flag of the Trust Territory of the Pacific Islands. Kosrae was then part of Pohnpei so both were represented by one star. The three extra stars representing Palau, the Marshall Islands and Northern Mariana, which chose not to participate in the Federation. The flag, adopted in 1978, is in the colors of the UN flag. The light blue also represents the Pacific Ocean. In an echo of U.S. heraldic practice, the stars represent the entities that make up the state, in this case, the four federated states, arranged like the points of the compass, although the states locations are actually distributed from west to east. [0]",
+        "meaning": "The blue field represents the Pacific Ocean, while the four stars represent the states in the federation: Chuuk, Pohnpei, Kosrae and Yap. [0]",
+        "ratio": "10:19",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#75B2DD"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A light blue field with four white five-pointed stars arranged in a diamond pattern in the center. [0]",
+        "adoptionDate": 1978,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Federated_States_of_Micronesia"
+        ]
+    }
 ]
