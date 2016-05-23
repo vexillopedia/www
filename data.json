@@ -2745,4 +2745,108 @@
             "https://en.wikipedia.org/wiki/Flag_of_Luxembourg"
         ]
     }
+    ,{
+        "name": "Macedonia",
+        "image": "macedonia.svg",
+        "category": "Countries",
+        "history": "In 1991, Todor Petrov, president of the ultra-nationalist organization World Macedonian Congress, designated and proposed the Vergina Sun as the national symbol of the Republic of Macedonia. On 11 August 1992, the newly independent Republic of Macedonia adopted the new flag to replace the old Communist \"red star\" insignia. The flag depicted the \"Vergina Sun\" symbol, a stylised yellow sun centred on a red field with eight main and eight secondary rays emanating from the sun, tapering to a point. This ancient symbol was named after the Greek town where it had been discovered in archaeological excavations of the ancient Macedonian city of Aigai.\n\nThe Vergina Sun was regarded by Greece as a symbol of continuity between ancient Macedonia and modern Greek culture, and in particular as a symbol of the Argead dynasty of Philip II of Macedon and his son Alexander the Great. From the late 1970s it had also been adopted by many both in Greece and the then Socialist Republic of Macedonia to symbolise historical connections with ancient Macedonia and had been paraded in demonstrations by Greeks and ethnic Macedonians at home and abroad.\n\nThe flag, the new state's constitution and its name all became the focus of a dispute between the two countries, during which Greece imposed an economic blockade on the Republic from February 1994. In July 1995, Greece lodged a request with the World Intellectual Property Organization (WIPO) for exclusive trademark protection to the Vergina Sun.\n\nGreek objections also prevented the flag from being flown at the United Nations Headquarters building in New York. The blockade was lifted in October 1995 when an agreement was reached to change the flag, modify the constitution and resolve the naming dispute through United Nations-sponsored negotiations. [0]",
+        "meaning": "Red and yellow have always been considered the main colours representing Macedonia, probably because of the colours of the historical coat of arms of Macedonia. The new eight-rayed sun represents \"the new sun of Liberty\" referred to in the national anthem of the Republic of Macedonia, Denes nad Makedonija (\"Today over Macedonia\"). [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#D20000"
+            },{
+                "name": "yellow",
+                "hex": "#FFE600"
+            }
+        ],
+        "design": "A stylised yellow sun on a red field, with eight broadening rays extending from the centre to the edge of the field. [0]",
+        "adoptionDate": 1995,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Republic_of_Macedonia"
+        ]
+    }
+    ,{
+        "name": "Madagascar",
+        "image": "madagascar.svg",
+        "category": "Countries",
+        "history": "The flag of Madagascar was adopted on 14 October 1958, two years before the independence of that nation, as Madagascar prepared for a referendum on its status in the French Community. [0]",
+        "meaning": "The colors of the flag represent Madagascar's history, yearning for independence, and traditional classes. Red and white were the colors of the Merina kingdom, which succumbed to France in 1896. They were used in the flag of the last Merina monarch, Queen Ranavalona III. They may indicate the ethnic origins of the Malagasy people in Southeast Asia, and are shared by the flag of Indonesia. Green was the color of the Hova, the largest class of peasant commoners, who played a significant role in anti-French agitation and the independence movement. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#FC3D32"
+            },{
+                "name": "green",
+                "hex": "#007E3A"
+            }
+        ],
+        "design": "A horizontal bicolour of red and green with a white vertical band on the hoist side. [0]",
+        "adoptionDate": 1958,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Madagascar"
+        ]
+    }
+    ,{
+        "name": "Malawi",
+        "image": "malawi.svg",
+        "category": "Countries",
+        "history": "The flag of Malawi was officially adopted on 6 July 1964 when the colony of Nyasaland became independent from British rule and renamed itself Malawi. [0]",
+        "meaning": "The rising sun represents the dawn of hope and freedom for the continent of Africa (when the flag was created, more countries in Africa were gaining independence from European rule). The black represents the indigenous people of the continent, the red symbolizes the blood of their struggle, and the green represents nature. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "green",
+                "hex": "#339E35"
+            }
+        ],
+        "design": "A horizontal triband of black, red, and green; charged with a red rising sun centred on the black stripe. [0]",
+        "adoptionDate": 1964,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Malawi"
+        ]
+    }
+    ,{
+        "name": "Malaysia",
+        "image": "malaysia.svg",
+        "category": "Countries",
+        "history": "When the Federation of Malaya replaced the short lived Malayan Union, the federation government through the Federal Legislative Council called for a design contest for a new flag. The Malayan flag was approved by King George VI on 19 May 1950 and was first raised in front of Istana Selangor on 26 May 1950. On 31 August 1957, it was raised upon independence at Merdeka Square in place of the British Union Flag.\n\nThe Malayan flag was designed by Mohamed Hamzah, a 29-year-old architect working for the Public Works Department (JKR) in Johor Baharu, Johore. He entered the Malayan flag design competition in 1947 with two designs which he completed within two weeks. The first design was a green flag with blue kris in the middle, surrounded by 15 white stars. The second design, which was among the three finalists, was similar to the current flag but with a five-pointed star. It borrows major design elements from the East India Company flag, notably the red and white stripes. The competition attracted 373 entries and voting was made by the general public via post. Malayan senior statesman Dato' Onn Jaafar met with Mohamed Hamzah after he won the competition and suggested that the star be changed to an 11-pointed one to represent all the Malayan states.\n\nFollowing the formation of Malaysia on 16 September 1963, the design of the Malayan flag was modified to reflect and honour the new states in the federation.\n\nThree additional stripes were added to the existing flag and the star was given 14 points to reflect the federation of the original 11 states in Malaya plus Sabah, Sarawak, and Singapore; the design remained the same even after Singapore's expulsion from the federation two years later. When Kuala Lumpur was designated a Federal Territory on 1 February 1974, the additional stripe and the point in the star were appropriated to represent this new addition to the federation. Eventually, with the addition of two other federal territories, Labuan in 1984 and Putrajaya in 2001, the fourteenth stripe and point in the star came to be associated with the federal government in general. [0]",
+        "meaning": "The 14 stripes, of equal width, represent the equal status in the federation of the 13 member states and the federal government, while the 14 points of the star represent the unity between these entities. The crescent represents Islam, the country's official religion; the blue canton symbolises the unity of the Malaysian people; the yellow of the star and crescent is the royal colour of the Malay rulers. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CC0001"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#010066"
+            },{
+                "name": "yellow",
+                "hex": "#FFCC00"
+            }
+        ],
+        "design": "Fourteen horizontal stripes alternating red and white; in the canton, a yellow crescent and 14-point star on a blue field. [0]",
+        "adoptionDate": 1950,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Malaysia"
+        ]
+    }
 ]
