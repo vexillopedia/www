@@ -3052,4 +3052,196 @@
             "https://en.wikipedia.org/wiki/Flag_of_the_Federated_States_of_Micronesia"
         ]
     }
+    ,{
+        "name": "Moldova",
+        "image": "moldova.svg",
+        "category": "Countries",
+        "history": "Wallachia and Moldova have, in the past, been partially united and culturally similar, as such the flags of Romania and Republic of Moldova are also similar.\n\nThe current flag of Moldova was created in 1990, and is based on the national colors of Romanians, the blue-yellow-red tricolor. [0]",
+        "meaning": "The blue, red, and yellow tricolor of Moldova is almost identical to the flag of Romania, reflecting the two countries' national and cultural affinity. On Moldova's flag the yellow stripe is charged with the national arms. Like the Romanian coat of arms, the Moldovan arms, adopted in 1990, features a dark golden eagle holding an Orthodox Christian cross in its beak. Instead of a sword, the eagle is holding an olive branch, symbolizing peace. The blue and red shield on the eagle's chest is charged with the traditional symbols of Moldova: an aurochs' head, flanked by a rose at dexter and a crescent at senester, and having a star between its horns, all of gold. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0046AE"
+            },{
+                "name": "yellow",
+                "hex": "#FFD200"
+            },{
+                "name": "red",
+                "hex": "#CC092F"
+            },{
+                "name": "brown",
+                "hex": "#B07E5B"
+            }
+        ],
+        "design": "A vertical tricolor of blue, yellow and red; charged with the Coat of Arms centered on the yellow band. [0]",
+        "adoptionDate": 1990,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Moldova"
+        ]
+    }
+    ,{
+        "name": "Monaco",
+        "image": "monaco.svg",
+        "category": "Countries",
+        "history": "The present bicolor design was adopted on April 4, 1881, under Prince Charles III.\n\nMonaco's original flag, which was similar to its current state flag but bore an older version of its coat of arms, was in use from the principality's early days (except during its annexation to France from 1793 to 1814) until the present, simpler design was adopted in 1881. [0]",
+        "meaning": "Red and white have been the heraldic colors of the House of Grimaldi since at least 1339. [0]",
+        "ratio": "4:5",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "Two equal horizontal bands, red (top) and white (bottom) [0]",
+        "adoptionDate": 1881,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Monaco"
+        ]
+    }
+    ,{
+        "name": "Mongolia",
+        "image": "mongolia.svg",
+        "category": "Countries",
+        "history": "The current flag was adopted on February 12, 1992, after the transition of Mongolia to a democracy. It is similar to the flag of 1940, except for the removal of the socialist star on top of the Soyombo. [0]",
+        "meaning": "The central blue band is described as the eternal blue sky, while the side red bands represent the ability of Mongolia to thrive in its harsh environment. The Soyombo is a columnar arrangement of abstract and geometric representations of fire, sun, moon, earth, water, and the taijitu or yin-yang symbol. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#C4272F"
+            },{
+                "name": "blue",
+                "hex": "#015197"
+            },{
+                "name": "yellow",
+                "hex": "#F9CF02"
+            }
+        ],
+        "design": "A vertical bicolour triband of red, blue, and red; charged with the national emblem in yellow, centred on the hoist-side red band. [0]",
+        "adoptionDate": 1992,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Mongolia"
+        ]
+    }
+    ,{
+        "name": "Montenegro",
+        "image": "montenegro.svg",
+        "category": "Countries",
+        "history": "Flags as the state symbols were introduced only in the time of Petar II Petrović-Njegoš. Before him, the principal Montenegrin flag had been the alaj-barjak (regimental colors) with a single symbol on it - the cross (krst). The first written description of a Montenegrin flag dates from the time of Šćepan Mali: it was white, with a red frame and a golden cross on top of the spear. The next comes from 1838: pale-yellow with the small red cross, and in 1876 the flag was described as red with a white cross. At the time of Prince Danilo, the cross on the alaj-barjak was replaced by the two-headed eagle with the initials DI (Danilo I) on its breast, with the lion passant underneath. Prince/King Nikola used many different flags in his time. The first of the variants was the same as Danilo's, differing only in the initials - NI (Nikola I). Around 1910, two new variants appeared: one tricolor (red, blue and white) with the two-headed eagle bearing the initials NI on its breast and the lion passant on the sinister, the other with the two-headed eagle above the initials NI.\n\nIn late 1946 a new flag of the People's Republic of Montenegro, a constituent republic of the Federal People's Republic of Yugoslavia was adopted. It returned the traditional tricolor adding an ideological communist Red Star to its center. This flag was used until 1994, when the proclaimed flag was red, bluish and white vertical tricolor, with the size ratio of 1:3. [0]",
+        "meaning": "The arms consist of a double-headed golden eagle - symbolizing the unity of church and state - surmounted by a crown; the eagle holds a golden scepter in its right claw and a blue orb in its left; the breast shield over the eagle shows a golden lion passant on a green field in front of a blue sky; the lion is symbol of episcopal authority and harkens back to the three and a half centuries that Montenegro was ruled as a theocracy. [1]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#C40308"
+            },{
+                "name": "yellow",
+                "hex": "#D3AE3B"
+            },{
+                "name": "blue",
+                "hex": "#1D5E91"
+            },{
+                "name": "green",
+                "hex": "#6D8C3E"
+            }
+        ],
+        "design": "A red field surrounded by a golden border; charged with the Coat of Arms at the centre. [0]",
+        "adoptionDate": 2004,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Montenegro",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Morocco",
+        "image": "morocco.svg",
+        "category": "Countries",
+        "history": "The flag of Morocco is made of a red field with a black-bordered green pentagram representing the Seal of Solomon. Red has considerable historic significance in Morocco, proclaiming the descent of the royal Alaouite family from the Islamic prophet Muhammad via Fatima, the wife of Ali, the fourth Muslim Caliph. Red is also the color that was used by the Sherifs of Mecca and the Imams of Yemen. From the 17th century on, when Morocco was ruled by the Alaouite Dynasty, the flags of the country were plain red. In 1915, during the reign of Mulay Yusuf, the green interlaced pentangle was added to the national flag. While Morocco was under French and Spanish control, the red flag with the seal in the center remained in use, but only inland. Its use at sea was prohibited. When independence was restored in 1955, it once again became the national flag. [0]",
+        "meaning": "The red background on the Moroccan flag represents hardiness, bravery, strength and valour, while the green represent love, joy, and hope, it also represents the color of Islam, whereas the five-pointed star represents the seal of Solomon. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#C1272D"
+            },{
+                "name": "green",
+                "hex": "#006233"
+            }
+        ],
+        "design": "A green pentagram centered on a red field. [0]",
+        "adoptionDate": 1915,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Morocco"
+        ]
+    }
+    ,{
+        "name": "Mozambique",
+        "image": "mozambique.svg",
+        "category": "Countries",
+        "history": "The flag is based on the flag of the Mozambican Liberation Front (FRELIMO), the leading political party in Mozambique. The FRELIMO flag, used for a brief period after the country gained its independence from Portugal, looks like the current flag but lacking the emblem, with green, black, and yellow horizontal stripes separated by white fimbriations and a red triangle in the hoist.\n\nOn independence the colors were rearranged to form the national flag, in diagonals emanating from the upper hoist. Over this was a white cogwheel containing the hoe, rifle, book, and star that appear on the present flag. The flag was altered in 1983; the colors were arranged in horizontal stripes, and the star of Marxism was made larger. [0]",
+        "meaning": "Green stands for the riches of the land, the white fimbriations signify peace, black represents the African continent, yellow symbolizes the country's minerals, and red represents the struggle for independence. The rifle stands for defence and vigilance, the open book symbolizes the importance of education, the hoe represents the country's agriculture, and the star symbolizes Marxism and internationalism. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#007168"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "yellow",
+                "hex": "#FCE100"
+            },{
+                "name": "red",
+                "hex": "#D21034"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A horizontal triband of green, black and yellow (each band is separated by a white fimbriation); with a red chevron based on the hoist side charged with a hoe, over a rifle, over an open book, over a yellow five-pointed star. [0]",
+        "adoptionDate": 1983,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Mozambique"
+        ]
+    }
+    ,{
+        "name": "Myanmar",
+        "image": "myanmar.svg",
+        "category": "Countries",
+        "history": "A new design for the national flag was proposed on 10 November 2006 during a constitutional convention. The new flag would have consisted of three equally sized green, yellow, and red horizontal stripes, with a white star in the hoist end of the green stripe.\n\nIn September 2007 another new design was proposed, this time with a larger white star in the middle and with the stripes in a different order, namely: yellow, green, red. That same order was used in the flag of the State of Burma during the Japanese occupation of Burma, which featured a green peacock in the centre.\n\nThe proposal was a fusion of the flag of the State of Burma without the royal peacock, taking instead the white star that symbolised the Union of Burma in the canton of its flag.\n\nThe flag proposed in September 2007 was included in the new constitution, and was accepted with the 2008 referendum. Officials were told to lower the old flag in favour of the new one only shortly before 3:00 p.m. local time on 21 October 2010. Orders were also handed out to ensure all old flags were burned. The adoption of the new flag was announced on state media just prior to the flag changing. [0]",
+        "meaning": "The three colours of the stripes are meant to symbolise solidarity, peace and tranquility, and courage and decisiveness. The yellow represents solidarity; the green symbolises peace, tranquility and lush greenery; the red represents courage and determination; and the white star stands for the significance of the union of the country. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "yellow",
+                "hex": "#FECB00"
+            },{
+                "name": "green",
+                "hex": "#34B233"
+            },{
+                "name": "red",
+                "hex": "#EA2839"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A horizontal triband of yellow, green and red; charged with a large white five-pointed star at the centre. [0]",
+        "adoptionDate": 2010,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Myanmar"
+        ]
+    }
 ]
