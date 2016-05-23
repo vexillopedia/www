@@ -3244,4 +3244,115 @@
             "https://en.wikipedia.org/wiki/Flag_of_Myanmar"
         ]
     }
+    ,{
+        "name": "Namibia",
+        "image": "namibia.svg",
+        "category": "Countries",
+        "history": "The main colours were taken from the flag of the South West Africa People's Organization (SWAPO), the most important liberation movement in Namibia. That flag was adopted in 1971 and comprises diagonal stripes of blue-red-green. The flag also represents the Democratic Turnhalle Alliance, another Namibian political party.\n\nThere are different accounts on how the design was chosen. Frederick Brownell claims that he designed the flag in his role as South African State Herald. Briton Roy Allen claims that the flag design was the result of a competition run by Hannes Smith of the Windhoek Observer, and that he won. [0]",
+        "meaning": "The chairman of the subcommittee that chose the flag out of 850 submissions explained the symbolism of the flag's colours as follows: Red represents Namibia's most important resource, its people. It refers to their heroism and their determination to build a future of equal opportunity for all. White refers to peace and unity. Green symbolises vegetation and agricultural resources. Blue represents the clear Namibian sky and the Atlantic Ocean, the country's precious water resources and rain.\n\nBriton Roy Allen claims that the flag design was the result of a competition run by Hannes Smith of the Windhoek Observer, and that he won. His intended symbolism meant the red bar across the flag to stand for the blood shed during the Namibian War of Independence, green for the country's agriculture, and blue to represent the Atlantic Ocean. The sun represented his hope for good governance; the meaning stems from an Egyptian pictogram. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#003580"
+            },{
+                "name": "red",
+                "hex": "#D21034"
+            },{
+                "name": "green",
+                "hex": "#009543"
+            },{
+                "name": "yellow",
+                "hex": "#FFCE00"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A white-edged red diagonal band radiating from the lower hoist-side corner. The upper triangle is blue, charged with a gold sun with 12 triangular rays and the lower triangle is green. [0]",
+        "adoptionDate": 1990,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Namibia"
+        ]
+    }
+    ,{
+        "name": "Nauru",
+        "image": "nauru.svg",
+        "category": "Countries",
+        "history": "Following the independence of Nauru, the flag of Nauru was raised for the first time. The flag, chosen in a local design competition, was adopted on independence day, 31 January 1968. The flag was created by a resident employed by the Australian flag manufacturer Evans. [0]",
+        "meaning": "The flag displays the geographical location of the island nation.\n\nThe narrow gold stripe with a width of 1/24 of the length of the flag represents the Equator. The twelve-pointed white star signifies the location of the island in the blue waters of the Pacific Ocean just south of the Equator. The separation of the blue flag cloth into two equal parts recalls the saga, that the first inhabitants were to have been brought to Earth from two boulders. The twelve points on the star represent the island's twelve original tribes. The white represents the phosphate, through which the island's residents acquired wealth from mining. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002B7F"
+            },{
+                "name": "yellow",
+                "hex": "#FFC61E"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A blue field with a thin yellow narrow horizontal stripe across in the center and a large white 12-pointed star on the bottom of the stripe and near the hoist side. [0]",
+        "adoptionDate": 1962,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Nauru"
+        ]
+    }
+    ,{
+        "name": "Nepal",
+        "image": "nepal.svg",
+        "category": "Countries",
+        "history": "The national flag of Nepal is the world's only non-quadrilateral national flag. The flag is a simplified combination of two single pennons, the vexillological word for a pennant. \n\nThe flag was adopted, with the formation of a new constitutional government, on December 16, 1962. The individual pennants had been used for the preceding two centuries and the double pennant since the 19th century. The flag borrows the basic design from the original design, which has been in use for more than 2,000 years.\n\nThe flag was adopted after Prithvi Narayan Shah unified all small principalities of Nepal. Until 1962, the flag's emblems, the sun and the crescent moon, had human faces. They were removed to modernize the flag. [0]",
+        "meaning": "The blue border symbolizes peace and harmony. The crimson red is Nepal's national color, and it indicates the brave spirits of the Nepalese people. The two triangles symbolize the Himalaya Mountains. The depiction of celestial bodies represents permanence, the hope that Nepal will last as long as the sun and the moon.\n\nThe moon symbolizes that the Nepalese are soothing and calm, while the sun symbolizes fierce resolve. The moon also symbolizes the shades and the cool weather of the Himalayas, whereas the sun symbolizes the heat and the high temperature at the lower part (Tarai) of Nepal. [0]",
+        "ratio": "1:1.21901033",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#DC143C"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#003893"
+            }
+        ],
+        "design": "Combination of two red pennons with a blue border, with a sun and crescent moon. [0]",
+        "adoptionDate": 1962,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Nepal"
+        ]
+    }
+    ,{
+        "name": "Netherlands",
+        "image": "netherlands.svg",
+        "category": "Countries",
+        "history": "Variants of the flag have been in use since 1572, and in 1937 the flag was officially formalized as the national flag of the Kingdom of the Netherlands. It is the oldest tricolor flag still in national use. [0]",
+        "meaning": "The colors were those of William I, Prince of Orange, who led the Dutch Revolt against Spanish sovereignty in the latter half of the 16th century. Originally the upper band was orange, but because it tended to fade to red over time, the red shade was eventually made the permanent color. [1]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#AE1C28"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#21468B"
+            }
+        ],
+        "design": "A horizontal triband of red (Bright Vermilion), white, and Cobalt blue. [0]",
+        "adoptionDate": 1937,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Netherlands",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
 ]
