@@ -3355,4 +3355,130 @@
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
         ]
     }
+    ,{
+        "name": "New Zealand",
+        "image": "new-zealand.svg",
+        "category": "Countries",
+        "history": "New Zealand's first flag, the flag of the United Tribes of New Zealand, was adopted in 1834, six years before New Zealand became a British colony following the signing of the Treaty of Waitangi in 1840. Chosen by an assembly of Māori chiefs at Waitangi in 1834, the flag was of a St George's Cross with another cross in the canton containing four stars on a blue field. After the formation of the colony in 1840, British ensigns began to be used. The current flag was designed and adopted for use on Colonial ships in 1869, was quickly adopted as New Zealand's national flag, and given statutory recognition in 1902.\n\nFor several decades there has been debate about changing the flag. In 2016, a two-stage binding referendum on a flag change took place with voting on the second final stage closing on 24 March. In this referendum, the country voted to keep the existing flag by 57% to 43%. [0]",
+        "meaning": "The stars' pattern represents the asterism within the constellation of Crux, the Southern Cross. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#00247D"
+            },{
+                "name": "red",
+                "hex": "#CC142B"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A Blue Ensign with the Southern Cross of four white-edged red five-pointed stars centered on the outer half of the flag. [0]",
+        "adoptionDate": 1902,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_New_Zealand"
+        ]
+    }
+    ,{
+        "name": "Nicaragua",
+        "image": "nicaragua.svg",
+        "category": "Countries",
+        "history": "The flag and the arms of Nicaragua in use today are the most similar to those used by the United Provinces of Central America. The triangle, volcanoes, rising sun, Cap of Liberty, and rainbow all appeared on the original emblem. The coat of arms used today contains the name of the state, Republica de Nicaragua, whereas in 1823 the title was Provincias Unidas del Centro de America. The decision to revert to the emblems used by the United Provinces of Central America was taken in 1908 and reflected Nicaragua's aspirations for the rebirth of the political entity formed by the 5 nations. Except for the text around the arms, the flag is very similar to that of the United Provinces of Central America. The 5 volcanoes represent the original 5 member states, the Cap of Liberty represents national freedom, and the rays of the sun and the rainbow are symbolic of the bright future. [0]",
+        "meaning": "The banner is based on the former blue-white-blue flag of the Federal Republic of Central America. The blue bands symbolize the Pacific Ocean and the Caribbean Sea, while the white band represents the land between the two bodies of water. [1]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0067C6"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A horizontal triband of blue (top and bottom) and white with the National Coat of Arms of Nicaragua centered on the white band. [0]",
+        "adoptionDate": 1971,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Nicaragua",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Niger",
+        "image": "niger.svg",
+        "category": "Countries",
+        "history": "Prior to independence from French West Africa, the flag of Niger was adopted by the Territorial Assembly of the Niger Colony on 23 November 1959, shortly before proclamation of the Republic within the French Community on 18 December 1959. The flag was designed in 1958. It was retained upon independence in 1960 and has remained unchanged through the 1999 Fifth Constitution. [0]",
+        "meaning": "A number of sources have described the symbolic intent of the flag, although official sources are silent upon this. A common interpretation is that the upper orange band represents the northern regions of the Sahara Desert (though this is sometimes said to be the Sahel), the center white band represents purity (though this is sometimes said to be the River Niger), and the lower green band represents both hope and the fertile regions of southern Niger. The orange circle in the center band is said to represent the sun or independence. [0]",
+        "ratio": "6:7",
+        "colors": [
+            {
+                "name": "orange",
+                "hex": "#E05206"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#0DB02B"
+            }
+        ],
+        "design": "A horizontal triband of orange, white and green; charged with an orange circle in the centre. [0]",
+        "adoptionDate": 1957,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Niger"
+        ]
+    }
+    ,{
+        "name": "Nigeria",
+        "image": "nigeria.svg",
+        "category": "Countries",
+        "history": "The designer of the national flag was Michael Taiwo Akinkunmi, a twenty-three-year-old student. He was studying at Norwich Technical College in England when he saw an advertisement in a newspaper that submissions were being accepted for the design of a new National flag. The original submission had a red radiating sun badge in the center triptych of one white vertical with a green vertical on each side. After the badge was removed by the judges, the flag has remained unchanged. It was first officially used on October 1, 1960, Nigeria's Independence Day. [0]",
+        "meaning": "The color green represents the forests and abundant natural wealth of the country, white stands for peace and unity. [1]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#008753"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A vertical bicolour triband of green, white and green. [0]",
+        "adoptionDate": 1960,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Nigeria",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Norway",
+        "image": "norway.svg",
+        "category": "Countries",
+        "history": "The current flag of Norway was designed in 1821 by Fredrik Meltzer, a member of the parliament (Storting). It was adopted by both chambers of the Storting on 11 May and 16 May, respectively. However, the king refused to sign the flag law, but approved the design for civilian use by royal order in council on 13 July 1821. The constitution of 1814 explicitly stated that the war flag was to be a union flag, hence the common flag (Swedish with a canton signifying Norway) was used by the armies and navies of both states until 1844. [0]",
+        "meaning": "Fredrik Meltzer submitted his proposal just in time to be exhibited in parliament on 4 May 1821 together with a large number of other proposals. It was approved by both chambers during the following two weeks. Meltzer himself provided no written explanation of his choice of design and colours. However, his intentions may be inferred from an earlier letter of 30 April with his comments regarding the proposal from the flag committee. That design was divided quarterly red and white. Meltzer objected to the colours because they were too similar to those of the Danish flag. He added that it would be equally unseemly to choose the colours of any of \"those states with which we have been or are connected\". Instead, he recommended a tricolour of red, white and blue, \"three colours that now denote freedom, such as we have seen in the French flag of freedom, and still see in that of the Dutch and Americans, and in the Union of the English\".\n\nHis eventual choice a few days later of a Nordic cross was clearly based on the tradition established by the other Nordic countries, Denmark and Sweden. This cross represents Christianity. The red and blue colours also explicitly referred to the same two countries, former and present union partners. It was clearly understood by all who took part in the flag discussions locally, in the press or in parliament what those colours denoted. A predominantly red flag had many adherents among those who were attached to the union with Denmark or to its flag, which for centuries had also been that of Norway. Others, who saw Denmark as an oppressor, favoured the blue colour associated with the new Swedish dynasty. [0]",
+        "ratio": "8:11",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#EF2B2D"
+            },{
+                "name": "blue",
+                "hex": "#002868"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A white-fimbriated blue Nordic cross on a red field. [0]",
+        "adoptionDate": 1821,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Norway"
+        ]
+    }
 ]
