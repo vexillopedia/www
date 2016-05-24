@@ -3741,4 +3741,107 @@
             "https://en.wikipedia.org/wiki/Flag_of_Portugal"
         ]
     }
+    ,{
+        "name": "Qatar",
+        "image": "qatar.svg",
+        "category": "Countries",
+        "history": "Qatar's historic flag was plain red, in correspondence with the red banner traditionally used by the Kharjite Muslims. In the 19th century, the country modified its entirely red flag with the addition of a white vertical stripe at the hoist to suit the British directive. After this addition, Sheikh Mohammed bin Thani officially adopted a patterned purple-red and white flag which bore a strong resemblance to its modern derivative. Several additions were made to the Qatari flag in 1932, with the nine-pointed serrated edge, diamonds and the word \"Qatar\" being integrated in its design. The maroon color was standardized in 1949. In the 1960s, Sheikh Ali Al Thani removed the wording and diamonds from the flag. The flag was officially adopted on July 9, 1971 and was virtually identical to the 1960s flag, with the exception of the height-to-width proportion. [0]",
+        "meaning": "In 1932, the British Navy suggested an official flag should be designed. They proposed that the flag be white and red, but Qatar rejected the red coloring and continued using a mixture of purple and red instead. Due to the country's subtropical desert climate, the flags colors were prone to being tinted darker by the sun, which resulted in the eventual adoption of a maroon coloring in 1949. The white portion of the flag symbolizes the peace procured from signing anti-piracy treaties with the British. [0]",
+        "ratio": "11:28",
+        "colors": [
+            {
+                "name": "maroon",
+                "hex": "#8D1B3D"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A white band on the left, separated from a maroon area on the left by nine white triangles which act as a serrated line. [0]",
+        "adoptionDate": 1971,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Qatar"
+        ]
+    }
+    ,{
+        "name": "Romania",
+        "image": "romania.svg",
+        "category": "Countries",
+        "history": "Red, yellow and blue were found on late 16th-century royal grants of Michael the Brave, as well as shields and banners. During the Wallachian uprising of 1821, they were present on the canvas of the revolutionaries' flag and its fringes; for the first time a meaning was attributed to them: \"Liberty (sky-blue), Justice (field yellow), Fraternity (blood red)\".\n\nThe tricolor was first adopted in Wallachia in 1834, when the reforming domnitor Alexandru II Ghica submitted naval and military colors designs for the approval of Sultan Mahmud II. The latter was a \"flag with a red, blue and yellow face, also having stars and a bird's head in the middle\".\n\nIn 1848, the flag adopted for Wallachia by the revolutionaries was a blue-yellow-red tricolor (with blue above, in line with the meaning \"Liberty, Justice, Fraternity\").\n\nNevertheless, decree no. 252 of 13/25 July 1848, issued because \"it has not been understood [yet] how the national flags should be designed\", defined the flag as three vertical stripes, possibly influenced by the French model.\n\nOn 30 December 1947, Romania was proclaimed a people's republic and all the ex-kingdom's symbols were outlawed, including the coat of arms and the tricolor flags that showed it. During the communist era in Romania, the state flag had the emblem of the country in the middle of the yellow stripe.\n\nStarting on 17 December 1989, during the revolution at Timișoara, the protesters began waving flags with the Communist coat of arms cut out of the middle. The coat of arms was perceived as a symbol of Nicolae Ceaușescu's dictatorial regime. These flags were called \"the flag with the hole\" (drapelul cu gaură).\n\nDecree-Law no. 2 of 27 December 1989 regarding the membership, organization and functioning of the Council of the National Salvation Front and of the territorial councils of the National Salvation Front. provided at article 1, among other matters, that \"the national flag is the traditional tricolor of Romania, with the colors laid out vertically, in the following order, starting from the flagpole: blue, yellow, red\". [0]",
+        "meaning": "Modeled after the flag of France, the colors are those of the principalities of Walachia (red and yellow) and Moldavia (red and blue), which united in 1862 to form Romania. [1]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002B7F"
+            },{
+                "name": "yellow",
+                "hex": "#FCD116"
+            },{
+                "name": "red",
+                "hex": "#CE1126"
+            }
+        ],
+        "design": "A vertical tricolor of blue (cobalt blue), yellow (chrome yellow), and red (vermilion). [0]",
+        "adoptionDate": 1848,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Romania",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Russia",
+        "image": "russia.svg",
+        "category": "Countries",
+        "history": "The flag was first used as an ensign for Russian merchant ships and became official as the flag of the Tsardom of Russia in 1696. It remained in use until the establishment of the Russian Socialist Federative Soviet Republic in 1917. It was re-introduced as the flag of the Russian Federation in 1991. [0]",
+        "meaning": "Despite many popular interpretations, there is no official meaning assigned to the colors of the Russian flag. This flag inspired other Slav countries to adopt horizontal tricolors of the same colors but in different arrangements, and so red, blue, and white became the Pan-Slav colors. [1]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#0039A6"
+            },{
+                "name": "red",
+                "hex": "#D52B1E"
+            }
+        ],
+        "design": "A horizontal tricolour of white, blue and red. [0]",
+        "adoptionDate": 1696,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Russia",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Rwanda",
+        "image": "rwanda.svg",
+        "category": "Countries",
+        "history": "Rwanda's previous flag was a red-yellow-green tricolour with a large black letter \"R\" (to distinguish it from the otherwise identical Flag of Guinea). Derived from the flag of Ethiopia, the colours green, yellow, and red represented peace; the nation's hope for its development; and the people. The colours were associated with Pan-African colours. The flag was changed because it had become associated with the brutality of the 1994 genocide.\n\nThe flag was designed by Alphonse Kirimobenecyo. [0]",
+        "meaning": "The blue band represents happiness and peace, the yellow band symbolizes economic development, and the green band symbolizes the hope of prosperity. The sun represents enlightenment. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#00A1DE"
+            },{
+                "name": "yellow",
+                "hex": "#FAD201"
+            },{
+                "name": "green",
+                "hex": "#20603D"
+            }
+        ],
+        "design": "A horizontal tricolour of blue (double width), yellow and green; charged with a sun-yellow sun in the upper-hoist side corner. [0]",
+        "adoptionDate": 2001,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Rwanda"
+        ]
+    }
 ]
