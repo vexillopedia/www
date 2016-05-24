@@ -3634,4 +3634,111 @@
             "https://en.wikipedia.org/wiki/Flag_of_Paraguay"
         ]
     }
+    ,{
+        "name": "Peru",
+        "image": "peru.svg",
+        "category": "Countries",
+        "history": "The flag of Peru was adopted by the government of Peru in 1824. Depending on its use, it may be defaced with different emblems, and has different names. Flag day in Peru is celebrated on June 7, the anniversary of the Battle of Arica. [0]",
+        "meaning": "Red represents the blood that was spilled for the fight for independence, and white represents peace and bravery. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#D91023"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A vertical triband of red (hoist side and fly side) and white. [0]",
+        "adoptionDate": 1824,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Peru"
+        ]
+    }
+    ,{
+        "name": "Philippines",
+        "image": "philippines.svg",
+        "category": "Countries",
+        "history": "The earlier design of the current Philippine flag was conceptualized by Emilio Aguinaldo during his exile in Hong Kong in 1897. The first flag was sewn by Marcela Marino de Agoncillo with the help of her daughter Lorenza and Delfina Herbosa de Natividad (a niece of Propagandista José Rizal). It was first displayed in Battle of Alapan on May 28, 1898.\n\nThe original design of the flag adopted a mythical sun with a face influenced by Latin American republics Argentina, Peru, and Uruguay; a triangle, representing the Katipunan which inspired by the Eye of Providence in the Great Seal of the United States and the Masonic Triangle and which enshrined Liberté, Égalité, Fraternité; the stripes and colors derived from the American flag.\n\nIn ceremonies held in October 1943, Emilio Aguinaldo hoisted the flag with the original Cuban blue and red colors restored. The flag was initially flown with the blue stripe up, until President José P. Laurel proclaimed the existence of a state of war with the Allied Powers in 1944. The Commonwealth government-in-exile in Washington, D.C. continued to use the flag with the American colors, and had flown it with the red stripe up since the initial invasion of the Japanese. With the combined forces of the Filipino & American soldiers and the liberation of the Philippines in 1944 to 1945, the flag with the American colors was restored, and it was this flag that was hoisted upon the granting of Philippine independence from the United States on July 4, 1946. [0]",
+        "meaning": "The Philippine national flag has a rectangular design that consists of a white equilateral triangle, symbolizing liberty, equality, and fraternity; a horizontal blue stripe for peace, truth, and justice; and a horizontal red stripe for patriotism and valor. In the center of the white triangle is an eight-rayed golden sun symbolizing unity, freedom, people's democracy, and sovereignty. Each ray represents a province with significant involvement in the 1896 Philippine Revolution against Spain; these provinces are Manila, Bulacan, Cavite, Pampanga, Tarlac, Laguna, Batangas, and Nueva Ecija. Three five-pointed stars, one for each of the triangle's points, stand for the three major islands where the revolution started: Luzon, Visayas and Mindanao. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0038A8"
+            },{
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#FCD116"
+            }
+        ],
+        "design": "A horizontal bicolour of blue and red; with a white equilateral triangle based at the hoist containing three, 5-pointed gold stars at its vertices, and an 8-rayed gold sun at its center. [0]",
+        "adoptionDate": 1898,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Philippines"
+        ]
+    }
+    ,{
+        "name": "Poland",
+        "image": "poland.svg",
+        "category": "Countries",
+        "history": "The earliest vexilloids (flag-like objects) used in Poland were known as stanice and probably resembled the Roman vexillum, that is a cloth draped vertically from a horizontal crosspiece attached to a wooden pole or spear. They served as both religious and military symbols as early as 10th century CE.\n\nIn the times of the Polish-Lithuanian Commonwealth (1569–1795), a banner of the Commonwealth was also used, combining the heraldic symbols of Poland and the Grand Duchy of Lithuania.\n\nn the 18th and 19th centuries, European nations used cockades, or knots of colored ribbons pinned to the hat, to denote the nationality of their military. In Poland, until 1831, there was no consensus as to what the colors of the national cockade should be.\n\nThe patriotic and staunchly Catholic members of the Bar Confederation of 1768–1772 adopted crimson – the symbol of Polish szlachta, or nobility – and blue – symbolizing Virgin Mary – as their colors. These, as well as white-and-red, were considered national colors during the Great Sejm of 1788–1792. White and red were first publicly used as national colors by civilians on May 3, 1792 in Warsaw, during a celebration of the first anniversary of the adoption of the Constitution of 1791.\n\nWhite-and-red flags were first waved during a patriotic demonstration on May 3, 1916 in Warsaw. The organizing committee advised participants about the correct alignment of the colors, that is with the white stripe above the red one. Still, many demonstrators brought flags with the red stripe on top. On August 1, 1919, almost a year after Poland regained independence in November 1918, the Sejm officially introduced a white-and-red bicolor as the Polish national flag. [0]",
+        "meaning": "White and red were officially adopted as national colors in 1831. They are of heraldic origin and derive from the tinctures (colors) of the coats of arms of the two constituent nations of the Polish–Lithuanian Commonwealth, i.e. the White Eagle of Poland and the Pursuer of the Grand Duchy of Lithuania, a white knight riding a white horse, both on a red shield. [0]",
+        "ratio": "5:8",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#DC143C"
+            }
+        ],
+        "design": "A horizontal bicolour of white and red. [0]",
+        "adoptionDate": 1919,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Poland"
+        ]
+    }
+    ,{
+        "name": "Portugal",
+        "image": "portugal.svg",
+        "category": "Countries",
+        "history": "On June 30, 1911, less than a year after the downfall of the constitutional monarchy, this design was officially adopted for the new national flag, after selection by a special commission whose members included Columbano Bordalo Pinheiro, João Chagas and Abel Botelho.\n\nThe current flag design represents a dramatic change in the evolution of the Portuguese standard, which had always been closely associated with the royal arms, blue and white. Since the country's foundation, the national flag developed from the blue cross-on-white armorial square banner of King Afonso I to the liberal monarchy's arms over a blue-and-white rectangle. In between, major changes associated with determinant political events contributed to its evolution into the current design. [0]",
+        "meaning": "The explanation for the green and red colours that make up the background field arose during the Estado Novo period, the nationalist authoritarian regime that held power from 1933 to 1974. It claims that the green represented the hope of the Portuguese people, while the red represented the blood of those who died serving the nation. Sources believe these noble meanings are far from the truth and are nothing more than propaganda, to provide an honourable justification to their choice.\n\nThe armillary sphere was an important astronomical and navigational instrument for the Portuguese sailors who ventured into unknown seas during the Age of Discoveries.\n\nThe Portuguese shield rests over the armillary sphere. Except during the reign of Afonso I, it is present in every single historical flag, in one form or another. It is the prime Portuguese symbol as well as one of the oldest, with the first elements of today's shield appearing during the reign of Sancho I. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#FF0000"
+            },{
+                "name": "green",
+                "hex": "#006600"
+            },{
+                "name": "yellow",
+                "hex": "#FFFF00"
+            },{
+                "name": "blue",
+                "hex": "#003399"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A vertically striped bicolour of green and red, with the lesser coat of arms of Portugal centred over the colour boundary [0]",
+        "adoptionDate": 1911,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Portugal"
+        ]
+    }
 ]
