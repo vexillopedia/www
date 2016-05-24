@@ -3959,4 +3959,223 @@
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
         ]
     }
+    ,{
+        "name": "San Marino",
+        "image": "san-marino.svg",
+        "category": "Countries",
+        "history": "The oldest attested flag of the republic dates back from 4 September 1465, when it was commissioned from a manufacturer in Florence. It showed a horizontal tricolor of orange, white and purple, with the old emblem of San Marino depicted on the white stripe. It is not known how long it remained the state flag of the republic or when the white-blue bicolor appeared. In 1797, most likely influenced by the wave of reforms in France, the Supreme Council of the Republic commissioned a white and blue cockade, which, coincidentally or not, was identical to the one used by the French revolutionaries.\n\nThe current flag was adopted on 6 April 1862 by a Decree of the Supreme Council and since then, little but graphic details of the coat of arms and some proportions were changed. [0]",
+        "meaning": "The two colors of the flag represent peace (white) and liberty (azure). The coat of arms has a shield (featuring three towers on three peaks) with a closed crown on top, flanked by an oak and laurel wreath, with a scroll below bearing the word LIBERTAS (Liberty). [0]",
+        "ratio": "3:4",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#5EB6E4"
+            },{
+                "name": "yellow",
+                "hex": "#F1BF31"
+            },{
+                "name": "green",
+                "hex": "#658D5C"
+            }
+        ],
+        "design": "A horizontal bicolour of white and light blue; charged with the Coat of arms in the centre. [0]",
+        "adoptionDate": 1862,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_San_Marino"
+        ]
+    }
+    ,{
+        "name": "São Tomé and Príncipe",
+        "image": "sao-tome-and-principe.svg",
+        "category": "Countries",
+        "history": "The Portuguese colonized the islands of São Tomé and Príncipe during the 16th century and incorporated them into their colonial empire. Four centuries later, the Batepá massacre in 1953 stoked nationalistic sentiment and galvanized a struggle for independence. This was led by the Movement for the Liberation of São Tomé and Príncipe (MLSTP), which were established seven years later. The Portuguese, however, refused to grant this and continued to fight on until the Carnation Revolution occurred in 1974. The new government decided to withdraw from their remaining colonies, and negotiated on a roadmap for independence with the MLSTP, whom they had recognized as the \"sole representative\" of the islands.\n\nSeveral submissions for a new flag were made, all of which utilized the colours of the Pan-Africanist movement. These were all turned down, and a new flag – reportedly designed by MLSTP leader and future president Manuel Pinto da Costa – was approved of. It was adopted either on July 12, 1975 – the day the country became independent – or on November 5 of that same year. The flag is almost identical to the flag of the MLSTP, and although they lost their \"monopoly of power\" in 1990, the flag remained unchanged. [0]",
+        "meaning": "The green alludes to the plentiful vegetation of the country, while the yellow stands for the tropical sun and cocoa, a key agricultural crop for the nation. The red evokes the \"struggle for independence\", as well as equality. The two stars on the yellow band represent the two islands that make up the country. [0][1]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#D21034"
+            },{
+                "name": "green",
+                "hex": "#12AD2B"
+            },{
+                "name": "yellow",
+                "hex": "#FFCE00"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            }
+        ],
+        "design": "A horizontal tricolour of green, yellow and green; with a red triangle based at the hoist and two black five-pointed stars in the yellow stripe. [0]",
+        "adoptionDate": 1975,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_São_Tomé_and_Príncipe",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Saudi Arabia",
+        "image": "saudi-arabia.svg",
+        "category": "Countries",
+        "history": "The Al Saud, the ruling family of Saudi Arabia, has long been closely associated with the Wahhabi religious movement. The Wahhabis, since the 18th century, had used the shahada on their flags. In 1902 Abdulaziz Abdulrahman Al-Saud, leader of the Al Saud and the future founder of the Kingdom of Saudi Arabia, added a sword to this flag. The design of the flag was not standardized prior to March 15, 1973, and variants with two swords and/or a white vertical stripe at the hoist were frequently used. By 1938, the flag had basically assumed its present form, except the sword had a different design (with a more curved blade) and it, along with the shahada above, took up more of the flag's space. [0]",
+        "meaning": "The green of the flag represents Islam and the sword stands for the House of Saud, the founding dynasty of the country, or the military strength and prowess of Saudi Arabia.\n\nThe Arabic inscription on the flag, written in the calligraphic Thuluth script, is the shahada or Islamic declaration of faith: لَا إِلٰهَ إِلَّا الله مُحَمَّدٌ رَسُولُ الله (There is no god but God: Muhammad is the Messenger of God). [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#006C35"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A green field with the Shahada or Muslim creed written in the large Thuluth script in white above a white horizontal saber, in which the tip of the saber points to the hoist-side in the center. [0]",
+        "adoptionDate": 1973,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Saudi_Arabia"
+        ]
+    }
+    ,{
+        "name": "Senegal",
+        "image": "senegal.svg",
+        "category": "Countries",
+        "history": "Adopted in 1960 to replace the flag of the Mali Federation, it has been the flag of the Republic of Senegal since the country gained independence that year. The present and previous flags were inspired by French Tricolour, which flew over Senegal until 1960. [0]",
+        "meaning": "Much symbolism and many connotations are beholden to the stripes and singular star of the Senegalese flag. From a national perspective, green is highly symbolic within all of the country's primary religions. In Islam, the country's majority religion at 94% percent of the population, the green of both the first stripe and the star represent the colour of the Prophet, Christians see the presence of green as a portent of hope, and Animists view green as representative of fecundity.\n\nThe Senegalese government offers exegesis for the presence of yellow and red as well, yellow being \"the symbol of wealth; it represents the product of work, for a nation whose main priority is the progress of economy, which will allow the increase of the cultural level, the second national priority.\" Additionally, yellow is denoted as \"the colour of arts, literature, and intellect\", primarily because literature teachers in Senegal are known to wear yellow blouses. Red \"recalls the colour of blood, therefore colour of life and the sacrifice accepted by the nation, and also of the strong determination to fight against underdevelopment.\".\n\nHistorically, the three colours represent the three political parties which merged to form Union Progressiste Sénégalaisé (Senegalese Progressist Union, now Socialist Party of Senegal, Leopold Senghor's party): green for Bloc Démocratique Sénégalais (Senegalese Democratic Bloc), yellow for Mouvement Populaire Sénégalais (Senegalese Popular Movement) and red for Parti Sénégalais d'Action Sociale (Senegalese Party of Socialist Action).\n\nGreen, yellow and red are the colours of the Pan-Africanist movement. That pattern was replicated on Senegal's flag as a sign of unity among African countries. The quinary points of the star are said to \"recall the human ideogram which was displayed in the middle of the flag of the former Mali Federation\". [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#00853F"
+            },{
+                "name": "yellow",
+                "hex": "#FDEF42"
+            },{
+                "name": "red",
+                "hex": "#E31B23"
+            }
+        ],
+        "design": "A vertical tricolour of green, yellow and red; charged with a green five-pointed star at the centre. [0]",
+        "adoptionDate": 1960,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Senegal"
+        ]
+    }
+    ,{
+        "name": "Serbia",
+        "image": "serbia.svg",
+        "category": "Countries",
+        "history": "The 1835 Sretenje Constitution described the colours of the Serbian flag as bright red, white and čelikasto-ugasita (that could be translated as steelish-dark). The constitution was criticized, especially by Russia, and the flag was specifically singled out as being similar to the revolutionary flag of France. Soon afterwards, Miloš Obrenović was requesting to the Porte that the new constitution should contain an article about the flag and coat of arms, and subsequent ferman (1835) allowed Serbs to use their own maritime flag, which will have \"upper part of red, middle of blue, and lower of white\", which is the first appearance of the colours that are used today.\n\nSerbia used the red, blue and white tricolour continuously from 1835 until 1918 when Serbia joined the Kingdom of Serbs, Croats and Slovenes, later known as Yugoslavia.\n\nAfter World War II, Yugoslavia was reformed into a socialist federal republic, composed of six republics, one of which was Serbia. Each republic was entitled to its own flag on the condition that it contained the socialist red star. Following the breakup of Yugoslavia, Serbia initially continued using the same flag; the 1990 Constitution of Serbia stated that flag and coat of arms of Serbia can only be changed by the same procedure used to change the constitution itself, which required absolute majority of voters to support it. 1992 Serbian constitutional referendum asked the voters to choose between the flag with and without the star, with red star gaining the majority of votes, however not the absolute majority of voters. The red star was nonetheless removed from the flag in 1992 by a recommendation by the Serbian parliament; however, the coat of arms remained unchanged. In 2003, however, the government of Serbia issued a recommendation on flag and coat of arms use, that preferred using different symbols from the ones in the constitution. The 2006 Constitution of Serbia stated that state emblems would be regulated by law; the recommendation remained in use until 11 May 2009, when the actual flag law was enacted. On November 11, 2010, a visual redesign of the coat of arms was enacted, which is currently used on the state flag. [0]",
+        "meaning": "The Pan-Slav colors (red, blue and white) represent freedom and revolutionary ideals.\n\nthe principal field of the coat of arms represents the Serbian state and displays a white two-headed eagle on a red shield; a smaller red shield on the eagle represents the Serbian nation, and is divided into four quarters by a white cross; interpretations vary as to the meaning and origin of the white, curved symbols resembling firesteels or Cyrillic \"C's\" in each quarter; a royal crown surmounts the coat of arms. [1]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#C6363C"
+            },{
+                "name": "blue",
+                "hex": "#0C4076"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#EDB92E"
+            }
+        ],
+        "design": "A horizontal tricolour of red, blue, and white; charged with the lesser Coat of arms left of centre. [0]",
+        "adoptionDate": 2004,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Serbia",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Seychelles",
+        "image": "seychelles.svg",
+        "category": "Countries",
+        "history": "The original flag was adopted after independence on June 29, 1976. It had alternating blue and red triangles. Coincidentally the flag was almost identical to the Australasia's United Steam Navigation Company's flag. In 1977, when president James Mancham was overthrown by France-Albert René, the old flag was abolished and the red, white and green flag of the Seychelles People's United Party came into use and it had a district wavy white stripe. The only significant difference between the national flag and SPUP's flag was the depiction of sun in the party's flag which was not used in the country's flag. When the party lost the majority in the elections, other parties demanded a change in the flag which led to a parliamentary approval of a new proposed design. The yellow and blue strips represent the Democratic Party of Seychelles. [0]",
+        "meaning": "The oblique bands symbolize a dynamic new country moving into the future. The colour blue depicts the sky and the sea that surrounds the Seychelles. Yellow is for the sun which gives light and life, red symbolizes the people and their determination to work for the future in unity and love, while the white band represents social justice and harmony. The green depicts the land and natural environment. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#003F87"
+            },{
+                "name": "yellow",
+                "hex": "#FCD856"
+            },{
+                "name": "red",
+                "hex": "#D62828"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#007A3D"
+            }
+        ],
+        "design": "Five oblique bands of blue (hoist side), yellow, red, white, and green (bottom) radiating from the bottom of the hoist side. [0]",
+        "adoptionDate": 1996,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Seychelles"
+        ]
+    }
+    ,{
+        "name": "Sierra Leone",
+        "image": "sierra-leone.svg",
+        "category": "Countries",
+        "history": "The British first arrived in what is now modern-day Sierra Leone in 1787, when philanthropists and abolitionists acquired 52 square kilometres (20 sq mi) of land situated close to Bunce Island for freed slaves. The site of the settlement is where Freetown is now located. It became a crown colony of the United Kingdom within its colonial empire in 1808. Under colonial rule, Sierra Leone used the British Blue Ensign and defaced it with the arms of the territory. The emblem of Sierra Leone at the time consisted of a circle depicting an elephant, an oil palm tree and mountains, along with the letters \"S.L.\" standing for the initials of the territory's name. Other than the initials, the rest of the emblem's design was identical to the colonial arms of the Gold Coast, The Gambia and the Lagos Colony. Sierra Leone was granted its own unique coat of arms in 1914, and the emblem on the Blue Ensign was modified to reflect this change.\n\nIn 1960, the College of Arms formulated and then approved of a new flag and coat of arms for Sierra Leone, in anticipation of the colony's independence the following year. The arms was designed first, and its predominant colours of green, white, and blue were subsequently utilized towards the creation of the flag. It was first hoisted at midnight on 27 April 1961, the day Sierra Leone became an independent country. Two years later, the government passed a law making it illegal to \"insult\" the country's flag, along with the flags of \"friendly\" nations. [0]",
+        "meaning": "The green alludes to the country's natural resources – specifically agriculture and its mountains. – while the white epitomizes \"unity and justice\". The blue evokes the \"natural harbour\" of Freetown, the capital city of Sierra Leone, as well as the hope of \"contributing to world peace\" through its usage. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#1EB53A"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#0072C6"
+            }
+        ],
+        "design": "A horizontal tricolour of light green, white and light blue. [0]",
+        "adoptionDate": 1961,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Sierra_Leone"
+        ]
+    }
+    ,{
+        "name": "Singapore",
+        "image": "singapore.svg",
+        "category": "Countries",
+        "history": "The design of the flag was completed in two months by a committee headed by Toh. He initially wanted the flag's entire background to be red, but the Cabinet decided against this, as red was regarded as a rallying point for communism. According to an account given by Lee Kuan Yew, the Chinese population wanted five stars, which were modeled off the flag of the People's Republic of China and the Muslim population wanted a crescent moon. Both of these symbols were combined to create the national flag of Singapore.\n\nOn 30 November 1959, the Singapore State Arms and Flag and National Anthem Ordinance 1959 was passed to regulate the use and display of the State Arms and State Flag and the performance of the National Anthem. When presenting the motion to the Legislative Assembly of Singapore on 11 November 1959, Sinnathamby Rajaratnam, the Minister for Culture, stated: \"National flags, crest and anthem express symbolically the hopes and ideals of a people... The possession of a national flag and crest is, for a people, symbolic of self-respect.\".\n\nIn September 1962, the people of Singapore voted to join the Federation of Malaysia. The process was completed on 16 September 1963, when the Malaysian flag was hoisted on Singapore by Prime Minister Lee Kuan Yew. The Singapore flag was reconfirmed as the national flag when Singapore became fully independent from Malaysia on 9 August 1965. [0]",
+        "meaning": "The Singapore Arms and Flag and National Anthem Rules define the flag's composition and the symbolism of its elements: red symbolizes \"universal brotherhood and equality of man\", and white, \"pervading and everlasting purity and virtue\". The waxing crescent moon \"represents a young nation on the ascendant\". The five stars \"stand for the nation's ideals of democracy, peace, progress, justice and equality\".\n\nDuring the second half of the 20th century, the star and crescent symbol came to be recognized as a symbol of Islamism, and Singapore's flag came to be seen in this context by the nation's Muslim activists. It remains the only non-muslim nation to have a crescent moon in its national flag. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#ED2939"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A horizontal bicolour of red and white; charged in white in the canton with a crescent facing the fly and a pentagon of five stars. [0]",
+        "adoptionDate": 1959,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Singapore"
+        ]
+    }
 ]
