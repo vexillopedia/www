@@ -3481,4 +3481,157 @@
             "https://en.wikipedia.org/wiki/Flag_of_Norway"
         ]
     }
+    ,{
+        "name": "Oman",
+        "image": "oman.svg",
+        "category": "Countries",
+        "history": "Until 1975, Oman used the plain red banner of the indigenous people. In 1970, the Sultan introduced a complete new set of national flags. Bands of green and white were added to the fly, and the national emblem, the badge of the Albusaidi Dynasty, was placed in the canton. Between 1970 and 1995, the size of the middle band of the triband was slimmer than the other two, making up approximately one fifth of its height, the other bands two-fifths. [0]",
+        "meaning": "White has been associated historically with the Imam, the religious leader of Oman and at times the political rival to the ruling Sultan. It also symbolizes peace. Green is traditionally associated with the Jabal al Akdar, or \"Green Mountains\", which lie toward the north of the country. Red is a common color in Gulf state flags. The national emblem is said to date back to the 18th century. This depicts crossed swords over a khanjar, a traditional curved dagger. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#DB161B"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#008000"
+            }
+        ],
+        "design": "A horiztonal tricolour of white, red and green; with a vertical red stripe at the hoist, charged with the National emblem of Oman. [0]",
+        "adoptionDate": 1970,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Oman"
+        ]
+    }
+    ,{
+        "name": "Pakistan",
+        "image": "pakistan.svg",
+        "category": "Countries",
+        "history": "The national flag of Pakistan was adopted in its present form during a meeting of the Constituent Assembly on August 11, 1947, just four days before the country's independence, when it became the official flag of the Dominion of Pakistan. It was afterwards retained by the current-day Islamic Republic of Pakistan. The flag was designed by Amiruddin Kidwai, and is based on the All-India Muslim League flag. [0]",
+        "meaning": "The green represents Islam and the majority Muslims in Pakistan and the white stripe represents religious minorities and minority religions. In the centre, the crescent and star symbolizes progress and light respectively. The flag symbolizes Pakistan's commitment to Islam and the rights of religious minorities. It is based on the original flag of the Muslim League, which itself drew inspiration from the flag of the Sultanate of Delhi, the flag of Ottoman Empire and the Flag of the Mughal Empire. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#01411C"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A white star and crescent on a dark green field, with a vertical white stripe at the hoist. [0]",
+        "adoptionDate": 1947,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Pakistan"
+        ]
+    }
+    ,{
+        "name": "Palau",
+        "image": "palau.svg",
+        "category": "Countries",
+        "history": "The current flag was introduced in 1981 when Palau became a republic. Previously, the flag of the Trust Territory of the Pacific Islands was flown jointly with the United Nations and American flags.\n\nFutaranosuke Nagoshi (名越二荒之助), a Japanese professor who studies international relations, made mention of a probable relation between flag of Palau and that of Japan. According to his idea, the motif of the moon is a kind of homage to the Rising-Sun flag and describes the symbol of amity between Palau and Japan. In a related matter, former Palauan President Kuniwo Nakamura once said with an ironical smile, \"That's one way of putting it.\". [0]",
+        "meaning": "As with the flags of several other Pacific island groups, blue is the colour used to represent the ocean and the nation's place within it. While this puts Palau in common with the Federated States of Micronesia and other neighboring island groups, the disc on the flag (similar to that on Japan's flag) is off-centre like that of the flag of Bangladesh, but in this case represents the moon instead of the sun. [0]",
+        "ratio": "5:8",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#4AADD6"
+            },{
+                "name": "yellow",
+                "hex": "#FFDE00"
+            }
+        ],
+        "design": "A light blue field with a large yellow disk shifted slightly to the hoist side of center. [0]",
+        "adoptionDate": 1981,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Palau"
+        ]
+    }
+    ,{
+        "name": "Panama",
+        "image": "panama.svg",
+        "category": "Countries",
+        "history": "The current Panamanian flag was made by María de la Ossa de Amador, the first First Lady of Panama, on November 1, 1903. Manuel Amador Guerrero's son, Manuel Encarnación Amador, generally recognized as a skillful drawer, sketched the flag and showed it to María de la Ossa de Amador, who, after much difficulty in avoiding the Colombian army, eventually produced three copies of the flag, which were all eventually flown in Panama City upon independence, and distributed widely. [0]",
+        "meaning": "This flag was to reflect the political situation of the time. The blue was intended to represent the Conservative Party and the red to represent the Liberal Party. The white was intended to stand for peace and purity; the blue star stands for the purity and honesty of the life of the country; the red star represents the authority and law in the country; and together the stars stand for the new republic. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#005293"
+            },{
+                "name": "red",
+                "hex": "#D21034"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A flag is divided into four rectangles: the top quadrants are: a white field on a hoist side bearing a blue five-pointed star in the center and a red field on the fly side; the bottom quadrants are: a blue field on a hoist side and a white field on the fly side bearing a red five-pointed star in the center. [0]",
+        "adoptionDate": 1925,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Panama"
+        ]
+    }
+    ,{
+        "name": "Papua New Guinea",
+        "image": "papua-new-guinea.svg",
+        "category": "Countries",
+        "history": "The flag of Papua New Guinea was adopted on 1 July 1971. The designer of the flag was 15-year-old schoolgirl Susan Karike, now Mrs Susan Huhume, who won a nationwide competition for a new flag design in 1971. [0]",
+        "meaning": "Red and black have long been traditional colors of many Papua New Guinean tribes. Black-white-red was the color of the German Empire flag, which had colonized New Guinea prior to 1918. The bird-of-paradise is also found on the national coat-of-arms. The Southern Cross shows that it is a country in the Southern Hemisphere and can be seen in Papua New Guinea. [0]",
+        "ratio": "3:4",
+        "colors": [
+            {
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "yellow",
+                "hex": "#FCD116"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "Divided diagonally from the upper hoist-side corner to the lower fly-side corner: the upper triangle is red with a soaring raggiana bird of paradise and the lower triangle is black with the Southern Cross of four white larger five-pointed stars and a smaller star. [0]",
+        "adoptionDate": 1971,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Papua_New_Guinea"
+        ]
+    }
+    ,{
+        "name": "Paraguay",
+        "image": "paraguay.svg",
+        "category": "Countries",
+        "history": "The flag of Paraguay was adopted in 1842. The flag is unusual because it differs on its obverse and reverse sides: the obverse of the flag shows the national coat of arms, and the reverse shows the seal of the treasury. It was revised in 2013 to bring the flag towards its original design. [0]",
+        "meaning": "The colours of the flag are believed to be inspired from the flag of France to show independence and liberty, and the coat of arms represents the independence of Paraguay. [0]",
+        "ratio": "11:20",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#D52B1E"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#0038E8"
+            }
+        ],
+        "design": "A red–white–blue triband charge with the coat of arms. [0]",
+        "adoptionDate": 1842,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Paraguay"
+        ]
+    }
 ]
