@@ -3844,4 +3844,119 @@
             "https://en.wikipedia.org/wiki/Flag_of_Rwanda"
         ]
     }
+    ,{
+        "name": "Saint Kitts and Nevis",
+        "image": "saint-kitts-and-nevis.svg",
+        "category": "Countries",
+        "history": "In 1882, the British amalgamated Saint Kitts, Nevis and Anguilla into a single colony called the British Leeward Islands. The three islands later became part of the West Indies Federation in 1958; after this dissolved four years later, they were granted the status of associate state as Saint Christopher-Nevis-Anguilla. However, Anguilla decided to secede from the federation in 1969, owing to fears that their population, which was already small, would be further marginalized in parliament. This was eventually formalized in 1980, and a new flag for the remaining parts of the federation was needed, since the symbolism of the previous flag centered on the concept of a union of three.\n\nA national competition was held in the early 1980s to choose a new flag. The winning design by student Edrice Lewis was one of 258 entries. It was first hoisted one minute after midnight on September 19, 1983, the day Saint Kitts and Nevis became an independent country. [0]",
+        "meaning": "The green alludes to the country's fertile land, while the red evokes the fight for freedom against slavery and colonialism. The yellow stripes represent the sunshine the islands enjoy all year round and the black epitomizes the people's African origins. The two stars on the black band symbolize Saint Christopher and Nevis — the two islands that make up the federation—as well as \"hope and liberty.\"\n\nThe official meaning behind the flag's symbols was formulated by Edrice Lewis, the same person who designed the flag. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#009E49"
+            },{
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "yellow",
+                "hex": "#FCD116"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A yellow-edged black broad diagonal band bearing two white five-pointed stars divided diagonally from the lower hoist side corner to the upper fly corner: the upper triangle is green and the lower triangle is red. [0]",
+        "adoptionDate": 1983,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Saint_Kitts_and_Nevis"
+        ]
+    }
+    ,{
+        "name": "Saint Lucia",
+        "image": "saint-lucia.svg",
+        "category": "Countries",
+        "history": "The French colonized Saint Lucia in 1635 and subsequently signed a treaty with the local indigenous population 45 years later in 1680. However, the British vied for control with the French, and the island frequently switched hands between the two superpowers. This continued until 1814, when the Treaty of Paris was signed that saw France permanently relinquish Saint Lucia to the British, and it became a crown colony of the United Kingdom within its colonial empire in that same year. During this colonial period of French and British rule, Saint Lucia did not have its own unique colonial flag.\n\nThe British finally granted Saint Lucia its own unique coat of arms in August 1939. The escutcheon consisted of a black shield featuring two sticks of bamboo forming a cross, with two Tudor roses symbolizing England and two fleurs-de-lis symbolizing France occupying the four quadrants. This emblem was utilized to deface the British Blue Ensign in order to form the territory's flag.\n\nThe island became part of the West Indies Federation from 1958 to 1962. However, this political union turned out to be unsuccessful, and on March 1, 1967 – five years after the federation was dissolved – Saint Lucia became an Associated State. This gave the territory full control over domestic matters, while Britain retained responsibility for the island's foreign affairs and defence. The territory's new flag, which was designed by native Saint Lucian artist Dunstan St. Omer, was adopted on that same day. When Saint Lucia became an independent country on February 22, 1979, the overall design of the flag from twelve years before remained unchanged, but the blue colour's shade and the triangles' sizes were modified marginally. Despite the fact that the island already had its own distinct flag by the time it became a sovereign state, the Union Jack was still lowered for the final time at the official ceremony marking independence. [0]",
+        "meaning": "The blue epitomizes the sky and the sea, specifically the Atlantic Ocean and Caribbean Sea which encircle the country. The black and white allude to the harmonious relationship between the black and white races.The yellow symbolizes the sunshine, as well as prosperity. The triangles represent the Pitons, which are twin volcanic cones located in the southwest part of the island and unity. Gros Piton and Petit Piton, they are a national symbol of Saint Lucia. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#66CCFF"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "yellow",
+                "hex": "#FCD116"
+            }
+        ],
+        "design": "A cerulean blue field with a gold isosceles triangle below a white-edged black triangle in the center. [0]",
+        "adoptionDate": 1967,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Saint_Lucia"
+        ]
+    }
+    ,{
+        "name": "Saint Vincent and the Grenadines",
+        "image": "saint-vincent-and-the-grenadines.svg",
+        "category": "Countries",
+        "history": "The flag of Saint Vincent and the Grenadines was adopted on October 21, 1985. The previous flags had a realistic breadfruit leaf, where the gems are now, emblazoned with the coat of arms of Saint Vincent and the Grenadines. [0]",
+        "meaning": "The diamonds recall Saint Vincent as the \"gems of the Antilles\". Blue represents the tropical sky and the crystal waters, yellow stands for the golden Grenadine sands, and green stands for the islands' lush vegetation. The diamonds are set low on the yellow band, recalling the nation's location in the Antilles. [0][1]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0072C6"
+            },{
+                "name": "yellow",
+                "hex": "#FCD116"
+            },{
+                "name": "green",
+                "hex": "#009E60"
+            }
+        ],
+        "design": "Three vertical bands of blue (hoist side), gold (double width), and green; the gold band bears three green diamonds arranged in a V pattern. [1]",
+        "adoptionDate": 1985,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Saint_Vincent_and_the_Grenadines",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Samoa",
+        "image": "samoa.svg",
+        "category": "Countries",
+        "history": "The flag of Samoa was first adopted from February 24, 1949 for UN Trusteeships, and continuously applied for the state's independence on January 1, 1962. [0]",
+        "meaning": "The five-pointed stars representing the Southern Cross constellation; red stands for courage, blue represents freedom, and white signifies purity. [1]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "blue",
+                "hex": "#002B7F"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A red field with a blue rectangle on the upper hoist-side quadrant bearing the Southern Cross of four white larger five-pointed stars and a smaller star in the center. [0]",
+        "adoptionDate": 1949,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Samoa",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
 ]
