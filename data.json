@@ -4844,4 +4844,194 @@
             "https://en.wikipedia.org/wiki/Flag_of_Tuvalu"
         ]
     }
+    ,{
+        "name": "Uganda",
+        "image": "uganda.svg",
+        "category": "Countries",
+        "history": "When the Democratic Party ruled the country, a design for flag was proposed. It had vertical stripes of green-blue-green, separated by narrower yellow stripes, and in the centre had the silhouette of a yellow crane. After the party lost the national elections on April 25, 1962 the newly elected Uganda People’s Congress (UPC) rejected the former design and instead proposed the current design. It was based on the flag of UPC– a tricolor having horizontal strips of red, yellow and black. The British administration gave their approval to this design before the country's independence. The flag was designed by the Ugandan Minister of Justice, Grace Ibingira. [0]",
+        "meaning": "The three colours are representative of African peoples (black), Africa's sunshine (yellow), and African brotherhood (red being the colour of blood, through which all Africans are connected). The grey crowned crane is fabled for its gentle nature and was also the military badge of Ugandan soldiers during British rule. The raised leg of the crane symbolizes the forward movement of the country. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "yellow",
+                "hex": "#FCDC04"
+            },{
+                "name": "red",
+                "hex": "#D90000"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "Six equal horizontal bands of black (top), yellow, red, black, yellow, and red (bottom); a white disc is superimposed at the centre and depicts the national symbol, a grey crowned crane, facing the hoist side. [0]",
+        "adoptionDate": 1962,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Uganda"
+        ]
+    }
+    ,{
+        "name": "Ukraine",
+        "image": "ukraine.svg",
+        "category": "Countries",
+        "history": "As a national flag, the blue and yellow bicolour was officially used since the 1848 Spring of Nations when it was hoisted over the Lviv Rathaus. It was officially adopted as a state flag for the first time in 1918 by the short-lived West Ukrainian People's Republic, and subsequently used by the Ukrainian People's Republic. When Ukraine was part of the Soviet Union, the flag was outlawed and before 1949 there was no official state flag until adoption of the red-blue flag of the Ukrainian SSR. People who hoisted the blue-yellow flags in the Soviet Ukraine were prosecuted as criminals. The blue and yellow flag was provisionally adopted for official ceremonies in September 1991 following Ukrainian independence, before finally officially being restored in 1992. [0]",
+        "meaning": "The colors represent grain fields under a blue sky. [1]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#005BBB"
+            },{
+                "name": "yellow",
+                "hex": "#FFD500"
+            }
+        ],
+        "design": "A horizontal bicolour of blue and yellow. [0]",
+        "adoptionDate": 1918,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Ukraine",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "United Arab Emirates",
+        "image": "united-arab-emirates.svg",
+        "category": "Countries",
+        "history": "The flag of the United Arab Emirates was adopted on December 2, 1971.\n\nEach of the seven emirates within the United Arab Emirates has its own flag, except for Fujairah, which uses the federal flag as state flag too.\n\nThe flags are derived from the red flags traditionally used by the different Arab emirates around the Persian Gulf. Under the protection of the British Empire from 1820, it was decided to add a white field at the hoist of the flag. The same basic pattern can be seen in the flag of Bahrain and the flag of Qatar, emirates who opted not to join the UAE when it was created in the 1970s. [0]",
+        "meaning": "The flag incorporates all four Pan-Arab colors, which in this case represent fertility (green), neutrality (white), petroleum resources (black), and unity (red). Red was the traditional color incorporated into all flags of the emirates before their unification. [1]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#FF0000"
+            },{
+                "name": "green",
+                "hex": "#00732F"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            }
+        ],
+        "design": "Three equal horizontal bands of green (top), white, and black with a wider vertical red band on the hoist side. [1]",
+        "adoptionDate": 1971,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_United_Arab_Emirates",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "United Kingdom",
+        "image": "united-kingdom.svg",
+        "category": "Countries",
+        "history": "The current design of the Union Jack dates from the union of Ireland and Great Britain in 1801. It consists of the red cross of Saint George (patron saint of England), edged in white, superimposed on the Cross of St Patrick (patron saint of Ireland), which are superimposed on the Saltire of Saint Andrew (patron saint of Scotland). Wales, however, is not represented in the Union Flag by Wales's patron saint, Saint David, as at the time the flag was designed Wales was part of the Kingdom of England. [0]",
+        "meaning": "See History.",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#00247D"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#CF142B"
+            }
+        ],
+        "design": "A white-fimbriated symmetric red cross on a blue field with a white-fimbriated counterchanged saltire of red and white. [0]",
+        "adoptionDate": 1801,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_United_Kingdom"
+        ]
+    }
+    ,{
+        "name": "United States",
+        "image": "united-states.svg",
+        "category": "Countries",
+        "history": "The current design of the U.S. flag is its 27th; the design of the flag has been modified officially 26 times since 1777. The 48-star flag was in effect for 47 years until the 49-star version became official on July 4, 1959. The 50-star flag was ordered by President Eisenhower on August 21, 1959 and was adopted in July 1960. It is the longest-used version of the U.S. flag and has been in use for over 55 years. [0]",
+        "meaning": "The 50 stars on the flag represent the 50 states of the United States of America, and the 13 stripes represent the thirteen British colonies that declared independence from the Kingdom of Great Britain, and became the first states in the US. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#3C3B6E"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#B22234"
+            }
+        ],
+        "design": "Thirteen horizontal stripes alternating red and white; in the canton, 50 white stars of alternating numbers of six and five per row on a blue field [0]",
+        "adoptionDate": 1960,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_United_States"
+        ]
+    }
+    ,{
+        "name": "Uruguay",
+        "image": "uruguay.svg",
+        "category": "Countries",
+        "history": "The flag was first adopted by law on December 16, 1828, and had 19 stripes until July 11, 1830, when a new law reduced the number of stripes to nine. The flag was designed by Joaquín Suárez. [0]",
+        "meaning": "The horizontal stripes on the flag represent the nine original departments of Uruguay. The first flag designed in 1828 had 9 light blue stripes; this number was reduced to 4 in 1830 before the proclamation of the country's first Constitution. The Sun of May represents a new nation in the world. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#0038A8"
+            },{
+                "name": "yellow",
+                "hex": "#FCD116"
+            }
+        ],
+        "design": "A field of alternating white and blue stripes with a white canton charged with the Sun of May. [0]",
+        "adoptionDate": 1830,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Uruguay"
+        ]
+    }
+    ,{
+        "name": "Uzbekistan",
+        "image": "uzbekistan.svg",
+        "category": "Countries",
+        "history": "Adopted in 1991 to replace the flag of the Uzbek Soviet Socialist Republic (SSR), it has been the flag of the Republic of Uzbekistan since the country gained independence in that same year. The design of the present flag was partly inspired by the former one. [0]",
+        "meaning": "The white stands for peace and purity, while blue represents water and the sky. The latter colour also alludes to the flag of Timur, who ruled over present-day Uzbekistan during the 14th century. Green officially epitomizes \"nature and fertility\" – though it may also represent Islam – while the thin red stripes represents the \"life force\" within everyone. The crescent at the canton evokes \"the rebirth of\" Uzbekistan as an \"independent\" country. Moreover, it symbolizes the Islamic faith practiced by 88% of Uzbekistan's population. To the right of the crescent are twelve stars, which signify the months of the Islamic calendar, as well as the constellations featured in the zodiac. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0099B5"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#1EB53A"
+            },{
+                "name": "red",
+                "hex": "#CE1126"
+            }
+        ],
+        "design": "A horizontal blue, white and green stripes, separated by two narrow red stripes. A crescent and three rows of twelve stars are situated on the left side of the upper blue stripe. [0]",
+        "adoptionDate": 1991,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Uzbekistan"
+        ]
+    }
 ]
