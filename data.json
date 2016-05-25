@@ -4575,4 +4575,117 @@
             "https://en.wikipedia.org/wiki/Flag_of_Syria"
         ]
     }
+    ,{
+        "name": "Tajikistan",
+        "image": "tajikistan.svg",
+        "category": "Countries",
+        "history": "The national flag of Tajikistan was adopted in November 1992, replacing the flag of the Tajik Soviet Socialist Republic of 1953. The tricolour preserves the choice of colours in the Tajik Soviet flag. [0]",
+        "meaning": "The red represents the unity of the nation; the green represents the fertile valleys, while the white represents both the snow and ice of the mountains and the colour of cotton. The crown represents the Tajik people, as the name Tajik is connected with Persian tâj \"crown\" in popular etymology. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CC0000"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#006600"
+            },{
+                "name": "yellow",
+                "hex": "#F8C300"
+            }
+        ],
+        "design": "A horizontal tricolour of red, white and green; charged with a crown surmounted by an arc of seven stars at the centre. [0]",
+        "adoptionDate": 1992,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Tajikistan"
+        ]
+    }
+    ,{
+        "name": "Tanzania",
+        "image": "tanzania.svg",
+        "category": "Countries",
+        "history": " Adopted in 1964 to replace the individual flags of Tanganyika and Zanzibar, it has been the flag of the United Republic of Tanzania since the two states merged that year. The design of the present flag incorporates the elements from the two former flags. [0]",
+        "meaning": "The green alludes to the natural vegetation and \"rich agricultural resources\" of the country, while black represents the Swahili people who are native to Tanzania. The blue epitomizes the Indian Ocean, as well as the nation's numerous lakes and rivers. The thin stripes stand for Tanzania's mineral wealth, derived from the \"rich deposits\" in the land. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#1EB53A"
+            },{
+                "name": "blue",
+                "hex": "#00A3DD"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "yellow",
+                "hex": "#FCD116"
+            }
+        ],
+        "design": "A yellow-edged black diagonal band divided diagonally from the lower hoist-side corner: the upper triangle is green and the lower triangle is blue. [0]",
+        "adoptionDate": 1964,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Tanzania"
+        ]
+    }
+    ,{
+        "name": "Thailand",
+        "image": "thailand.svg",
+        "category": "Countries",
+        "history": "The first flag used for Siam was probably a plain red one, first used under King Narai (1656–1688). Naval flags later used different symbols on the red ground—a white chakra (the weapon of god Vishnu which use as the symbol of the House of Chakri), or a white elephant inside the chakra.\n\nOfficially the first flag was created in 1855 by King Mongkut (Rama IV), showing a white elephant (a royal symbol) on red ground, as the plain coloured flag was not distinct enough for international relations.\n\nIn 1916 the flag was changed to show a white elephant in royal regalia. In 1917, the current design, but with the middle colour being the same red as the outer stripe, was defined as the civil ensign. The story goes that during a flood King Vajiravudh (Rama VI) saw the flag hanging upside-down, and to prevent this from happening again created a new flag which was symmetrical. Later in 1917, the middle colour was changed to dark blue, which was similar in tone to indigo, which at the time was regarded as the auspicious colour for Saturday, the day King Vajiravudh was born. According to other sources, the blue colour was also chosen to show solidarity with the Allies of World War I, which also had the colours blue-red-white in their flags. [0]",
+        "meaning": "The colours are said to stand for nation-religion-king, an unofficial motto of Thailand, red for the land and people, white for religions and blue for the monarchy, the last having been the auspicious colour of Rama VI. As the king had declared war on Germany on July 1917, some note the flag now bore the same colours as those of Britain, France, and the United States. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#ED1C24"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#241D4F"
+            }
+        ],
+        "design": "Five horizontal stripes of red, white, blue, white and red, the middle stripe twice as wide as the others. [0]",
+        "adoptionDate": 1917,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Thailand"
+        ]
+    }
+    ,{
+        "name": "Togo",
+        "image": "togo.svg",
+        "category": "Countries",
+        "history": "The flag of Togo was adopted on April 28, 1960. It uses the popular pan-African colors of Ethiopia, but the design resembles the flag of Liberia which itself echoes the flag of the United States.\n\nThe flag was designed by artist Paul Ahyi and approximates a golden rectangle closely. Ahyi (1930 – January 4, 2010) was regarded as among the greatest of African artists of his generation. Born in Togo, Ahyi graduated from the École nationale supérieure des Beaux-Arts in Paris in 1959 and returned to Togo. He designed the flag of Togo while working on other contemporary works. [0]",
+        "meaning": "The four colours (green, red, white and yellow), are the Pan-African colors, the same as the flag of Ethiopia.\n\nThe red in the canton symbolizes the blood shed by the martyrs of independence which bears the white star of hope. The green bands represent each the forests, agriculture and hope of the future. The yellow bands both represent the natural resources of the land. [0]",
+        "ratio": "1:1.618",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#D21034"
+            },{
+                "name": "green",
+                "hex": "#006A4E"
+            },{
+                "name": "yellow",
+                "hex": "#FFCE00"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "Five equal horizontal bands of green (top and bottom) alternating with yellow; with a red canton bearing a white five-pointed star. [0]",
+        "adoptionDate": 1960,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Togo"
+        ]
+    }
 ]
