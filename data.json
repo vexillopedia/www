@@ -4688,4 +4688,160 @@
             "https://en.wikipedia.org/wiki/Flag_of_Togo"
         ]
     }
+    ,{
+        "name": "Tonga",
+        "image": "tonga.svg",
+        "category": "Countries",
+        "history": "The British first arrived in Tonga in the late-18th century, when Captain James Cook made three visits to the islands between 1773 and 1777. Approximately fifty years later, English Wesleyan Methodist missionaries came to Tonga and began converting the islanders to Christianity. In 1831, they succeeded in converting \"paramount chief\" Taufa'ahau Tupou, who became King George Tupou I in 1845. It was during this time (circa 1840s) that the first Tongan flag was adopted. It consisted of a white field with a cross (either red or blue in colour) at all four corners, and the letters \"A\" (in red) and \"M\" (in blue) at the centre that symbolise the king.\n\nUpon his accession to the throne, the king sought to design a new flag for the nation, one that would represent Christianity. He befriended Shirley Waldemar Baker – a member of the United Kingdom's Tongan mission who later became the Prime Minister of Tonga – and they worked together to formulate a new flag, coat of arms and national anthem for Tonga. The new design resembled the British Red Ensign, in that three-quarters of it consisted of a simple red field, with a \"distinctive canton\" featured in the upper hoist section; this was first used in 1866. A new constitution for the kingdom was formulated and proclaimed on 4 November 1875. It \"codified\" the new flag design,[3] and marks when it was adopted as the national flag. Under Article 47 of the Constitution, this flag can \"never be altered\" and \"shall always be the flag\" of Tonga. [0]",
+        "meaning": "The red couped cross alludes to Christianity, the religion practised by approximately 97% of the country's population. The white epitomises purity, while the red evokes the sacrifice of the Blood of Christ, which he shed during his Crucifixion. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#C10000"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A red field with a white rectangle on the upper hoist-side corner bearing a bold red Greek Cross in the center. [0]",
+        "adoptionDate": 1875,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Tonga"
+        ]
+    }
+    ,{
+        "name": "Trinidad and Tobago",
+        "image": "trinidad-and-tobago.svg",
+        "category": "Countries",
+        "history": "The flag of Trinidad and Tobago was adopted upon independence from the United Kingdom on 31 August 1962. Designed by Carlisle Chang (1921–2001), the flag was chosen by the independence committee of 1962. [0]",
+        "meaning": "Red, black and white symbolize fire (the sun, representing courage), earth (representing dedication) and water (representing purity and equality). [0]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#DA1A35"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A red field with a white-edged black diagonal band from the upper hoist-side to the lower fly-side. [0]",
+        "adoptionDate": 1962,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Trinidad_and_Tobago"
+        ]
+    }
+    ,{
+        "name": "Tunisia",
+        "image": "tunisia.svg",
+        "category": "Countries",
+        "history": "The red and white flag of Tunisia, adopted as national flag in 1959, has its origins the naval ensign of the Kingdom of Tunis adopted in 1831 by Al-Husayn II ibn Mahmud. The star and crescent recalls the Ottoman flag and is therefore an indication of Tunisia's history as a part of the Ottoman Empire. [0]",
+        "meaning": "For the Tunisian embassy in France, the color red represents the blood of martyrs killed during the Turkish conquest of Tunisia in 1574. However, the Tunisians invited the Turkish to liberate them from the Spanish invaders and from what is left of the Hafside dynasty. Another interpretation is that the \"red Beylical flag spread light throughout the Muslim world\". The white symbolizes peace, the disk symbolizes the radiance of the nation as the sun, while the crescent and five-pointed star represent unity of all Muslims and the Five Pillars of Islam, respectively.\n\nAccording to Ludvík Mucha, author of Webster's Concise Encyclopedia of Flags & Coats of Arms, the white disk located in the center of the flag represents the sun. The red crescent and the five-pointed star, two ancient symbols of Islam, were most notably used on Ottoman flag and have since appeared on many flags of Islamic countries. The crescent is, from the viewpoint of an Arabic observer, supposed to bring good luck. The color red is a symbol of resistance against Turkish supremacy.\n\nWhitney Smith states that the crescent was first emblazoned on standards and buildings in the Punic state of Carthage, located in present-day Tunisia. Since appearing on the Ottoman flag, they were widely adopted by Muslim countries, and have become known as symbols of Islam, when in fact, they may be cultural symbols. Likewise, the sun is often represented with the crescent on ancient Punic artifacts and is associated with the ancient Punic religion, especially with Tanit symbol. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#E70013"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A red field with a centered white sun-disc containing a red five-pointed star surrounded by a red crescent. [0]",
+        "adoptionDate": 1831,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Tunisia"
+        ]
+    }
+    ,{
+        "name": "Turkey",
+        "image": "turkey.svg",
+        "category": "Countries",
+        "history": "In accounting for the crescent and star symbol, Ottomans sometimes (1890) referred to a legendary dream of the eponymous founder of the Ottoman house, Osman I, in which he is reported to have seen a moon rising from the breast of a qadi whose daughter he sought to marry. \"When full, it descended into his own breast. Then from his loins there sprang a tree, which as it grew came to cover the whole world with the shadow of its green and beautiful branches.\" Beneath it Osman saw the world spread out before him, surmounted by the crescent.\n\nThe current design of the Turkish flag is directly derived from the late Ottoman flag, which had been adopted in the late 18th century and acquired its final form in 1844. [0]",
+        "meaning": "The red represents the blood of Turkey's soldiers at the time of war they went through and how they survived. The star and crescent design appears on Ottoman flags beginning in the late 18th or early 19th century. The introduction of the white star and crescent on red as the flag of the Ottoman Empire dates to the Tanzimat reforms of 1844. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#E30A17"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A red field with a white star and crescent slightly right of center. [0]",
+        "adoptionDate": 1844,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Turkey"
+        ]
+    }
+    ,{
+        "name": "Turkmenistan",
+        "image": "turkmenistan.svg",
+        "category": "Countries",
+        "history": "After independence in 1991, Turkmenistan adopted a flag very similar to the current design, on February 19, 1992. However, the designs on the left were different. In 1997, an olive branch was added to symbolize the peace-loving nature of the Turkmen people. This version is now the current version. [0]",
+        "meaning": "The green and red colors appear in this flag because they have been venerated historically by the Turkmen. The waxing crescent moon symbolizes the hope of the country for a shining future and the stars represent the five provinces (welayatlar) of Turkmenistan – Ahal, Balkan, Dashhowuz, Lebap, and Mary.\n\nThe five traditional carpet designs along the hoist represent the five major tribes or houses, and form motifs in the country's state emblem and flag. These Turkmen tribes in traditional order (as well as top to bottom) are Teke (Tekke), Yomut (Yomud), Saryk (Saryq), Chowdur (Choudur), and Arsary (Ersary). The middle design may also represent the Salyr (Salor), a tribe that declined as a result of military defeat before the modern period.\n\nThe wreath was added against the rules of heraldry, breaking up the carpet pattern. It was added as an afterthought to represent the \"status of permanent neutrality\", which was accepted by the United Nations General Assembly on December 12, 1995. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#28AE66"
+            },{
+                "name": "red",
+                "hex": "#CA3745"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#FAAE29"
+            }
+        ],
+        "design": "A green field with a vertical red stripe near the hoist side, containing five carpet guls stacked above two crossed olive branches; a white waxing crescent moon and five white five-pointed stars appear in the upper field, to the fly side of the red stripe. [0]",
+        "adoptionDate": 1992,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Turkmenistan"
+        ]
+    }
+    ,{
+        "name": "Tuvalu",
+        "image": "tuvalu.svg",
+        "category": "Countries",
+        "history": "The first inhabitants of Tuvalu were Polynesian people. The islands came within the British Empire's sphere of influence in the late 19th century. The Ellice Islands were administered by Britain as part of a protectorate from 1892 to 1916 and as part of the Gilbert and Ellice Islands Colony from 1916 to 1974. In 1974 the Ellice Islanders voted for separate British dependency status as Tuvalu, separating from the Gilbert Islands which became Kiribati upon independence. Tuvalu became a fully independent Commonwealth realm in 1978. [0]",
+        "meaning": "Like many former and current British dependencies, the Tuvaluan flag is a blue ensign based on the Union Flag, which is shown in the upper left canton of the flag; but has a sky blue field rather than the conventional blue. The stars represent the nine islands which comprise Tuvalu; the arrangement is geographically correct, with the east towards the top (i.e. north to the left). [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#5B97B1"
+            },{
+                "name": "blue",
+                "hex": "#00247D"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#CF142B"
+            },{
+                "name": "yellow",
+                "hex": "#FFCE00"
+            }
+        ],
+        "design": "A Light Blue Ensign with nine yellow five-pointed stars on the outer half of the flag. [0]",
+        "adoptionDate": 1997,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Tuvalu"
+        ]
+    }
 ]
