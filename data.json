@@ -4178,4 +4178,206 @@
             "https://en.wikipedia.org/wiki/Flag_of_Singapore"
         ]
     }
+    ,{
+        "name": "Slovakia",
+        "image": "slovakia.svg",
+        "category": "Countries",
+        "history": "Slovakia's flag in its current form (but with another coat of arms on it or without any arms) can be dated back to the revolutionary year 1848. It was also used semi-officially in Czechoslovakia before World War II, by the Slovak Republic during WWII, and finally adopted (without the coat of arms) on 1 March 1990 as the flag of the Slovak Republic within Czechoslovakia. The coat of arms was added on 3 September 1992 and a special law describing the details of the flag followed in February 1993. [0]",
+        "meaning": "White, blue, and red derive from the Pan-Slav colors. The Slovakian coat of arms consists of a red shield bordered in white and bearing a white double-barred cross of St. Cyril and St. Methodius surmounting three blue hills. [1]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#0B4EA2"
+            },{
+                "name": "red",
+                "hex": "#EE1C25"
+            }
+        ],
+        "design": "A horizontal tricolour of white, blue and red; charged with a shield containing a white cross is placed to left of centre. [0]",
+        "adoptionDate": 1992,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Slovakia",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Slovenia",
+        "image": "slovenia.svg",
+        "category": "Countries",
+        "history": "The existing Slovene tricolor was raised for the first time in history during the Revolution of 1848 by the Slovene Romantic nationalist activist and poet Lovro Toman on 7 April 1848, in Ljubljana, in response to a German flag which was raised on top of Ljubljana Castle.\n\nThe tricolour flag continued to be associated with Slovenia during the country's incorporation into Yugoslavia. In 1945 a red star was officially placed on the flag of the Socialist Republic of Slovenia, a constituent of the Socialist Yugoslavia.\n\nFollowing Slovenian independence from Yugoslavia, the red star was removed and the new coat of arms, designed by Marko Pogačnik, was added. The flag was officially adopted on June 27, 1991, following a long and controversial dispute about the coat of arms of the new Republic. [0]",
+        "meaning": "The flag's colours are considered to be Pan-Slavic, but they actually come from the medieval coat of arms of the Duchy of Carniola, consisting of a blue eagle on a white background with a red-and-gold crescent.\n\nThe coat of arms is a shield with the image of Mount Triglav, Slovenia's highest peak, in white against a blue background at the centre; beneath it are two wavy blue lines representing the Adriatic Sea and local rivers, and above it are three six-pointed golden stars arranged in an inverted triangle which are taken from the coat of arms of the Counts of Celje, the great Slovenian dynastic house of the late 14th and early 15th centuries. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#005DA4"
+            },{
+                "name": "red",
+                "hex": "#ED1C24"
+            },{
+                "name": "yellow",
+                "hex": "#FFDD00"
+            }
+        ],
+        "design": "A horizontal tricolour of white, blue, and red; charged with the Coat of arms at the hoist side. [0]",
+        "adoptionDate": 1991,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Slovenia"
+        ]
+    }
+    ,{
+        "name": "Solomon Islands",
+        "image": "solomon-islands.svg",
+        "category": "Countries",
+        "history": "The national flag of Solomon Islands was adopted officially on 18 November 1977. [0]",
+        "meaning": "The five main island groups are represented by the five stars. The blue is supposed to represent the surrounding ocean, while the green represents the land. The yellow stripe is symbolic of the sunshine. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0051BA"
+            },{
+                "name": "yellow",
+                "hex": "#FCD116"
+            },{
+                "name": "green",
+                "hex": "#215B33"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A blue and green flag divided by a yellow diagonal radiating from the lower-hoist side corner; with five white, five-pointed stars (2-1-2) in the canton. [0]",
+        "adoptionDate": 1977,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Solomon_Islands"
+        ]
+    }
+    ,{
+        "name": "Somalia",
+        "image": "somalia.svg",
+        "category": "Countries",
+        "history": "The flag of Somalia was created in 1954 during the transitional trusteeship period of the nation's history. It was personally designed by the Somali scholar Mohammed Awale Liban, after he had been selected by the Somali labour trade union to come up with a design in preparation for independence. The flag was first used in the Trust Territory of Somaliland and the short-lived State of Somaliland (former British Somaliland), which united on July 1, 1960, to form the Somali Republic. [0]",
+        "meaning": "As an ethnic flag, the five-pointed white Star of Unity in its center represents the Somali ethnic group found in Djibouti, the Ogaden region in Ethiopia, the North Eastern Province in Kenya, and the former British Somaliland and Italian Somaliland territories in present-day Somalia.\n\nThe Somali flag's light blue backdrop was originally influenced by the flag of the United Nations, in recognition of the UN's role in Somalia's transition to independence during the trusteeship period. However, it now officially denotes the sky as well as the Indian Ocean, which flanks the country. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#4189DD"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A single white five-pointed star centered on a light blue field. [0]",
+        "adoptionDate": 1954,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Somalia"
+        ]
+    }
+    ,{
+        "name": "South Africa",
+        "image": "south-africa.svg",
+        "category": "Countries",
+        "history": "The present South African national flag was first flown on 27 April 1994. However, the flag was first intended to be an interim flag only, and its design was decided upon at the very last minute, barely making it onto the nation's flagpoles in time for the election.\n\nThe choice of a new flag was part of the negotiation process set in motion when Nelson Mandela was released from prison in 1990. When a nationwide public competition was held in 1993, the National Symbols Commission received more than 7,000 designs. Six designs were shortlisted and presented to the public and the Negotiating Council, but none elicited enthusiastic support. A number of design studios were then contacted to submit further proposals, but these also did not find favour. Parliament went into recess at the end of 1993 without a suitable candidate for the new national flag.\n\nIn February 1994, Cyril Ramaphosa and Roelf Meyer, the chief negotiators of the African National Congress and the National Party government of the day respectively, were given the task of resolving the flag issue. A final design was adopted on 15 March 1994, derived from a design developed by the State Herald Fred Brownell, who had also previously designed the Flag of Namibia. This interim flag was hoisted for the first time on the 27 April 1994, the day when the nation’s first fully inclusive elections commenced which resulted in Nelson Mandela being inaugurated as South Africa’s first democratically elected president on 10 May 1994.\n\nThe proclamation of the new national flag by South African President F. W. de Klerk was only published on 20 April 1994,[8] a mere seven days before the flag was to be inaugurated, sparking a frantic last-minute flurry for flag manufacturers. As stated in South Africa's post-apartheid interim constitution, the flag was to be introduced on an interim probationary period of five years, after which there would be discussion about whether or not to change the national flag in the final draft of the constitution. The Constitutional Assembly was charged with the responsibility of drafting the country’s new constitution and had called for submissions, inter alia, on the issues of its various national symbols. It received 118 submissions recommending the retention of the new flag and 35 suggesting changes to it. Thus on 28 September 1995 it decided that the flag should be retained unchanged and accordingly it was included as Section One of the Constitution of South Africa which came into force in February 1997. [0]",
+        "meaning": "At the time of its adoption, the South African flag was the only national flag in the world to comprise six colours in its primary design. Three of the colours – black, green and yellow – are found in the banners of the African National Congress, the Pan Africanist Congress and the Inkatha Freedom Party – and are thus said to represent the country’s black population. The other three – red, white and blue – are displayed on the old Dutch tricolour and the British Union flag and represent the white population.\n\nThe green pall (the Y-shape) is commonly interpreted to mean the unification of the various ethnic groups and the moving forward into a new united South Africa. The design therefore represents a converging of paths, the merging of both the past and the present. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#007C59"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "red",
+                "hex": "#E23D28"
+            },{
+                "name": "blue",
+                "hex": "#0C1C8C"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#FCB514"
+            }
+        ],
+        "design": "A horizontal bicolor of red and blue with a black isosceles triangle based on the hoist-side and a green pall, a central green band that splits into a horizontal Y, centered over the partition lines and was edged in both white against the red and the blue bands and gold against the triangle, in which the arms of the Y ends at the corners of the hoist and embraces the triangle on the hoist-side. [0]",
+        "adoptionDate": 1994,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_South_Africa"
+        ]
+    }
+    ,{
+        "name": "South Sudan",
+        "image": "south-sudan.svg",
+        "category": "Countries",
+        "history": "The flag of South Sudan was adopted following the signing of the Comprehensive Peace Agreement that ended the Second Sudanese Civil War. The flag was previously used as the flag of the Sudan People's Liberation Movement. [0]",
+        "meaning": "The Southern Sudanese government specifies that the colours of the flag are to represent. Black represents Black African skin. Red represents the blood that was shed by the liberation struggle martyrs. Green represents the country's natural resources and verdant land. White represents peace attained after many years of the liberation struggle. Blue represents waters of the Nile River, a source of life for the country. Yellow represents the unity of the states making up South Sudan. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0F47AF"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "red",
+                "hex": "#DA121A"
+            },{
+                "name": "green",
+                "hex": "#078930"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#FCDD09"
+            }
+        ],
+        "design": "A horizontal tricolour of black, red, and green, fimbriated with white stripes; with a blue equilateral triangle based on the hoist side bearing a gold star. [0]",
+        "adoptionDate": 2005,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_South_Sudan"
+        ]
+    }
+    ,{
+        "name": "Spain",
+        "image": "spain.svg",
+        "category": "Countries",
+        "history": "The origin of the current flag of Spain is the naval ensign of 1785, Pabellón de la Marina de Guerra under Charles III of Spain. It was chosen by Charles III himself among 12 different flags designed by Antonio Valdés y Bazán (all projected flags were presented in a drawing which is in the Naval Museum of Madrid). The flag remained marine for much of the next 50 years, flying over coastal fortresses, marine barracks and other naval property. During the Peninsular War the flag could also be found on marine regiments fighting inland. Not until 1820 was the first Spanish land unit (The La Princesa Regiment) provided with one and it was not until 1843 that Queen Isabella II of Spain would make the flag official.\n\nThroughout the 19th and 20th centuries, the color scheme of the flag remained intact, with the exception of the Second Republic period (1931–1939); the only changes centered on the coat of arms. [0]",
+        "meaning": "The red and yellow colors are related to those of the oldest Spanish kingdoms: Aragon, Castile, Leon, and Navarre.\n\nThe coat of arms is quartered to display the emblems of the traditional kingdoms of Spain (clockwise from upper left, Castile, Leon, Navarre, and Aragon) while Granada is represented by the stylized pomegranate at the bottom of the shield; the arms are framed by two columns representing the Pillars of Hercules, which are the two promontories (Gibraltar and Ceuta) on either side of the eastern end of the Strait of Gibraltar; the red scroll across the two columns bears the imperial motto of \"Plus Ultra\" (further beyond) referring to Spanish lands beyond Europe. [1]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#AA151B"
+            },{
+                "name": "yellow",
+                "hex": "#F1BF00"
+            }
+        ],
+        "design": "A horizontal tricolour of red, yellow (double width) and red; charged with the Spanish coat of arms off-centred toward the hoist. [0]",
+        "adoptionDate": 1978,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Spain",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
 ]
