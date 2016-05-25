@@ -2035,7 +2035,7 @@
         "ratio": "2:3",
         "colors": [
             {
-                "name": "orage",
+                "name": "orange",
                 "hex": "#FF9933"
             },{
                 "name": "white",
@@ -4378,6 +4378,201 @@
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Spain",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "Sri Lanka",
+        "image": "sri-lanka.svg",
+        "category": "Countries",
+        "history": "When Vijaya, the first King of Sri Lanka, arrived in Sri Lanka from India in 486 BC, he brought with him a flag with a symbol of a lion on it. Since then the Lion symbol played a significant role in the history of Sri Lanka. It was used extensively by North Indian prince who followed King Vijaya and it became a symbol of freedom and hope. In 162 BC, when King Dutugemunu embarked on the campaign in which he defeated the South Indian invader Elara, who had ruled the northern part of the island, he carried with him a banner which portrayed a lion carrying a sword on his right forepaw along with two other symbols, the Sun and the Moon.\n\nThe banner was in use until 1815, when the reign of the last King of the Kandyan Kingdom, King Sri Vikrama Rajasinha, was brought to an end with the Kandyan nobility's signing of the Kandy convention on 2 March proclaiming King George III as King of Ceylon and replacing the Lion flag with the Union Flag as the national flag of Ceylon. The government of British Ceylon used its own flag. The Lion Flag was taken to England and kept at the Royal Hospital Chelsea.\n\nAs the independence movement in Sri Lanka gained strength in the early 20th century, E. W. Perera, a prominent figure of the independence movement with the help of D. R. Wijewardene, the press baron, discovered the original Lion flag in Chelsea. A picture of it was subsequently published in a special edition of the Dinamina newspaper to mark 100 years since the end of Sri Lankan independence. The Lion flag then became a centrepiece of attraction to the public, who for the first time since the fall of the Kandyan Kingdom were now aware of its actual design.\n\nIn 1948 the flag was adapted as the national flag of the Dominion of Ceylon, however the flag underwent several changes in 1953 and again in 1972. During the same year four leaves of the Bo tree were added to the four corners of the Sri Lankan National flag under the direction of Nissanka Wijeyeratne. At the time, he was Permanent Secretary to the Ministry of Cultural Affairs and Chairman of the National Emblem and Flag Design Committee. Prior to 1972, the corners of the flag were occupied by symbols depicting spearheads. The four Bo Leaves added by Wijeyeratne reflect the core principles of Mettha (loving kindness), Karuna (compassion), Upeksha (equanimity) & Muditha (happiness). [0]",
+        "meaning": "The lion represents bravery of Sri Lankans. The four Bo leaves represent four main concepts of Buddhism Mettā, Karuna, Mudita and Upekkha. The stripes represent the two main minority groups. The saffron stripe represents Tamils and the green stripe represents Muslims, and the maroon background represents the majority Sinhalese. The yellow border around the flag represents the unity of Sri Lankans. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "yellow",
+                "hex": "#FFB700"
+            },{
+                "name": "green",
+                "hex": "#005641"
+            },{
+                "name": "orange",
+                "hex": "#FF5B00"
+            },{
+                "name": "red",
+                "hex": "#8D2029"
+            }
+        ],
+        "design": "Dark red rectangular panel bordered yellow containing a yellow lion holding a sword upright in its right fore paw, and four bo leaves, one in each corner, and next to the hoist two vertical stripes, green and orange, also bordered yellow together. [0]",
+        "adoptionDate": 1972,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Sri_Lanka"
+        ]
+    }
+    ,{
+        "name": "Sudan",
+        "image": "sudan.svg",
+        "category": "Countries",
+        "history": "The flag is based on the Arab Liberation Flag shared by Egypt, Iraq, Syria, and Yemen, that uses a subset of the Pan-Arab colors in which green is less significant. Prior to the 1969 military coup of Gaafar Nimeiry, a blue-yellow-green tricolor design was used. [0]",
+        "meaning": "Red, white, black and green are called the pan-Arab colors and have been historically linked to the Arab people and Islamic religion for centuries. The colors stand for Arab unity and independence. The red stripe represents Sudan's struggle for independence and many other struggles, and the sacrifices of the country's martyrs. The white represents peace, light and optimism. It also represents the White Flag League which was a nationalist group that rose up against colonial rule in 1924. The black represents Sudan; in Arabic 'Sudan' means black. It also represents the black flag of nationalists who fought colonial rule during the Mahdist Revolution, late in 19th century. Green represents Islam, agriculture and the prosperity of the land. [1]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#007229"
+            },{
+                "name": "red",
+                "hex": "#D21034"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            }
+        ],
+        "design": "A horizontal tricolour of red, white, and black; with a green triangle based at the hoist. [0]",
+        "adoptionDate": 1970,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Sudan",
+            "http://www.worldflags101.com/s/sudan-flag.aspx"
+        ]
+    }
+    ,{
+        "name": "Suriname",
+        "image": "suriname.svg",
+        "category": "Countries",
+        "history": "The flag was adopted on November 25, 1975, upon the independence of Suriname. [0]",
+        "meaning": "The star represents the unity of all ethnic groups, the red stripe stands for progress and love, the green for hope and fertility, and the white bands for peace and justice. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#377E3F"
+            },{
+                "name": "red",
+                "hex": "#B40A2D"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#ECC81D"
+            }
+        ],
+        "design": "Five horizontal bands of green, white, red, white, and green. There is a large, yellow, five-pointed star centered in the red band. [0]",
+        "adoptionDate": 1975,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Suriname"
+        ]
+    }
+    ,{
+        "name": "Swaziland",
+        "image": "swaziland.svg",
+        "category": "Countries",
+        "history": "The flag is based on the military flag given by King Sobhuza II to the Swazi Pioneer Corps in 1941 to remind them of the nation's military traditions. On 25 April 1967, the day the pledge of oath was taken by the king the flag was hoisted for the first time.The College of Arms in London registered the flag on 30 October 1967. The first official hoisting of the flag was conducted on this day. [0]",
+        "meaning": "The red stands for past battles, the blue for peace and stability, and the yellow for the resources of Swaziland. The central focus of the flag is a shield and two spears, symbolizing protection from the country's enemies. Its colour is meant to show that white and black people live in peaceful coexistence in Swaziland.\n\nOn the red strip is an ox hide combat shield from the traditional Swazi Emasotsha Regiment, laid horizontally. The shield is reinforced by a staff from which hangs injobo tassels-bunches of feathers of the widowbird and the lourie. They also decorate the shield. These feathers are used only by the king. Above the staff are two assegais-local spears, a Swazi fighting stick and three royal Swazi ornamental tassels called tinjobo, which are made from widow bird and loury feathers. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#B10C0C"
+            },{
+                "name": "blue",
+                "hex": "#3E5EB9"
+            },{
+                "name": "yellow",
+                "hex": "#FFD900"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A horizontal triband of blue (top and bottom) and the yellow-edged red (triple width) with a large black and white shield covering two spears and a staff decorated with feather tassels all placed centered horizontally in the red band. [0]",
+        "adoptionDate": 1968,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Swaziland"
+        ]
+    }
+    ,{
+        "name": "Sweden",
+        "image": "sweden.svg",
+        "category": "Countries",
+        "history": "According to legend, the 12th-century King Eric IX saw a golden cross in the sky as he landed in Finland during the First Swedish Crusade in 1157. Seeing this as a sign from God he adopted the golden cross against a blue background as his banner, though the golden cross was changed later to a yellow cross due to practicality. The problem with the mythology is partly the fact that there are no contemporary sources about the crusade and partly because there are no pictures or descriptions of the flag until the middle of the 16th century.\n\nIt has also been suggested that the Swedish flag might have been a resistance flag against the Danish flag, which is red with a white cross and has a mythological origin in 1219, but are not depicted until the late 14th century. According to this theory, the Swedish flag was created during the reign of King Charles VIII, who also introduced the coat of arms of Sweden in 1442. The national coat of arms is a combination of King Albert's coat of arms of 1364 and King Magnus III's coat of arms of 1275, and is blue divided quarterly by a golden cross pattée. Other historians claim that the Swedish flag was blue with a white cross before 1420, and became blue with a golden cross only during the early reign King Gustav I, who deposed King Christian II in 1521. [0]",
+        "meaning": "The Scandinavian cross represents Christianity. The design and colors of the Swedish flag are believed to have been inspired by the present Coat of arms of Sweden of 1442, which is blue divided quarterly by a cross pattée of gold, and modeled on the Danish flag. Blue and yellow have been used as Swedish colors at least since King Magnus III's royal coat of arms of 1275. [0]",
+        "ratio": "5:8",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#006AA7"
+            },{
+                "name": "yellow",
+                "hex": "#FECC00"
+            }
+        ],
+        "design": "A blue field with a yellow Scandinavian cross that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side. [0]",
+        "adoptionDate": 1906,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Sweden"
+        ]
+    }
+    ,{
+        "name": "Switzerland",
+        "image": "switzerland.svg",
+        "category": "Countries",
+        "history": "The ultimate origin of the white cross is attributed by three competing legends: To the Theban Legion, to the Reichssturmfahne (Imperial War Banner) attested from the 12th century, and to the Arma Christi that were especially venerated in the three forest cantons, and which they were allegedly allowed to display on the formerly uniformly red battle flag from 1289 by king Rudolph I of Habsburg at the occasion of a campaign to Besançon.\n\nUse of a white cross as a mark of identification of the combined troops of the Old Swiss Confederacy is first attested in the Battle of Laupen (1339), where it was sewn on combatants' clothing as two stripes of textile, contrasting with the red St. George's cross of Habsburg Austria, and with the St. Andrew's cross used by Burgundy and Maximilian I. The first flag used as a field sign representing the confederacy rather than the individual cantons may have been used in the Battle of Arbedo in 1422 (notably without the participation of the Canton of Schwyz). This was a triangular red flag with an elongated white cross.\n\nThe white cross was thus in origin a field mark attached to combatants for identification, and later also to cantonal flags. The Lucerne chronicle of 1513, in battle scenes of the Burgundy wars of the 1470s shows cantonal flags with an added white cross. In this context, the solid-red war flag of Schwyz with the addition of the white cross appears much like the later flag of Switzerland. Other depictions in the illustrated chronicles show a flag of Schwyz with an asymmetrical white cross, drawn in greater detail. The symbol of the confederation as it developed during 1450-1520 was thus the white cross itself, not necessarily in a red field, but attached to existing flags, so that it appeared before a red background in those cantonal flags that contained red, notably the solid-red flag of Schwyz. [0]",
+        "meaning": "See History.",
+        "ratio": "1:1",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#D52B1E"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A red square with a white Greek cross in the centre. [0]",
+        "adoptionDate": 1889,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Switzerland"
+        ]
+    }
+    ,{
+        "name": "Syria",
+        "image": "syria.svg",
+        "category": "Countries",
+        "history": "The current two-star flag of Syria was first adopted by Gamal Abd al-Nasser, president of Egypt and president of the United Arab Republic. The flag was changed from the former independence flag in April 1958 along with associated laws designed to create a greater Arab identity. The new flag took the coloured red-white-black bands from the Arab Liberation flag and the stars on the flag were changed from red to green in order to restore the pan-Arab colours. The two stars represented Egypt and Syria.\n\nAfter Syria left the UAR on 28 September 1961, the previous independence flag was readopted to disassociate Syria from the failed union. The first flag of Syria to be adopted by its Revolutionary Command Council — following a Ba'athist coup d'état — was adopted on 8 March 1963, and was used until 1 January 1972. In 1963, the Ba'athist regime came to power in Iraq as well, and the two Ba'athis governments began negotiations in Cairo in order to once again form a union between Egypt, Syria and Iraq. The process failed after the Iraqi Ba'athist government was overthrown in November 1963 but both Syria and Iraq did adopt a new flag to represent the union. This flag was not much different from the flag of the UAR, with only a change from two stars to three, in order to represent the addition of Iraq to the Federation. The three stars represented the unity of Egypt, Syria and Iraq, as well as three pillars of Ba'athism: unity, freedom, and socialism.\n\nPresident Hafez al-Assad adopted the new flag on 1 January 1972, as Syria joined Egypt and Libya in the Federation of Arab Republics. The green stars were replaced by the Hawk of Quraish (the symbol of the tribe of the Prophet Muhammad). The eagle held the ribbon with name of the Federation, but unlike Egypt and Libya, Syria did not include its name on the coat of arms. This flag was an official flag during the October War in 1973.\n\nThe Federation was dissolved in 1977, but Syria continued to use the flag for the next three years. The flag was abrogated on 29 March 1980, and replaced by the current two-star flag in order to show Syria's commitment to Arab unity. [0]",
+        "meaning": "See History.",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "green",
+                "hex": "#007A3D"
+            }
+        ],
+        "design": "A horizontal tricolour of red, white, and black; charged with two green stars at the centre. [0]",
+        "adoptionDate": 1958,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Syria"
         ]
     }
 ]
