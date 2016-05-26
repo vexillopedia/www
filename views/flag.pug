@@ -44,9 +44,27 @@ block body
                 p !{meaning.replace(/</g, "&1t;").replace(/>/g, "&gt;").replace(/\n/g, "<br>")}
         
         div.bottom-section
-            if related.length
+            if Object.keys(related).length
                 div.flag-related
                     h3.flag-subtitle Related Flags
+                    
+                    if related.similar && related.similar.length
+                        h4.flag-subsubtitle Similar Flags
+                        ul.card-list
+                            each flag in related.similar
+                                li.card
+                                    a(href="/flag/" + flag.name) 
+                                        img(src="/flag/" + flag.image alt= flag.name)
+                                        span #{flag.name}
+                                        
+                    if related.historical && related.historical.length
+                        h4.flag-subsubtitle Historical Flags
+                        ul.card-list
+                            each flag in related.historical
+                                li.card
+                                    a(href="/flag/" + flag.name) 
+                                        img(src="/flag/" + flag.image alt= flag.name)
+                                        span #{flag.name}
             
             if sources.length
                 div.flag-sources

@@ -53,3 +53,8 @@
     width: 50%;
     border: 1px solid grey;
 }
+
+/* Flag Related */
+.flag-related .card-list {
+    justify-content: flex-start;
+}

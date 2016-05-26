@@ -23,7 +23,7 @@
         ],
         "design": "A vertical tricolor of black, red, and green charged in the center with the national emblem [0]",
         "adoptionDate": 2004,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Afghanistan",
             "http://www.embassyofafghanistan.org/page/afghanistan-in-brief",
@@ -48,7 +48,7 @@
         ],
         "design": "A silhouette of an open-winged bicephalated eagle on a red field. [0]",
         "adoptionDate": 1992,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Albania"
         ]
@@ -74,7 +74,7 @@
         ],
         "design": "A red star and crescent centered on a vertical bicolor of green and white. [0]",
         "adoptionDate": 1962,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Algeria"
         ]
@@ -100,7 +100,14 @@
         ],
         "design": "A vertical tricolour of blue, yellow and red with the national coat of arms centred on the middle stripe. The middle stripe is one eighth thicker than the outer bands. [0]",
         "adoptionDate": 1866,
-        "related": [],
+        "related": {
+            "similar": [
+                {
+                    "name": "Chad",
+                    "image": "chad.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Andorra",
             "https://flagspot.net/flags/ad.html"
@@ -127,7 +134,7 @@
         ],
         "design": "It is split horizontally into an upper red half and a lower black half, and features a yellow half-gear crossed with a machete and crowned with a star. [0]",
         "adoptionDate": 1975,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Angola"
         ]
@@ -159,7 +166,7 @@
         ],
         "design": "The design of the National Flag is a red field with an inverted isosceles triangle based on the top edge of the field; the triangle contains a horizontal tricolor of black, light blue and white with a rising sun centered on top of the black band. [0]",
         "adoptionDate": 1967,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Antigua_and_Barbuda"
         ]
@@ -188,7 +195,7 @@
         ],
         "design": "A horizontal triband of light blue (top and bottom) and white with the yellow Sun of May charged in the center. [0]",
         "adoptionDate": 1812,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Argentina",
             "https://flagspot.net/flags/ar.html",
@@ -216,7 +223,7 @@
         ],
         "design": "A horizontal tricolour of red, blue, and orange [0]",
         "adoptionDate": 1990,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Armenia",
             "http://www.vexilla-mundi.com/armenia_flag.html",
@@ -244,7 +251,7 @@
         ],
         "design": "A Blue Ensign defaced with the Commonwealth Star (also known as the Federation Star) in the lower hoist quarter and the five stars of the Southern Cross in the fly half. [0]",
         "adoptionDate": 1903,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Australia",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -268,7 +275,7 @@
         ],
         "design": "A horizontal bicolour triband of red (top and bottom) and white. [0]",
         "adoptionDate": 1918,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Austria",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -298,7 +305,7 @@
         ],
         "design": "A horizontal tricolor of blue, red, and green, with a white crescent and an eight-pointed star centered on a red band [0]",
         "adoptionDate": 1918,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Azerbaijan",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -325,7 +332,7 @@
         ],
         "design": "A horizontal triband of aquamarine (top and bottom) and gold with a black chevron based on the hoist side [0]",
         "adoptionDate": 1973,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Bahamas",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -349,7 +356,7 @@
         ],
         "design": "Red, the traditional color for flags of Persian Gulf states, with a white serrated band (five white points) on the hoist side [1]",
         "adoptionDate": 2002,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Bahrain",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -373,7 +380,7 @@
         ],
         "design": "A red disc on a green field. [0]",
         "adoptionDate": 1972,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Bangladesh",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -400,7 +407,7 @@
         ],
         "design": "A vertical triband of ultramarine (hoist side and fly side) and gold with a black trident-head centered on the gold band [0]",
         "adoptionDate": 1966,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Barbados",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -427,7 +434,7 @@
         ],
         "design": "A horizontal bicolor of red over green in a 2:1 ratio, with a red ornamental pattern on a white vertical stripe at the hoist. [0]",
         "adoptionDate": 2012,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Belarus",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -454,7 +461,7 @@
         ],
         "design": "A vertical tricolour of black, yellow, and red. [0]",
         "adoptionDate": 1831,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Belgium",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -481,7 +488,7 @@
         ],
         "design": "A royal blue field with two red narrow stripes along the top and the bottom edges and a large white disk in the center bearing the National Coat of Arms of Belize [0]",
         "adoptionDate": 1981,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Belize",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -508,7 +515,7 @@
         ],
         "design": "A horizontal bicolor of yellow and red with a green vertical band at the hoist. [0]",
         "adoptionDate": 1959,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Benin",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html",
@@ -536,7 +543,7 @@
         ],
         "design": "Divided diagonally from the lower hoist-side corner; the upper triangle is yellow and the lower triangle is orange; centered along the dividing line is a large black and white dragon facing away from the hoist side. [0]",
         "adoptionDate": 1969,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Bhutan",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -563,7 +570,7 @@
         ],
         "design": "A horizontal tricolor of red, yellow and green with the National Coat of Arms centered on a yellow band. [0]",
         "adoptionDate": 1851,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Bolivia"
         ]
@@ -589,7 +596,7 @@
         ],
         "design": "A wide medium blue vertical band on the fly side with a yellow right triangle abutting the band and the top of the flag; the remainder of the flag is medium blue with seven full five-pointed white stars and two half stars top and bottom along the hypotenuse of the triangle. [0]",
         "adoptionDate": 1998,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Bosnia_and_Herzegovina",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -616,7 +623,7 @@
         ],
         "design": "A light blue field cut horizontally in the centre by a black stripe with a thin white frame. [0]",
         "adoptionDate": 1966,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Botswana"
         ]
@@ -645,7 +652,7 @@
         ],
         "design": "A blue disc depicting a starry sky spanned by a curved band inscribed with the national motto, within a yellow rhombus, on a green field. [0]",
         "adoptionDate": 1889,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Brazil"
         ]
@@ -674,7 +681,7 @@
         ],
         "design": "The crest of Brunei in the centre, on a yellow field cut by black and white diagonal stripes (parallelograms). [0]",
         "adoptionDate": 1959,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Brunei",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -701,7 +708,7 @@
         ],
         "design": "A horizontal tricolour of white, green and red. [0]",
         "adoptionDate": 1881,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Bulgaria"
         ]
@@ -727,7 +734,7 @@
         ],
         "design": "A horizontal bicolor of red and green with a yellow star in the center. [0]",
         "adoptionDate": 1984,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Burkina_Faso"
         ]
@@ -753,7 +760,7 @@
         ],
         "design": "A white saltire on a red and green field with a white disk, consisting of three red solid six-pointed stars outlined in green, being on the center. [0]",
         "adoptionDate": 1967,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Burundi"
         ]
@@ -779,7 +786,7 @@
         ],
         "design": "Three horizontal bands of blue, red (double width) and blue, with a depiction of Angkor Wat in white centred on the red band. [0]",
         "adoptionDate": 1948,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Cambodia"
         ]
@@ -805,7 +812,7 @@
         ],
         "design": "A vertical tricolor of green, red and yellow, with a yellow star centered on the red band. [0]",
         "adoptionDate": 1975,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Cameroon"
         ]
@@ -828,7 +835,7 @@
         ],
         "design": "A vertical bicolour triband of red, white, and red in the ratio 1:2:1, with a red maple leaf charged in the centre. [0]",
         "adoptionDate": 1965,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Canada",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -858,7 +865,7 @@
         ],
         "design": "Five unequal horizontal bands; the top-most band of blue - equal to one half the width of the flag - is followed by three bands of white, red, and white, each equal to 1/12 of the width, and a bottom stripe of blue equal to one quarter of the flag width; a circle of 10, yellow, five-pointed stars is centered on the red stripe and positioned 3/8 of the length of the flag from the hoist side. [1]",
         "adoptionDate": 1992,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Cape_Verde",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -891,7 +898,7 @@
         ],
         "design": "Four equal horizontal bands of blue (top), white, green, and yellow with a vertical red band in center; a yellow five-pointed star to the hoist side of the blue band. [1]",
         "adoptionDate": 1958,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Central_African_Republic",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -918,7 +925,7 @@
         ],
         "design": "A vertical tricolor of blue, yellow, and red. [0]",
         "adoptionDate": 1959,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Chad"
         ]
@@ -944,7 +951,7 @@
         ],
         "design": "It has a 3:2 ratio between length and width, it is divided horizontally into two bands of equal size (being the lower red). The upper area is divided once: in a square (blue), with a single centered white star; and rectangle (white), whose lengths are in proportion 1:2. [0]",
         "adoptionDate": 1817,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Chile"
         ]
@@ -967,7 +974,7 @@
         ],
         "design": "A large golden star within an arc of four smaller golden stars, in the canton, on a field of red. [0]",
         "adoptionDate": 1949,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_China"
         ]
@@ -993,7 +1000,7 @@
         ],
         "design": "a horizontal tricolor of yellow (double-width), blue and red. [0]",
         "adoptionDate": 1861,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Colombia"
         ]
@@ -1025,7 +1032,7 @@
         ],
         "design": "Four horizontal stripes of yellow, white, red and blue (from top to bottom); with a green chevron based on the hoist side charged with a white crescent and four five-pointed stars. [0]",
         "adoptionDate": 2002,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Comoros"
         ]
@@ -1051,7 +1058,7 @@
         ],
         "design": "Sky blue flag, adorned with a yellow star in the upper left canton and cut diagonally by a red stripe with a thin yellow frame. [0]",
         "adoptionDate": 2006,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Democratic_Republic_of_the_Congo"
         ]
@@ -1077,7 +1084,7 @@
         ],
         "design": "A diagonal tricolour of green, yellow and red radiating from the lower hoist side corner. [0]",
         "adoptionDate": 1959,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Republic_of_the_Congo"
         ]
@@ -1103,7 +1110,7 @@
         ],
         "design": "Five horizontal bands of blue, white, red (double width), white and blue. [0]",
         "adoptionDate": 1906,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Costa_Rica"
         ]
@@ -1129,7 +1136,7 @@
         ],
         "design": "A horizontal tricolor of red, white, and blue with the Coat of Arms of Croatia in the center. [0]",
         "adoptionDate": 1990,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Croatia"
         ]
@@ -1155,7 +1162,7 @@
         ],
         "design": "Five horizontal bands of blue alternate with white with a red chevron based on the hoist side bearing a white five-pointed star in the center. [0]",
         "adoptionDate": 1902,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Cuba"
         ]
@@ -1181,7 +1188,7 @@
         ],
         "design": "An outline of the country of Cyprus above twin olive branches on a white field. [0]",
         "adoptionDate": 1960,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Cyprus"
         ]
@@ -1207,7 +1214,7 @@
         ],
         "design": "Two equal horizontal bands of white (top) and red with a blue isosceles triangle based on the hoist side. [0]",
         "adoptionDate": 1920,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Czech_Republic"
         ]
@@ -1230,7 +1237,7 @@
         ],
         "design": "A red field charged with a white cross extending to the edges; the vertical part of the cross is shifted to the hoist side. [0]",
         "adoptionDate": 1400,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Denmark"
         ]
@@ -1259,7 +1266,7 @@
         ],
         "design": "A horizontal bi-color of light blue and light green, with a white isosceles triangle at the hoist bearing a red star in its center. [0]",
         "adoptionDate": 1977,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Djibouti"
         ]
@@ -1294,7 +1301,7 @@
         ],
         "design": "A green field with a central cross of three bands (the vertical part is yellow, black and white and the horizontal part is yellow, black and white) and a red disk superimposed at the center of the cross bearing a Sisserou parrot in the center encircled by ten green five-pointed stars. [0]",
         "adoptionDate": 1978,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Dominica"
         ]
@@ -1320,7 +1327,7 @@
         ],
         "design": "A white cross with the national coat of arms in the centre that divides the flag into four rectangles, blue and red at the top and red and blue at the bottom. [0]",
         "adoptionDate": 1863,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Dominican_Republic"
         ]
@@ -1349,7 +1356,7 @@
         ],
         "design": "A black triangle bearing a white five-pointed star over a larger yellow triangle based on the hoist, on a red field. [0]",
         "adoptionDate": 1975,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_East_Timor"
         ]
@@ -1375,7 +1382,7 @@
         ],
         "design": "A horizontal tricolor of yellow (double width), blue and red with the Coat of arms of Ecuador charged in the center. [0]",
         "adoptionDate": 1860,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Ecuador"
         ]
@@ -1404,7 +1411,7 @@
         ],
         "design": "Horizontally divided red-white-black flag with the Eagle of Saladin. [0]",
         "adoptionDate": 1984,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Egypt"
         ]
@@ -1427,7 +1434,7 @@
         ],
         "design": "A horizontal triband of blue (top and bottom) and white and blue with the National Coat of Arms of El Salvador centered on the white band. [0]",
         "adoptionDate": 1912,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_El_Salvador",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -1457,7 +1464,7 @@
         ],
         "design": "A horizontal tricolor of green, white and red with a blue isosceles triangle based on the hoist side and the National Coat of arms of Equatorial Guinea centered in the white band. [0]",
         "adoptionDate": 1979,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Equatorial_Guinea",
             "https://flagspot.net/flags/gq.html"
@@ -1487,7 +1494,7 @@
         ],
         "design": "A red isosceles triangle based on the hoist-side pointed toward the fly-side and then divided into two right triangles: the upper triangle is green and the lower triangle is blue with an Emblem (1952-1962) in gold (a vertical olive branch encircled by an olive wreath) centered on the hoist side of the triangle. [0]",
         "adoptionDate": 1995,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Eritrea"
         ]
@@ -1513,7 +1520,7 @@
         ],
         "design": "A horizontal triband of blue, black and white. [0]",
         "adoptionDate": 1918,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Estonia"
         ]
@@ -1542,7 +1549,7 @@
         ],
         "design": "A horizontal tricolor of green, yellow and red with the National Emblem superimposed at the center. [0]",
         "adoptionDate": 1996,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Ethiopia"
         ]
@@ -1580,7 +1587,7 @@
         ],
         "design": "A Light Blue Ensign with the Fijian shield-of-arms taken from the National Coat of Arms centered on the outer half of the flag. [0]",
         "adoptionDate": 1970,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Fiji"
         ]
@@ -1603,7 +1610,7 @@
         ],
         "design": "Sea-blue Nordic cross on white field. [0]",
         "adoptionDate": 1918,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Finland"
         ]
@@ -1629,7 +1636,7 @@
         ],
         "design": "A vertical tricolour of blue, white, and red. [0]",
         "adoptionDate": 1794,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_France"
         ]
@@ -1655,7 +1662,7 @@
         ],
         "design": "A horizontal triband of green, gold and blue. [0]",
         "adoptionDate": 1960,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Gabon"
         ]
@@ -1684,7 +1691,7 @@
         ],
         "design": "A horizontal tricolor of red, blue and green; each band of colour is separated by a narrow band of white. [0]",
         "adoptionDate": 1965,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Gambia"
         ]
@@ -1707,7 +1714,7 @@
         ],
         "design": "White rectangle, with in its central portion a large red cross that extends to the edge of the flag. In the four corners there are four Bolnur-Katskhuri crosses of the same color. [0]",
         "adoptionDate": 2004,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Georgia_(country)"
         ]
@@ -1733,7 +1740,7 @@
         ],
         "design": "A horizontal tricolour of black, red, and gold. [0]",
         "adoptionDate": 1949,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Germany",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -1763,7 +1770,7 @@
         ],
         "design": "A horizontal triband of red, gold, and green, charged with a black star in the center. [0]",
         "adoptionDate": 1957,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Ghana"
         ]
@@ -1786,7 +1793,7 @@
         ],
         "design": "Nine horizontal stripes, in turn blue and white; a white cross on a blue square field in canton. [0]",
         "adoptionDate": 1978,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Greece"
         ]
@@ -1812,7 +1819,7 @@
         ],
         "design": "A rectangle divided diagonally into two triangles of gold (top and bottom) and green (hoist side and fly side) with a large red border around the field; there are seven yellow five-pointed stars with three centered on the top border, three centered on the bottom border and one on a red disk superimposed at the center; there is also a symbolic nutmeg pod on the hoist-side of a triangle. [0]",
         "adoptionDate": 1974,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Grenada"
         ]
@@ -1835,7 +1842,7 @@
         ],
         "design": "A vertical triband of light blue (hoist side and fly side) and white with the National Emblem of Guatemala centered on the white band. [0]",
         "adoptionDate": 1871,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Guatemala"
         ]
@@ -1861,7 +1868,7 @@
         ],
         "design": "A vertical tricolour of red, yellow and green. [0]",
         "adoptionDate": 1958,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Guinea"
         ]
@@ -1890,7 +1897,7 @@
         ],
         "design": "One vertical red line on the hoist side charged with a black five-pointed star; two horizontal lines on the fly side (yellow and green). [0]",
         "adoptionDate": 1973,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Guinea-Bissau"
         ]
@@ -1922,7 +1929,7 @@
         ],
         "design": "A black-edged red triangle over a larger white-edged gold triangle, both based on the hoist and pointing toward the fly, on a green field. [0]",
         "adoptionDate": 1966,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Guyana"
         ]
@@ -1945,7 +1952,7 @@
         ],
         "design": "A horizontal bicolour of blue and red, charged with the Coat of Arms in a small white box in the center. [0]",
         "adoptionDate": 1986,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Haiti",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -1969,7 +1976,7 @@
         ],
         "design": "A horizontal triband of blue (top and bottom) and white with five blue five-pointed stars arranged in an X pattern centered on the white band. [0]",
         "adoptionDate": 1866,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Honduras"
         ]
@@ -1995,7 +2002,7 @@
         ],
         "design": "A horizontal triband of red, white and green. [0]",
         "adoptionDate": 1957,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Hungary"
         ]
@@ -2021,7 +2028,7 @@
         ],
         "design": "A white-fimbriated red Nordic cross on a blue field. [0]",
         "adoptionDate": 1944,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Iceland"
         ]
@@ -2050,7 +2057,7 @@
         ],
         "design": "A horizontal triband of India saffron, white, and India green; charged with a navy blue wheel with 24 spokes in the centre. [0]",
         "adoptionDate": 1947,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_India"
         ]
@@ -2073,7 +2080,7 @@
         ],
         "design": "A horizontal bicolour of red and white. [0]",
         "adoptionDate": 1945,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Indonesia",
             "https://flagspot.net/flags/id.html"
@@ -2100,7 +2107,7 @@
         ],
         "design": "A horizontal tricolour of green, white, and red charged with the emblem of Iran in red centred on the white stripe. The statement \"الله اکبر\" (lit. God is Great) is written in white square Kufic script a total of 22 times on the fringe of both the green and red bands. [0]",
         "adoptionDate": 1980,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Iran"
         ]
@@ -2129,7 +2136,7 @@
         ],
         "design": "A horizontal tricolour of red, white, and black, charged with the takbīr (Allahu akbar, \"God is great\") in green Kufic script, centered on the white stripe. [0]",
         "adoptionDate": 2008,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Iraq",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -2156,7 +2163,7 @@
         ],
         "design": "A vertical tricolour of green, white, and orange. [0]",
         "adoptionDate": 1922,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Ireland"
         ]
@@ -2179,7 +2186,7 @@
         ],
         "design": "A blue Star of David between two horizontal blue stripes on a white field. [0]",
         "adoptionDate": 1948,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Israel"
         ]
@@ -2205,7 +2212,7 @@
         ],
         "design": "A vertical tricolour of green, white and red. [0]",
         "adoptionDate": 1946,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Italy"
         ]
@@ -2231,7 +2238,7 @@
         ],
         "design": "A vertical tricolour of orange, white, and green. [0]",
         "adoptionDate": 1959,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Ivory_Coast",
             "https://flagspot.net/flags/ci.html"
@@ -2258,7 +2265,7 @@
         ],
         "design": "A yellow diagonal cross divides into four triangles of green (top and bottom) and black (hoist side and fly side). [0]",
         "adoptionDate": 1962,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Jamaica"
         ]
@@ -2281,7 +2288,7 @@
         ],
         "design": "A red sun-disc centered on a white rectangular field. [0]",
         "adoptionDate": 1870,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Japan"
         ]
@@ -2310,7 +2317,7 @@
         ],
         "design": "A horizontal triband of black, white and green; with a red chevron based on the hoist side containing a white seven-pointed star. [0]",
         "adoptionDate": 1928,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Jordan"
         ]
@@ -2333,7 +2340,7 @@
         ],
         "design": "A gold sun with 32 rays above a soaring golden steppe eagle, both centered on a sky blue field. The hoist side displays a national ornamental pattern \"koshkar-muiz\" (the horns of the ram) in gold. [0]",
         "adoptionDate": 1992,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Kazakhstan",
             "http://aboutkazakhstan.com/about-kazakhstan-government/kazakhstan-flag",
@@ -2364,7 +2371,7 @@
         ],
         "design": "A horizontal tricolour of black, white-edged red, and green with two crossed white spears behind a red, white, and black Maasai shield. [0]",
         "adoptionDate": 1963,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Kenya"
         ]
@@ -2393,7 +2400,7 @@
         ],
         "design": "A horizontal bicolor of red and blue with a yellow frigate bird flying over a rising sun on the upper half and three white wavy horizontal stripes on the lower half. [0]",
         "adoptionDate": 1979,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Kiribati"
         ]
@@ -2419,7 +2426,7 @@
         ],
         "design": "A wide red stripe at the center, bordered by a narrow white stripe both above and below, followed by a blue stripe. The central red stripe carries a five-pointed red star within a white circle near the hoist. [0]",
         "adoptionDate": 1948,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_North_Korea"
         ]
@@ -2448,7 +2455,7 @@
         ],
         "design": "White with a red (top) and blue yin-yang symbol in the center; there is a different black trigram from the ancient I Ching (Book of Changes) in each corner of the white field [1]",
         "adoptionDate": 1883,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_South_Korea",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -2478,7 +2485,7 @@
         ],
         "design": "A horizontal triband of green, white and red; with a black trapezium based on the hoist side. [0]",
         "adoptionDate": 1961,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Kuwait"
         ]
@@ -2501,7 +2508,7 @@
         ],
         "design": "A red field charged with a yellow sun with forty uniformly spaced rays; the sun is crossed by two sets of three lines. [0]",
         "adoptionDate": 1992,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Kyrgyzstan"
         ]
@@ -2527,7 +2534,7 @@
         ],
         "design": "A horizontal triband of red, blue (double height) and red; charged with a white circle in the centre (the diameter of white circle is four-fifths the height of blue band). [0]",
         "adoptionDate": 1945,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Laos",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -2551,7 +2558,7 @@
         ],
         "design": "A carmine field bisected by a narrow white stripe (one-fifth the width of the flag). [0]",
         "adoptionDate": 1923,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Latvia"
         ]
@@ -2577,7 +2584,7 @@
         ],
         "design": "A horizontal triband of red, white (double height) and red; charged with a green Lebanon Cedar. [0]",
         "adoptionDate": 1943,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Lebanon"
         ]
@@ -2606,7 +2613,7 @@
         ],
         "design": "A horizontal triband of blue, white and green; charged with a black mokorotlo (a Basotho hat) centred on the white band. [0]",
         "adoptionDate": 2006,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Lesotho"
         ]
@@ -2632,7 +2639,7 @@
         ],
         "design": "Eleven horizontal stripes alternating red and white; in the canton, a white star on a blue field. [0]",
         "adoptionDate": 1847,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Liberia"
         ]
@@ -2661,7 +2668,7 @@
         ],
         "design": "A horizontal triband of red, black (double width) and green; charged with a white crescent and five-pointed star centred on the black stripe. [0]",
         "adoptionDate": 1951,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Libya",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -2688,7 +2695,7 @@
         ],
         "design": "Horizontal bicolour of blue and red; charged with a gold crown in the canton. [0]",
         "adoptionDate": 1921,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Liechtenstein"
         ]
@@ -2714,7 +2721,7 @@
         ],
         "design": "A horizontal triband of yellow, green and red. [0]",
         "adoptionDate": 1918,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Lithuania"
         ]
@@ -2740,7 +2747,7 @@
         ],
         "design": "A horizontal triband of red, white and light blue. [0]",
         "adoptionDate": 1972,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Luxembourg"
         ]
@@ -2763,7 +2770,7 @@
         ],
         "design": "A stylised yellow sun on a red field, with eight broadening rays extending from the centre to the edge of the field. [0]",
         "adoptionDate": 1995,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Republic_of_Macedonia"
         ]
@@ -2789,7 +2796,7 @@
         ],
         "design": "A horizontal bicolour of red and green with a white vertical band on the hoist side. [0]",
         "adoptionDate": 1958,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Madagascar"
         ]
@@ -2815,7 +2822,7 @@
         ],
         "design": "A horizontal triband of black, red, and green; charged with a red rising sun centred on the black stripe. [0]",
         "adoptionDate": 1964,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Malawi"
         ]
@@ -2844,7 +2851,7 @@
         ],
         "design": "Fourteen horizontal stripes alternating red and white; in the canton, a yellow crescent and 14-point star on a blue field. [0]",
         "adoptionDate": 1950,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Malaysia"
         ]
@@ -2870,7 +2877,7 @@
         ],
         "design": "A green rectangle centred on a red field; charged with a white crescent facing the fly side. [0]",
         "adoptionDate": 1965,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Maldives"
         ]
@@ -2896,7 +2903,7 @@
         ],
         "design": "A vertical tricolor of green, gold and red. [0]",
         "adoptionDate": 1961,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Mali"
         ]
@@ -2919,7 +2926,7 @@
         ],
         "design": "A vertical bicolor of white and red; charged with a representation of George Cross (showing a design of St. George and the Dragon), outlined in red on the upper hoist side of the white band. [0]",
         "adoptionDate": 1964,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Malta"
         ]
@@ -2945,7 +2952,7 @@
         ],
         "design": "A blue field with two diagonal stripes of orange and white radiating from the lower hoist-side corner to the upper fly-side corner with a large white star with four large rays and twenty small rays on the upper hoist-side corner above the stripes. [0]",
         "adoptionDate": 1979,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Marshall_Islands"
         ]
@@ -2968,7 +2975,7 @@
         ],
         "design": "A green field; charged with a golden upward-pointed crescent and star. [0]",
         "adoptionDate": 1959,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Mauritania",
             "https://flagspot.net/flags/mr.html"
@@ -2998,7 +3005,7 @@
         ],
         "design": "Four horizontal bands of red, blue, yellow and green. [0]",
         "adoptionDate": 1968,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Mauritius"
         ]
@@ -3024,7 +3031,7 @@
         ],
         "design": "A vertical tricolor of green, white, and red with the National Coat of Arms of Mexico centered on the white band. [0]",
         "adoptionDate": 1968,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Mexico"
         ]
@@ -3047,7 +3054,7 @@
         ],
         "design": "A light blue field with four white five-pointed stars arranged in a diamond pattern in the center. [0]",
         "adoptionDate": 1978,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Federated_States_of_Micronesia"
         ]
@@ -3076,7 +3083,7 @@
         ],
         "design": "A vertical tricolor of blue, yellow and red; charged with the Coat of Arms centered on the yellow band. [0]",
         "adoptionDate": 1990,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Moldova"
         ]
@@ -3099,7 +3106,7 @@
         ],
         "design": "Two equal horizontal bands, red (top) and white (bottom) [0]",
         "adoptionDate": 1881,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Monaco"
         ]
@@ -3125,7 +3132,7 @@
         ],
         "design": "A vertical bicolour triband of red, blue, and red; charged with the national emblem in yellow, centred on the hoist-side red band. [0]",
         "adoptionDate": 1992,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Mongolia"
         ]
@@ -3154,7 +3161,7 @@
         ],
         "design": "A red field surrounded by a golden border; charged with the Coat of Arms at the centre. [0]",
         "adoptionDate": 2004,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Montenegro",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -3178,7 +3185,7 @@
         ],
         "design": "A green pentagram centered on a red field. [0]",
         "adoptionDate": 1915,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Morocco"
         ]
@@ -3210,7 +3217,7 @@
         ],
         "design": "A horizontal triband of green, black and yellow (each band is separated by a white fimbriation); with a red chevron based on the hoist side charged with a hoe, over a rifle, over an open book, over a yellow five-pointed star. [0]",
         "adoptionDate": 1983,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Mozambique"
         ]
@@ -3239,7 +3246,7 @@
         ],
         "design": "A horizontal triband of yellow, green and red; charged with a large white five-pointed star at the centre. [0]",
         "adoptionDate": 2010,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Myanmar"
         ]
@@ -3271,7 +3278,7 @@
         ],
         "design": "A white-edged red diagonal band radiating from the lower hoist-side corner. The upper triangle is blue, charged with a gold sun with 12 triangular rays and the lower triangle is green. [0]",
         "adoptionDate": 1990,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Namibia"
         ]
@@ -3297,7 +3304,7 @@
         ],
         "design": "A blue field with a thin yellow narrow horizontal stripe across in the center and a large white 12-pointed star on the bottom of the stripe and near the hoist side. [0]",
         "adoptionDate": 1962,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Nauru"
         ]
@@ -3323,7 +3330,7 @@
         ],
         "design": "Combination of two red pennons with a blue border, with a sun and crescent moon. [0]",
         "adoptionDate": 1962,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Nepal"
         ]
@@ -3349,7 +3356,7 @@
         ],
         "design": "A horizontal triband of red (Bright Vermilion), white, and Cobalt blue. [0]",
         "adoptionDate": 1937,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Netherlands",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -3376,7 +3383,7 @@
         ],
         "design": "A Blue Ensign with the Southern Cross of four white-edged red five-pointed stars centered on the outer half of the flag. [0]",
         "adoptionDate": 1902,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_New_Zealand"
         ]
@@ -3399,7 +3406,7 @@
         ],
         "design": "A horizontal triband of blue (top and bottom) and white with the National Coat of Arms of Nicaragua centered on the white band. [0]",
         "adoptionDate": 1971,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Nicaragua",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -3426,7 +3433,7 @@
         ],
         "design": "A horizontal triband of orange, white and green; charged with an orange circle in the centre. [0]",
         "adoptionDate": 1957,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Niger"
         ]
@@ -3449,7 +3456,7 @@
         ],
         "design": "A vertical bicolour triband of green, white and green. [0]",
         "adoptionDate": 1960,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Nigeria",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -3476,7 +3483,7 @@
         ],
         "design": "A white-fimbriated blue Nordic cross on a red field. [0]",
         "adoptionDate": 1821,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Norway"
         ]
@@ -3502,7 +3509,7 @@
         ],
         "design": "A horiztonal tricolour of white, red and green; with a vertical red stripe at the hoist, charged with the National emblem of Oman. [0]",
         "adoptionDate": 1970,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Oman"
         ]
@@ -3525,7 +3532,7 @@
         ],
         "design": "A white star and crescent on a dark green field, with a vertical white stripe at the hoist. [0]",
         "adoptionDate": 1947,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Pakistan"
         ]
@@ -3548,7 +3555,7 @@
         ],
         "design": "A light blue field with a large yellow disk shifted slightly to the hoist side of center. [0]",
         "adoptionDate": 1981,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Palau"
         ]
@@ -3574,7 +3581,7 @@
         ],
         "design": "A flag is divided into four rectangles: the top quadrants are: a white field on a hoist side bearing a blue five-pointed star in the center and a red field on the fly side; the bottom quadrants are: a blue field on a hoist side and a white field on the fly side bearing a red five-pointed star in the center. [0]",
         "adoptionDate": 1925,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Panama"
         ]
@@ -3603,7 +3610,7 @@
         ],
         "design": "Divided diagonally from the upper hoist-side corner to the lower fly-side corner: the upper triangle is red with a soaring raggiana bird of paradise and the lower triangle is black with the Southern Cross of four white larger five-pointed stars and a smaller star. [0]",
         "adoptionDate": 1971,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Papua_New_Guinea"
         ]
@@ -3629,7 +3636,7 @@
         ],
         "design": "A red–white–blue triband charge with the coat of arms. [0]",
         "adoptionDate": 1842,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Paraguay"
         ]
@@ -3652,7 +3659,7 @@
         ],
         "design": "A vertical triband of red (hoist side and fly side) and white. [0]",
         "adoptionDate": 1824,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Peru"
         ]
@@ -3681,7 +3688,7 @@
         ],
         "design": "A horizontal bicolour of blue and red; with a white equilateral triangle based at the hoist containing three, 5-pointed gold stars at its vertices, and an 8-rayed gold sun at its center. [0]",
         "adoptionDate": 1898,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Philippines"
         ]
@@ -3704,7 +3711,7 @@
         ],
         "design": "A horizontal bicolour of white and red. [0]",
         "adoptionDate": 1919,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Poland"
         ]
@@ -3736,7 +3743,7 @@
         ],
         "design": "A vertically striped bicolour of green and red, with the lesser coat of arms of Portugal centred over the colour boundary [0]",
         "adoptionDate": 1911,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Portugal"
         ]
@@ -3759,7 +3766,7 @@
         ],
         "design": "A white band on the left, separated from a maroon area on the left by nine white triangles which act as a serrated line. [0]",
         "adoptionDate": 1971,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Qatar"
         ]
@@ -3785,7 +3792,7 @@
         ],
         "design": "A vertical tricolor of blue (cobalt blue), yellow (chrome yellow), and red (vermilion). [0]",
         "adoptionDate": 1848,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Romania",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -3812,7 +3819,7 @@
         ],
         "design": "A horizontal tricolour of white, blue and red. [0]",
         "adoptionDate": 1696,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Russia",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -3839,7 +3846,7 @@
         ],
         "design": "A horizontal tricolour of blue (double width), yellow and green; charged with a sun-yellow sun in the upper-hoist side corner. [0]",
         "adoptionDate": 2001,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Rwanda"
         ]
@@ -3871,7 +3878,7 @@
         ],
         "design": "A yellow-edged black broad diagonal band bearing two white five-pointed stars divided diagonally from the lower hoist side corner to the upper fly corner: the upper triangle is green and the lower triangle is red. [0]",
         "adoptionDate": 1983,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Saint_Kitts_and_Nevis"
         ]
@@ -3900,7 +3907,7 @@
         ],
         "design": "A cerulean blue field with a gold isosceles triangle below a white-edged black triangle in the center. [0]",
         "adoptionDate": 1967,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Saint_Lucia"
         ]
@@ -3926,7 +3933,7 @@
         ],
         "design": "Three vertical bands of blue (hoist side), gold (double width), and green; the gold band bears three green diamonds arranged in a V pattern. [1]",
         "adoptionDate": 1985,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Saint_Vincent_and_the_Grenadines",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -3953,7 +3960,7 @@
         ],
         "design": "A red field with a blue rectangle on the upper hoist-side quadrant bearing the Southern Cross of four white larger five-pointed stars and a smaller star in the center. [0]",
         "adoptionDate": 1949,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Samoa",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -3983,7 +3990,7 @@
         ],
         "design": "A horizontal bicolour of white and light blue; charged with the Coat of arms in the centre. [0]",
         "adoptionDate": 1862,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_San_Marino"
         ]
@@ -4012,7 +4019,7 @@
         ],
         "design": "A horizontal tricolour of green, yellow and green; with a red triangle based at the hoist and two black five-pointed stars in the yellow stripe. [0]",
         "adoptionDate": 1975,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_São_Tomé_and_Príncipe",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -4036,7 +4043,7 @@
         ],
         "design": "A green field with the Shahada or Muslim creed written in the large Thuluth script in white above a white horizontal saber, in which the tip of the saber points to the hoist-side in the center. [0]",
         "adoptionDate": 1973,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Saudi_Arabia"
         ]
@@ -4062,7 +4069,7 @@
         ],
         "design": "A vertical tricolour of green, yellow and red; charged with a green five-pointed star at the centre. [0]",
         "adoptionDate": 1960,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Senegal"
         ]
@@ -4091,7 +4098,7 @@
         ],
         "design": "A horizontal tricolour of red, blue, and white; charged with the lesser Coat of arms left of centre. [0]",
         "adoptionDate": 2004,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Serbia",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -4124,7 +4131,7 @@
         ],
         "design": "Five oblique bands of blue (hoist side), yellow, red, white, and green (bottom) radiating from the bottom of the hoist side. [0]",
         "adoptionDate": 1996,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Seychelles"
         ]
@@ -4150,7 +4157,7 @@
         ],
         "design": "A horizontal tricolour of light green, white and light blue. [0]",
         "adoptionDate": 1961,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Sierra_Leone"
         ]
@@ -4173,7 +4180,7 @@
         ],
         "design": "A horizontal bicolour of red and white; charged in white in the canton with a crescent facing the fly and a pentagon of five stars. [0]",
         "adoptionDate": 1959,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Singapore"
         ]
@@ -4199,7 +4206,7 @@
         ],
         "design": "A horizontal tricolour of white, blue and red; charged with a shield containing a white cross is placed to left of centre. [0]",
         "adoptionDate": 1992,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Slovakia",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -4229,7 +4236,7 @@
         ],
         "design": "A horizontal tricolour of white, blue, and red; charged with the Coat of arms at the hoist side. [0]",
         "adoptionDate": 1991,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Slovenia"
         ]
@@ -4258,7 +4265,7 @@
         ],
         "design": "A blue and green flag divided by a yellow diagonal radiating from the lower-hoist side corner; with five white, five-pointed stars (2-1-2) in the canton. [0]",
         "adoptionDate": 1977,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Solomon_Islands"
         ]
@@ -4281,7 +4288,7 @@
         ],
         "design": "A single white five-pointed star centered on a light blue field. [0]",
         "adoptionDate": 1954,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Somalia"
         ]
@@ -4316,7 +4323,7 @@
         ],
         "design": "A horizontal bicolor of red and blue with a black isosceles triangle based on the hoist-side and a green pall, a central green band that splits into a horizontal Y, centered over the partition lines and was edged in both white against the red and the blue bands and gold against the triangle, in which the arms of the Y ends at the corners of the hoist and embraces the triangle on the hoist-side. [0]",
         "adoptionDate": 1994,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_South_Africa"
         ]
@@ -4351,7 +4358,7 @@
         ],
         "design": "A horizontal tricolour of black, red, and green, fimbriated with white stripes; with a blue equilateral triangle based on the hoist side bearing a gold star. [0]",
         "adoptionDate": 2005,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_South_Sudan"
         ]
@@ -4374,7 +4381,7 @@
         ],
         "design": "A horizontal tricolour of red, yellow (double width) and red; charged with the Spanish coat of arms off-centred toward the hoist. [0]",
         "adoptionDate": 1978,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Spain",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -4404,7 +4411,7 @@
         ],
         "design": "Dark red rectangular panel bordered yellow containing a yellow lion holding a sword upright in its right fore paw, and four bo leaves, one in each corner, and next to the hoist two vertical stripes, green and orange, also bordered yellow together. [0]",
         "adoptionDate": 1972,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Sri_Lanka"
         ]
@@ -4433,7 +4440,7 @@
         ],
         "design": "A horizontal tricolour of red, white, and black; with a green triangle based at the hoist. [0]",
         "adoptionDate": 1970,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Sudan",
             "http://www.worldflags101.com/s/sudan-flag.aspx"
@@ -4463,7 +4470,7 @@
         ],
         "design": "Five horizontal bands of green, white, red, white, and green. There is a large, yellow, five-pointed star centered in the red band. [0]",
         "adoptionDate": 1975,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Suriname"
         ]
@@ -4495,7 +4502,7 @@
         ],
         "design": "A horizontal triband of blue (top and bottom) and the yellow-edged red (triple width) with a large black and white shield covering two spears and a staff decorated with feather tassels all placed centered horizontally in the red band. [0]",
         "adoptionDate": 1968,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Swaziland"
         ]
@@ -4518,7 +4525,7 @@
         ],
         "design": "A blue field with a yellow Scandinavian cross that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side. [0]",
         "adoptionDate": 1906,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Sweden"
         ]
@@ -4541,7 +4548,7 @@
         ],
         "design": "A red square with a white Greek cross in the centre. [0]",
         "adoptionDate": 1889,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Switzerland"
         ]
@@ -4570,7 +4577,7 @@
         ],
         "design": "A horizontal tricolour of red, white, and black; charged with two green stars at the centre. [0]",
         "adoptionDate": 1958,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Syria"
         ]
@@ -4599,7 +4606,7 @@
         ],
         "design": "A horizontal tricolour of red, white and green; charged with a crown surmounted by an arc of seven stars at the centre. [0]",
         "adoptionDate": 1992,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Tajikistan"
         ]
@@ -4628,7 +4635,7 @@
         ],
         "design": "A yellow-edged black diagonal band divided diagonally from the lower hoist-side corner: the upper triangle is green and the lower triangle is blue. [0]",
         "adoptionDate": 1964,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Tanzania"
         ]
@@ -4654,7 +4661,7 @@
         ],
         "design": "Five horizontal stripes of red, white, blue, white and red, the middle stripe twice as wide as the others. [0]",
         "adoptionDate": 1917,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Thailand"
         ]
@@ -4683,7 +4690,7 @@
         ],
         "design": "Five equal horizontal bands of green (top and bottom) alternating with yellow; with a red canton bearing a white five-pointed star. [0]",
         "adoptionDate": 1960,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Togo"
         ]
@@ -4706,7 +4713,7 @@
         ],
         "design": "A red field with a white rectangle on the upper hoist-side corner bearing a bold red Greek Cross in the center. [0]",
         "adoptionDate": 1875,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Tonga"
         ]
@@ -4732,7 +4739,7 @@
         ],
         "design": "A red field with a white-edged black diagonal band from the upper hoist-side to the lower fly-side. [0]",
         "adoptionDate": 1962,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Trinidad_and_Tobago"
         ]
@@ -4755,7 +4762,7 @@
         ],
         "design": "A red field with a centered white sun-disc containing a red five-pointed star surrounded by a red crescent. [0]",
         "adoptionDate": 1831,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Tunisia"
         ]
@@ -4778,7 +4785,7 @@
         ],
         "design": "A red field with a white star and crescent slightly right of center. [0]",
         "adoptionDate": 1844,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Turkey"
         ]
@@ -4807,7 +4814,7 @@
         ],
         "design": "A green field with a vertical red stripe near the hoist side, containing five carpet guls stacked above two crossed olive branches; a white waxing crescent moon and five white five-pointed stars appear in the upper field, to the fly side of the red stripe. [0]",
         "adoptionDate": 1992,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Turkmenistan"
         ]
@@ -4839,7 +4846,7 @@
         ],
         "design": "A Light Blue Ensign with nine yellow five-pointed stars on the outer half of the flag. [0]",
         "adoptionDate": 1997,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Tuvalu"
         ]
@@ -4868,7 +4875,7 @@
         ],
         "design": "Six equal horizontal bands of black (top), yellow, red, black, yellow, and red (bottom); a white disc is superimposed at the centre and depicts the national symbol, a grey crowned crane, facing the hoist side. [0]",
         "adoptionDate": 1962,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Uganda"
         ]
@@ -4891,7 +4898,7 @@
         ],
         "design": "A horizontal bicolour of blue and yellow. [0]",
         "adoptionDate": 1918,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Ukraine",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -4921,7 +4928,7 @@
         ],
         "design": "Three equal horizontal bands of green (top), white, and black with a wider vertical red band on the hoist side. [1]",
         "adoptionDate": 1971,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_United_Arab_Emirates",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -4948,7 +4955,7 @@
         ],
         "design": "A white-fimbriated symmetric red cross on a blue field with a white-fimbriated counterchanged saltire of red and white. [0]",
         "adoptionDate": 1801,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_United_Kingdom"
         ]
@@ -4974,7 +4981,7 @@
         ],
         "design": "Thirteen horizontal stripes alternating red and white; in the canton, 50 white stars of alternating numbers of six and five per row on a blue field [0]",
         "adoptionDate": 1960,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_United_States"
         ]
@@ -5000,7 +5007,7 @@
         ],
         "design": "A field of alternating white and blue stripes with a white canton charged with the Sun of May. [0]",
         "adoptionDate": 1830,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Uruguay"
         ]
@@ -5029,7 +5036,7 @@
         ],
         "design": "A horizontal blue, white and green stripes, separated by two narrow red stripes. A crescent and three rows of twelve stars are situated on the left side of the upper blue stripe. [0]",
         "adoptionDate": 1991,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Uzbekistan"
         ]
@@ -5058,7 +5065,7 @@
         ],
         "design": "A horizontal bicolor of red and green with a black isosceles triangle based on the hoist side bearing a boar's tusk encircling two crossed namele fern fronds in the center and a gold pall, a thin yellow narrow horizontal stripe that splits in the shape of a horizontal Y, centered over the partition lines and was edged in black against the red and the green bands while the two points of the Y faces on each corner and encloses the triangle on the hoist-side. [0]",
         "adoptionDate": 1960,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Vanuatu"
         ]
@@ -5084,7 +5091,7 @@
         ],
         "design": "A vertical bicolour of gold and white; charged with the Vatican City coat of arms centred. [0]",
         "adoptionDate": 1929,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Vatican_City"
         ]
@@ -5113,7 +5120,7 @@
         ],
         "design": "A horizontal tricolor of yellow, blue and red with an arc of eight white five-pointed stars centered in the blue band. [0]",
         "adoptionDate": 2006,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Venezuela"
         ]
@@ -5136,7 +5143,7 @@
         ],
         "design": "A large yellow star centered on a red field. [0]",
         "adoptionDate": 1945,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Vietnam"
         ]
@@ -5162,7 +5169,7 @@
         ],
         "design": "A horizontal tricolour of red, white and black. [0]",
         "adoptionDate": 1990,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Yemen"
         ]
@@ -5191,7 +5198,7 @@
         ],
         "design": "A green field with an orange coloured eagle in flight over a rectangular block of three vertical stripes coloured from left to right in red, black and orange. [0]",
         "adoptionDate": 1964,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Zambia",
             "https://flagspot.net/flags/zm.html"
@@ -5224,7 +5231,7 @@
         ],
         "design": "Seven horizontal stripes of green, yellow, red, black, red, yellow and green with a black-edged white isosceles triangle base on the hoist side bearing a Zimbabwe bird superimposed on a red five-pointed star. [0]",
         "adoptionDate": 1980,
-        "related": [],
+        "related": {},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Zimbabwe"
         ]
