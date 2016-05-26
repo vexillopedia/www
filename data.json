@@ -5034,4 +5034,199 @@
             "https://en.wikipedia.org/wiki/Flag_of_Uzbekistan"
         ]
     }
+    ,{
+        "name": "Vanuatu",
+        "image": "vanuatu.svg",
+        "category": "Countries",
+        "history": "When the Vanua'aku Pati led the New Hebrides to independence as Vanuatu in 1980, the colours of the party flag (red, green, black and yellow) were chosen to be the basis for the national flag. A parliamentary committee chose the final design based on submissions from local artists. The flag of Vanuatu was adopted on 18 February 1980. [0]",
+        "meaning": "The green represents the richness of the islands, the red symbolises the blood of wild boars and men, and the black the ni-Vanuatu people. The Prime Minister of Vanuatu, Father Walter Lini, requested the inclusion of yellow and black fimbriations to make the black stand out. The yellow Y-shape represents the light of the gospel going through the pattern of the islands in the Pacific Ocean (approximately 83% of the people of Vanuatu profess Christianity).\n\nThe emblem in the black is a boar's tusk — the symbol of prosperity worn as a pendant on the islands — along with two leaves of the local namele Cycad. The leaves are supposed to be a token of peace, and their 39 leaflets represent the 39 members of the Parliament of Vanuatu. [0]",
+        "ratio": "19:36",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#D21034"
+            },{
+                "name": "green",
+                "hex": "#009543"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "yellow",
+                "hex": "#FDCE12"
+            }
+        ],
+        "design": "A horizontal bicolor of red and green with a black isosceles triangle based on the hoist side bearing a boar's tusk encircling two crossed namele fern fronds in the center and a gold pall, a thin yellow narrow horizontal stripe that splits in the shape of a horizontal Y, centered over the partition lines and was edged in black against the red and the green bands while the two points of the Y faces on each corner and encloses the triangle on the hoist-side. [0]",
+        "adoptionDate": 1960,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Vanuatu"
+        ]
+    }
+    ,{
+        "name": "Vatican",
+        "image": "vatican.svg",
+        "category": "Countries",
+        "history": "Starting in 1831, the papal infantry flew square yellow and white flags. At first they were diagonally divided, but after 1849 they were vertically divided like the merchant flag. The last infantry colour, adopted in 1862, was a plain square white and yellow flag.\n\nOn 8 February 1849, while Pope Pius IX was in exile in Gaeta, a Roman Republic was declared. The new government's flag was the Italian tricolor with the motto \"Dio e Popolo\" on the central stripe. The papal government and its flags were restored on 2 July 1849. On 20 September 1870 the Papal States were conquered by Italy and the yellow and white flags fell out of official use.\n\nAfter the Lateran Treaty was signed in 1929, papal authorities decided to use the 1825 merchant flag as the state flag of the soon to be independent Vatican City state. However, the official drawing in the constitution used a drawing of the square 1862 infantry flag as a template. The treaty came into effect on 7 June 1929, and with it the newly-square Vatican flag. [0]",
+        "meaning": "The Vatican City coat of arms is present in the white half. The coat of arms consists of: the papal tiara (as used under the pontificate of Pius XI), the two keys which represent the Keys of Heaven (according to the Gospel of Matthew 16:19) given by Jesus Christ to St. Peter, and a red cord connecting the keys. The popes are regarded as the successor of Peter, and the gold and silver keys have been significant elements in the symbolism of the Holy See since the 13th century. The gold represents spiritual power, while the silver key represents worldly power. The order of the keys on the coat of arms of Vatican City is the reverse of the coat of arms of the Holy See, in order to distinguish between the two entities.\n\nThe yellow and white of the flag also refer to the keys – in heraldic terminology, there is no distinction between yellow and gold (the metallic color or), nor between white and silver (argent). The Argent color has also been reported in relation with the white mountains of Lebanon and of the biblical city of Miye ou Miye according to the Lebanese Historian Anis Freiha. [0]",
+        "ratio": "1:1",
+        "colors": [
+            {
+                "name": "yellow",
+                "hex": "#FFE000"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#FA0204"
+            }
+        ],
+        "design": "A vertical bicolour of gold and white; charged with the Vatican City coat of arms centred. [0]",
+        "adoptionDate": 1929,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Vatican_City"
+        ]
+    }
+    ,{
+        "name": "Venezuela",
+        "image": "venezuela.svg",
+        "category": "Countries",
+        "history": "The current flag of Venezuela was introduced in 2006. The basic design includes a horizontal tricolor of yellow, blue, and red, dating to the original flag introduced in 1811, in the Venezuelan War of Independence. Further modifications have involved including a set of stars, multiple changes to the placement and number of stars and inclusion of an optional coat of arms at the upper-left corner. [0]",
+        "meaning": "According to the current interpretation: yellow represents all the gold found in the Venezuelan land, blue represents the seas on Venezuela's shores, the rivers that run through, and the sky above and red represents the blood spilled for Venezuela's independence. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "yellow",
+                "hex": "#FCD116"
+            },{
+                "name": "blue",
+                "hex": "#003893"
+            },{
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A horizontal tricolor of yellow, blue and red with an arc of eight white five-pointed stars centered in the blue band. [0]",
+        "adoptionDate": 2006,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Venezuela"
+        ]
+    }
+    ,{
+        "name": "Vietnam",
+        "image": "vietnam.svg",
+        "category": "Countries",
+        "history": "The flag was used by the Viet Minh, a communist-led organization created in 1941 to oppose Japanese occupation. At the end of World War II, Viet Minh leader Ho Chi Minh proclaimed Vietnam independent and signed a decree on September 5, 1945 adopting the flag as the flag of the Democratic Republic of Vietnam. The DRV became the government of North Vietnam in 1954 following the Geneva Accords. The flag was modified on November 30, 1955 to make the edges of the star sharper. Until the end of the Vietnam War in 1975, South Vietnam used a yellow flag with three red stripes. The red flag of North Vietnam was adopted as the flag of the new unified Socialist Republic of Vietnam in 1976. [0]",
+        "meaning": "The background was inspired by the red flag, used by the international communist movement since the Paris Commune of 1871. Red symbolizes revolution and blood. The star represents the five main classes in Vietnamese society—intellectuals, farmers, workers, businessmen and military personnel. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#E21C1C"
+            },{
+                "name": "yellow",
+                "hex": "#FFFF00"
+            }
+        ],
+        "design": "A large yellow star centered on a red field. [0]",
+        "adoptionDate": 1945,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Vietnam"
+        ]
+    }
+    ,{
+        "name": "Yemen",
+        "image": "yemen.svg",
+        "category": "Countries",
+        "history": "The Flag of Yemen was adopted on May 22, 1990, the day that North Yemen and South Yemen were unified. The flag is essentially the Arab Liberation Flag of 1952, introduced after the Egyptian Revolution of 1952 in which Arab nationalism was a dominant theme. The Arab Liberation Flag served as the inspiration for the flags of both North and South Yemen prior to unification, and the current flags of Egypt, Iraq, Sudan, and Syria. [0]",
+        "meaning": "According to the official description, the red stands for the bloodshed of martyrs and unity; the white for a bright future; black for the dark past. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            }
+        ],
+        "design": "A horizontal tricolour of red, white and black. [0]",
+        "adoptionDate": 1990,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Yemen"
+        ]
+    }
+    ,{
+        "name": "Zambia",
+        "image": "zambia.svg",
+        "category": "Countries",
+        "history": "The flag of Zambia was adopted upon independence on October 24, 1964. Before that, Zambia was the British protectorate of Northern Rhodesia and used a defaced Blue Ensign as its flag. [0]",
+        "meaning": "Green stands for the nation's lush flora, red for the nation's struggle for freedom, black for the Zambian people, and orange for the land's natural resources and mineral wealth. Additionally, the eagle flying above the coloured stripes is intended to represent the people's ability to rise above the nation's problems. [1]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#198A00"
+            },{
+                "name": "red",
+                "hex": "#DE2010"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "orange",
+                "hex": "#EF7D00"
+            }
+        ],
+        "design": "A green field with an orange coloured eagle in flight over a rectangular block of three vertical stripes coloured from left to right in red, black and orange. [0]",
+        "adoptionDate": 1964,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Zambia",
+            "https://flagspot.net/flags/zm.html"
+        ]
+    }
+    ,{
+        "name": "Zimbabwe",
+        "image": "zimbabwe.svg",
+        "category": "Countries",
+        "history": "The country now known as Zimbabwe was formally known as Southern Rhodesia from 1895 to 1980—the name Rhodesia was locally used from 1964 to June 1979, and Zimbabwe Rhodesia was thereafter in use until December 1979. Southern Rhodesia achieved responsible government in 1923, and thereby became a self-governing colony of Britain following three decades of rule by the British South Africa Company. It concurrently adopted its first flag: following standard British colonial practice, it was a Blue Ensign, defaced with the shield from the Southern Rhodesian coat of arms. This basic design remained until 1968 although a light blue ensign was introduced in April in 1964. On 11 November 1968, three years after the mostly white government unilaterally declared independence from Britain, a national flag based on a completely new design was adopted. This was a green-white-green vertical triband, charged centrally with the national coat of arms. This was the first national flag to contain the Zimbabwe Bird, which had been present in the coat of arms since 1924.\n\nIn 1979, when the country reconstituted itself as Zimbabwe Rhodesia following the Internal Settlement between the government and moderate black nationalists, a new flag was adopted to mark the transition. The flag of Zimbabwe Rhodesia was designed by Flight Lieutenant Cedric Herbert of the Rhodesian Air Force and a member of the Rhodesian Heraldry and Genealogy Society. The design incorporated the pan-African colours of yellow, black, green and red; the black stripe symbolised majority rule in the country and the red stood for the struggle to achieve this. The yellow and green respectively represented the nation's mineral wealth and its agricultural and natural resources. The thin vertical white stripe represented the white minority while the central horizontal white stripe represented peace.\n\nThis flag was superseded in December 1979, when Britain took interim control of the country following the Lancaster House Agreement, which ended the Rhodesian Bush War. The British Union Jack was used as the official flag of the country while fresh elections were held in early 1980, and at midnight between 17 and 18 April 1980, the country was granted independence by Britain under the name Zimbabwe. A new flag was concurrently adopted, the draft for which was handed to Minister of Public Works Richard Hove by an unspecified designer. It initially did not have the Zimbabwe Bird included in it; Cedric Herbert added it in later on. The final draft (the flag as it is now) went through the approval of the then-Prime Minister-elect Robert Mugabe. The adoption of the new flag coincided with the swearing-in of Canaan Banana as the country's new president. The Zimbabwe Bird, used on every flag since 1968, is based on a bird statue discovered from the ancient ruined city of Great Zimbabwe in the country's south-east. [0]",
+        "meaning": "Officially, the colours of the flag of Zimbabwe carry political, regional, and cultural meanings. Green represents the agriculture and rural areas of Zimbabwe. Yellow stands for the wealth of minerals in the country, predominantly gold. The red symbolises the blood shed during the first and second Chimurenga (wars) in the \"struggle for independence\". The black indicates the heritage, race, ethnicity and community of the Shona citizens of Zimbabwe, where the president has given many vocal speeches saying white citizens are not welcome.\n\nThe white triangle is a symbol for peace. The golden bird, known as the \"Great Zimbabwe Bird\" is the national symbol of Zimbabwe. A representation of most likely the bateleur eagle or the African fish eagle, it \"exemplifies the strong bond that ancestral humans had with animals, nature and spirit guides\" and it is treated with a high level of importance and respect. The red star represents Marxism as promoted by ZANU-PF, the ruling party of Zimbabwe, which has strong links to both North Korea and China, whose party flag was the basis for the flag of the nation. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#319208"
+            },{
+                "name": "yellow",
+                "hex": "#FFD200"
+            },{
+                "name": "red",
+                "hex": "#DE2010"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "Seven horizontal stripes of green, yellow, red, black, red, yellow and green with a black-edged white isosceles triangle base on the hoist side bearing a Zimbabwe bird superimposed on a red five-pointed star. [0]",
+        "adoptionDate": 1980,
+        "related": [],
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Zimbabwe"
+        ]
+    }
 ]
