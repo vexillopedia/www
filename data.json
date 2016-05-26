@@ -105,6 +105,12 @@
                 {
                     "name": "Chad",
                     "image": "chad.svg"
+                },{
+                    "name": "Moldova",
+                    "image": "moldova.svg"
+                },{
+                    "name": "Romania",
+                    "image": "romania.svg"
                 }
             ]
         },
@@ -195,7 +201,20 @@
         ],
         "design": "A horizontal triband of light blue (top and bottom) and white with the yellow Sun of May charged in the center. [0]",
         "adoptionDate": 1812,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "El Salvador",
+                    "image": "el-salvador.svg"
+                },{
+                    "name": "Honduras",
+                    "image": "honduras.svg"
+                },{
+                    "name": "Nicaragua",
+                    "image": "nicaragua.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Argentina",
             "https://flagspot.net/flags/ar.html",
@@ -251,7 +270,14 @@
         ],
         "design": "A Blue Ensign defaced with the Commonwealth Star (also known as the Federation Star) in the lower hoist quarter and the five stars of the Southern Cross in the fly half. [0]",
         "adoptionDate": 1903,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "New Zealand",
+                    "image": "new-zealand.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Australia",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -356,7 +382,14 @@
         ],
         "design": "Red, the traditional color for flags of Persian Gulf states, with a white serrated band (five white points) on the hoist side [1]",
         "adoptionDate": 2002,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Qatar",
+                    "image": "qatar.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Bahrain",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -835,7 +868,14 @@
         ],
         "design": "A vertical bicolour triband of red, white, and red in the ratio 1:2:1, with a red maple leaf charged in the centre. [0]",
         "adoptionDate": 1965,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Peru",
+                    "image": "peru.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Canada",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -925,7 +965,20 @@
         ],
         "design": "A vertical tricolor of blue, yellow, and red. [0]",
         "adoptionDate": 1959,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Andorra",
+                    "image": "andorra.svg"
+                },{
+                    "name": "Moldova",
+                    "image": "moldova.svg"
+                },{
+                    "name": "Romania",
+                    "image": "romania.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Chad"
         ]
@@ -1000,7 +1053,17 @@
         ],
         "design": "a horizontal tricolor of yellow (double-width), blue and red. [0]",
         "adoptionDate": 1861,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Ecuador",
+                    "image": "ecuador.svg"
+                },{
+                    "name": "Venezuela",
+                    "image": "venezuela.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Colombia"
         ]
@@ -1110,7 +1173,14 @@
         ],
         "design": "Five horizontal bands of blue, white, red (double width), white and blue. [0]",
         "adoptionDate": 1906,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Thailand",
+                    "image": "thailand.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Costa_Rica"
         ]
@@ -1237,7 +1307,23 @@
         ],
         "design": "A red field charged with a white cross extending to the edges; the vertical part of the cross is shifted to the hoist side. [0]",
         "adoptionDate": 1400,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Finland",
+                    "image": "finland.svg"
+                },{
+                    "name": "Iceland",
+                    "image": "iceland.svg"
+                },{
+                    "name": "Norway",
+                    "image": "norway.svg"
+                },{
+                    "name": "Sweden",
+                    "image": "sweden.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Denmark"
         ]
@@ -1382,7 +1468,17 @@
         ],
         "design": "A horizontal tricolor of yellow (double width), blue and red with the Coat of arms of Ecuador charged in the center. [0]",
         "adoptionDate": 1860,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Colombia",
+                    "image": "colombia.svg"
+                },{
+                    "name": "Venezuela",
+                    "image": "venezuela.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Ecuador"
         ]
@@ -1411,7 +1507,20 @@
         ],
         "design": "Horizontally divided red-white-black flag with the Eagle of Saladin. [0]",
         "adoptionDate": 1984,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Iraq",
+                    "image": "iraq.svg"
+                },{
+                    "name": "Syria",
+                    "image": "syria.svg"
+                },{
+                    "name": "Yemen",
+                    "image": "yemen.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Egypt"
         ]
@@ -1434,7 +1543,20 @@
         ],
         "design": "A horizontal triband of blue (top and bottom) and white and blue with the National Coat of Arms of El Salvador centered on the white band. [0]",
         "adoptionDate": 1912,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Argentina",
+                    "image": "argentina.svg"
+                },{
+                    "name": "Honduras",
+                    "image": "honduras.svg"
+                },{
+                    "name": "Nicaragua",
+                    "image": "nicaragua.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_El_Salvador",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -1587,7 +1709,14 @@
         ],
         "design": "A Light Blue Ensign with the Fijian shield-of-arms taken from the National Coat of Arms centered on the outer half of the flag. [0]",
         "adoptionDate": 1970,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Tuvalu",
+                    "image": "tuvalu.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Fiji"
         ]
@@ -1610,7 +1739,23 @@
         ],
         "design": "Sea-blue Nordic cross on white field. [0]",
         "adoptionDate": 1918,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Denmark",
+                    "image": "denmark.svg"
+                },{
+                    "name": "Iceland",
+                    "image": "iceland.svg"
+                },{
+                    "name": "Norway",
+                    "image": "norway.svg"
+                },{
+                    "name": "Sweden",
+                    "image": "sweden.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Finland"
         ]
@@ -1868,7 +2013,14 @@
         ],
         "design": "A vertical tricolour of red, yellow and green. [0]",
         "adoptionDate": 1958,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Mali",
+                    "image": "mali.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Guinea"
         ]
@@ -1952,7 +2104,14 @@
         ],
         "design": "A horizontal bicolour of blue and red, charged with the Coat of Arms in a small white box in the center. [0]",
         "adoptionDate": 1986,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Liechtenstein",
+                    "image": "liechtenstein.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Haiti",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -1976,7 +2135,20 @@
         ],
         "design": "A horizontal triband of blue (top and bottom) and white with five blue five-pointed stars arranged in an X pattern centered on the white band. [0]",
         "adoptionDate": 1866,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Argentina",
+                    "image": "argentina.svg"
+                },{
+                    "name": "El Salvador",
+                    "image": "el-salvador.svg"
+                },{
+                    "name": "Nicaragua",
+                    "image": "nicaragua.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Honduras"
         ]
@@ -2002,7 +2174,14 @@
         ],
         "design": "A horizontal triband of red, white and green. [0]",
         "adoptionDate": 1957,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Tajikistan",
+                    "image": "tajikistan.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Hungary"
         ]
@@ -2028,7 +2207,23 @@
         ],
         "design": "A white-fimbriated red Nordic cross on a blue field. [0]",
         "adoptionDate": 1944,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Denmark",
+                    "image": "denmark.svg"
+                },{
+                    "name": "Finland",
+                    "image": "finland.svg"
+                },{
+                    "name": "Norway",
+                    "image": "norway.svg"
+                },{
+                    "name": "Sweden",
+                    "image": "sweden.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Iceland"
         ]
@@ -2057,7 +2252,14 @@
         ],
         "design": "A horizontal triband of India saffron, white, and India green; charged with a navy blue wheel with 24 spokes in the centre. [0]",
         "adoptionDate": 1947,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Niger",
+                    "image": "niger.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_India"
         ]
@@ -2080,7 +2282,20 @@
         ],
         "design": "A horizontal bicolour of red and white. [0]",
         "adoptionDate": 1945,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Monaco",
+                    "image": "monaco.svg"
+                },{
+                    "name": "Poland",
+                    "image": "poland.svg"
+                },{
+                    "name": "Singapore",
+                    "image": "singapore.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Indonesia",
             "https://flagspot.net/flags/id.html"
@@ -2136,7 +2351,18 @@
         ],
         "design": "A horizontal tricolour of red, white, and black, charged with the takbīr (Allahu akbar, \"God is great\") in green Kufic script, centered on the white stripe. [0]",
         "adoptionDate": 2008,
-        "related": {},
+        "related": {"similar": [
+                {
+                    "name": "Egypt",
+                    "image": "egypt.svg"
+                },{
+                    "name": "Syria",
+                    "image": "syria.svg"
+                },{
+                    "name": "Yemen",
+                    "image": "yemen.svg"
+                }
+            ]},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Iraq",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -2163,7 +2389,14 @@
         ],
         "design": "A vertical tricolour of green, white, and orange. [0]",
         "adoptionDate": 1922,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Ivory Coast",
+                    "image": "ivory-coast.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Ireland"
         ]
@@ -2212,7 +2445,14 @@
         ],
         "design": "A vertical tricolour of green, white and red. [0]",
         "adoptionDate": 1946,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Mexico",
+                    "image": "mexico.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Italy"
         ]
@@ -2238,7 +2478,14 @@
         ],
         "design": "A vertical tricolour of orange, white, and green. [0]",
         "adoptionDate": 1959,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Ireland",
+                    "image": "ireland.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Ivory_Coast",
             "https://flagspot.net/flags/ci.html"
@@ -2639,7 +2886,17 @@
         ],
         "design": "Eleven horizontal stripes alternating red and white; in the canton, a white star on a blue field. [0]",
         "adoptionDate": 1847,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Malaysia",
+                    "image": "malaysia.svg"
+                },{
+                    "name": "United States",
+                    "image": "united-states.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Liberia"
         ]
@@ -2695,7 +2952,14 @@
         ],
         "design": "Horizontal bicolour of blue and red; charged with a gold crown in the canton. [0]",
         "adoptionDate": 1921,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Haiti",
+                    "image": "haiti.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Liechtenstein"
         ]
@@ -2721,7 +2985,14 @@
         ],
         "design": "A horizontal triband of yellow, green and red. [0]",
         "adoptionDate": 1918,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Myanmar",
+                    "image": "myanmar.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Lithuania"
         ]
@@ -2747,7 +3018,14 @@
         ],
         "design": "A horizontal triband of red, white and light blue. [0]",
         "adoptionDate": 1972,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Netherlands",
+                    "image": "netherlands.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Luxembourg"
         ]
@@ -2851,7 +3129,17 @@
         ],
         "design": "Fourteen horizontal stripes alternating red and white; in the canton, a yellow crescent and 14-point star on a blue field. [0]",
         "adoptionDate": 1950,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Liberia",
+                    "image": "liberia.svg"
+                },{
+                    "name": "United States",
+                    "image": "united-states.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Malaysia"
         ]
@@ -2903,7 +3191,17 @@
         ],
         "design": "A vertical tricolor of green, gold and red. [0]",
         "adoptionDate": 1961,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Guinea",
+                    "image": "guinea.svg"
+                },{
+                    "name": "Senegal",
+                    "image": "senegal.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Mali"
         ]
@@ -3031,7 +3329,14 @@
         ],
         "design": "A vertical tricolor of green, white, and red with the National Coat of Arms of Mexico centered on the white band. [0]",
         "adoptionDate": 1968,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Italy",
+                    "image": "italy.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Mexico"
         ]
@@ -3083,7 +3388,20 @@
         ],
         "design": "A vertical tricolor of blue, yellow and red; charged with the Coat of Arms centered on the yellow band. [0]",
         "adoptionDate": 1990,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Andorra",
+                    "image": "andorra.svg"
+                },{
+                    "name": "Chad",
+                    "image": "chad.svg"
+                },{
+                    "name": "Romania",
+                    "image": "romania.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Moldova"
         ]
@@ -3106,7 +3424,20 @@
         ],
         "design": "Two equal horizontal bands, red (top) and white (bottom) [0]",
         "adoptionDate": 1881,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Indonesia",
+                    "image": "indonesia.svg"
+                },{
+                    "name": "Poland",
+                    "image": "poland.svg"
+                },{
+                    "name": "Singapore",
+                    "image": "singapore.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Monaco"
         ]
@@ -3246,7 +3577,14 @@
         ],
         "design": "A horizontal triband of yellow, green and red; charged with a large white five-pointed star at the centre. [0]",
         "adoptionDate": 2010,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Lithuania",
+                    "image": "lithuania.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Myanmar"
         ]
@@ -3356,7 +3694,17 @@
         ],
         "design": "A horizontal triband of red (Bright Vermilion), white, and Cobalt blue. [0]",
         "adoptionDate": 1937,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Luxembourg",
+                    "image": "luxembourg.svg"
+                },{
+                    "name": "Paraguay",
+                    "image": "paraguay.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Netherlands",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -3383,7 +3731,14 @@
         ],
         "design": "A Blue Ensign with the Southern Cross of four white-edged red five-pointed stars centered on the outer half of the flag. [0]",
         "adoptionDate": 1902,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Australia",
+                    "image": "australia.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_New_Zealand"
         ]
@@ -3406,7 +3761,20 @@
         ],
         "design": "A horizontal triband of blue (top and bottom) and white with the National Coat of Arms of Nicaragua centered on the white band. [0]",
         "adoptionDate": 1971,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Argentina",
+                    "image": "argentina.svg"
+                },{
+                    "name": "El Salvador",
+                    "image": "el-salvador.svg"
+                },{
+                    "name": "Honduras",
+                    "image": "honduras.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Nicaragua",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -3433,7 +3801,12 @@
         ],
         "design": "A horizontal triband of orange, white and green; charged with an orange circle in the centre. [0]",
         "adoptionDate": 1957,
-        "related": {},
+        "related": {"similar": [
+                {
+                    "name": "India",
+                    "image": "india.svg"
+                }
+            ]},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Niger"
         ]
@@ -3483,7 +3856,23 @@
         ],
         "design": "A white-fimbriated blue Nordic cross on a red field. [0]",
         "adoptionDate": 1821,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Denmark",
+                    "image": "denmark.svg"
+                },{
+                    "name": "Finland",
+                    "image": "finland.svg"
+                },{
+                    "name": "Iceland",
+                    "image": "iceland.svg"
+                },{
+                    "name": "Sweden",
+                    "image": "sweden.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Norway"
         ]
@@ -3636,7 +4025,14 @@
         ],
         "design": "A red–white–blue triband charge with the coat of arms. [0]",
         "adoptionDate": 1842,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Netherlands",
+                    "image": "netherlands.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Paraguay"
         ]
@@ -3659,7 +4055,14 @@
         ],
         "design": "A vertical triband of red (hoist side and fly side) and white. [0]",
         "adoptionDate": 1824,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Canada",
+                    "image": "canada.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Peru"
         ]
@@ -3711,7 +4114,20 @@
         ],
         "design": "A horizontal bicolour of white and red. [0]",
         "adoptionDate": 1919,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Monaco",
+                    "image": "monaco.svg"
+                },{
+                    "name": "Indonesia",
+                    "image": "indonesia.svg"
+                },{
+                    "name": "Singapore",
+                    "image": "singapore.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Poland"
         ]
@@ -3766,7 +4182,14 @@
         ],
         "design": "A white band on the left, separated from a maroon area on the left by nine white triangles which act as a serrated line. [0]",
         "adoptionDate": 1971,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Bahrain",
+                    "image": "bahrain.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Qatar"
         ]
@@ -3792,7 +4215,20 @@
         ],
         "design": "A vertical tricolor of blue (cobalt blue), yellow (chrome yellow), and red (vermilion). [0]",
         "adoptionDate": 1848,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Andorra",
+                    "image": "andorra.svg"
+                },{
+                    "name": "Chad",
+                    "image": "chad.svg"
+                },{
+                    "name": "Moldova",
+                    "image": "moldova.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Romania",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -4069,7 +4505,14 @@
         ],
         "design": "A vertical tricolour of green, yellow and red; charged with a green five-pointed star at the centre. [0]",
         "adoptionDate": 1960,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Mali",
+                    "image": "mali.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Senegal"
         ]
@@ -4180,7 +4623,20 @@
         ],
         "design": "A horizontal bicolour of red and white; charged in white in the canton with a crescent facing the fly and a pentagon of five stars. [0]",
         "adoptionDate": 1959,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Monaco",
+                    "image": "monaco.svg"
+                },{
+                    "name": "Indonesia",
+                    "image": "indonesia.svg"
+                },{
+                    "name": "Poland",
+                    "image": "poland.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Singapore"
         ]
@@ -4206,7 +4662,14 @@
         ],
         "design": "A horizontal tricolour of white, blue and red; charged with a shield containing a white cross is placed to left of centre. [0]",
         "adoptionDate": 1992,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Slovenia",
+                    "image": "slovenia.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Slovakia",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -4236,7 +4699,14 @@
         ],
         "design": "A horizontal tricolour of white, blue, and red; charged with the Coat of arms at the hoist side. [0]",
         "adoptionDate": 1991,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Slovakia",
+                    "image": "slovakia.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Slovenia"
         ]
@@ -4288,7 +4758,14 @@
         ],
         "design": "A single white five-pointed star centered on a light blue field. [0]",
         "adoptionDate": 1954,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Vietnam",
+                    "image": "vietnam.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Somalia"
         ]
@@ -4525,7 +5002,23 @@
         ],
         "design": "A blue field with a yellow Scandinavian cross that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side. [0]",
         "adoptionDate": 1906,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Denmark",
+                    "image": "denmark.svg"
+                },{
+                    "name": "Finland",
+                    "image": "finland.svg"
+                },{
+                    "name": "Iceland",
+                    "image": "iceland.svg"
+                },{
+                    "name": "Norway",
+                    "image": "norway.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Sweden"
         ]
@@ -4577,7 +5070,20 @@
         ],
         "design": "A horizontal tricolour of red, white, and black; charged with two green stars at the centre. [0]",
         "adoptionDate": 1958,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Egypt",
+                    "image": "egypt.svg"
+                },{
+                    "name": "Iraq",
+                    "image": "iraq.svg"
+                },{
+                    "name": "Yemen",
+                    "image": "yemen.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Syria"
         ]
@@ -4606,7 +5112,14 @@
         ],
         "design": "A horizontal tricolour of red, white and green; charged with a crown surmounted by an arc of seven stars at the centre. [0]",
         "adoptionDate": 1992,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Hungary",
+                    "image": "hungary.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Tajikistan"
         ]
@@ -4661,7 +5174,14 @@
         ],
         "design": "Five horizontal stripes of red, white, blue, white and red, the middle stripe twice as wide as the others. [0]",
         "adoptionDate": 1917,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Costa Rica",
+                    "image": "costa-rica.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Thailand"
         ]
@@ -4762,7 +5282,14 @@
         ],
         "design": "A red field with a centered white sun-disc containing a red five-pointed star surrounded by a red crescent. [0]",
         "adoptionDate": 1831,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Turkey",
+                    "image": "turkey.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Tunisia"
         ]
@@ -4785,7 +5312,14 @@
         ],
         "design": "A red field with a white star and crescent slightly right of center. [0]",
         "adoptionDate": 1844,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Tunisia",
+                    "image": "tunisia.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Turkey"
         ]
@@ -4846,7 +5380,14 @@
         ],
         "design": "A Light Blue Ensign with nine yellow five-pointed stars on the outer half of the flag. [0]",
         "adoptionDate": 1997,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Fiji",
+                    "image": "fiji.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Tuvalu"
         ]
@@ -4981,7 +5522,17 @@
         ],
         "design": "Thirteen horizontal stripes alternating red and white; in the canton, 50 white stars of alternating numbers of six and five per row on a blue field [0]",
         "adoptionDate": 1960,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Liberia",
+                    "image": "liberia.svg"
+                },{
+                    "name": "Malaysia",
+                    "image": "malaysia.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_United_States"
         ]
@@ -5120,7 +5671,17 @@
         ],
         "design": "A horizontal tricolor of yellow, blue and red with an arc of eight white five-pointed stars centered in the blue band. [0]",
         "adoptionDate": 2006,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Colombia",
+                    "image": "colombia.svg"
+                },{
+                    "name": "Ecuador",
+                    "image": "ecuado.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Venezuela"
         ]
@@ -5143,7 +5704,14 @@
         ],
         "design": "A large yellow star centered on a red field. [0]",
         "adoptionDate": 1945,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Somalia",
+                    "image": "somalia.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Vietnam"
         ]
@@ -5169,7 +5737,20 @@
         ],
         "design": "A horizontal tricolour of red, white and black. [0]",
         "adoptionDate": 1990,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Egypt",
+                    "image": "egypt.svg"
+                },{
+                    "name": "Iraq",
+                    "image": "iraq.svg"
+                },{
+                    "name": "Syria",
+                    "image": "syria.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Yemen"
         ]
