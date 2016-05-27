@@ -5,14 +5,11 @@
 
 The goal of this project is to build a simple, exhaustive and collaborative encyclopedia on all kinds of flags.
 
-## Roadmap
-- Better design
-- Some tests + CI
-- More flags! :crossed_flags:
 
 ## Contributing
 
 ### Flags
+- Open an Issue
 - Fork and clone this repository
 - To build the website locally, run `npm install` then `npm run dev` and go to `localhost:8080`
 - Add (or update) a new entry to `data.json` with the following format:
@@ -53,6 +50,7 @@ The goal of this project is to build a simple, exhaustive and collaborative ency
 ```
 
 - Add (or update) the flag image `xxx.svg` to the `public/flag/` folder
+- Make sure the tests don't break by running `npm run test`
 - Commit your changes (with the message "Add XXX flag")
 - Open a Pull Request
 
@@ -67,6 +65,7 @@ The goal of this project is to build a simple, exhaustive and collaborative ency
 ### Issues
 - As long as it makes sense to a 5 years-old, it should be fine!
 
+
 ## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key) + 🎌 for flags):
@@ -76,6 +75,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification.
 Contributions of any kind welcome!
+
 
 ## Licence
 MIT
