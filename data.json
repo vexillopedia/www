@@ -242,7 +242,14 @@
         ],
         "design": "A horizontal tricolour of red, blue, and orange [0]",
         "adoptionDate": 1990,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Nagorno-Karabakh",
+                    "image": "nagorno-karabakh.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Armenia",
             "http://www.vexilla-mundi.com/armenia_flag.html",
@@ -2564,7 +2571,17 @@
         ],
         "design": "A horizontal triband of black, white and green; with a red chevron based on the hoist side containing a white seven-pointed star. [0]",
         "adoptionDate": 1928,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Palestine",
+                    "image": "palestine.svg"
+                },{
+                    "name": "Sahrawi Arab Democratic Republic",
+                    "image": "sahrawi-arab-democratic-republic.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Jordan"
         ]
@@ -5315,6 +5332,9 @@
         "related": {
             "similar": [
                 {
+                    "name": "Northern Cyprus",
+                    "image": "northern-cyprus.svg"
+                },{
                     "name": "Tunisia",
                     "image": "tunisia.svg"
                 }
