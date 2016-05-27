@@ -69,3 +69,8 @@
 .flag-related .card-list {
     justify-content: flex-start;
 }
+
+/* Sources */
+.link {
+    word-wrap: break-word;
+}
