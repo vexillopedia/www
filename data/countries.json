@@ -1357,6 +1357,15 @@
         "design": "A red field charged with a white cross extending to the edges; the vertical part of the cross is shifted to the hoist side. [0]",
         "adoptionDate": 1400,
         "related": {
+            "dependent": [
+                {
+                    "name": "Faroe Islands",
+                    "image": "faroe-islands.svg"
+                },{
+                    "name": "Greenland",
+                    "image": "greenland.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Finland",

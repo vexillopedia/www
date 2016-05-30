@@ -174,4 +174,85 @@
             "https://en.wikipedia.org/wiki/Flag_of_Macau"
         ]
     }
+    ,{
+        "name": "Faroe Islands",
+        "image": "faroe-islands.svg",
+        "category": "Dependent Territories",
+        "history": "The modern Faroese flag was devised in 1919 by Jens Oliver Lisberg and others while they were studying in Copenhagen. The first time Merkið was raised in the Faroe Islands was on 22 June that year in Fámjin on the occasion of a wedding. On 25 April, 1940, the British occupation government approved the flag for use by Faroese vessels, during the tenure of Carl Aage Hilbert as Danish prefect. April 25 is still celebrated as Flaggdagur and it is a national holiday. With the Home Rule Act of 23 March, 1948, the flag was recognized by the Danish Government as the national flag of the Faroes. The original flag is displayed in the church of Fámjin in Suðuroy. [0]",
+        "meaning": "White symbolises the creators of the flag, the foam of the sea and the pure, radiant sky of the Faroe Islands, while the old Faroese blue and red colours are reminiscent of other Scandinavian and Nordic flags; representing the Faroe Islands' bonds with other Nordic countries. [0]",
+        "ratio": "5:7",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#0065BD"
+            },{
+                "name": "red",
+                "hex": "#ED2939"
+            }
+        ],
+        "design": "A blue-fimbriated red Nordic cross on a white field. [0]",
+        "adoptionDate": 1940,
+        "related": {
+            "country": [
+                {
+                    "name": "Denmark",
+                    "image": "denmark.svg"
+                }
+            ],
+            "similar": [
+                {
+                    "name": "Denmark",
+                    "image": "denmark.svg"
+                },{
+                    "name": "Finland",
+                    "image": "finland.svg"
+                },{
+                    "name": "Iceland",
+                    "image": "iceland.svg"
+                },{
+                    "name": "Norway",
+                    "image": "norway.svg"
+                },{
+                    "name": "Sweden",
+                    "image": "sweden.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Faroe_Islands"
+        ]
+    }
+    ,{
+        "name": "Greenland",
+        "image": "greenland.svg",
+        "category": "Dependent Territories",
+        "history": "Greenland first entertained the idea of a flag of its own in 1973 when five Greenlanders proposed a green, white and blue flag. The following year, a newspaper solicited eleven design proposals (all but one of which was a Nordic cross) and polled the people to determine the most popular. The flag of Denmark was preferred to the others. Little came of this effort.\n\nIn 1978, Denmark granted home rule to Greenland, making it an equal member of the Danish Realm. The home rule government held an official call for flag proposals, receiving 555 (of which 293 were submitted by Greenlanders).\n\nThe deciding committee came to no consensus, so more proposals were solicited. Finally the present red-and-white design by Christiansen narrowly won over a green-and-white Nordic cross by a vote of fourteen to eleven. Christiansen's red-and-white flag was officially adopted on 21 June 1985. [0]",
+        "meaning": "The colours of the flag are the same as those of the Dannebrog, symbolising Greenland's place in the Danish realm. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#D00C33"
+            }
+        ],
+        "design": "A horizontal bicolor of white and red, with a counterchanged disk slightly off-centre towards the hoist. [0]",
+        "adoptionDate": 1985,
+        "related": {
+            "country": [
+                {
+                    "name": "Denmark",
+                    "image": "denmark.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Greenland"
+        ]
+    }
 ]
