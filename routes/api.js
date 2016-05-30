@@ -7,11 +7,13 @@ const router = express.Router()
 const countries = require("./../data/countries.json")
 const unrecognizedCountries = require("./../data/unrecognized-countries.json")
 const internationalOrganizations = require("./../data/international-organizations.json")
+const dependentTerritories = require("./../data/dependent-territories.json")
 
 const allFlags = [].concat(
     countries, 
     unrecognizedCountries, 
-    internationalOrganizations
+    internationalOrganizations,
+    dependentTerritories
 )
 
 // Sorter function to sort flags by name
@@ -41,6 +43,9 @@ router.get("/category/:category", (req, res) => {
             break
         case "International Organizations":
             res.json(internationalOrganizations.sort(byName))
+            break
+        case "Dependent Territories":
+            res.json(dependentTerritories.sort(byName))
             break
         default:
             res.status(404).send({error: "Category not found."})

@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Christmas Island",
+        "image": "christmas-island.svg",
+        "category": "Dependent Territories",
+        "history": "The flag of Christmas Island was unofficially adopted in 1986 after being chosen the winner in a competition for a flag for the territory. It was designed by Tony Couch of Sydney, Australia. The flag was made official on Australia Day, 2002 when the administrator of the territory, Bill Taylor, presented the flag to the Christmas Island Shire. [0]",
+        "meaning": "Green and blue are intended to represent the land and sea respectively. The golden bosun bird is considered to be a symbol of the Island. The disc itself was originally only included to offset the green color of the map, but has become linked to the mining industry. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0021AD"
+            },{
+                "name": "green",
+                "hex": "#1C8A42"
+            },{
+                "name": "yellow",
+                "hex": "#FFC639"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "Blue/green diagonal bicolour charged with a southern cross of four seven-pointed white stars and one smaller five-pointed white star on the blue half, a golden bosun bird in gold on the green half, and a gold circle in the centre containing the shape of the island in green. [0]",
+        "adoptionDate": 2002,
+        "related": {},
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Christmas_Island"
+        ]
+    }
+]
