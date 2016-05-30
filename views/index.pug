@@ -23,7 +23,7 @@ block body
                 each flag in flags
                     li.card
                         a(href="/flag/" + flag.name) 
-                            img(src="/flag/" + flag.image alt= flag.name)
+                            img(src="/img/flag/" + flag.image alt= flag.name)
                             span #{flag.name}
         
         p.or -or-
@@ -34,5 +34,5 @@ block body
                 each category in categories
                     li.card
                         a(href="/category/" + category) 
-                            img(src="/category/" + category + ".png" alt= category)
+                            img(src="/img/category/" + category + ".png" alt= category)
                             span #{category}

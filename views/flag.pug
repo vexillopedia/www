@@ -13,7 +13,7 @@ block body
         h2.flag-title Flag of #{name}
         
         div.left-section
-            img.flag-image(src="/flag/" + image alt= name)
+            img.flag-image(src="/img/flag/" + image alt= name)
         
             table.flag-information
                 tr.flag-ratio 
@@ -54,7 +54,7 @@ block body
                             each flag in related.similar
                                 li.card
                                     a(href="/flag/" + flag.name) 
-                                        img(src="/flag/" + flag.image alt= flag.name)
+                                        img(src="/img/flag/" + flag.image alt= flag.name)
                                         span #{flag.name}
                                         
                     if related.historical && related.historical.length
@@ -63,7 +63,7 @@ block body
                             each flag in related.historical
                                 li.card
                                     a(href="/flag/" + flag.name) 
-                                        img(src="/flag/" + flag.image alt= flag.name)
+                                        img(src="/img/flag/" + flag.image alt= flag.name)
                                         span #{flag.name}
             
             if sources.length
