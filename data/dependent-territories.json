@@ -661,4 +661,241 @@
             "https://en.wikipedia.org/wiki/Flag_of_Wallis_and_Futuna"
         ]
     }
+    ,{
+        "name": "Aruba",
+        "image": "aruba.svg",
+        "category": "Dependent Territories",
+        "history": "Aruba's national flag was adopted on March 18, 1976. [0]",
+        "meaning": "The blue field represents the sky, the sea, peace, hope, Aruba's future and its ties to the past. The two narrow stripes \"suggest the movement toward status aparte\". The other \"industry, all the minerals (gold and phosphates in the past, petroleum in the early 20th century)\". [1] In addition to sun, gold, and abundance, the yellow is also said to represent wanglo flowers.\n\nThe star has particularly complex symbolism. It is vexillologically unusual in having four points, representing the four cardinal directions. These refer in turn to the many countries of origin of the people of Aruba. The star also represents the island itself: a land of often red soil bordered by white beaches in a blue sea. The red colour also represents blood shed by Arubans, the Indian inhabitants, during the French pass war; patriotic love. The white also represents purity, honesty and the white beaches of Aruba. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#4189DD"
+            },{
+                "name": "yellow",
+                "hex": "#F9D616"
+            },{
+                "name": "red",
+                "hex": "#D21034"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "The design consists of a field of light blue, two narrow parallel horizontal yellow stripes in the bottom half, and a four-pointed white-fimbriated red star in the canton. [0]",
+        "adoptionDate": 1976,
+        "related": {
+            "country": [
+                {
+                    "name": "Netherlands",
+                    "image": "netherlands.svg"
+                }
+            ],
+            "similar": [
+                {
+                    "name": "Curaçao",
+                    "image": "curaçao.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Aruba"
+        ]
+    }
+    ,{
+        "name": "Curaçao",
+        "image": "curaçao.svg",
+        "category": "Dependent Territories",
+        "history": "The flag was designed in 1984 by Martin den Dulk. Curaçao had organized a small competition to choose the annual flag that will represent them. Martin den Dulk was one of the many participants but his interpretation of the flag won the judges over. His design won first place and his flag became the flag of Curaçao.\n\nAfter Aruba's adoption of its own flag (while still part of the Netherlands Antilles), Curaçao received approval for a flag in 1979. Two thousand designs were submitted to a special council; ten were shortlisted, and the council decided on 29 November 1982. With some modifications, the flag was adopted on 2 July 1984. [0]",
+        "meaning": "The blue symbolises the sea and sky (the bottom and top blue sections, respectively) divided by a yellow stroke representing the bright sun which bathes the island. The two stars represent Curaçao and Klein Curaçao, but also 'Love and Happiness'. The five points on each star symbolise the five continents from which Curaçao's people come. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002B7F"
+            },{
+                "name": "yellow",
+                "hex": "#F9E814"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "The flag is a blue field with a horizontal yellow stripe slightly below the midline and two white, five-pointed stars in the canton.  [0]",
+        "adoptionDate": 1984,
+        "related": {
+            "country": [
+                {
+                    "name": "Netherlands",
+                    "image": "netherlands.svg"
+                }
+            ],
+            "similar": [
+                {
+                    "name": "Aruba",
+                    "image": "aruba.svg"
+                },{
+                    "name": "Nauru",
+                    "image": "nauru.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Curaçao"
+        ]
+    }
+    ,{
+        "name": "Sint Maarten",
+        "image": "sint-maarten.svg",
+        "category": "Dependent Territories",
+        "history": "The flag of Sint Maarten is the national flag of Sint Maarten, a country within the Kingdom of the Netherlands occupying the southern half of the island of Saint Martin. The flag, designed by Roselle Richardson, was officially adopted on 13 June 1985. [0]",
+        "meaning": "The red symbolises war and bloodshed, the blue peace and assurance of pardon, and the white purity and faith. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#DC171D"
+            },{
+                "name": "blue",
+                "hex": "#012A87"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "The flag is a horizontal bicolour of red and blue with the coat of arms of Sint Maarten on a white chevron. [0]",
+        "adoptionDate": 1985,
+        "related": {
+            "country": [
+                {
+                    "name": "Netherlands",
+                    "image": "netherlands.svg"
+                }
+            ],
+            "similar": [
+                {
+                    "name": "Philippines",
+                    "image": "philippines.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Sint_Maarten"
+        ]
+    }
+    ,{
+        "name": "Bonaire",
+        "image": "bonaire.svg",
+        "category": "Dependent Territories",
+        "history": "The flag of Bonaire was adopted on 11 December 1981. Noted vexillologist Whitney Smith was involved in developing the flag's design. [0]",
+        "meaning": "The blue and yellow triangles represent the sea and sun respectively while the dividing white strip represents the sky. The colors red, white, and blue also show Bonaire's loyalty to the Kingdom of the Netherlands. The black compass represents the population of Bonaire who come from the four corners of the world.\n\nThe red six-pointed star represents the original six villages of Bonaire - Antriol, Nikiboko, Nort Saliña, Playa, Rincon and Tera Korá. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#012A87"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#F9D90F"
+            },{
+                "name": "red",
+                "hex": "#DC171D"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            }
+        ],
+        "design": "A large blue triangle in the lower right corner and a smaller yellow triangle in the upper left corner. The triangles are separated by a white strip, inside of which are a black compass and a red six-pointed star. [0]",
+        "adoptionDate": 1981,
+        "related": {
+            "country": [
+                {
+                    "name": "Netherlands",
+                    "image": "netherlands.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Bonaire"
+        ]
+    }
+    ,{
+        "name": "Sint Eustatius",
+        "image": "sint-eustatius.svg",
+        "category": "Dependent Territories",
+        "history": "The flag of Sint Eustatius was adopted on 16 November 2004 (Statia Day). The island's flag was designed by Zuwena Suares. [0]",
+        "meaning": "/",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#012A87"
+            },{
+                "name": "red",
+                "hex": "#DC171D"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#008830"
+            },{
+                "name": "yellow",
+                "hex": "#F9D90F"
+            }
+        ],
+        "design": "The flag is rectangular with the colors blue, red, white, gold and green, and divided in four five-sided blue squares, each fimbriated red. In its center is a diamond-form white field; in the diamond is the silhouette of the island in green. In the center in the top of the diamond is a five-pointed golden star. [0]",
+        "adoptionDate": 2004,
+        "related": {
+            "country": [
+                {
+                    "name": "Netherlands",
+                    "image": "netherlands.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Sint_Eustatius"
+        ]
+    }
+    ,{
+        "name": "Saba",
+        "image": "saba.svg",
+        "category": "Dependent Territories",
+        "history": "The flag of Saba was adopted on December 6, 1985 (national day of the island). 130 different designs were presented to the Commission. The chosen flag was designed by an 18-year-old Saban named Daniel Johnson.\n\nSaba accepted Dutch sovereignty after 1816 and used the Dutch flag. However, since some islanders considered Saba a \"republic\", they added a special symbol – a green cabbage - to emphasize their independence, and this symbol was used probably until about the 1920s. [0]",
+        "meaning": "/",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#DC171D"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#012A87"
+            },{
+                "name": "yellow",
+                "hex": "#F9D90F"
+            }
+        ],
+        "design": "White losange dividing the field in four triangle-rectangle and charged with a five-points yellow star. The upper two triangles are red and the lower two are blue.",
+        "adoptionDate": 1985,
+        "related": {
+            "country": [
+                {
+                    "name": "Netherlands",
+                    "image": "netherlands.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Saba"
+        ]
+    }
 ]
