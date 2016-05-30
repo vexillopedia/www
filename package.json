@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon index.js",
     "start": "node index.js",
-    "test": "jsonlint data/countries.json -q & jsonlint data/unrecognized-countries.json -q & jsonlint data/international-organizations.json -q & jsonlint data/dependent-territories.json -q"
+    "test": "for file in data/*.json; do jsonlint $file -q; done || exit 1"
   },
   "repository": {
     "type": "git",
