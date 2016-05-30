@@ -1839,7 +1839,44 @@
         ],
         "design": "A vertical tricolour of blue, white, and red. [0]",
         "adoptionDate": 1794,
-        "related": {},
+        "related": {
+            "dependent": [
+                {
+                    "name": "French Guiana",
+                    "image": "french-guiana.svg"
+                },{
+                    "name": "French Polynesia",
+                    "image": "french-polynesia.svg"
+                },{
+                    "name": "French Southern and Antarctic Territories",
+                    "image": "french-southern-and-antarctic-lands.svg"
+                },{
+                    "name": "Guadeloupe",
+                    "image": "guadeloupe.svg"
+                },{
+                    "name": "Martinique",
+                    "image": "martinique.svg"
+                },{
+                    "name": "Mayotte",
+                    "image": "mayotte.svg"
+                },{
+                    "name": "New Caledonia",
+                    "image": "new-caledonia.svg"
+                },{
+                    "name": "Réunion",
+                    "image": "réunion.svg"
+                },{
+                    "name": "Saint Barthélemy",
+                    "image": "saint-barthelemy.svg"
+                },{
+                    "name": "Saint Pierre and Miquelon",
+                    "image": "saint-pierre-and-miquelon.svg"
+                },{
+                    "name": "Wallis and Futuna",
+                    "image": "wallis-and-futuna.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_France"
         ]

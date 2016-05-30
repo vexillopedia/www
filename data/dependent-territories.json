@@ -255,4 +255,410 @@
             "https://en.wikipedia.org/wiki/Flag_of_Greenland"
         ]
     }
+    ,{
+        "name": "French Guiana",
+        "image": "french-guiana.svg",
+        "category": "Dependent Territories",
+        "history": "On 29 January 2010, the General Council (departmental council) of the overseas department of French Guiana unilaterally adopted a flag for the department of French Guiana. This has not been recognized by the superior regional council. Moreover, only the French flag is officially recognized by the French constitution as the national flag.\n\nThe flag is identical with the one of pro-independence trade union UGT and also MDES. [0]",
+        "meaning": "Green represents the forests, yellow represents gold and other minerals of the region, while the red star represents socialism. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#078930"
+            },{
+                "name": "yellow",
+                "hex": "#FCDD09"
+            },{
+                "name": "red",
+                "hex": "#DA121A"
+            }
+        ],
+        "design": "Divided diagonally from the upper hoist-side corner to the lower fly-side corner: the upper triangle is green and the lower triangle is yellow. A red five-point star is charged in the center of the flag.",
+        "adoptionDate": 2010,
+        "related": {
+            "country": [
+                {
+                    "name": "France",
+                    "image": "france.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_French_Guiana"
+        ]
+    }
+    ,{
+        "name": "French Polynesia",
+        "image": "french-polynesia.svg",
+        "category": "Dependent Territories",
+        "history": "The flag of French Polynesia was adopted in 1984.\n\nAll vessels registered in French Polynesia have to fly the French flag, even for the small ships sailing between the islands, as there is no official French Polynesian civil or state ensign. [0]",
+        "meaning": "Red and white are traditional Polynesian colors. The five stars on the Polynesian canoe symbolise the five island groups. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CE1126"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#FF9C10"
+            },{
+                "name": "blue",
+                "hex": "#083D9C"
+            }
+        ],
+        "design": "Two red horizontal bands encase a wide white band in a 1:2:1 ratio; centered on the white band is a disk with a blue and white wave pattern depicting the sea on the lower half and a gold and white ray pattern depicting the sun on the upper half; a Polynesian canoe rides on the wave pattern; the canoe has a crew of five represented by five stars. [0]",
+        "adoptionDate": 1984,
+        "related": {
+            "country": [
+                {
+                    "name": "France",
+                    "image": "france.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_French_Polynesia"
+        ]
+    }
+    ,{
+        "name": "French Southern and Antarctic Territories",
+        "image": "french-southern-and-antarctic-lands.svg",
+        "category": "Dependent Territories",
+        "history": "The flag was adopted in 2007. [0]",
+        "meaning": "The coat of arms consists of five stars and the letters \"TAAF\" (from the French name of the territory, Terres australes et antarctiques françaises). [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002395"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#ED2939"
+            }
+        ],
+        "design": "French tricolor in the canton together with the Commissioner's arms. [0]",
+        "adoptionDate": 2007,
+        "related": {
+            "country": [
+                {
+                    "name": "France",
+                    "image": "france.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flags_of_Antarctica#Ad.C3.A9lie_Land.2FFrench_Southern_and_Antarctic_Territories"
+        ]
+    }
+    ,{
+        "name": "Guadeloupe",
+        "image": "guadeloupe.svg",
+        "category": "Dependent Territories",
+        "history": "Guadeloupe, an overseas region and department of France located in the Caribbean, has no flag with official status other than the French national flag. [0]",
+        "meaning": "The blue stripe with the fleus-de-lis represent France, wherehas the yellow sun and green sugar cane are based on the coat of arms of Guadeloupe's capital Basse-Terre. [0]",
+        "ratio": "",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002488"
+            },{
+                "name": "yellow",
+                "hex": "#FCDD09"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "green",
+                "hex": "#008000"
+            }
+        ],
+        "design": "Black or red field with a yellow sun and a green sugar cane, and a blue stripe with yellow fleurs-de-lis on the top. [0]",
+        "adoptionDate": 1999,
+        "related": {
+            "country": [
+                {
+                    "name": "France",
+                    "image": "france.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Guadeloupe",
+            "https://flagspot.net/flags/gp.html"
+        ]
+    }
+    ,{
+        "name": "Martinique",
+        "image": "martinique.svg",
+        "category": "Dependent Territories",
+        "history": "The snake flag of Martinique has no official status on the island. It is a historical flag dating from an edict issued 4 August 1766, specifying that vessels of the French Colony of Martinique and Saint Lucia should fly a version of the French ensign, which at the time was a white cross on a blue field, with L-shaped (for Lucia) snakes in each quarter of the cross. The same design is used for the lesser coat of arms. [0]",
+        "meaning": "The snakes are fer-de-lance vipers (Bothrops lanceolatus, French trigonocéphale) native to Martinique. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#21428E"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "Blue field quartered by a white cross and with a white, L-shaped snake in each canton. [1]",
+        "adoptionDate": 1766,
+        "related": {
+            "country": [
+                {
+                    "name": "France",
+                    "image": "france.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Martinique",
+            "https://flagspot.net/flags/mq.html"
+        ]
+    }
+    ,{
+        "name": "Mayotte",
+        "image": "mayotte.svg",
+        "category": "Dependent Territories",
+        "history": "The unofficial local flag and coat of arms of Mayotte represents the French overseas department of Mayotte. [0]",
+        "meaning": "The coat of arms consists of a shield with a cloud design, a sideways crescent and flowers in blue and red segments. The supporters of the shield are seahorses. The motto, placed in a grey ribbon, reads \"RA HACHIRI\" – We are vigilant in Shimaore (Comorian). [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "grey",
+                "hex": "#DFDFDF"
+            },{
+                "name": "blue",
+                "hex": "#171796"
+            },{
+                "name": "red",
+                "hex": "#D42E12"
+            },{
+                "name": "yellow",
+                "hex": "#E9D315"
+            }
+        ],
+        "design": "A white field with the archipelago's coat of arms below an inscription \"MAYOTTE\" in red capitals. [0]",
+        "adoptionDate": 1976,
+        "related": {
+            "country": [
+                {
+                    "name": "France",
+                    "image": "france.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Mayotte",
+            "https://flagspot.net/flags/yt.html"
+        ]
+    }
+    ,{
+        "name": "New Caledonia",
+        "image": "new-caledonia.svg",
+        "category": "Dependent Territories",
+        "history": "In 2008 the government of New Caledonia debated the introduction of an official regional flag and anthem, as required by the Accord de Nouméa. A flag in fairly widespread unofficial use was the flag of the Kanak and Socialist National Liberation Front (FLNKS), a political party favoring independence for New Caledonia, but the French tricolor would remain the only flag used for the next two years.\n\nIn July 2010 the Congress of New Caledonia voted in favour of a motion to fly the Kanak flag alongside the French tricolor in the territory. On 17 July 2010, French Prime minister François Fillon took part in a ceremony in Nouméa where the FLNKS flag was hoisted alongside the French tricolor. [0]",
+        "meaning": "The blue symbolizes both the sky and more importantly the ocean surrounding New Caledonia. The red symbolizes the blood shed by the Kanaks in their struggle for independence, socialism, and unity. The green symbolizes the land itself and by extension the ancestors buried within it. The yellow disc is a representation of the sun and the symbol upon it consists of a flèche faitière, a kind of arrow which adorns the roofs of Kanak houses thrust through tutut shells. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0035AD"
+            },{
+                "name": "red",
+                "hex": "#ED4135"
+            },{
+                "name": "green",
+                "hex": "#009543"
+            },{
+                "name": "yellow",
+                "hex": "#FAE600"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            }
+        ],
+        "design": "A horizontal tricolour of blue, red, and green charged with a yellow disc fibrated black and defaced with a vertical symbol, also black. [0]",
+        "adoptionDate": 2010,
+        "related": {
+            "country": [
+                {
+                    "name": "France",
+                    "image": "france.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_New_Caledonia"
+        ]
+    }
+    ,{
+        "name": "Réunion",
+        "image": "réunion.svg",
+        "category": "Dependent Territories",
+        "history": "The Vexillological Association of Réunion selected a flag in 2003. It depicts the volcano of Fournaise, bedecked by gold sunbeams. It was designed in 1974 by Guy Pignolet who called it Lö Mahavéli but it really started to be promoted once the association chose it in 2003. It doesn't have official recognition but since 2014, it is flying on top of many public buildings after several city councils have taken the decision to do so.\n\nIndependentists and nationalists of Reunion also have their flag (green, yellow, red) which was created in 1986. [0]",
+        "meaning": "Red for the volcano and strength, blue for the sky and sweetness, yellow for the sun and clearness. [1]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#3366FF"
+            },{
+                "name": "red",
+                "hex": "#FF0000"
+            },{
+                "name": "yellow",
+                "hex": "#FFFF00"
+            }
+        ],
+        "design": "Blue field charged with a red triangle from the base to the middle of the flag and five broadening rays extending from the centre to the edge of the field.",
+        "adoptionDate": 2003,
+        "related": {
+            "country": [
+                {
+                    "name": "France",
+                    "image": "france.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Réunion",
+            "http://www.crwflags.com/fotw/flags/re!.html"
+        ]
+    }
+    ,{
+        "name": "Saint Barthélemy",
+        "image": "saint-barthelemy.svg",
+        "category": "Dependent Territories",
+        "history": "The flag of Saint Barthélemy is the French tricolor. This is because Saint Barthélemy is a self-governing overseas collectivity of France. An unofficial flag of Saint-Barthélemy consisting of the island's coat of arms centered on a white field is also used on the island. [0]",
+        "meaning": "The coat of arms of Saint-Barthélemy is a shield divided into three horizontal stripes (parted per fess), three gold fleurs-de-lis on blue, above a white Maltese cross on red, over three gold crowns on blue, and \"Ouanalao\" is what the indigenous people called the island. On top of the shield is a mural crown.\n\nThe fleurs-de-lis, Maltese Cross, and gold crowns are heraldic reminders of the island's history as a colony ruled by first the Kingdom of France, then the Knights Hospitaller and in turn the Kingdom of Sweden. Eventually, the island returned to French rule. [0]",
+        "ratio": "",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#EACE24"
+            },{
+                "name": "blue",
+                "hex": "#1353B4"
+            },{
+                "name": "red",
+                "hex": "#CE0F25"
+            },{
+                "name": "beige",
+                "hex": "#F6E4BE"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            }
+        ],
+        "design": "A white field with the island's coat of arms centered. [0]",
+        "adoptionDate": 1977,
+        "related": {
+            "country": [
+                {
+                    "name": "France",
+                    "image": "france.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_and_coat_of_arms_of_Saint_Barth%C3%A9lemy"
+        ]
+    }
+    ,{
+        "name": "Saint Pierre and Miquelon",
+        "image": "saint-pierre-and-miquelon.svg",
+        "category": "Dependent Territories",
+        "history": "In 1982 an unofficial local flag was designed, based on the Collectivity's coat of arms. The flag was likely designed by André Paturel, a local business owner. [0]",
+        "meaning": "The flag is blue with a yellow ship, said to be the Grande Hermine, which brought Jacques Cartier to Saint-Pierre on 15 June 1536. Three square fields placed along the hoist recall the origin of most inhabitants of the islands, from top to bottom, Basques, Bretons, and Normans. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0092C8"
+            },{
+                "name": "yellow",
+                "hex": "#FFCF00"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#DC241F"
+            },{
+                "name": "green",
+                "hex": "#009543"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "red",
+                "hex": "#CA0000"
+            },{
+                "name": "yellow",
+                "hex": "#FFCD00"
+            }
+        ],
+        "design": "Blue with a yellow ship and three square fields placed along the hoist. [0]",
+        "adoptionDate": 1982,
+        "related": {
+            "country": [
+                {
+                    "name": "France",
+                    "image": "france.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Saint_Pierre_and_Miquelon"
+        ]
+    }
+    ,{
+        "name": "Wallis and Futuna",
+        "image": "wallis-and-futuna.svg",
+        "category": "Dependent Territories",
+        "history": "The official flag of Wallis and Futuna is the French national flag, as it is a French territory. Wallis and Futuna has a locally used unofficial flag which bears the French flag in the canton. [0]",
+        "meaning": "See History.",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#ED2939"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#002395"
+            }
+        ],
+        "design": "Red saltire on a white square, which in turn is placed on a red field (alternatively, a larger white cross pattée is used). The cross is shifted a little off centre toward the fly (the cross pattée is also shifted slightly downwards); the flag of France outlined in white on two sides is in the upper hoist quadrant. [0]",
+        "adoptionDate": 1985,
+        "related": {
+            "country": [
+                {
+                    "name": "France",
+                    "image": "france.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Wallis_and_Futuna"
+        ]
+    }
 ]
