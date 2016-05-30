@@ -57,10 +57,19 @@ block body
                                         img(src="/img/flag/" + flag.image alt= flag.name)
                                         span #{flag.name}
                                         
-                    if related.historical && related.historical.length
-                        h4.flag-subsubtitle Historical Flags
+                    if related.dependent && related.dependent.length
+                        h4.flag-subsubtitle Dependent Territories
                         ul.card-list
-                            each flag in related.historical
+                            each flag in related.dependent
+                                li.card
+                                    a(href="/flag/" + flag.name) 
+                                        img(src="/img/flag/" + flag.image alt= flag.name)
+                                        span #{flag.name}
+                                        
+                    if related.country && related.country.length
+                        h4.flag-subsubtitle Country
+                        ul.card-list
+                            each flag in related.country
                                 li.card
                                     a(href="/flag/" + flag.name) 
                                         img(src="/img/flag/" + flag.image alt= flag.name)

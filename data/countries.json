@@ -278,6 +278,18 @@
         "design": "A Blue Ensign defaced with the Commonwealth Star (also known as the Federation Star) in the lower hoist quarter and the five stars of the Southern Cross in the fly half. [0]",
         "adoptionDate": 1903,
         "related": {
+            "dependent": [
+                {
+                    "name": "Christmas Island",
+                    "image": "christmas-island.svg"
+                },{
+                    "name": "Cocos Islands",
+                    "image": "cocos-islands.svg"
+                },{
+                    "name": "Norfolk Island",
+                    "image": "norfolk-island.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "New Zealand",
@@ -1034,7 +1046,17 @@
         ],
         "design": "A large golden star within an arc of four smaller golden stars, in the canton, on a field of red. [0]",
         "adoptionDate": 1949,
-        "related": {},
+        "related": {
+            "dependent": [
+                {
+                    "name": "Hong Kong",
+                    "image": "hong-kong.svg"
+                },{
+                    "name": "Macau",
+                    "image": "macau.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_China"
         ]

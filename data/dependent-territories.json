@@ -23,7 +23,14 @@
         ],
         "design": "Blue/green diagonal bicolour charged with a southern cross of four seven-pointed white stars and one smaller five-pointed white star on the blue half, a golden bosun bird in gold on the green half, and a gold circle in the centre containing the shape of the island in green. [0]",
         "adoptionDate": 2002,
-        "related": {},
+        "related": {
+            "country": [
+                {
+                    "name": "Australia",
+                    "image": "australia.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Christmas_Island"
         ]
@@ -49,7 +56,14 @@
         ],
         "design": "Green, with a palm tree on a gold disc in the canton, a gold crescent in the centre of the flag and a gold southern cross in the fly. [0]",
         "adoptionDate": 2004,
-        "related": {},
+        "related": {
+            "country": [
+                {
+                    "name": "Australia",
+                    "image": "australia.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Cocos_(Keeling)_Islands"
         ]
@@ -73,6 +87,12 @@
         "design": "Vertical triband green-white-green charged with the Norfolk Island Pine in the central white stripe. The central stripe is wider than the two outer stripes, the ratio being 7:9:7. [0]",
         "adoptionDate": 1980,
         "related": {
+            "country": [
+                {
+                    "name": "Australia",
+                    "image": "australia.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Canada",
@@ -109,7 +129,14 @@
         ],
         "design": "A stylised, white, five-petal Bauhinia blakeana flower in the centre of a red field. [0]",
         "adoptionDate": 1990,
-        "related": {},
+        "related": {
+            "country": [
+                {
+                    "name": "China",
+                    "image": "china.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Hong_Kong"
         ]
@@ -135,7 +162,14 @@
         ],
         "design": "Light green with a lotus flower above the stylised Governor Nobre de Carvalho Bridge and water in white, beneath an arc of five gold, five-pointed stars. [0]",
         "adoptionDate": 1993,
-        "related": {},
+        "related": {
+            "country": [
+                {
+                    "name": "China",
+                    "image": "china.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Macau"
         ]
