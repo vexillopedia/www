@@ -66,6 +66,15 @@ block body
                                         img(src="/img/flag/" + flag.image alt= flag.name)
                                         span #{flag.name}
                                         
+                    if related.unrecognized && related.unrecognized.length
+                        h4.flag-subsubtitle Unrecognized States
+                        ul.card-list
+                            each flag in related.unrecognized
+                                li.card
+                                    a(href="/flag/" + flag.name) 
+                                        img(src="/img/flag/" + flag.image alt= flag.name)
+                                        span #{flag.name}
+                                        
                     if related.country && related.country.length
                         h4.flag-subsubtitle Country
                         ul.card-list

@@ -23,7 +23,14 @@
         ],
         "design": "A horizontal tricolor of green, white which means the peace achieved after the war, and red Which stands for the blood that had to be spilled for independence, with the Shahada inscribed in the green stripe, and a black 5-pointed star charged on the white stripe. [0]",
         "adoptionDate": 1993,
-        "related": {},
+        "related": {
+            "country": [
+                {
+                    "name": "Somalia",
+                    "image": "somalia.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Somaliland"
         ]
@@ -53,6 +60,12 @@
         "design": "A black, white, and green horizontal tricolor charged with a red star and crescent in the center stripe and a red triangle at the hoist. [0]",
         "adoptionDate": 1976,
         "related": {
+            "country": [
+                {
+                    "name": "Morocco",
+                    "image": "morocco.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Jordan",
@@ -92,6 +105,12 @@
         "design": "A horizontal tricolor of red, blue, and orange with a white sideways zig-zag chevron in the fly. [0]",
         "adoptionDate": 1992,
         "related": {
+            "country": [
+                {
+                    "name": "Azerbaijan",
+                    "image": "azerbaijan.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Armenia",
@@ -128,6 +147,12 @@
         "design": "A horizontal tricolour of black, white, and green; with a red triangle based at the hoist. [0]",
         "adoptionDate": 1964,
         "related": {
+            "country": [
+                {
+                    "name": "Israel",
+                    "image": "israel.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Jordan",
@@ -163,7 +188,14 @@
         ],
         "design": "A red field with a navy blue canton bearing a white sun with 12 triangular rays. [0]",
         "adoptionDate": 1928,
-        "related": {},
+        "related": {
+            "country": [
+                {
+                    "name": "China",
+                    "image": "china.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Republic_of_China"
         ]
@@ -187,6 +219,12 @@
         "design": "A red star and crescent slightly to the left of the center between two horizontal red bars on a white field. [0]",
         "adoptionDate": 1983,
         "related": {
+            "country": [
+                {
+                    "name": "Cyprus",
+                    "image": "cyprus.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Turkey",
@@ -219,7 +257,14 @@
         ],
         "design": "Seven horizontal stripes alternating green and white; in the canton, a white open hand below a semicircle of seven five-pointed stars on a red field. [0]",
         "adoptionDate": 1992,
-        "related": {},
+        "related": {
+            "country": [
+                {
+                    "name": "Georgia",
+                    "image": "georgia.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Abkhazia"
         ]
@@ -245,7 +290,14 @@
         ],
         "design": "A blue field charged with a map of Kosovo in gold, surmounted by an arc of six, white five-pointed stars, in the centre. [0]",
         "adoptionDate": 2008,
-        "related": {},
+        "related": {
+            "country": [
+                {
+                    "name": "Serbia",
+                    "image": "serbia.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Kosovo"
         ]
@@ -271,7 +323,14 @@
         ],
         "design": "A horizontal triband of white, red and yellow. [0]",
         "adoptionDate": 1991,
-        "related": {},
+        "related": {
+            "country": [
+                {
+                    "name": "Georgia",
+                    "image": "georgia.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_South_Ossetia"
         ]
@@ -297,7 +356,14 @@
         ],
         "design": "Three horizontal bands of red, green and red, with a hammer and sickle in the canton. [0]",
         "adoptionDate": 2000,
-        "related": {},
+        "related": {
+            "country": [
+                {
+                    "name": "Moldova",
+                    "image": "moldova.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Transnistria"
         ]

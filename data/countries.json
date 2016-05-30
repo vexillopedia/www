@@ -350,7 +350,14 @@
         ],
         "design": "A horizontal tricolor of blue, red, and green, with a white crescent and an eight-pointed star centered on a red band [0]",
         "adoptionDate": 1918,
-        "related": {},
+        "related": {
+            "unrecognized": [
+                {
+                    "name": "Nagorno-Karabakh",
+                    "image": "nagorno-karabakh.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Azerbaijan",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -1055,6 +1062,12 @@
                     "name": "Macau",
                     "image": "macau.svg"
                 }
+            ],
+            "unrecognized": [
+                {
+                    "name": "Taiwan",
+                    "image": "taiwan.svg"
+                }
             ]
         },
         "sources": [
@@ -1287,7 +1300,14 @@
         ],
         "design": "An outline of the country of Cyprus above twin olive branches on a white field. [0]",
         "adoptionDate": 1960,
-        "related": {},
+        "related": {
+            "unrecognized": [
+                {
+                    "name": "Northern Cyprus",
+                    "image": "northen-cyprus.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Cyprus"
         ]
@@ -1888,7 +1908,17 @@
         ],
         "design": "White rectangle, with in its central portion a large red cross that extends to the edge of the flag. In the four corners there are four Bolnur-Katskhuri crosses of the same color. [0]",
         "adoptionDate": 2004,
-        "related": {},
+        "related": {
+            "unrecognized": [
+                {
+                    "name": "Abkhazia",
+                    "image": "abkhazia.svg"
+                },{
+                    "name": "South Ossetia",
+                    "image": "south-ossetia.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Georgia_(country)"
         ]
@@ -2448,7 +2478,14 @@
         ],
         "design": "A blue Star of David between two horizontal blue stripes on a white field. [0]",
         "adoptionDate": 1948,
-        "related": {},
+        "related": {
+            "unrecognized": [
+                {
+                    "name": "Palestine",
+                    "image": "palestine.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Israel"
         ]
@@ -3428,6 +3465,12 @@
         "design": "A vertical tricolor of blue, yellow and red; charged with the Coat of Arms centered on the yellow band. [0]",
         "adoptionDate": 1990,
         "related": {
+            "unrecognized": [
+                {
+                    "name": "Transnistria",
+                    "image": "transnistria.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Andorra",
@@ -3555,7 +3598,14 @@
         ],
         "design": "A green pentagram centered on a red field. [0]",
         "adoptionDate": 1915,
-        "related": {},
+        "related": {
+            "unrecognized": [
+                {
+                    "name": "Sahrawi Arab Democratic Republic",
+                    "image": "sahrawi-arab-democratic-republic.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Morocco"
         ]
@@ -4580,7 +4630,14 @@
         ],
         "design": "A horizontal tricolour of red, blue, and white; charged with the lesser Coat of arms left of centre. [0]",
         "adoptionDate": 2004,
-        "related": {},
+        "related": {
+            "unrecognized": [
+                {
+                    "name": "Kosovo",
+                    "image": "kosovo.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Serbia",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -4798,6 +4855,12 @@
         "design": "A single white five-pointed star centered on a light blue field. [0]",
         "adoptionDate": 1954,
         "related": {
+            "unrecognized": [
+                {
+                    "name": "Somaliland",
+                    "image": "somaliland.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Vietnam",
