@@ -3895,6 +3895,21 @@
         "design": "A Blue Ensign with the Southern Cross of four white-edged red five-pointed stars centered on the outer half of the flag. [0]",
         "adoptionDate": 1902,
         "related": {
+            "dependent": [
+                {
+                    "name": "Cook Islands",
+                    "image": "cook-islands.svg"
+                },{
+                    "name": "Niue",
+                    "image": "niue.svg"
+                },{
+                    "name": "Ross Dependency",
+                    "image": "ross-dependency.svg"
+                },{
+                    "name": "Tokelau",
+                    "image": "tokelau.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Australia",

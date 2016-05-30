@@ -898,4 +898,161 @@
             "https://en.wikipedia.org/wiki/Flag_of_Saba"
         ]
     }
+    ,{
+        "name": "Cook Islands",
+        "image": "cook-islands.svg",
+        "category": "Dependent Territories",
+        "history": "The flag of the Cook Islands, officially known as the Cook Islands Ensign, is based on the traditional design for former British colonies in the Pacific region.\n\nFrom 1973 to 1979, the flag was green with the stars in yellow shifted towards the fly. The green colour represented the continuous growth and life of the islands; the yellow represented the faith, love, happiness, and commitment shown by the islanders. [0]",
+        "meaning": "The Union Flag is symbolic of the nation's historic ties to the United Kingdom and to the Commonwealth of Nations. The stars stand for the fifteen islands that make up the Cook Islands (Tongareva, Rakahanga, Manihiki, Pukapuka, Nassau, Suwarrow, Palmerston, Aitutaki, Manuae, Takutea, Aitu, Mitiaro, Mauke, Rarotonga and Mangaia). The blue represents the ocean and the peaceful nature of the inhabitants. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#00247D"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#CF142B"
+            }
+        ],
+        "design": "Blue ensign with a ring of fifteen white stars in the fly. [0]",
+        "adoptionDate": 1979,
+        "related": {
+            "country": [
+                {
+                    "name": "New Zealand",
+                    "image": "new-zealand.svg"
+                }
+            ],
+            "similar": [
+                {
+                    "name": "Australia",
+                    "image": "australia.svg"
+                },{
+                    "name": "New Zealand",
+                    "image": "new-zealand.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Cook_Islands"
+        ]
+    }
+    ,{
+        "name": "Niue",
+        "image": "niue.svg",
+        "category": "Dependent Territories",
+        "history": "The flag of Niue was adopted on 15 October 1975. [0]",
+        "meaning": "The Union Jack symbolises the protection granted by the United Kingdom in 1900 after petitioning by the Kings and Chiefs of Niue. The golden yellow is inspired by the bright sunshine of Niue and also said to symbolise the warm feelings of the Niuean people towards New Zealand and her people. The association with New Zealand, which took over responsibility and administration of Niue in 1901, is also represented by the four small stars that depict the Southern Cross. Finally the blue disc containing a larger star represents the deep blue sea surrounding the self-governing island of Niue. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "yellow",
+                "hex": "#FCD116"
+            },{
+                "name": "blue",
+                "hex": "#002868"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#CF142B"
+            }
+        ],
+        "design": "A golden yellow flag, bearing on the upper canton of the hoist thereof the Union Flag, commonly known as the Union Jack, displaying 2 five-pointed yellow stars on the vertical line and on the horizontal line thereof separated by a blue disc containing a larger five-pointed yellow star. [0]",
+        "adoptionDate": 1975,
+        "related": {
+            "country": [
+                {
+                    "name": "New Zealand",
+                    "image": "new-zealand.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Niue"
+        ]
+    }
+    ,{
+        "name": "Ross Dependency",
+        "image": "ross-dependency.svg",
+        "category": "Dependent Territories",
+        "history": "Currently, only the New Zealand national flag serves in an official capacity in the Ross Dependency. The only other 'official' flag seen in photographs was the New Zealand Post flag to denote Scott Base's post office.\n\nRoss Dependency (New Zealand's territorial claim in Antarctica) uses the New Zealand flag, but vexillologist James Dignan's design concept was seen flying there at one time (when a friend of Dignan took it with him to Vanda Station in 1994). [0]",
+        "meaning": "The New Zealand flag is the basis for his design, though with an 'Ice Blue' background representing the Ross Sea, and the white horizontal bar at the bottom of the flag representing the Ross Ice Shelf. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#6699E5"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#CE142B"
+            },{
+                "name": "blue",
+                "hex": "#00247D"
+            }
+        ],
+        "design": "A light blue field with a white stripe at the bottom, the Union Jack on the canton and four white-filembrated five-point red stars on the fly.",
+        "adoptionDate": 1994,
+        "related": {
+            "country": [
+                {
+                    "name": "New Zealand",
+                    "image": "new-zealand.svg"
+                }
+            ],
+            "similar": [
+                {
+                    "name": "New Zealand",
+                    "image": "new-zealand.svg"
+                },{
+                    "name": "Tuvalu",
+                    "image": "tuvalu.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flags_of_Antarctica#Ross_Dependency"
+        ]
+    }
+    ,{
+        "name": "Tokelau",
+        "image": "tokelau.svg",
+        "category": "Dependent Territories",
+        "history": "As Tokelau is a non-self-governing territory of New Zealand, the flag of New Zealand has been used as the official flag for Tokelau. However, in May 2008 the local parliament, the General Fono, approved a distinctive flag and national emblem for Tokelau. This flag has not yet been widely used for official purposes, but an official launch of the new flag was planned for October 2009. The Governor-General presented the flag to the Ulu-o-Tokelau as Tokelau's first official flag on 7 September 2009.\n\nA referendum on self-determination in 2006 failed to carry (it was supported, but not with the necessary supermajority), and another one in October 2007 fell 16 votes short. [0]",
+        "meaning": "Tokelau's Flag depicts a Tokelauan canoe sailing towards the manu (Southern Cross). The canoe symbolises Tokelau's journey towards finding the best governance structure for its people; the Southern Cross symbolises a navigational aid for the journey. The Southern Cross has helped Tokelauan fishermen navigate the waters around Tokelau for centuries while they have fished to sustain families and villages with its riches.\n\nThe white stars of the Southern Cross are a symbol of Christianity, an important part of everyday life in Tokelau. White also signifies the cooperation and unity among the atolls of Tokelau and a shared aspiration to secure a better life for Tokelauans. Yellow signifies a happy, peaceful community. Blue signifies the ocean on which Tokelauans depend for their livelihood and is also the colour of the sky which holds the stars that direct Tokelau's people. [1]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#00247D"
+            },{
+                "name": "yellow",
+                "hex": "#FED100"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A blue flag with a yellow stylised Tokelauan canoe in full sail, with in the space near the hoist a southern cross of four small white five-pointed stars. [1]",
+        "adoptionDate": 2008,
+        "related": {
+            "country": [
+                {
+                    "name": "New Zealand",
+                    "image": "new-zealand.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Tokelau",
+            "https://flagspot.net/flags/tk.html"
+        ]
+    }
 ]
