@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon index.js",
     "start": "node index.js",
-    "test": "jsonlint data.json -q"
+    "test": "jsonlint data/countries.json -q & jsonlint data/unrecognized-countries.json -q"
   },
   "repository": {
     "type": "git",

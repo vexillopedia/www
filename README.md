@@ -12,7 +12,7 @@ The goal of this project is to build a simple, exhaustive and collaborative ency
 - Open an Issue
 - Fork and clone this repository
 - To build the website locally, run `npm install` then `npm run dev` and go to `localhost:8080`
-- Add (or update) a new entry to `data.json` with the following format:
+- Add (or update) a new entry to corresponding JSON file in the `data` folder with the following format:
 ```javascript
   ,{
     "name": "XXX",
