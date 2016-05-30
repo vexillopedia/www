@@ -28,4 +28,116 @@
             "https://en.wikipedia.org/wiki/Flag_of_Christmas_Island"
         ]
     }
+    ,{
+        "name": "Cocos Islands",
+        "image": "cocos-islands.svg",
+        "category": "Dependent Territories",
+        "history": "The flag of the Cocos (Keeling) Islands was first created in 2003; the flag was adopted on April 6, 2004. It was designed by Mohd Isa Minkom. [0]",
+        "meaning": "The palm tree represents the islands' tropical flora; the colours are Australia's national colours; the crescent represents Islam, the religion of the Cocos Malays who make up a majority of the population; and the Southern Cross is a symbol of Australia and the Southern Hemisphere. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#008000"
+            },{
+                "name": "yellow",
+                "hex": "#FFE000"
+            },{
+                "name": "brown",
+                "hex": "#802000"
+            }
+        ],
+        "design": "Green, with a palm tree on a gold disc in the canton, a gold crescent in the centre of the flag and a gold southern cross in the fly. [0]",
+        "adoptionDate": 2004,
+        "related": {},
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Cocos_(Keeling)_Islands"
+        ]
+    }
+    ,{
+        "name": "Norfolk Island",
+        "image": "norfolk-island.svg",
+        "category": "Dependent Territories",
+        "history": "The flag of Norfolk Island was approved by the Norfolk Island Council on 6 June 1979. It became the official flag on the commencement date of the Norfolk Island Flag and Public Seal Act 1979 on 17 January 1980.\n\nIt is similar to the flag of Canada (upon which it was based), with its use of only two colours, and incorporating a prominent local floral symbol in the middle. The flag bears a striking resemblance to the flag of Lebanon (which also features a green tree), the flag of Nigeria (a plain vertical green and white triband), and the 1968–1979 flag of Rhodesia (a green and white triband with the state's coat of arms on the white band). [0]",
+        "meaning": "The Norfolk Island Pine (Araucaria heterophylla) is endemic to the Norfolk Island. [0][1]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#007934"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "Vertical triband green-white-green charged with the Norfolk Island Pine in the central white stripe. The central stripe is wider than the two outer stripes, the ratio being 7:9:7. [0]",
+        "adoptionDate": 1980,
+        "related": {
+            "similar": [
+                {
+                    "name": "Canada",
+                    "image": "canada.svg"
+                },{
+                    "name": "Lebanon",
+                    "image": "lebanon.svg"
+                },{
+                    "name": "Nigeria",
+                    "image": "nigeria.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Norfolk_Island",
+            "https://flagspot.net/flags/nf.html"
+        ]
+    }
+    ,{
+        "name": "Hong Kong",
+        "image": "hong-kong.svg",
+        "category": "Dependent Territories",
+        "history": "Before Hong Kong's transfer of sovereignty, between 20 May 1987 and 31 March 1988, a contest was held amongst Hong Kong residents to help choose a flag for post-colonial Hong Kong, with 7,147 design submissions, in which 4,489 submissions were about flag designs. Architect Tao Ho was chosen as one of the panel judges to pick Hong Kong's new flag. He recalled that some of the designs had been rather funny and with political twists: \"One had a hammer and sickle on one side and a dollar sign on the other.\" Some designs were rejected because they contained copyrighted materials, for example, the emblem of Urban Council, Hong Kong Arts Festival and Hong Kong Tourism Board. Six designs were chosen as finalists by the judges, but were all later rejected by the PRC. Ho and two others were then asked by the PRC to submit new proposals.\n\nLooking for inspiration, Ho wandered into a garden and picked up a Bauhinia blakeana flower. He observed the symmetry of the five petals, and how their winding pattern conveyed to him a dynamic feeling. This led him to incorporate the flower into the flag to represent Hong Kong. The design was adopted on 4 April 1990 at the Third Session of the Seventh National People's Congress, and the flag was first officially hoisted seconds after midnight on 1 July 1997 in the handover ceremony marking the transfer of sovereignty. It was hoisted together with the national PRC flag, while the Chinese national anthem, \"March of the Volunteers\" was played. The Union Flag and the colonial Hong Kong flag were lowered seconds before midnight. [0]",
+        "meaning": "The colour itself is significant; red is a festive colour for the Chinese people, used to convey a sense of celebration and nationalism. Moreover, the red colour is identical to that used in the national PRC flag, chosen to signify the link re-established between post-colonial Hong Kong and China. The position of red and white on the flag symbolises the \"one country two systems\" political principle applied to the region. The stylised rendering of the Bauhinia blakeana flower, a flower discovered in Hong Kong, is meant to serve as a harmonising symbol for this dichotomy.[6] The five stars of the Chinese national flag, representing the Communist Party and Mao Zedong's four classes (proletarian workers, agricultural peasants, petty bourgeoisie and capitalists), are replicated on the petals of the flower. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#FF0000"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A stylised, white, five-petal Bauhinia blakeana flower in the centre of a red field. [0]",
+        "adoptionDate": 1990,
+        "related": {},
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Hong_Kong"
+        ]
+    }
+    ,{
+        "name": "Macau",
+        "image": "macau.svg",
+        "category": "Dependent Territories",
+        "history": "Prior to the handover of Macau to the People's Republic of China by the Portuguese Republic in 1999, Macau officially used only the Portuguese flag, in contrast to Hong Kong, which, under British rule, used a defaced Blue Ensign as its flag, alongside the Union Jack. In 1967, there were proposals to give each overseas province its own flag, consisting of the Portuguese flag with the local coat of arms, but none was ever adopted. [0]",
+        "meaning": "The lotus was chosen as the floral emblem of Macau. The Governor Nobre de Carvalho Bridge is a bridge linking the Macau Peninsula and the island of Taipa. The bridge is one of the most recognisable landmarks for the territory. The water beneath the lotus and the bridge symbolise Macau's position as a port and its role played in the territory. The five five-pointed stars echo the design of the flag of the People's Republic of China, symbolising the relationship Macau has with its sovereign state. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#00785E"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#FBD116"
+            }
+        ],
+        "design": "Light green with a lotus flower above the stylised Governor Nobre de Carvalho Bridge and water in white, beneath an arc of five gold, five-pointed stars. [0]",
+        "adoptionDate": 1993,
+        "related": {},
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Macau"
+        ]
+    }
 ]
