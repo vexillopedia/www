@@ -83,6 +83,24 @@ block body
                                     a(href="/flag/" + flag.name) 
                                         img(src="/img/flag/" + flag.image alt= flag.name)
                                         span #{flag.name}
+                                        
+                    if related.subdivision && related.subdivision.length
+                        h4.flag-subsubtitle Region/State
+                        ul.card-list
+                            each flag in related.subdivision
+                                li.card
+                                    a(href="/flag/" + flag.name) 
+                                        img(src="/img/flag/" + flag.image alt= flag.name)
+                                        span #{flag.name}
+                                        
+                    if related.city && related.city.length
+                        h4.flag-subsubtitle Cities
+                        ul.card-list
+                            each flag in related.city
+                                li.card
+                                    a(href="/flag/" + flag.name) 
+                                        img(src="/img/flag/" + flag.image alt= flag.name)
+                                        span #{flag.name}
             
             if sources.length
                 div.flag-sources

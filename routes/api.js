@@ -8,12 +8,16 @@ const countries = require("./../data/countries.json")
 const unrecognizedCountries = require("./../data/unrecognized-countries.json")
 const internationalOrganizations = require("./../data/international-organizations.json")
 const dependentTerritories = require("./../data/dependent-territories.json")
+const countrySubdivisions = require("./../data/country-subdivisions.json")
+const cities = require("./../data/cities.json")
 
 const allFlags = [].concat(
     countries, 
     unrecognizedCountries, 
     internationalOrganizations,
-    dependentTerritories
+    dependentTerritories,
+    countrySubdivisions,
+    cities
 )
 
 // Sorter function to sort flags by name
@@ -46,6 +50,12 @@ router.get("/category/:category", (req, res) => {
             break
         case "Dependent Territories":
             res.json(dependentTerritories.sort(byName))
+            break
+        case "Country Subdivisions":
+            res.json(countrySubdivisions.sort(byName))
+            break
+        case "Cities":
+            res.json(cities.sort(byName))
             break
         default:
             res.status(404).send({error: "Category not found."})
