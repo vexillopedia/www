@@ -5697,7 +5697,65 @@
         ],
         "design": "A white-fimbriated symmetric red cross on a blue field with a white-fimbriated counterchanged saltire of red and white. [0]",
         "adoptionDate": 1801,
-        "related": {},
+        "related": {
+            "dependent": [
+                {
+                    "name": "Anguilla",
+                    "image": "anguilla.svg"
+                },{
+                    "name": "Ascension Island",
+                    "image": "ascension-island.svg"
+                },{
+                    "name": "Bermuda",
+                    "image": "bermuda.svg"
+                },{
+                    "name": "British Antarctic Territory",
+                    "image": "british-antarctic-territory.svg"
+                },{
+                    "name": "British Indian Ocean Territory",
+                    "image": "british-indian-ocean-territory.svg"
+                },{
+                    "name": "British Virgin Islands",
+                    "image": "british-virgin-islands.svg"
+                },{
+                    "name": "Cayman Islands",
+                    "image": "cayman-islands.svg"
+                },{
+                    "name": "Falkland Islands",
+                    "image": "falkland-islands.svg"
+                },{
+                    "name": "Gibraltar",
+                    "image": "gibraltar.svg"
+                },{
+                    "name": "Guernsey",
+                    "image": "guernsey.svg"
+                },{
+                    "name": "Isle of Man",
+                    "image": "isle-of-man.svg"
+                },{
+                    "name": "Jersey",
+                    "image": "jersey.svg"
+                },{
+                    "name": "Montserrat",
+                    "image": "montserrat.svg"
+                },{
+                    "name": "Pitcairn Islands",
+                    "image": "pitcairn-islands.svg"
+                },{
+                    "name": "Saint Helena",
+                    "image": "saint-helena.svg"
+                },{
+                    "name": "South Georgia and the South Sandwich Islands",
+                    "image": "south-georgia-and-the-south-sandwich-islands.svg"
+                },{
+                    "name": "Tristan da Cunha",
+                    "image": "tristan-da-cunha.svg"
+                },{
+                    "name": "Turks and Caicos Islands",
+                    "image": "turks-and-caicos-islands.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_United_Kingdom"
         ]
