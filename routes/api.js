@@ -5,7 +5,7 @@ const router = express.Router()
 
 // Data
 const countries = require("./../data/countries.json")
-const unrecognizedCountries = require("./../data/unrecognized-countries.json")
+const unrecognizedStates = require("./../data/unrecognized-states.json")
 const internationalOrganizations = require("./../data/international-organizations.json")
 const dependentTerritories = require("./../data/dependent-territories.json")
 const countrySubdivisions = require("./../data/country-subdivisions.json")
@@ -13,7 +13,7 @@ const cities = require("./../data/cities.json")
 
 const allFlags = [].concat(
     countries, 
-    unrecognizedCountries, 
+    unrecognizedStates, 
     internationalOrganizations,
     dependentTerritories,
     countrySubdivisions,
@@ -42,8 +42,8 @@ router.get("/category/:category", (req, res) => {
         case "Countries":
             res.json(countries.sort(byName))
             break
-        case "Unrecognized Countries":
-            res.json(unrecognizedCountries.sort(byName))
+        case "Unrecognized States":
+            res.json(unrecognizedStates.sort(byName))
             break
         case "International Organizations":
             res.json(internationalOrganizations.sort(byName))
