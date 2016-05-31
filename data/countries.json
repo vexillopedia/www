@@ -5076,7 +5076,14 @@
         ],
         "design": "A horizontal tricolour of red, yellow (double width) and red; charged with the Spanish coat of arms off-centred toward the hoist. [0]",
         "adoptionDate": 1978,
-        "related": {},
+        "related": {
+            "city": [
+                {
+                    "name": "Valladolid",
+                    "image": "valladolid.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Spain",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"

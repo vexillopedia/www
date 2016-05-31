@@ -1,3 +1,39 @@
 [
-    
+    {
+        "name": "Valladolid",
+        "image": "valladolid.svg",
+        "category": "Cities",
+        "history": "The coat of arms of the city of Valladolid have an undertermined origin. The first coat of arms dates back to 1454 and could have been given by Enrique VI of Castille. It is believed that the different elements of the coat of arms represent important events of the city's history. [1]",
+        "meaning": "The flames may represent the fire of 1461. The medieval crown representing the Catholic Kings sits atop the flames. The eight castles surronding the flames represent the defenses of the city. Finally, the Cruz de San Fernando, highest militar award in Spain granted to the city in 1939, englobes the coat of arms.  [1]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "crimson",
+                "hex": "#9B0829"
+            },{
+                "name": "red",
+                "hex": "#FF0000"
+            },{
+                "name": "yellow",
+                "hex": "#FFCC00"
+            },{
+                "name": "green",
+                "hex": "#009933"
+            }
+        ],
+        "design": "A crimson field charged with the coat of arms of the city.",
+        "adoptionDate": 1939,
+        "related": {
+            "country": [
+                {
+                    "name": "Spain",
+                    "image": "spain.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://es.wikipedia.org/wiki/Bandera_de_Valladolid",
+            "https://es.wikipedia.org/wiki/Escudo_de_Valladolid"
+        ]
+    }
 ]
