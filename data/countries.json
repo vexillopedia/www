@@ -520,7 +520,20 @@
         ],
         "design": "A vertical tricolour of black, yellow, and red. [0]",
         "adoptionDate": 1831,
-        "related": {},
+        "related": {
+            "subdivision": [
+                {
+                    "name": "Brussels-Capital Region",
+                    "image": "brussels-capital-region.svg"
+                },{
+                    "name": "Flanders",
+                    "image": "flanders.svg"
+                },{
+                    "name": "Wallonia",
+                    "image": "wallonia.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Belgium",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
