@@ -1274,7 +1274,14 @@
         ],
         "design": "Five horizontal bands of blue alternate with white with a red chevron based on the hoist side bearing a white five-pointed star in the center. [0]",
         "adoptionDate": 1902,
-        "related": {},
+        "related": {
+            "similar": [
+                {
+                    "name": "Puerto Rico",
+                    "image": "puerto-rico.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Cuba"
         ]
@@ -5782,6 +5789,24 @@
         "design": "Thirteen horizontal stripes alternating red and white; in the canton, 50 white stars of alternating numbers of six and five per row on a blue field [0]",
         "adoptionDate": 1960,
         "related": {
+            "dependent": [
+                {
+                    "name": "American Samoa",
+                    "image": "american-samoa.svg"
+                },{
+                    "name": "Guam",
+                    "image": "guam.svg"
+                },{
+                    "name": "Northern Mariana Islands",
+                    "image": "northern-mariana-islands.svg"
+                },{
+                    "name": "Puerto Rico",
+                    "image": "puerto-rico.svg"
+                },{
+                    "name": "United States Virgin Islands",
+                    "image": "united-states-virgin-islands.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Liberia",

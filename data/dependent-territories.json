@@ -1665,4 +1665,182 @@
             "https://en.wikipedia.org/wiki/Coat_of_arms_of_the_Turks_and_Caicos_Islands"
         ]
     }
+    ,{
+        "name": "American Samoa",
+        "image": "american-samoa.svg",
+        "category": "Dependent Territories",
+        "history": "Adopted in April 1960 to replace the \"Stars and Stripes\" as the official flag of the territory, it has been the flag of the Territory of American Samoa since that year. The colors used epitomize the traditional colors of the United States and Samoa.\n\nBefore the first Europeans set foot on the islands in the 18th century, Samoa did not use any flags. They first utilized flags during the 1800s, although it is unclear which ones were flown due to partial documentation. The islands were contested by Germany, the United Kingdom and the United States at the turn of the century; the three countries resolved the dispute by dividing Samoa amongst themselves during the Tripartite Convention in 1899. As a result, the United States took control over the eastern half of Samoa and raised their flag on April 27, 1900. It went on to be the only official flag of American Samoa until 1960.\n\nIn the mid-20th century, Samoans began to take a more active role in the local government. Consequently, deliberations began over a new territorial flag and the Samoans were invited to propose ideas. Local government leaders and the U.S. Army Institute of Heraldry then designed the flag while incorporating these ideas into it. The flag was officially adopted April 27, 1960, sixty years to the day the U.S. first raised the American flag over Samoa. [0]",
+        "meaning": "The red, white and blue represent the colors traditionally utilized by both the United States and Samoa. The bald eagle represents the U.S. and features on the flag, despite the fact it does not live in American Samoa. It clutches two Samoan symbols, alluding to America's guardianship over American Samoa, as well as evoking the Great Seal of the United States. The symbols are a uatogi (a war club, epitomizing the government's power) and a fue (a fly-whisk, representing the wisdom of traditional Samoan leaders). [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#000066"
+            },{
+                "name": "red",
+                "hex": "#BD1021"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A red-edged white triangle pointing towards the hoist charged with a bald eagle clutching a war club and fly-whisk. The upper and lower triangles are dark blue. [0]",
+        "adoptionDate": 1960,
+        "related": {
+            "country": [
+                {
+                    "name": "United States",
+                    "image": "united-states.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_American_Samoa"
+        ]
+    }
+    ,{
+        "name": "Guam",
+        "image": "guam.svg",
+        "category": "Dependent Territories",
+        "history": "The flag of the United States territory of Guam was adopted on February 9, 1948. [0]",
+        "meaning": "The coat of arms is an almond shaped emblem, which depicts a proa sailing in Agana Bay near Hagåtña. The shape of the emblem recalls the slingshot stones used by the islanders' ancestors. [0]",
+        "ratio": "22:41",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#00297B"
+            },{
+                "name": "red",
+                "hex": "#C62139"
+            }
+        ],
+        "design": "The territorial flag is dark blue with a narrow red border on all sides (border was a later addition). In the center of the flag is the coat of arms and GUAM colored in red letters.  [0]",
+        "adoptionDate": 1948,
+        "related": {
+            "country": [
+                {
+                    "name": "United States",
+                    "image": "united-states.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Guam"
+        ]
+    }
+    ,{
+        "name": "Northern Mariana Islands",
+        "image": "northern-mariana-islands.svg",
+        "category": "Dependent Territories",
+        "history": "The flag of the Commonwealth of the Northern Mariana Islands was adopted in July 1985, by the Second Northern Marianas Constitution. The NMI flag was originally designed by Taga during the year 1985. Later during that year, they finalized the draft of the flag in the last CNMI constitutional convention. This was the most symbolic moment of the annexation of the CNMI. [0]",
+        "meaning": "The flag consists of three symbols, the star for the USA, the latte stone for the chamorros, and the mwarmwar for the carolinians, and the mostly shaded blue areas for the ocean of the Marianas trench. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0071BC"
+            },{
+                "name": "grey",
+                "hex": "#8C8A8C"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "Blue field charged with a white five-point star in the center on a latte stone and surronded by a mwarmwar.",
+        "adoptionDate": 1985,
+        "related": {
+            "country": [
+                {
+                    "name": "United States",
+                    "image": "united-states.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Northern_Mariana_Islands"
+        ]
+    }
+    ,{
+        "name": "Puerto Rico",
+        "image": "puerto-rico.svg",
+        "category": "Dependent Territories",
+        "history": "The origins of the current flag of Puerto Rico, adopted by the commonwealth of Puerto Rico in 1952, can be traced to 1868, when the first Puerto Rican flag, \"The Revolutionary Flag of Lares\", was conceived by Dr. Ramón Emeterio Betances and embroidered by Mariana \"Brazos de Oro\" Bracetti. This flag was used in the short-lived Puerto Rican revolt against Spanish rule in the island, known as \"El Grito de Lares\".\n\nJuan de Mata Terreforte, an exiled veteran of \"El Grito de Lares\" and Vice-President of the Cuban Revolutionary Committee, in New York City, adopted the flag of Lares as the flag of Puerto Rico until 1895, when the current design, modeled after the Cuban flag, was unveiled and adopted by the 59 Puerto Rican exiles of the Cuban Revolutionary committee. [0]",
+        "meaning": "The white star symbolizes Puerto Rico; the three sides of the triangle signify the executive, legislative and judicial parts of the government; blue stands for the sky and the coastal waters; red symbolizes the blood shed by warriors, while white represents liberty, victory, and peace. [1]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#ED0000"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#0050F0"
+            }
+        ],
+        "design": "Five equal horizontal bands of red (top and bottom) alternating with white; a blue (tone of blue may vary) isosceles triangle based on the hoist side bears a large, white, five-pointed star in the center. [0]",
+        "adoptionDate": 1895,
+        "related": {
+            "country": [
+                {
+                    "name": "United States",
+                    "image": "united-states.svg"
+                }
+            ],
+            "similar": [
+                {
+                    "name": "Cuba",
+                    "image": "cuba.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Puerto_Rico",
+            "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
+        ]
+    }
+    ,{
+        "name": "United States Virgin Islands",
+        "image": "united-states-virgin-islands.svg",
+        "category": "Dependent Territories",
+        "history": "The concept or idea of a U.S. Virgin Islands flag began with the administration of Rear Admiral Summer Ely Whitmore Kitelle, who was sworn in as governor of the islands on April 26, 1921. He approached Mr. White, captain of the Grib, and Percival Wilson Sparks, and asked them for suggestions for a flag design. Sparks, a cartoonist, drew a design on paper. Afterwards Sparks transferred it on heavy cotton material, then asked his wife Grace and her sister Blanche Joseph to embroider the design. [0]",
+        "meaning": "The eagle holds an olive branch in one talon, and three arrows in the other, representing the three major islands: Saint Thomas, Saint John, and Saint Croix. Additionally, the colors of the flag are: yellow, representing various characteristics of the territory and the flowers; green, symbolizing the hills; white, depicting the clouds; blue, representing the waters and red, representing love. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#F4C53D"
+            },{
+                "name": "blue",
+                "hex": "#162667"
+            },{
+                "name": "red",
+                "hex": "#A60032"
+            },{
+                "name": "blue",
+                "hex": "#0081C6"
+            },{
+                "name": "green",
+                "hex": "#359242"
+            }
+        ],
+        "design": "It consists of a simplified version of the coat of arms of the United States between the letters V and I (for Virgin Islands). [0]",
+        "adoptionDate": 1921,
+        "related": {
+            "country": [
+                {
+                    "name": "United States",
+                    "image": "united-states.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_United_States_Virgin_Islands"
+        ]
+    }
 ]
