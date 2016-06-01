@@ -419,4 +419,49 @@
             "https://en.wikipedia.org/wiki/Caribbean_Community#The_CARICOM_Standard_and_CARICOM_Song"
         ]
     }
+    ,{
+        "name": "Benelux",
+        "image": "benelux.svg",
+        "category": "International Organizations",
+        "history": "The flag of Benelux is an unofficial flag commissioned by the Committee for Belgian-Dutch-Luxembourgian Cooperation in 1951. [0]",
+        "meaning": "The red stripe is from the Flag of Luxembourg, the blue stripe is from the Flag of the Netherlands, and the black stripe and yellow lion rampant are taken from the Coat of arms of Belgium. The lion also historically represents the Benelux - or in other words, the Low Countries - area as a whole, since each constituent nation possesses a coat of arms featuring a lion rampant facing left (Leo Belgicus), which during the 1600s already symbolised the Low Lands as a whole or in part. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#EF2B2D"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#21468B"
+            },{
+                "name": "yellow",
+                "hex": "#F8D80E"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            }
+        ],
+        "design": "It is an amalgam of the flags of the member states: Belgium, the Netherlands, and Luxembourg. [0]",
+        "adoptionDate": 1951,
+        "related": {
+            "member": [
+                {
+                    "name": "Belgium",
+                    "image": "belgium.svg"
+                },{
+                    "name": "Luxembourg",
+                    "image": "luxembourg.svg"
+                },{
+                    "name": "Netherlands",
+                    "image": "netherlands.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Benelux"
+        ]
+    }
 ]

@@ -570,6 +570,10 @@
         "related": {
             "memberOf": [
                 {
+                    "name": "Benelux",
+                    "image": "benelux.svg"
+                }
+                ,{
                     "name": "European Union",
                     "image": "europe.svg"
                 }
@@ -3425,6 +3429,10 @@
         "related": {
             "memberOf": [
                 {
+                    "name": "Benelux",
+                    "image": "benelux.svg"
+                }
+                ,{
                     "name": "European Union",
                     "image": "europe.svg"
                 }
@@ -4188,6 +4196,10 @@
             ],
             "memberOf": [
                 {
+                    "name": "Benelux",
+                    "image": "benelux.svg"
+                }
+                ,{
                     "name": "European Union",
                     "image": "europe.svg"
                 }
