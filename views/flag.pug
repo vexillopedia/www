@@ -48,59 +48,43 @@ block body
                 div.flag-related
                     h3.flag-subtitle Related Flags
                     
-                    if related.similar && related.similar.length
-                        h4.flag-subsubtitle Similar Flags
-                        ul.card-list
-                            each flag in related.similar
-                                li.card
-                                    a(href="/flag/" + flag.name) 
-                                        img(src="/img/flag/" + flag.image alt= flag.name)
-                                        span #{flag.name}
-                                        
-                    if related.dependent && related.dependent.length
-                        h4.flag-subsubtitle Dependent Territories
-                        ul.card-list
-                            each flag in related.dependent
-                                li.card
-                                    a(href="/flag/" + flag.name) 
-                                        img(src="/img/flag/" + flag.image alt= flag.name)
-                                        span #{flag.name}
-                                        
-                    if related.unrecognized && related.unrecognized.length
-                        h4.flag-subsubtitle Unrecognized States
-                        ul.card-list
-                            each flag in related.unrecognized
-                                li.card
-                                    a(href="/flag/" + flag.name) 
-                                        img(src="/img/flag/" + flag.image alt= flag.name)
-                                        span #{flag.name}
-                                        
-                    if related.country && related.country.length
-                        h4.flag-subsubtitle Country
-                        ul.card-list
-                            each flag in related.country
-                                li.card
-                                    a(href="/flag/" + flag.name) 
-                                        img(src="/img/flag/" + flag.image alt= flag.name)
-                                        span #{flag.name}
-                                        
-                    if related.subdivision && related.subdivision.length
-                        h4.flag-subsubtitle Regions / States
-                        ul.card-list
-                            each flag in related.subdivision
-                                li.card
-                                    a(href="/flag/" + flag.name) 
-                                        img(src="/img/flag/" + flag.image alt= flag.name)
-                                        span #{flag.name}
-                                        
-                    if related.city && related.city.length
-                        h4.flag-subsubtitle Cities
-                        ul.card-list
-                            each flag in related.city
-                                li.card
-                                    a(href="/flag/" + flag.name) 
-                                        img(src="/img/flag/" + flag.image alt= flag.name)
-                                        span #{flag.name}
+                    - 
+                        var relatedSections = [
+                            {
+                                "key": "similar",
+                                "name": "Similar Flags"
+                            }
+                            ,{
+                                "key": "dependent",
+                                "name": "Dependent Territories"
+                            }
+                            ,{
+                                "key": "unrecognized",
+                                "name": "Unrecognized States"
+                            }
+                            ,{
+                                "key": "country",
+                                "name": "Country"
+                            }
+                            ,{
+                                "key": "subdivision",
+                                "name": "Regions / States"
+                            }
+                            ,{
+                                "key": "city",
+                                "name": "Cities"
+                            }
+                        ]
+                    
+                    each section in relatedSections
+                        if related[section.key] && related[section.key].length
+                            h4.flag-subsubtitle #{section.name}
+                            ul.card-list
+                                each flag in related[section.key]
+                                    li.card
+                                        a(href="/flag/" + flag.name) 
+                                            img(src="/img/flag/" + flag.image alt= flag.name)
+                                            span #{flag.name}
             
             if sources.length
                 div.flag-sources
