@@ -242,4 +242,136 @@
             "https://en.wikipedia.org/wiki/Flag_of_the_Pacific_Community"
         ]
     }
+    ,{
+        "name": "Arab League",
+        "image": "arab-league.svg",
+        "category": "International Organizations",
+        "history": "The flag of the Arab League was adopted in 1945.\n\nThere are also several flags for the Arab League, usually seen at Arab League summits: one, with an inverted Arab League flag with a white background for the President of the summit was clearly seen in the Arab League Summit in Beirut (2002).\n\nOlder Arab League flags have the chains in red or black, the Arabic script in black or gold with green or white crescents, usually adopted in the 1950s to the 1970s. [0]",
+        "meaning": "The twenty-two links in the chain represent the twenty-two members of the League at the time of the flag's adoption. The script gives the name of the organization: \"League of Arab States\". [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#006233"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#F7C608"
+            }
+        ],
+        "design": "Two olive branches and 22 chain-links encircling a crescent and the name of the organisation (in Arabic). [0]",
+        "adoptionDate": 1945,
+        "related": {
+            "member": [
+                {
+                    "name": "Algeria",
+                    "image": "algeria.svg"
+                },{
+                    "name": "Bahrain",
+                    "image": "bahrain.svg"
+                },{
+                    "name": "Comoros",
+                    "image": "comoros.svg"
+                },{
+                    "name": "Djibouti",
+                    "image": "djibouti.svg"
+                },{
+                    "name": "Egypt",
+                    "image": "egypt.svg"
+                },{
+                    "name": "Iraq",
+                    "image": "iraq.svg"
+                },{
+                    "name": "Jordan",
+                    "image": "jordan.svg"
+                },{
+                    "name": "Kuwait",
+                    "image": "kuwait.svg"
+                },{
+                    "name": "Lebanon",
+                    "image": "lebanon.svg"
+                },{
+                    "name": "Libya",
+                    "image": "libya.svg"
+                },{
+                    "name": "Mauritania",
+                    "image": "mauritania.svg"
+                },{
+                    "name": "Morocco",
+                    "image": "morocco.svg"
+                },{
+                    "name": "Oman",
+                    "image": "oman.svg"
+                },{
+                    "name": "Palestine",
+                    "image": "palestine.svg"
+                },{
+                    "name": "Qatar",
+                    "image": "qatar.svg"
+                },{
+                    "name": "Saudi Arabia",
+                    "image": "saudi-arabia.svg"
+                },{
+                    "name": "Somalia",
+                    "image": "somalia.svg"
+                },{
+                    "name": "Sudan",
+                    "image": "sudan.svg"
+                },{
+                    "name": "Syria",
+                    "image": "syria.svg"
+                },{
+                    "name": "Tunisia",
+                    "image": "tunisia.svg"
+                },{
+                    "name": "United Arab Emirates",
+                    "image": "united-arab-emirates.svg"
+                },{
+                    "name": "Yemen",
+                    "image": "yemen.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Arab_League"
+        ]
+    }
+    ,{
+        "name": "",
+        "image": ".svg",
+        "category": "International Organizations",
+        "history": " [0]",
+        "meaning": " [0]",
+        "ratio": "",
+        "colors": [
+            {
+                "name": "",
+                "hex": "#"
+            },{
+                "name": "",
+                "hex": "#"
+            },{
+                "name": "",
+                "hex": "#"
+            }
+        ],
+        "design": " [0]",
+        "adoptionDate": 0,
+        "related": {
+            "member": [
+                {
+                    "name": "",
+                    "image": ".svg"
+                },{
+                    "name": "",
+                    "image": ".svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_"
+        ]
+    }
 ]

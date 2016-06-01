@@ -74,7 +74,14 @@
         ],
         "design": "A red star and crescent centered on a vertical bicolor of green and white. [0]",
         "adoptionDate": 1962,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Arab League",
+                    "image": "arab-league.svg"    
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Algeria"
         ]
@@ -422,6 +429,12 @@
         "design": "Red, the traditional color for flags of Persian Gulf states, with a white serrated band (five white points) on the hoist side [1]",
         "adoptionDate": 2002,
         "related": {
+            "memberOf": [
+                {
+                    "name": "Arab League",
+                    "image": "arab-league.svg"    
+                }
+            ],
             "similar": [
                 {
                     "name": "Qatar",
@@ -1176,7 +1189,14 @@
         ],
         "design": "Four horizontal stripes of yellow, white, red and blue (from top to bottom); with a green chevron based on the hoist side charged with a white crescent and four five-pointed stars. [0]",
         "adoptionDate": 2002,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Arab League",
+                    "image": "arab-league.svg"    
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Comoros"
         ]
@@ -1482,7 +1502,14 @@
         ],
         "design": "A horizontal bi-color of light blue and light green, with a white isosceles triangle at the hoist bearing a red star in its center. [0]",
         "adoptionDate": 1977,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Arab League",
+                    "image": "arab-league.svg"    
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Djibouti"
         ]
@@ -1638,6 +1665,12 @@
         "design": "Horizontally divided red-white-black flag with the Eagle of Saladin. [0]",
         "adoptionDate": 1984,
         "related": {
+            "memberOf": [
+                {
+                    "name": "Arab League",
+                    "image": "arab-league.svg"    
+                }
+            ],
             "similar": [
                 {
                     "name": "Iraq",
@@ -2576,7 +2609,14 @@
         ],
         "design": "A horizontal tricolour of red, white, and black, charged with the takbīr (Allahu akbar, \"God is great\") in green Kufic script, centered on the white stripe. [0]",
         "adoptionDate": 2008,
-        "related": {"similar": [
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Arab League",
+                    "image": "arab-league.svg"    
+                }
+            ],
+            "similar": [
                 {
                     "name": "Egypt",
                     "image": "egypt.svg"
@@ -2587,7 +2627,8 @@
                     "name": "Yemen",
                     "image": "yemen.svg"
                 }
-            ]},
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Iraq",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -2809,6 +2850,12 @@
         "design": "A horizontal triband of black, white and green; with a red chevron based on the hoist side containing a white seven-pointed star. [0]",
         "adoptionDate": 1928,
         "related": {
+            "memberOf": [
+                {
+                    "name": "Arab League",
+                    "image": "arab-league.svg"    
+                }
+            ],
             "similar": [
                 {
                     "name": "Palestine",
@@ -2993,7 +3040,14 @@
         ],
         "design": "A horizontal triband of green, white and red; with a black trapezium based on the hoist side. [0]",
         "adoptionDate": 1961,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Arab League",
+                    "image": "arab-league.svg"    
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Kuwait"
         ]
@@ -3099,7 +3153,14 @@
         ],
         "design": "A horizontal triband of red, white (double height) and red; charged with a green Lebanon Cedar. [0]",
         "adoptionDate": 1943,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Arab League",
+                    "image": "arab-league.svg"    
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Lebanon"
         ]
@@ -3193,7 +3254,14 @@
         ],
         "design": "A horizontal triband of red, black (double width) and green; charged with a white crescent and five-pointed star centred on the black stripe. [0]",
         "adoptionDate": 1951,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Arab League",
+                    "image": "arab-league.svg"    
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Libya",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -3567,7 +3635,14 @@
         ],
         "design": "A green field; charged with a golden upward-pointed crescent and star. [0]",
         "adoptionDate": 1959,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Arab League",
+                    "image": "arab-league.svg"    
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Mauritania",
             "https://flagspot.net/flags/mr.html"
@@ -3824,6 +3899,12 @@
         "design": "A green pentagram centered on a red field. [0]",
         "adoptionDate": 1915,
         "related": {
+            "memberOf": [
+                {
+                    "name": "Arab League",
+                    "image": "arab-league.svg"    
+                }
+            ],
             "unrecognized": [
                 {
                     "name": "Sahrawi Arab Democratic Republic",
@@ -4273,7 +4354,14 @@
         ],
         "design": "A horiztonal tricolour of white, red and green; with a vertical red stripe at the hoist, charged with the National emblem of Oman. [0]",
         "adoptionDate": 1970,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Arab League",
+                    "image": "arab-league.svg"    
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Oman"
         ]
@@ -4592,6 +4680,12 @@
         "design": "A white band on the left, separated from a maroon area on the left by nine white triangles which act as a serrated line. [0]",
         "adoptionDate": 1971,
         "related": {
+            "memberOf": [
+                {
+                    "name": "Arab League",
+                    "image": "arab-league.svg"    
+                }
+            ],
             "similar": [
                 {
                     "name": "Bahrain",
@@ -4901,7 +4995,14 @@
         ],
         "design": "A green field with the Shahada or Muslim creed written in the large Thuluth script in white above a white horizontal saber, in which the tip of the saber points to the hoist-side in the center. [0]",
         "adoptionDate": 1973,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Arab League",
+                    "image": "arab-league.svg"    
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Saudi_Arabia"
         ]
@@ -5207,6 +5308,12 @@
         "design": "A single white five-pointed star centered on a light blue field. [0]",
         "adoptionDate": 1954,
         "related": {
+            "memberOf": [
+                {
+                    "name": "Arab League",
+                    "image": "arab-league.svg"    
+                }
+            ],
             "unrecognized": [
                 {
                     "name": "Somaliland",
@@ -5384,7 +5491,14 @@
         ],
         "design": "A horizontal tricolour of red, white, and black; with a green triangle based at the hoist. [0]",
         "adoptionDate": 1970,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Arab League",
+                    "image": "arab-league.svg"    
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Sudan",
             "http://www.worldflags101.com/s/sudan-flag.aspx"
@@ -5544,6 +5658,12 @@
         "design": "A horizontal tricolour of red, white, and black; charged with two green stars at the centre. [0]",
         "adoptionDate": 1958,
         "related": {
+            "memberOf": [
+                {
+                    "name": "Arab League",
+                    "image": "arab-league.svg"    
+                }
+            ],
             "similar": [
                 {
                     "name": "Egypt",
@@ -5763,6 +5883,12 @@
         "design": "A red field with a centered white sun-disc containing a red five-pointed star surrounded by a red crescent. [0]",
         "adoptionDate": 1831,
         "related": {
+            "memberOf": [
+                {
+                    "name": "Arab League",
+                    "image": "arab-league.svg"    
+                }
+            ],
             "similar": [
                 {
                     "name": "Turkey",
@@ -5958,7 +6084,14 @@
         ],
         "design": "Three equal horizontal bands of green (top), white, and black with a wider vertical red band on the hoist side. [1]",
         "adoptionDate": 1971,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Arab League",
+                    "image": "arab-league.svg"    
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_United_Arab_Emirates",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -6322,6 +6455,12 @@
         "design": "A horizontal tricolour of red, white and black. [0]",
         "adoptionDate": 1990,
         "related": {
+            "memberOf": [
+                {
+                    "name": "Arab League",
+                    "image": "arab-league.svg"    
+                }
+            ],
             "similar": [
                 {
                     "name": "Egypt",

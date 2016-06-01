@@ -153,6 +153,12 @@
                     "image": "israel.svg"
                 }
             ],
+            "memberOf": [
+                {
+                    "name": "Arab League",
+                    "image": "arab-league.svg"    
+                }
+            ],
             "similar": [
                 {
                     "name": "Jordan",
