@@ -464,4 +464,67 @@
             "https://en.wikipedia.org/wiki/Flag_of_Benelux"
         ]
     }
+    ,{
+        "name": "Association of Southeast Asian Nations",
+        "image": "asean.svg",
+        "category": "International Organizations",
+        "history": "The flag of the Association of Southeast Asian Nations was adopted in July 1997, and consists of the official emblem of ASEAN on a blue background. The design of the flag derived from the Emblem of the Association of Southeast Asian Nations.\n\nASEAN's previous flag was similar to the current one - it had six paddy stalks representing the five founding members and Brunei and the word ASEAN written under the stalks. The background was white instead of blue, the border of the circle along with the word ASEAN was cyan, and the circle was bright yellow. The stalks themselves were golden brownish in colour. [0]",
+        "meaning": "The official symbolism of the flag is detailed in the ASEAN Charter. Blue represents peace and stability, red represents courage and dynamism, white represents purity, and yellow represents prosperity.\n\nThe stalks symbolise ASEAN's ten members.\n\nThe colours of the flag – blue, red, white, and yellow – represent the main colours of the national flags of all ten ASEAN member states. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0039A6"
+            },{
+                "name": "red",
+                "hex": "#ED2939"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#F9E300"
+            }
+        ],
+        "design": "The ASEAN emblem on a blue background. [0]",
+        "adoptionDate": 1997,
+        "related": {
+            "member": [
+                {
+                    "name": "Brunei",
+                    "image": "brunei.svg"
+                },{
+                    "name": "Cambodia",
+                    "image": "cambodia.svg"
+                },{
+                    "name": "Indonesia",
+                    "image": "indonesia.svg"
+                },{
+                    "name": "Laos",
+                    "image": "laos.svg"
+                },{
+                    "name": "Malaysia",
+                    "image": "malaysia.svg"
+                },{
+                    "name": "Myanmar",
+                    "image": "myanmar.svg"
+                },{
+                    "name": "Philippines",
+                    "image": "philippines.svg"
+                },{
+                    "name": "Singapore",
+                    "image": "singapore.svg"
+                },{
+                    "name": "Thailand",
+                    "image": "thailand.svg"
+                },{
+                    "name": "Vietnam",
+                    "image": "vietnam.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Association_of_Southeast_Asian_Nations"
+        ]
+    }
 ]

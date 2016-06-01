@@ -817,7 +817,14 @@
         ],
         "design": "The crest of Brunei in the centre, on a yellow field cut by black and white diagonal stripes (parallelograms). [0]",
         "adoptionDate": 1959,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Association of Southeast Asian Nations",
+                    "image": "asean.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Brunei",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -929,7 +936,14 @@
         ],
         "design": "Three horizontal bands of blue, red (double width) and blue, with a depiction of Angkor Wat in white centred on the red band. [0]",
         "adoptionDate": 1948,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Association of Southeast Asian Nations",
+                    "image": "asean.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Cambodia"
         ]
@@ -2600,6 +2614,12 @@
         "design": "A horizontal bicolour of red and white. [0]",
         "adoptionDate": 1945,
         "related": {
+            "memberOf": [
+                {
+                    "name": "Association of Southeast Asian Nations",
+                    "image": "asean.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Monaco",
@@ -3162,7 +3182,14 @@
         ],
         "design": "A horizontal triband of red, blue (double height) and red; charged with a white circle in the centre (the diameter of white circle is four-fifths the height of blue band). [0]",
         "adoptionDate": 1945,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Association of Southeast Asian Nations",
+                    "image": "asean.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Laos",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -3548,6 +3575,12 @@
         "design": "Fourteen horizontal stripes alternating red and white; in the canton, a yellow crescent and 14-point star on a blue field. [0]",
         "adoptionDate": 1950,
         "related": {
+            "memberOf": [
+                {
+                    "name": "Association of Southeast Asian Nations",
+                    "image": "asean.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Liberia",
@@ -4043,6 +4076,12 @@
         "design": "A horizontal triband of yellow, green and red; charged with a large white five-pointed star at the centre. [0]",
         "adoptionDate": 2010,
         "related": {
+            "memberOf": [
+                {
+                    "name": "Association of Southeast Asian Nations",
+                    "image": "asean.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Lithuania",
@@ -4643,6 +4682,12 @@
         "design": "A horizontal bicolour of blue and red; with a white equilateral triangle based at the hoist containing three, 5-pointed gold stars at its vertices, and an 8-rayed gold sun at its center. [0]",
         "adoptionDate": 1898,
         "related": {
+            "memberOf": [
+                {
+                    "name": "Association of Southeast Asian Nations",
+                    "image": "asean.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Sint Maarten",
@@ -5249,6 +5294,12 @@
         "design": "A horizontal bicolour of red and white; charged in white in the canton with a crescent facing the fly and a pentagon of five stars. [0]",
         "adoptionDate": 1959,
         "related": {
+            "memberOf": [
+                {
+                    "name": "Association of Southeast Asian Nations",
+                    "image": "asean.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Monaco",
@@ -5870,6 +5921,12 @@
         "design": "Five horizontal stripes of red, white, blue, white and red, the middle stripe twice as wide as the others. [0]",
         "adoptionDate": 1917,
         "related": {
+            "memberOf": [
+                {
+                    "name": "Association of Southeast Asian Nations",
+                    "image": "asean.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Costa Rica",
@@ -6531,6 +6588,12 @@
         "design": "A large yellow star centered on a red field. [0]",
         "adoptionDate": 1945,
         "related": {
+            "memberOf": [
+                {
+                    "name": "Association of Southeast Asian Nations",
+                    "image": "asean.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Somalia",
