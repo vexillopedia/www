@@ -320,7 +320,14 @@
         ],
         "design": "A horizontal bicolour triband of red (top and bottom) and white. [0]",
         "adoptionDate": 1918,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "European Union",
+                    "image": "europe.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Austria",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -521,6 +528,12 @@
         "design": "A vertical tricolour of black, yellow, and red. [0]",
         "adoptionDate": 1831,
         "related": {
+            "memberOf": [
+                {
+                    "name": "European Union",
+                    "image": "europe.svg"
+                }
+            ],
             "subdivision": [
                 {
                     "name": "Brussels-Capital Region",
@@ -780,7 +793,14 @@
         ],
         "design": "A horizontal tricolour of white, green and red. [0]",
         "adoptionDate": 1881,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "European Union",
+                    "image": "europe.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Bulgaria"
         ]
@@ -1261,7 +1281,14 @@
         ],
         "design": "A horizontal tricolor of red, white, and blue with the Coat of Arms of Croatia in the center. [0]",
         "adoptionDate": 1990,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "European Union",
+                    "image": "europe.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Croatia"
         ]
@@ -1321,6 +1348,12 @@
         "design": "An outline of the country of Cyprus above twin olive branches on a white field. [0]",
         "adoptionDate": 1960,
         "related": {
+            "memberOf": [
+                {
+                    "name": "European Union",
+                    "image": "europe.svg"
+                }
+            ],
             "unrecognized": [
                 {
                     "name": "Northern Cyprus",
@@ -1353,7 +1386,14 @@
         ],
         "design": "Two equal horizontal bands of white (top) and red with a blue isosceles triangle based on the hoist side. [0]",
         "adoptionDate": 1920,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "European Union",
+                    "image": "europe.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Czech_Republic"
         ]
@@ -1384,6 +1424,12 @@
                 },{
                     "name": "Greenland",
                     "image": "greenland.svg"
+                }
+            ],
+            "memberOf": [
+                {
+                    "name": "European Union",
+                    "image": "europe.svg"
                 }
             ],
             "similar": [
@@ -1720,7 +1766,14 @@
         ],
         "design": "A horizontal triband of blue, black and white. [0]",
         "adoptionDate": 1918,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "European Union",
+                    "image": "europe.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Estonia"
         ]
@@ -1818,6 +1871,12 @@
         "design": "Sea-blue Nordic cross on white field. [0]",
         "adoptionDate": 1918,
         "related": {
+            "memberOf": [
+                {
+                    "name": "European Union",
+                    "image": "europe.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Denmark",
@@ -1894,6 +1953,12 @@
                 },{
                     "name": "Wallis and Futuna",
                     "image": "wallis-and-futuna.svg"
+                }
+            ],
+            "memberOf": [
+                {
+                    "name": "European Union",
+                    "image": "europe.svg"
                 }
             ]
         },
@@ -2010,7 +2075,14 @@
         ],
         "design": "A horizontal tricolour of black, red, and gold. [0]",
         "adoptionDate": 1949,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "European Union",
+                    "image": "europe.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Germany",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -2063,7 +2135,14 @@
         ],
         "design": "Nine horizontal stripes, in turn blue and white; a white cross on a blue square field in canton. [0]",
         "adoptionDate": 1978,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "European Union",
+                    "image": "europe.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Greece"
         ]
@@ -2300,6 +2379,12 @@
         "design": "A horizontal triband of red, white and green. [0]",
         "adoptionDate": 1957,
         "related": {
+            "memberOf": [
+                {
+                    "name": "European Union",
+                    "image": "europe.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Tajikistan",
@@ -2515,6 +2600,12 @@
         "design": "A vertical tricolour of green, white, and orange. [0]",
         "adoptionDate": 1922,
         "related": {
+            "memberOf": [
+                {
+                    "name": "European Union",
+                    "image": "europe.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Ivory Coast",
@@ -2578,6 +2669,12 @@
         "design": "A vertical tricolour of green, white and red. [0]",
         "adoptionDate": 1946,
         "related": {
+            "memberOf": [
+                {
+                    "name": "European Union",
+                    "image": "europe.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Mexico",
@@ -2947,7 +3044,14 @@
         ],
         "design": "A carmine field bisected by a narrow white stripe (one-fifth the width of the flag). [0]",
         "adoptionDate": 1923,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "European Union",
+                    "image": "europe.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Latvia"
         ]
@@ -3128,6 +3232,12 @@
         "design": "A horizontal triband of yellow, green and red. [0]",
         "adoptionDate": 1918,
         "related": {
+            "memberOf": [
+                {
+                    "name": "European Union",
+                    "image": "europe.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Myanmar",
@@ -3161,6 +3271,12 @@
         "design": "A horizontal triband of red, white and light blue. [0]",
         "adoptionDate": 1972,
         "related": {
+            "memberOf": [
+                {
+                    "name": "European Union",
+                    "image": "europe.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Netherlands",
@@ -3366,7 +3482,14 @@
         ],
         "design": "A vertical bicolor of white and red; charged with a representation of George Cross (showing a design of St. George and the Dragon), outlined in red on the upper hoist side of the white band. [0]",
         "adoptionDate": 1964,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "European Union",
+                    "image": "europe.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Malta"
         ]
@@ -3878,6 +4001,12 @@
                     "image": "sint-maarten.svg"
                 }
             ],
+            "memberOf": [
+                {
+                    "name": "European Union",
+                    "image": "europe.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Luxembourg",
@@ -4320,6 +4449,12 @@
         "design": "A horizontal bicolour of white and red. [0]",
         "adoptionDate": 1919,
         "related": {
+            "memberOf": [
+                {
+                    "name": "European Union",
+                    "image": "europe.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Monaco",
@@ -4364,7 +4499,14 @@
         ],
         "design": "A vertically striped bicolour of green and red, with the lesser coat of arms of Portugal centred over the colour boundary [0]",
         "adoptionDate": 1911,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "European Union",
+                    "image": "europe.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Portugal"
         ]
@@ -4421,6 +4563,12 @@
         "design": "A vertical tricolor of blue (cobalt blue), yellow (chrome yellow), and red (vermilion). [0]",
         "adoptionDate": 1848,
         "related": {
+            "memberOf": [
+                {
+                    "name": "European Union",
+                    "image": "europe.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Andorra",
@@ -4875,6 +5023,12 @@
         "design": "A horizontal tricolour of white, blue and red; charged with a shield containing a white cross is placed to left of centre. [0]",
         "adoptionDate": 1992,
         "related": {
+            "memberOf": [
+                {
+                    "name": "European Union",
+                    "image": "europe.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Slovenia",
@@ -4912,6 +5066,12 @@
         "design": "A horizontal tricolour of white, blue, and red; charged with the Coat of arms at the hoist side. [0]",
         "adoptionDate": 1991,
         "related": {
+            "memberOf": [
+                {
+                    "name": "European Union",
+                    "image": "europe.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Slovakia",
@@ -5082,6 +5242,12 @@
                     "name": "Valladolid",
                     "image": "valladolid.svg"
                 }
+            ],
+            "memberOf": [
+                {
+                    "name": "European Union",
+                    "image": "europe.svg"
+                }
             ]
         },
         "sources": [
@@ -5228,6 +5394,12 @@
         "design": "A blue field with a yellow Scandinavian cross that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side. [0]",
         "adoptionDate": 1906,
         "related": {
+            "memberOf": [
+                {
+                    "name": "European Union",
+                    "image": "europe.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Denmark",
@@ -5780,6 +5952,12 @@
                 },{
                     "name": "Turks and Caicos Islands",
                     "image": "turks-and-caicos-islands.svg"
+                }
+            ],
+            "memberOf": [
+                {
+                    "name": "European Union",
+                    "image": "europe.svg"
                 }
             ]
         },

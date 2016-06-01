@@ -22,4 +22,116 @@
             "https://en.wikipedia.org/wiki/Flag_of_the_United_Nations"
         ]
     }
+    ,{
+        "name": "European Union",
+        "image": "europe.svg",
+        "category": "International Organizations",
+        "history": "Originally designed in 1955 for the Council of Europe by Arsène Heitz and Paul M. G. Lévy, the flag was adopted by the European Communities, the predecessors of the present Union, in 1986. [0][1]",
+        "meaning": "The blue represents the West, while the number and position of the stars represent completeness and unity, respectively. [1]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#003399"
+            },{
+                "name": "yellow",
+                "hex": "#FFCC00"
+            }
+        ],
+        "design": "The flag of the Union consists of a circle of 12 golden stars on a blue background. [1]",
+        "adoptionDate": 1986,
+        "related": {
+            "member": [
+                {
+                    "name": "Austria",
+                    "image": "austria.svg"
+                },{
+                    "name": "Belgium",
+                    "image": "belgium.svg"
+                },{
+                    "name": "Bulgaria",
+                    "image": "bulgaria.svg"
+                },{
+                    "name": "Croatia",
+                    "image": "croatia.svg"
+                },{
+                    "name": "Cyprus",
+                    "image": "cyprus.svg"
+                },{
+                    "name": "Czech Republic",
+                    "image": "czech-republic.svg"
+                },{
+                    "name": "Denmark",
+                    "image": "denmark.svg"
+                },{
+                    "name": "Estonia",
+                    "image": "estonia.svg"
+                },{
+                    "name": "Finland",
+                    "image": "finland.svg"
+                },{
+                    "name": "France",
+                    "image": "france.svg"
+                },{
+                    "name": "Germany",
+                    "image": "germany.svg"
+                },{
+                    "name": "Greece",
+                    "image": "greece.svg"
+                },{
+                    "name": "Hungary",
+                    "image": "hungary.svg"
+                },{
+                    "name": "Ireland",
+                    "image": "ireland.svg"
+                },{
+                    "name": "Italy",
+                    "image": "italy.svg"
+                },{
+                    "name": "Latvia",
+                    "image": "latvia.svg"
+                },{
+                    "name": "Lithuania",
+                    "image": "lithuania.svg"
+                },{
+                    "name": "Luxembourg",
+                    "image": "luxembourg.svg"
+                },{
+                    "name": "Malta",
+                    "image": "malta.svg"
+                },{
+                    "name": "Netherlands",
+                    "image": "netherlands.svg"
+                },{
+                    "name": "Poland",
+                    "image": "poland.svg"
+                },{
+                    "name": "Portugal",
+                    "image": "portugal.svg"
+                },{
+                    "name": "Romania",
+                    "image": "romania.svg"
+                },{
+                    "name": "Slovakia",
+                    "image": "slovakia.svg"
+                },{
+                    "name": "Slovenia",
+                    "image": "slovenia.svg"
+                },{
+                    "name": "Spain",
+                    "image": "spain.svg"
+                },{
+                    "name": "Sweden",
+                    "image": "sweden.svg"
+                },{
+                    "name": "United Kingdom",
+                    "image": "united-kingdom.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Europe",
+            "https://en.wikipedia.org/wiki/European_Union#Symbols"
+        ]
+    }
 ]
