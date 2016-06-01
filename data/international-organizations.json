@@ -134,4 +134,112 @@
             "https://en.wikipedia.org/wiki/European_Union#Symbols"
         ]
     }
+    ,{
+        "name": "Pacific Community",
+        "image": "pacific-community.svg",
+        "category": "International Organizations",
+        "history": "On 6 December 1999 during a conference in Papeete the SPC, formerly the South Pacific Commission adopted the present flag. [0]",
+        "meaning": "The arch represents the secretariat which ties the countries together. The sail and ocean symbolise linkage and interchange, while the sail itself represents a canoe and symbolises movement and change. The palm tree symbolises wealth. The colors intend to mirror the clear night skies of the Pacific (the dark blue field and the white stars). The turquoise sail, arch and lower wave symbolises youth and the island chains of the region. Each member of the organization is represented by a star.[0]",
+        "ratio": "7:10",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0F3F99"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "turquoise",
+                "hex": "#2BA0A9"
+            }
+        ],
+        "design": "The current flag features a circle of stars on a blue field, completed by an arch. Inside the circle figures an emblem consisting of sail, ocean and a palm tree. [0]",
+        "adoptionDate": 1999,
+        "related": {
+            "member": [
+                {
+                    "name": "American Samoa",
+                    "image": "american-samoa.svg"
+                },{
+                    "name": "Australia",
+                    "image": "australia.svg"
+                },{
+                    "name": "Cook Islands",
+                    "image": "cook-islands.svg"
+                },{
+                    "name": "Fiji",
+                    "image": "fiji.svg"
+                },{
+                    "name": "France",
+                    "image": "france.svg"
+                },{
+                    "name": "French Polynesia",
+                    "image": "french-polynesia.svg"
+                },{
+                    "name": "Guam",
+                    "image": "guam.svg"
+                },{
+                    "name": "Kiribati",
+                    "image": "kiribati.svg"
+                },{
+                    "name": "Marshall Islands",
+                    "image": "marshall-islands.svg"
+                },{
+                    "name": "Micronesia",
+                    "image": "micronesia.svg"
+                },{
+                    "name": "Nauru",
+                    "image": "nauru.svg"
+                },{
+                    "name": "New Caledonia",
+                    "image": "new-caledonia.svg"
+                },{
+                    "name": "New Zealand",
+                    "image": "new-zealand.svg"
+                },{
+                    "name": "Niue",
+                    "image": "niue.svg"
+                },{
+                    "name": "Northern Mariana Islands",
+                    "image": "northern-mariana-islands.svg"
+                },{
+                    "name": "Palau",
+                    "image": "palau.svg"
+                },{
+                    "name": "Papua New Guinea",
+                    "image": "papua-new-guinea.svg"
+                },{
+                    "name": "Pitcairn Islands",
+                    "image": "pitcairn-islands.svg"
+                },{
+                    "name": "Samoa",
+                    "image": "samoa.svg"
+                },{
+                    "name": "Solomon Islands",
+                    "image": "solomon-islands.svg"
+                },{
+                    "name": "Tokelau",
+                    "image": "tokelau.svg"
+                },{
+                    "name": "Tonga",
+                    "image": "tonga.svg"
+                },{
+                    "name": "Tuvalu",
+                    "image": "tuvalu.svg"
+                },{
+                    "name": "United States",
+                    "image": "united-states.svg"
+                },{
+                    "name": "Vanuatu",
+                    "image": "vanuatu.svg"
+                },{
+                    "name": "Wallis and Futuna",
+                    "image": "wallis-and-futuna.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Pacific_Community"
+        ]
+    }
 ]

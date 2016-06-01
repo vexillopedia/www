@@ -318,6 +318,12 @@
                     "name": "France",
                     "image": "france.svg"
                 }
+            ],
+            "memberOf": [
+                {
+                    "name": "Pacific Community",
+                    "image": "pacific-community.svg"
+                }
             ]
         },
         "sources": [
@@ -498,6 +504,12 @@
                     "name": "France",
                     "image": "france.svg"
                 }
+            ],
+            "memberOf": [
+                {
+                    "name": "Pacific Community",
+                    "image": "pacific-community.svg"
+                }
             ]
         },
         "sources": [
@@ -654,6 +666,12 @@
                 {
                     "name": "France",
                     "image": "france.svg"
+                }
+            ],
+            "memberOf": [
+                {
+                    "name": "Pacific Community",
+                    "image": "pacific-community.svg"
                 }
             ]
         },
@@ -926,6 +944,12 @@
                     "image": "new-zealand.svg"
                 }
             ],
+            "memberOf": [
+                {
+                    "name": "Pacific Community",
+                    "image": "pacific-community.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Australia",
@@ -969,6 +993,12 @@
                 {
                     "name": "New Zealand",
                     "image": "new-zealand.svg"
+                }
+            ],
+            "memberOf": [
+                {
+                    "name": "Pacific Community",
+                    "image": "pacific-community.svg"
                 }
             ]
         },
@@ -1047,6 +1077,12 @@
                 {
                     "name": "New Zealand",
                     "image": "new-zealand.svg"
+                }
+            ],
+            "memberOf": [
+                {
+                    "name": "Pacific Community",
+                    "image": "pacific-community.svg"
                 }
             ]
         },
@@ -1524,6 +1560,12 @@
                     "name": "United Kingdom",
                     "image": "united-kingdom.svg"
                 }
+            ],
+            "memberOf": [
+                {
+                    "name": "Pacific Community",
+                    "image": "pacific-community.svg"
+                }
             ]
         },
         "sources": [
@@ -1692,6 +1734,12 @@
                     "name": "United States",
                     "image": "united-states.svg"
                 }
+            ],
+            "memberOf": [
+                {
+                    "name": "Pacific Community",
+                    "image": "pacific-community.svg"
+                }
             ]
         },
         "sources": [
@@ -1721,6 +1769,12 @@
                 {
                     "name": "United States",
                     "image": "united-states.svg"
+                }
+            ],
+            "memberOf": [
+                {
+                    "name": "Pacific Community",
+                    "image": "pacific-community.svg"
                 }
             ]
         },
@@ -1754,6 +1808,12 @@
                 {
                     "name": "United States",
                     "image": "united-states.svg"
+                }
+            ],
+            "memberOf": [
+                {
+                    "name": "Pacific Community",
+                    "image": "pacific-community.svg"
                 }
             ]
         },

@@ -290,6 +290,12 @@
                     "image": "norfolk-island.svg"
                 }
             ],
+            "memberOf": [
+                {
+                    "name": "Pacific Community",
+                    "image": "pacific-community.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "New Zealand",
@@ -1841,6 +1847,12 @@
         "design": "A Light Blue Ensign with the Fijian shield-of-arms taken from the National Coat of Arms centered on the outer half of the flag. [0]",
         "adoptionDate": 1970,
         "related": {
+            "memberOf": [
+                {
+                    "name": "Pacific Community",
+                    "image": "pacific-community.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Tuvalu",
@@ -1959,6 +1971,9 @@
                 {
                     "name": "European Union",
                     "image": "europe.svg"
+                },{
+                    "name": "Pacific Community",
+                    "image": "pacific-community.svg"
                 }
             ]
         },
@@ -2886,7 +2901,14 @@
         ],
         "design": "A horizontal bicolor of red and blue with a yellow frigate bird flying over a rising sun on the upper half and three white wavy horizontal stripes on the lower half. [0]",
         "adoptionDate": 1979,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Pacific Community",
+                    "image": "pacific-community.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Kiribati"
         ]
@@ -3515,7 +3537,14 @@
         ],
         "design": "A blue field with two diagonal stripes of orange and white radiating from the lower hoist-side corner to the upper fly-side corner with a large white star with four large rays and twenty small rays on the upper hoist-side corner above the stripes. [0]",
         "adoptionDate": 1979,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Pacific Community",
+                    "image": "pacific-community.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Marshall_Islands"
         ]
@@ -3624,7 +3653,14 @@
         ],
         "design": "A light blue field with four white five-pointed stars arranged in a diamond pattern in the center. [0]",
         "adoptionDate": 1978,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Pacific Community",
+                    "image": "pacific-community.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Federated_States_of_Micronesia"
         ]
@@ -3921,6 +3957,12 @@
         "design": "A blue field with a thin yellow narrow horizontal stripe across in the center and a large white 12-pointed star on the bottom of the stripe and near the hoist side. [0]",
         "adoptionDate": 1962,
         "related": {
+            "memberOf": [
+                {
+                    "name": "Pacific Community",
+                    "image": "pacific-community.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Curaçao",
@@ -4057,6 +4099,12 @@
                 },{
                     "name": "Tokelau",
                     "image": "tokelau.svg"
+                }
+            ],
+            "memberOf": [
+                {
+                    "name": "Pacific Community",
+                    "image": "pacific-community.svg"
                 }
             ],
             "similar": [
@@ -4271,7 +4319,14 @@
         ],
         "design": "A light blue field with a large yellow disk shifted slightly to the hoist side of center. [0]",
         "adoptionDate": 1981,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Pacific Community",
+                    "image": "pacific-community.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Palau"
         ]
@@ -4326,7 +4381,14 @@
         ],
         "design": "Divided diagonally from the upper hoist-side corner to the lower fly-side corner: the upper triangle is red with a soaring raggiana bird of paradise and the lower triangle is black with the Southern Cross of four white larger five-pointed stars and a smaller star. [0]",
         "adoptionDate": 1971,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Pacific Community",
+                    "image": "pacific-community.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Papua_New_Guinea"
         ]
@@ -4749,7 +4811,14 @@
         ],
         "design": "A red field with a blue rectangle on the upper hoist-side quadrant bearing the Southern Cross of four white larger five-pointed stars and a smaller star in the center. [0]",
         "adoptionDate": 1949,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Pacific Community",
+                    "image": "pacific-community.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Samoa",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -5107,7 +5176,14 @@
         ],
         "design": "A blue and green flag divided by a yellow diagonal radiating from the lower-hoist side corner; with five white, five-pointed stars (2-1-2) in the canton. [0]",
         "adoptionDate": 1977,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Pacific Community",
+                    "image": "pacific-community.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Solomon_Islands"
         ]
@@ -5630,7 +5706,14 @@
         ],
         "design": "A red field with a white rectangle on the upper hoist-side corner bearing a bold red Greek Cross in the center. [0]",
         "adoptionDate": 1875,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Pacific Community",
+                    "image": "pacific-community.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Tonga"
         ]
@@ -5781,6 +5864,12 @@
         "design": "A Light Blue Ensign with nine yellow five-pointed stars on the outer half of the flag. [0]",
         "adoptionDate": 1997,
         "related": {
+            "memberOf": [
+                {
+                    "name": "Pacific Community",
+                    "image": "pacific-community.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Fiji",
@@ -6005,6 +6094,12 @@
                     "image": "united-states-virgin-islands.svg"
                 }
             ],
+            "memberOf": [
+                {
+                    "name": "Pacific Community",
+                    "image": "pacific-community.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Liberia",
@@ -6098,7 +6193,14 @@
         ],
         "design": "A horizontal bicolor of red and green with a black isosceles triangle based on the hoist side bearing a boar's tusk encircling two crossed namele fern fronds in the center and a gold pall, a thin yellow narrow horizontal stripe that splits in the shape of a horizontal Y, centered over the partition lines and was edged in black against the red and the green bands while the two points of the Y faces on each corner and encloses the triangle on the hoist-side. [0]",
         "adoptionDate": 1960,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Pacific Community",
+                    "image": "pacific-community.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Vanuatu"
         ]
