@@ -339,39 +339,84 @@
         ]
     }
     ,{
-        "name": "",
-        "image": ".svg",
+        "name": "Caribbean Community",
+        "image": "caricom.svg",
         "category": "International Organizations",
-        "history": " [0]",
-        "meaning": " [0]",
-        "ratio": "",
+        "history": "The Standard or Flag of the Caribbean Community was chosen in November 1983 at the Conference of Heads of Government Meeting in Port of Spain, Trinidad. There the Conference approved the design of the CARICOM flag. The original design was done by the firm of WINART Studies in Georgetown, Guyana but this was substantially modified at the Meeting of the Conference of Heads of Government in July 1983. The flag was first flown on 4 July 1984 in Nassau, Bahamas at the fifth Meeting of the Conference of Heads of Government. [0]",
+        "meaning": "The Flag features a blue background - the upper part being of a light blue representing the sky and the lower part of a dark blue representing the Caribbean Sea. The yellow circle in the centre of the Flag represents the sun on which is printed in black, the logo of the Caribbean Community - two interlocking Cs. The two Cs are in the form of broken links in a chain, symbolising both unity and the break with the colonial past. The narrow ring of green around the sun represents the vegetation of the Region. [0]",
+        "ratio": "7:10",
         "colors": [
             {
-                "name": "",
-                "hex": "#"
+                "name": "blue",
+                "hex": "#4FC5E6"
             },{
-                "name": "",
-                "hex": "#"
+                "name": "blue",
+                "hex": "#001E7A"
             },{
-                "name": "",
-                "hex": "#"
+                "name": "green",
+                "hex": "#218410"
+            },{
+                "name": "yellow",
+                "hex": "#F8D828"
+            },{
+                "name": "black",
+                "hex": "#000000"
             }
         ],
-        "design": " [0]",
-        "adoptionDate": 0,
+        "design": "A blue field (light blue on the upper part and dark blue on the lower) charged with a yellow circle in the center and the logo of the Caribbean Community. [0]",
+        "adoptionDate": 1983,
         "related": {
             "member": [
                 {
-                    "name": "",
-                    "image": ".svg"
+                    "name": "Antigua and Barbuda",
+                    "image": "antigua-and-barbuda.svg"
                 },{
-                    "name": "",
-                    "image": ".svg"
+                    "name": "Bahamas",
+                    "image": "bahamas.svg"
+                },{
+                    "name": "Barbados",
+                    "image": "barbados.svg"
+                },{
+                    "name": "Belize",
+                    "image": "belize.svg"
+                },{
+                    "name": "Dominica",
+                    "image": "dominica.svg"
+                },{
+                    "name": "Grenada",
+                    "image": "grenada.svg"
+                },{
+                    "name": "Guyana",
+                    "image": "guyana.svg"
+                },{
+                    "name": "Haiti",
+                    "image": "haiti.svg"
+                },{
+                    "name": "Jamaica",
+                    "image": "jamaica.svg"
+                },{
+                    "name": "Montserrat",
+                    "image": "montserrat.svg"
+                },{
+                    "name": "Saint Kitts and Nevis",
+                    "image": "saint-kitts-and-nevis.svg"
+                },{
+                    "name": "Saint Lucia",
+                    "image": "saint-lucia.svg"
+                },{
+                    "name": "Saint Vincent and the Grenadines",
+                    "image": "saint-vincent-and-the-grenadines.svg"
+                },{
+                    "name": "Suriname",
+                    "image": "suriname.svg"
+                },{
+                    "name": "Trinidad and Tobago",
+                    "image": "trinidad-and-tobago.svg"
                 }
             ]
         },
         "sources": [
-            "https://en.wikipedia.org/wiki/Flag_of_"
+            "https://en.wikipedia.org/wiki/Caribbean_Community#The_CARICOM_Standard_and_CARICOM_Song"
         ]
     }
 ]

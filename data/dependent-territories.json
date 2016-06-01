@@ -1527,6 +1527,12 @@
                     "name": "United Kingdom",
                     "image": "united-kingdom.svg"
                 }
+            ],
+            "memberOf": [
+                {
+                    "name": "Caribbean Community",
+                    "image": "caricom.svg"
+                }
             ]
         },
         "sources": [

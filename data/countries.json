@@ -179,7 +179,14 @@
         ],
         "design": "The design of the National Flag is a red field with an inverted isosceles triangle based on the top edge of the field; the triangle contains a horizontal tricolor of black, light blue and white with a rising sun centered on top of the black band. [0]",
         "adoptionDate": 1967,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Caribbean Community",
+                    "image": "caricom.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Antigua_and_Barbuda"
         ]
@@ -404,7 +411,14 @@
         ],
         "design": "A horizontal triband of aquamarine (top and bottom) and gold with a black chevron based on the hoist side [0]",
         "adoptionDate": 1973,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Caribbean Community",
+                    "image": "caricom.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Bahamas",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -492,7 +506,14 @@
         ],
         "design": "A vertical triband of ultramarine (hoist side and fly side) and gold with a black trident-head centered on the gold band [0]",
         "adoptionDate": 1966,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Caribbean Community",
+                    "image": "caricom.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Barbados",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -592,7 +613,14 @@
         ],
         "design": "A royal blue field with two red narrow stripes along the top and the bottom edges and a large white disk in the center bearing the National Coat of Arms of Belize [0]",
         "adoptionDate": 1981,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Caribbean Community",
+                    "image": "caricom.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Belize",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -1544,7 +1572,14 @@
         ],
         "design": "A green field with a central cross of three bands (the vertical part is yellow, black and white and the horizontal part is yellow, black and white) and a red disk superimposed at the center of the cross bearing a Sisserou parrot in the center encircled by ten green five-pointed stars. [0]",
         "adoptionDate": 1978,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Caribbean Community",
+                    "image": "caricom.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Dominica"
         ]
@@ -2216,7 +2251,14 @@
         ],
         "design": "A rectangle divided diagonally into two triangles of gold (top and bottom) and green (hoist side and fly side) with a large red border around the field; there are seven yellow five-pointed stars with three centered on the top border, three centered on the bottom border and one on a red disk superimposed at the center; there is also a symbolic nutmeg pod on the hoist-side of a triangle. [0]",
         "adoptionDate": 1974,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Caribbean Community",
+                    "image": "caricom.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Grenada"
         ]
@@ -2333,7 +2375,14 @@
         ],
         "design": "A black-edged red triangle over a larger white-edged gold triangle, both based on the hoist and pointing toward the fly, on a green field. [0]",
         "adoptionDate": 1966,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Caribbean Community",
+                    "image": "caricom.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Guyana"
         ]
@@ -2357,6 +2406,12 @@
         "design": "A horizontal bicolour of blue and red, charged with the Coat of Arms in a small white box in the center. [0]",
         "adoptionDate": 1986,
         "related": {
+            "memberOf": [
+                {
+                    "name": "Caribbean Community",
+                    "image": "caricom.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Liechtenstein",
@@ -2797,7 +2852,14 @@
         ],
         "design": "A yellow diagonal cross divides into four triangles of green (top and bottom) and black (hoist side and fly side). [0]",
         "adoptionDate": 1962,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Caribbean Community",
+                    "image": "caricom.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Jamaica"
         ]
@@ -4823,7 +4885,14 @@
         ],
         "design": "A yellow-edged black broad diagonal band bearing two white five-pointed stars divided diagonally from the lower hoist side corner to the upper fly corner: the upper triangle is green and the lower triangle is red. [0]",
         "adoptionDate": 1983,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Caribbean Community",
+                    "image": "caricom.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Saint_Kitts_and_Nevis"
         ]
@@ -4852,7 +4921,14 @@
         ],
         "design": "A cerulean blue field with a gold isosceles triangle below a white-edged black triangle in the center. [0]",
         "adoptionDate": 1967,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Caribbean Community",
+                    "image": "caricom.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Saint_Lucia"
         ]
@@ -4878,7 +4954,14 @@
         ],
         "design": "Three vertical bands of blue (hoist side), gold (double width), and green; the gold band bears three green diamonds arranged in a V pattern. [1]",
         "adoptionDate": 1985,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Caribbean Community",
+                    "image": "caricom.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Saint_Vincent_and_the_Grenadines",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -5528,7 +5611,14 @@
         ],
         "design": "Five horizontal bands of green, white, red, white, and green. There is a large, yellow, five-pointed star centered in the red band. [0]",
         "adoptionDate": 1975,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Caribbean Community",
+                    "image": "caricom.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Suriname"
         ]
@@ -5859,7 +5949,14 @@
         ],
         "design": "A red field with a white-edged black diagonal band from the upper hoist-side to the lower fly-side. [0]",
         "adoptionDate": 1962,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Caribbean Community",
+                    "image": "caricom.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Trinidad_and_Tobago"
         ]
