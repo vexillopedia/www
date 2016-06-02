@@ -15,8 +15,7 @@ The goal of this project is to build a simple, exhaustive and collaborative ency
 - Add (or update) a new entry to corresponding JSON file in the `data` folder with the following format:
 ```javascript
   ,{
-    "name": "XXX",
-    "image": "xxx.svg",
+    "name": "XXX XXX",
     "category": "",
     "history": "",
     "meaning": "",
@@ -37,10 +36,7 @@ The goal of this project is to build a simple, exhaustive and collaborative ency
     "adoptionDate": 0000,
     "related": {
         "similar": [
-            {
-                "name": "XXX",
-                "image": "xxx.svg"
-            }
+            "XXX"
         ]
     },
     "sources": [
@@ -49,7 +45,7 @@ The goal of this project is to build a simple, exhaustive and collaborative ency
   }
 ```
 
-- Add (or update) the flag image `xxx.svg` to the `public/flag/` folder
+- Add (or update) the flag image `xxx-xxx.svg` to the `public/img/flag/` folder
 - Make sure the tests don't break by running `npm run test`
 - Commit your changes (with the message "Add XXX flag")
 - Open a Pull Request
@@ -58,7 +54,7 @@ The goal of this project is to build a simple, exhaustive and collaborative ency
 - Fork and clone this repository
 - To build the website locally, run `npm install` then `npm run dev` and go to `localhost:8080`
 - Make the changes you think are necessary
-- Make sure your changes lint and pass the tests (when there'll be some automated tests ...)
+- Make sure your changes lint and pass the tests by running `npm t` (when there'll be some automated tests ...)
 - Commit your changes
 - Open a Pull Request
  
