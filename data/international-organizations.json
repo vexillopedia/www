@@ -823,4 +823,61 @@
             "https://en.wikipedia.org/wiki/Flag_of_the_African_Union"
         ]
     }
+    ,{
+        "name": "East African Community",
+        "image": "east-african-community.svg",
+        "category": "International Organizations",
+        "history": "The flag of the East African Community is the flag used since 2008 by the East African Community, an intergovernmental organisation composed of six countries in the African Great Lakes region in eastern Africa.\n\nThe first version of the flag was adopted in 2003 by the Community Emblem Act, 2003 when the Community only consisted of three members: Kenya, Tanzania, and Uganda. In 2007 the Community expanded to include Burundi and Rwanda. In 2008 to take into account this expansion of membership the Community Emblems (Amendment) Act, 2008 was passed, which modified the emblem to include Burundi and Rwanda. [0]",
+        "meaning": "The Community Emblem Act, 2003 sets out the symbolism behind the flag. Blue: Lake Victoria signifying the unity of the EAC Partner States. White, Black, Green, Yellow, Red: Representing the different colours of the flags of each of the EAC Partner States. Handshake: East African Community. Centre: Emblem of the East African Community. [0]",
+        "ratio": "11:20",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0087FF"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "green",
+                "hex": "#008300"
+            },{
+                "name": "yellow",
+                "hex": "#FFFF00"
+            },{
+                "name": "red",
+                "hex": "#FF0000"
+            }
+        ],
+        "design": "Triband of blue at the top and the bottom and a white-black-green-yellow-green-red-white band in the middle charged with the EAC emblem.",
+        "adoptionDate": 2008,
+        "related": {
+            "member": [
+                {
+                    "name": "Burundi",
+                    "image": "burundi.svg"
+                },{
+                    "name": "Kenya",
+                    "image": "kenya.svg"
+                },{
+                    "name": "Rwanda",
+                    "image": "rwanda.svg"
+                },{
+                    "name": "South Sudan",
+                    "image": "south-sudan.svg"
+                },{
+                    "name": "Tanzania",
+                    "image": "tanzania.svg"
+                },{
+                    "name": "Uganda",
+                    "image": "uganda.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_East_African_Community"
+        ]
+    }
 ]

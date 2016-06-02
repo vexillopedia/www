@@ -972,6 +972,10 @@
                     "name": "African Union",
                     "image": "african-union.svg"
                 }
+                ,{
+                    "name": "East African Community",
+                    "image": "east-african-community.svg"
+                }
             ]
         },
         "sources": [
@@ -3204,6 +3208,10 @@
                     "name": "African Union",
                     "image": "african-union.svg"
                 }
+                ,{
+                    "name": "East African Community",
+                    "image": "east-african-community.svg"
+                }
             ]
         },
         "sources": [
@@ -5209,6 +5217,10 @@
                     "name": "African Union",
                     "image": "african-union.svg"
                 }
+                ,{
+                    "name": "East African Community",
+                    "image": "east-african-community.svg"
+                }
             ]
         },
         "sources": [
@@ -5886,6 +5898,10 @@
                     "name": "African Union",
                     "image": "african-union.svg"
                 }
+                ,{
+                    "name": "East African Community",
+                    "image": "east-african-community.svg"
+                }
             ]
         },
         "sources": [
@@ -6260,6 +6276,10 @@
                     "name": "African Union",
                     "image": "african-union.svg"
                 }
+                ,{
+                    "name": "East African Community",
+                    "image": "east-african-community.svg"
+                }
             ]
         },
         "sources": [
@@ -6580,6 +6600,10 @@
                 {
                     "name": "African Union",
                     "image": "african-union.svg"
+                }
+                ,{
+                    "name": "East African Community",
+                    "image": "east-african-community.svg"
                 }
             ]
         },
