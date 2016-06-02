@@ -216,6 +216,12 @@
         "design": "A horizontal triband of light blue (top and bottom) and white with the yellow Sun of May charged in the center. [0]",
         "adoptionDate": 1812,
         "related": {
+            "memberOf": [
+                {
+                    "name": "Union of South American Nations",
+                    "image": "unasur.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "El Salvador",
@@ -706,7 +712,14 @@
         ],
         "design": "A horizontal tricolor of red, yellow and green with the National Coat of Arms centered on a yellow band. [0]",
         "adoptionDate": 1851,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Union of South American Nations",
+                    "image": "unasur.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Bolivia"
         ]
@@ -788,7 +801,14 @@
         ],
         "design": "A blue disc depicting a starry sky spanned by a curved band inscribed with the national motto, within a yellow rhombus, on a green field. [0]",
         "adoptionDate": 1889,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Union of South American Nations",
+                    "image": "unasur.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Brazil"
         ]
@@ -1128,7 +1148,14 @@
         ],
         "design": "It has a 3:2 ratio between length and width, it is divided horizontally into two bands of equal size (being the lower red). The upper area is divided once: in a square (blue), with a single centered white star; and rectangle (white), whose lengths are in proportion 1:2. [0]",
         "adoptionDate": 1817,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Union of South American Nations",
+                    "image": "unasur.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Chile"
         ]
@@ -1194,6 +1221,12 @@
         "design": "a horizontal tricolor of yellow (double-width), blue and red. [0]",
         "adoptionDate": 1861,
         "related": {
+            "memberOf": [
+                {
+                    "name": "Union of South American Nations",
+                    "image": "unasur.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Ecuador",
@@ -1679,6 +1712,12 @@
         "design": "A horizontal tricolor of yellow (double width), blue and red with the Coat of arms of Ecuador charged in the center. [0]",
         "adoptionDate": 1860,
         "related": {
+            "memberOf": [
+                {
+                    "name": "Union of South American Nations",
+                    "image": "unasur.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Colombia",
@@ -2398,6 +2437,10 @@
                 {
                     "name": "Caribbean Community",
                     "image": "caricom.svg"
+                }
+                ,{
+                    "name": "Union of South American Nations",
+                    "image": "unasur.svg"
                 }
             ]
         },
@@ -4616,6 +4659,12 @@
         "design": "A red–white–blue triband charge with the coat of arms. [0]",
         "adoptionDate": 1842,
         "related": {
+            "memberOf": [
+                {
+                    "name": "Union of South American Nations",
+                    "image": "unasur.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Netherlands",
@@ -4646,6 +4695,12 @@
         "design": "A vertical triband of red (hoist side and fly side) and white. [0]",
         "adoptionDate": 1824,
         "related": {
+            "memberOf": [
+                {
+                    "name": "Union of South American Nations",
+                    "image": "unasur.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Canada",
@@ -5680,6 +5735,10 @@
                     "name": "Caribbean Community",
                     "image": "caricom.svg"
                 }
+                ,{
+                    "name": "Union of South American Nations",
+                    "image": "unasur.svg"
+                }
             ]
         },
         "sources": [
@@ -6434,7 +6493,14 @@
         ],
         "design": "A field of alternating white and blue stripes with a white canton charged with the Sun of May. [0]",
         "adoptionDate": 1830,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "Union of South American Nations",
+                    "image": "unasur.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Uruguay"
         ]
@@ -6555,6 +6621,12 @@
         "design": "A horizontal tricolor of yellow, blue and red with an arc of eight white five-pointed stars centered in the blue band. [0]",
         "adoptionDate": 2006,
         "related": {
+            "memberOf": [
+                {
+                    "name": "Union of South American Nations",
+                    "image": "unasur.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Colombia",

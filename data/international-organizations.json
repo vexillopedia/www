@@ -527,4 +527,68 @@
             "https://en.wikipedia.org/wiki/Flag_of_the_Association_of_Southeast_Asian_Nations"
         ]
     }
+    ,{
+        "name": "Union of South American Nations",
+        "image": "unasur.svg",
+        "category": "International Organizations",
+        "history": "The flag has not been officially ratified by UNASUR but is still used during official events. [0]",
+        "meaning": "The white curves represent the South American continent. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002490"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A blue field charged with white curves forming a cyclone. [0]",
+        "adoptionDate": 2008,
+        "related": {
+            "member": [
+                {
+                    "name": "Argentina",
+                    "image": "argentina.svg"
+                },{
+                    "name": "Bolivia",
+                    "image": "bolivia.svg"
+                },{
+                    "name": "Brazil",
+                    "image": "brazil.svg"
+                },{
+                    "name": "Chile",
+                    "image": "chile.svg"
+                },{
+                    "name": "Colombia",
+                    "image": "colombia.svg"
+                },{
+                    "name": "Ecuador",
+                    "image": "ecuador.svg"
+                },{
+                    "name": "Guyana",
+                    "image": "guyana.svg"
+                },{
+                    "name": "Paraguay",
+                    "image": "paraguay.svg"
+                },{
+                    "name": "Peru",
+                    "image": "peru.svg"
+                },{
+                    "name": "Suriname",
+                    "image": "suriname.svg"
+                },{
+                    "name": "Uruguay",
+                    "image": "uruguay.svg"
+                },{
+                    "name": "Venezuela",
+                    "image": "venezuela.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://es.wikipedia.org/wiki/Bandera_de_la_Uni%C3%B3n_de_Naciones_Suramericanas",
+            "https://en.wikipedia.org/wiki/Union_of_South_American_Nations"
+        ]
+    }
 ]
