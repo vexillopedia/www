@@ -715,6 +715,10 @@
         "related": {
             "memberOf": [
                 {
+                    "name": "Andean Community",
+                    "image": "andean-community.svg"   
+                }
+                ,{
                     "name": "Union of South American Nations",
                     "image": "unasur.svg"
                 }
@@ -1223,6 +1227,10 @@
         "related": {
             "memberOf": [
                 {
+                    "name": "Andean Community",
+                    "image": "andean-community.svg"   
+                }
+                ,{
                     "name": "Union of South American Nations",
                     "image": "unasur.svg"
                 }
@@ -1714,6 +1722,10 @@
         "related": {
             "memberOf": [
                 {
+                    "name": "Andean Community",
+                    "image": "andean-community.svg"   
+                }
+                ,{
                     "name": "Union of South American Nations",
                     "image": "unasur.svg"
                 }
@@ -4697,6 +4709,10 @@
         "related": {
             "memberOf": [
                 {
+                    "name": "Andean Community",
+                    "image": "andean-community.svg"   
+                }
+                ,{
                     "name": "Union of South American Nations",
                     "image": "unasur.svg"
                 }

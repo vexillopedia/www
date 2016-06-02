@@ -591,4 +591,44 @@
             "https://en.wikipedia.org/wiki/Union_of_South_American_Nations"
         ]
     }
+    ,{
+        "name": "Andean Community",
+        "image": "andean-community.svg",
+        "category": "International Organizations",
+        "history": "The flag was adopted in May 2004. [0]",
+        "meaning": "White represents peace, harmony and unity in diversity. The golden emblem stands for the strenght of the ideals of integration. [0]",
+        "ratio": "9:14",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#FFDD00"
+            }
+        ],
+        "design": "White field charged with the Andean Community emblem. [0]",
+        "adoptionDate": 2004,
+        "related": {
+            "member": [
+                {
+                    "name": "Bolivia",
+                    "image": "bolivia.svg"
+                },{
+                    "name": "Colombia",
+                    "image": "colombia.svg"
+                },{
+                    "name": "Ecuador",
+                    "image": "ecuador.svg"
+                },{
+                    "name": "Peru",
+                    "image": "peru.svg"
+                }
+            ]
+        },
+        "sources": [
+            "http://www.comunidadandina.org/Seccion.aspx?id=199&tipo=QU&title=la-bandera",
+            "https://en.wikipedia.org/wiki/Andean_Community"
+        ]
+    }
 ]
