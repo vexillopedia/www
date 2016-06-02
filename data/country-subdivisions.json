@@ -1,7 +1,6 @@
 [
     {
         "name": "Brussels-Capital Region",
-        "image": "brussels-capital-region.svg",
         "category": "Country Subdivisions",
         "history": "The first flag was adopted by the Capital Region in 1991. A new flag based on the city's current logo became official in early 2015. [0]",
         "meaning": "The yellow iris, an Iris pseudacorus, as a symbol for Brussels dates back to before 1924 with Cornette writing that the flower was chosen to represent the city as it could be found growing in the marshes – the city itself was founded on marshy ground on Saint-Géry Island – today even through the expansion and industrialisation of the city.\n\nThe plant used to surround the city walls and, according to legend, gave a key victory to the Dukes of Brabant: knowing the plant could only grow in shallow water, the Duke's troops could gallop through the flooded plains by keeping to the iris covered areas. His opponents however, seeing them crossing but not knowing of the iris, attempted to cross but got bogged down in the marshes.\n\nThe flower also featured on the sceptre of the descendants of Charlemagne. This included Charles of France, who set up a fortified camp in the area, in the Duchy of Lower Lotharingia, and chose the site as the capital. This is considered the foundation of Brussels. [0]",
@@ -25,10 +24,7 @@
         "adoptionDate": 2015,
         "related": {
             "country": [
-                {
-                    "name": "Belgium",
-                    "image": "belgium.svg"
-                }
+                "Belgium"
             ]
         },
         "sources": [
@@ -36,7 +32,6 @@
         ]
     },{
         "name": "Flanders",
-        "image": "flanders.svg",
         "category": "Country Subdivisions",
         "history": "The flag was officially adopted by the Cultural Council for the Dutch Cultural Community (Cultuurraad voor de Nederlandse Cultuurgemeenschap) in 1973, and later, in 1985, by its successor, the Flemish Parliament. In 1990, also the coat of arms was adopted as an official symbol. [0]",
         "meaning": "The choice of the Flemish lion was primarily based on the popular historical novel De leeuw van Vlaanderen (1838) of Hendrik Conscience, that forged the Battle of the Golden Spurs of 11 July 1302 into an icon of Flemish resistance against foreign oppression. It was enhanced even further when Hippoliet van Peene wrote the anthem De Vlaamse Leeuw in 1847. By the late nineteenth century it was customary for supporters of the Flemish movement to fly the Flemish lion on 11 July. [1]",
@@ -57,10 +52,7 @@
         "adoptionDate": 1973,
         "related": {
             "country": [
-                {
-                    "name": "Belgium",
-                    "image": "belgium.svg"
-                }
+                "Belgium"
             ]
         },
         "sources": [
@@ -69,7 +61,6 @@
         ]
     },{
         "name": "Wallonia",
-        "image": "wallonia.svg",
         "category": "Country Subdivisions",
         "history": "The flag was created in 1913, based on a painting by Pierre Paulus.\n\nOn 3 July 1991, the French Community adopted by decree the Walloon Flag as its symbol, confirming an older decree from the former French Cultural Community of Belgium on 20 July 1975.\n\nOn 15 July 1998, the Walloon Flag was officially recognised as the Flag of Wallonia by the Walloon Region. [0]",
         "meaning": "The roster is the emblem of Wallonia and of the French Community of Belgium. The colors red and yellow come from the city of Liège. [0]",
@@ -87,10 +78,7 @@
         "adoptionDate": 1998,
         "related": {
             "country": [
-                {
-                    "name": "Belgium",
-                    "image": "belgium.svg"
-                }
+                "Belgium"
             ]
         },
         "sources": [

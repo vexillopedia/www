@@ -13,7 +13,7 @@ block body
         h2.flag-title Flag of #{name}
         
         div.left-section
-            img.flag-image(src="/img/flag/" + image alt= name)
+            img.flag-image(src="/img/flag/" + dashify(name) + ".svg" alt= name)
         
             table.flag-information
                 tr.flag-ratio 
@@ -90,9 +90,9 @@ block body
                             ul.card-list
                                 each flag in related[section.key]
                                     li.card
-                                        a(href="/flag/" + flag.name) 
-                                            img(src="/img/flag/" + flag.image alt= flag.name)
-                                            span #{flag.name}
+                                        a(href="/flag/" + flag) 
+                                            img(src="/img/flag/" + dashify(flag) + ".svg" alt= flag)
+                                            span #{flag}
             
             if sources.length
                 div.flag-sources

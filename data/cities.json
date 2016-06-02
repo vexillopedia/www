@@ -25,10 +25,7 @@
         "adoptionDate": 1939,
         "related": {
             "country": [
-                {
-                    "name": "Spain",
-                    "image": "spain.svg"
-                }
+                "Spain"
             ]
         },
         "sources": [

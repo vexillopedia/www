@@ -20,11 +20,6 @@ const allFlags = [].concat(
     cities
 )
 
-// Sorter function to sort flags by name
-function byName (a, b) {
-    return (a.name < b.name) ? -1 : (a.name > b.name) ? 1 : 0
-}
-
 // Categories API
 router.get("/categories", (req, res) => {
     res.json(allFlags
@@ -40,22 +35,40 @@ router.get("/categories", (req, res) => {
 router.get("/category/:category", (req, res) => {
     switch (req.params.category) {
         case "Countries":
-            res.json(countries.sort(byName))
+            res.json(countries
+                .map(flag => flag.name)
+                .sort()
+            )
             break
         case "Unrecognized States":
-            res.json(unrecognizedStates.sort(byName))
+            res.json(unrecognizedStates
+                .map(flag => flag.name)
+                .sort()
+            )
             break
         case "International Organizations":
-            res.json(internationalOrganizations.sort(byName))
+            res.json(internationalOrganizations
+                .map(flag => flag.name)
+                .sort()
+            )
             break
         case "Dependent Territories":
-            res.json(dependentTerritories.sort(byName))
+            res.json(dependentTerritories
+                .map(flag => flag.name)
+                .sort()
+            )
             break
         case "Country Subdivisions":
-            res.json(countrySubdivisions.sort(byName))
+            res.json(countrySubdivisions
+                .map(flag => flag.name)
+                .sort()
+            )
             break
         case "Cities":
-            res.json(cities.sort(byName))
+            res.json(cities
+                .map(flag => flag.name)
+                .sort()
+            )
             break
         default:
             res.status(404).send({error: "Category not found."})
@@ -65,20 +78,13 @@ router.get("/category/:category", (req, res) => {
 // Flag API
 router.get("/flags", (req, res) => {
     res.json(allFlags
-        .map(flag => {
-            return {
-                name: flag.name,
-                image: flag.image
-            }
-        })
-        .sort(byName)
+        .map(flag => flag.name)
+        .sort()
     )
 })
 router.get("/flag/:flag", (req, res) => {
     res.json(allFlags
-        .find(flag => {
-            return flag.name === req.params.flag
-        })
+        .find(flag => flag.name === req.params.flag)
     )
 })
 

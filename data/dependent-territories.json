@@ -1,7 +1,6 @@
 [
     {
         "name": "Christmas Island",
-        "image": "christmas-island.svg",
         "category": "Dependent Territories",
         "history": "The flag of Christmas Island was unofficially adopted in 1986 after being chosen the winner in a competition for a flag for the territory. It was designed by Tony Couch of Sydney, Australia. The flag was made official on Australia Day, 2002 when the administrator of the territory, Bill Taylor, presented the flag to the Christmas Island Shire. [0]",
         "meaning": "Green and blue are intended to represent the land and sea respectively. The golden bosun bird is considered to be a symbol of the Island. The disc itself was originally only included to offset the green color of the map, but has become linked to the mining industry. [0]",
@@ -25,10 +24,7 @@
         "adoptionDate": 2002,
         "related": {
             "country": [
-                {
-                    "name": "Australia",
-                    "image": "australia.svg"
-                }
+                "Australia"
             ]
         },
         "sources": [
@@ -37,7 +33,6 @@
     }
     ,{
         "name": "Cocos Islands",
-        "image": "cocos-islands.svg",
         "category": "Dependent Territories",
         "history": "The flag of the Cocos (Keeling) Islands was first created in 2003; the flag was adopted on April 6, 2004. It was designed by Mohd Isa Minkom. [0]",
         "meaning": "The palm tree represents the islands' tropical flora; the colours are Australia's national colours; the crescent represents Islam, the religion of the Cocos Malays who make up a majority of the population; and the Southern Cross is a symbol of Australia and the Southern Hemisphere. [0]",
@@ -58,10 +53,7 @@
         "adoptionDate": 2004,
         "related": {
             "country": [
-                {
-                    "name": "Australia",
-                    "image": "australia.svg"
-                }
+                "Australia"
             ]
         },
         "sources": [
@@ -70,7 +62,6 @@
     }
     ,{
         "name": "Norfolk Island",
-        "image": "norfolk-island.svg",
         "category": "Dependent Territories",
         "history": "The flag of Norfolk Island was approved by the Norfolk Island Council on 6 June 1979. It became the official flag on the commencement date of the Norfolk Island Flag and Public Seal Act 1979 on 17 January 1980.\n\nIt is similar to the flag of Canada (upon which it was based), with its use of only two colours, and incorporating a prominent local floral symbol in the middle. The flag bears a striking resemblance to the flag of Lebanon (which also features a green tree), the flag of Nigeria (a plain vertical green and white triband), and the 1968–1979 flag of Rhodesia (a green and white triband with the state's coat of arms on the white band). [0]",
         "meaning": "The Norfolk Island Pine (Araucaria heterophylla) is endemic to the Norfolk Island. [0][1]",
@@ -88,22 +79,12 @@
         "adoptionDate": 1980,
         "related": {
             "country": [
-                {
-                    "name": "Australia",
-                    "image": "australia.svg"
-                }
+                "Australia"
             ],
             "similar": [
-                {
-                    "name": "Canada",
-                    "image": "canada.svg"
-                },{
-                    "name": "Lebanon",
-                    "image": "lebanon.svg"
-                },{
-                    "name": "Nigeria",
-                    "image": "nigeria.svg"
-                }
+                "Canada",
+                "Lebanon",
+                "Nigeria"
             ]
         },
         "sources": [
@@ -113,7 +94,6 @@
     }
     ,{
         "name": "Hong Kong",
-        "image": "hong-kong.svg",
         "category": "Dependent Territories",
         "history": "Before Hong Kong's transfer of sovereignty, between 20 May 1987 and 31 March 1988, a contest was held amongst Hong Kong residents to help choose a flag for post-colonial Hong Kong, with 7,147 design submissions, in which 4,489 submissions were about flag designs. Architect Tao Ho was chosen as one of the panel judges to pick Hong Kong's new flag. He recalled that some of the designs had been rather funny and with political twists: \"One had a hammer and sickle on one side and a dollar sign on the other.\" Some designs were rejected because they contained copyrighted materials, for example, the emblem of Urban Council, Hong Kong Arts Festival and Hong Kong Tourism Board. Six designs were chosen as finalists by the judges, but were all later rejected by the PRC. Ho and two others were then asked by the PRC to submit new proposals.\n\nLooking for inspiration, Ho wandered into a garden and picked up a Bauhinia blakeana flower. He observed the symmetry of the five petals, and how their winding pattern conveyed to him a dynamic feeling. This led him to incorporate the flower into the flag to represent Hong Kong. The design was adopted on 4 April 1990 at the Third Session of the Seventh National People's Congress, and the flag was first officially hoisted seconds after midnight on 1 July 1997 in the handover ceremony marking the transfer of sovereignty. It was hoisted together with the national PRC flag, while the Chinese national anthem, \"March of the Volunteers\" was played. The Union Flag and the colonial Hong Kong flag were lowered seconds before midnight. [0]",
         "meaning": "The colour itself is significant; red is a festive colour for the Chinese people, used to convey a sense of celebration and nationalism. Moreover, the red colour is identical to that used in the national PRC flag, chosen to signify the link re-established between post-colonial Hong Kong and China. The position of red and white on the flag symbolises the \"one country two systems\" political principle applied to the region. The stylised rendering of the Bauhinia blakeana flower, a flower discovered in Hong Kong, is meant to serve as a harmonising symbol for this dichotomy.[6] The five stars of the Chinese national flag, representing the Communist Party and Mao Zedong's four classes (proletarian workers, agricultural peasants, petty bourgeoisie and capitalists), are replicated on the petals of the flower. [0]",
@@ -131,10 +111,7 @@
         "adoptionDate": 1990,
         "related": {
             "country": [
-                {
-                    "name": "China",
-                    "image": "china.svg"
-                }
+                "China"
             ]
         },
         "sources": [
@@ -143,7 +120,6 @@
     }
     ,{
         "name": "Macau",
-        "image": "macau.svg",
         "category": "Dependent Territories",
         "history": "Prior to the handover of Macau to the People's Republic of China by the Portuguese Republic in 1999, Macau officially used only the Portuguese flag, in contrast to Hong Kong, which, under British rule, used a defaced Blue Ensign as its flag, alongside the Union Jack. In 1967, there were proposals to give each overseas province its own flag, consisting of the Portuguese flag with the local coat of arms, but none was ever adopted. [0]",
         "meaning": "The lotus was chosen as the floral emblem of Macau. The Governor Nobre de Carvalho Bridge is a bridge linking the Macau Peninsula and the island of Taipa. The bridge is one of the most recognisable landmarks for the territory. The water beneath the lotus and the bridge symbolise Macau's position as a port and its role played in the territory. The five five-pointed stars echo the design of the flag of the People's Republic of China, symbolising the relationship Macau has with its sovereign state. [0]",
@@ -164,10 +140,7 @@
         "adoptionDate": 1993,
         "related": {
             "country": [
-                {
-                    "name": "China",
-                    "image": "china.svg"
-                }
+                "China"
             ]
         },
         "sources": [
@@ -176,7 +149,6 @@
     }
     ,{
         "name": "Faroe Islands",
-        "image": "faroe-islands.svg",
         "category": "Dependent Territories",
         "history": "The modern Faroese flag was devised in 1919 by Jens Oliver Lisberg and others while they were studying in Copenhagen. The first time Merkið was raised in the Faroe Islands was on 22 June that year in Fámjin on the occasion of a wedding. On 25 April, 1940, the British occupation government approved the flag for use by Faroese vessels, during the tenure of Carl Aage Hilbert as Danish prefect. April 25 is still celebrated as Flaggdagur and it is a national holiday. With the Home Rule Act of 23 March, 1948, the flag was recognized by the Danish Government as the national flag of the Faroes. The original flag is displayed in the church of Fámjin in Suðuroy. [0]",
         "meaning": "White symbolises the creators of the flag, the foam of the sea and the pure, radiant sky of the Faroe Islands, while the old Faroese blue and red colours are reminiscent of other Scandinavian and Nordic flags; representing the Faroe Islands' bonds with other Nordic countries. [0]",
@@ -197,28 +169,14 @@
         "adoptionDate": 1940,
         "related": {
             "country": [
-                {
-                    "name": "Denmark",
-                    "image": "denmark.svg"
-                }
+                "Denmark"
             ],
             "similar": [
-                {
-                    "name": "Denmark",
-                    "image": "denmark.svg"
-                },{
-                    "name": "Finland",
-                    "image": "finland.svg"
-                },{
-                    "name": "Iceland",
-                    "image": "iceland.svg"
-                },{
-                    "name": "Norway",
-                    "image": "norway.svg"
-                },{
-                    "name": "Sweden",
-                    "image": "sweden.svg"
-                }
+                "Denmark",
+                "Finland",
+                "Iceland",
+                "Norway",
+                "Sweden"
             ]
         },
         "sources": [
@@ -227,7 +185,6 @@
     }
     ,{
         "name": "Greenland",
-        "image": "greenland.svg",
         "category": "Dependent Territories",
         "history": "Greenland first entertained the idea of a flag of its own in 1973 when five Greenlanders proposed a green, white and blue flag. The following year, a newspaper solicited eleven design proposals (all but one of which was a Nordic cross) and polled the people to determine the most popular. The flag of Denmark was preferred to the others. Little came of this effort.\n\nIn 1978, Denmark granted home rule to Greenland, making it an equal member of the Danish Realm. The home rule government held an official call for flag proposals, receiving 555 (of which 293 were submitted by Greenlanders).\n\nThe deciding committee came to no consensus, so more proposals were solicited. Finally the present red-and-white design by Christiansen narrowly won over a green-and-white Nordic cross by a vote of fourteen to eleven. Christiansen's red-and-white flag was officially adopted on 21 June 1985. [0]",
         "meaning": "The colours of the flag are the same as those of the Dannebrog, symbolising Greenland's place in the Danish realm. [0]",
@@ -245,10 +202,7 @@
         "adoptionDate": 1985,
         "related": {
             "country": [
-                {
-                    "name": "Denmark",
-                    "image": "denmark.svg"
-                }
+                "Denmark"
             ]
         },
         "sources": [
@@ -257,7 +211,6 @@
     }
     ,{
         "name": "French Guiana",
-        "image": "french-guiana.svg",
         "category": "Dependent Territories",
         "history": "On 29 January 2010, the General Council (departmental council) of the overseas department of French Guiana unilaterally adopted a flag for the department of French Guiana. This has not been recognized by the superior regional council. Moreover, only the French flag is officially recognized by the French constitution as the national flag.\n\nThe flag is identical with the one of pro-independence trade union UGT and also MDES. [0]",
         "meaning": "Green represents the forests, yellow represents gold and other minerals of the region, while the red star represents socialism. [0]",
@@ -278,10 +231,7 @@
         "adoptionDate": 2010,
         "related": {
             "country": [
-                {
-                    "name": "France",
-                    "image": "france.svg"
-                }
+                "France"
             ]
         },
         "sources": [
@@ -290,7 +240,6 @@
     }
     ,{
         "name": "French Polynesia",
-        "image": "french-polynesia.svg",
         "category": "Dependent Territories",
         "history": "The flag of French Polynesia was adopted in 1984.\n\nAll vessels registered in French Polynesia have to fly the French flag, even for the small ships sailing between the islands, as there is no official French Polynesian civil or state ensign. [0]",
         "meaning": "Red and white are traditional Polynesian colors. The five stars on the Polynesian canoe symbolise the five island groups. [0]",
@@ -314,16 +263,10 @@
         "adoptionDate": 1984,
         "related": {
             "country": [
-                {
-                    "name": "France",
-                    "image": "france.svg"
-                }
+                "France"
             ],
             "memberOf": [
-                {
-                    "name": "Pacific Community",
-                    "image": "pacific-community.svg"
-                }
+                "Pacific Community"
             ]
         },
         "sources": [
@@ -332,7 +275,6 @@
     }
     ,{
         "name": "French Southern and Antarctic Territories",
-        "image": "french-southern-and-antarctic-lands.svg",
         "category": "Dependent Territories",
         "history": "The flag was adopted in 2007. [0]",
         "meaning": "The coat of arms consists of five stars and the letters \"TAAF\" (from the French name of the territory, Terres australes et antarctiques françaises). [0]",
@@ -353,10 +295,7 @@
         "adoptionDate": 2007,
         "related": {
             "country": [
-                {
-                    "name": "France",
-                    "image": "france.svg"
-                }
+                "France"
             ]
         },
         "sources": [
@@ -365,7 +304,6 @@
     }
     ,{
         "name": "Guadeloupe",
-        "image": "guadeloupe.svg",
         "category": "Dependent Territories",
         "history": "Guadeloupe, an overseas region and department of France located in the Caribbean, has no flag with official status other than the French national flag. [0]",
         "meaning": "The blue stripe with the fleus-de-lis represent France, wherehas the yellow sun and green sugar cane are based on the coat of arms of Guadeloupe's capital Basse-Terre. [0]",
@@ -389,10 +327,7 @@
         "adoptionDate": 1999,
         "related": {
             "country": [
-                {
-                    "name": "France",
-                    "image": "france.svg"
-                }
+                "France"
             ]
         },
         "sources": [
@@ -402,7 +337,6 @@
     }
     ,{
         "name": "Martinique",
-        "image": "martinique.svg",
         "category": "Dependent Territories",
         "history": "The snake flag of Martinique has no official status on the island. It is a historical flag dating from an edict issued 4 August 1766, specifying that vessels of the French Colony of Martinique and Saint Lucia should fly a version of the French ensign, which at the time was a white cross on a blue field, with L-shaped (for Lucia) snakes in each quarter of the cross. The same design is used for the lesser coat of arms. [0]",
         "meaning": "The snakes are fer-de-lance vipers (Bothrops lanceolatus, French trigonocéphale) native to Martinique. [0]",
@@ -420,10 +354,7 @@
         "adoptionDate": 1766,
         "related": {
             "country": [
-                {
-                    "name": "France",
-                    "image": "france.svg"
-                }
+                "France"
             ]
         },
         "sources": [
@@ -433,7 +364,6 @@
     }
     ,{
         "name": "Mayotte",
-        "image": "mayotte.svg",
         "category": "Dependent Territories",
         "history": "The unofficial local flag and coat of arms of Mayotte represents the French overseas department of Mayotte. [0]",
         "meaning": "The coat of arms consists of a shield with a cloud design, a sideways crescent and flowers in blue and red segments. The supporters of the shield are seahorses. The motto, placed in a grey ribbon, reads \"RA HACHIRI\" – We are vigilant in Shimaore (Comorian). [0]",
@@ -460,10 +390,7 @@
         "adoptionDate": 1976,
         "related": {
             "country": [
-                {
-                    "name": "France",
-                    "image": "france.svg"
-                }
+                "France"
             ]
         },
         "sources": [
@@ -473,7 +400,6 @@
     }
     ,{
         "name": "New Caledonia",
-        "image": "new-caledonia.svg",
         "category": "Dependent Territories",
         "history": "In 2008 the government of New Caledonia debated the introduction of an official regional flag and anthem, as required by the Accord de Nouméa. A flag in fairly widespread unofficial use was the flag of the Kanak and Socialist National Liberation Front (FLNKS), a political party favoring independence for New Caledonia, but the French tricolor would remain the only flag used for the next two years.\n\nIn July 2010 the Congress of New Caledonia voted in favour of a motion to fly the Kanak flag alongside the French tricolor in the territory. On 17 July 2010, French Prime minister François Fillon took part in a ceremony in Nouméa where the FLNKS flag was hoisted alongside the French tricolor. [0]",
         "meaning": "The blue symbolizes both the sky and more importantly the ocean surrounding New Caledonia. The red symbolizes the blood shed by the Kanaks in their struggle for independence, socialism, and unity. The green symbolizes the land itself and by extension the ancestors buried within it. The yellow disc is a representation of the sun and the symbol upon it consists of a flèche faitière, a kind of arrow which adorns the roofs of Kanak houses thrust through tutut shells. [0]",
@@ -500,16 +426,10 @@
         "adoptionDate": 2010,
         "related": {
             "country": [
-                {
-                    "name": "France",
-                    "image": "france.svg"
-                }
+                "France"
             ],
             "memberOf": [
-                {
-                    "name": "Pacific Community",
-                    "image": "pacific-community.svg"
-                }
+                "Pacific Community"
             ]
         },
         "sources": [
@@ -518,7 +438,6 @@
     }
     ,{
         "name": "Réunion",
-        "image": "réunion.svg",
         "category": "Dependent Territories",
         "history": "The Vexillological Association of Réunion selected a flag in 2003. It depicts the volcano of Fournaise, bedecked by gold sunbeams. It was designed in 1974 by Guy Pignolet who called it Lö Mahavéli but it really started to be promoted once the association chose it in 2003. It doesn't have official recognition but since 2014, it is flying on top of many public buildings after several city councils have taken the decision to do so.\n\nIndependentists and nationalists of Reunion also have their flag (green, yellow, red) which was created in 1986. [0]",
         "meaning": "Red for the volcano and strength, blue for the sky and sweetness, yellow for the sun and clearness. [1]",
@@ -539,10 +458,7 @@
         "adoptionDate": 2003,
         "related": {
             "country": [
-                {
-                    "name": "France",
-                    "image": "france.svg"
-                }
+                "France"
             ]
         },
         "sources": [
@@ -551,8 +467,7 @@
         ]
     }
     ,{
-        "name": "Saint Barthélemy",
-        "image": "saint-barthelemy.svg",
+        "name": "Saint Barthelemy",
         "category": "Dependent Territories",
         "history": "The flag of Saint Barthélemy is the French tricolor. This is because Saint Barthélemy is a self-governing overseas collectivity of France. An unofficial flag of Saint-Barthélemy consisting of the island's coat of arms centered on a white field is also used on the island. [0]",
         "meaning": "The coat of arms of Saint-Barthélemy is a shield divided into three horizontal stripes (parted per fess), three gold fleurs-de-lis on blue, above a white Maltese cross on red, over three gold crowns on blue, and \"Ouanalao\" is what the indigenous people called the island. On top of the shield is a mural crown.\n\nThe fleurs-de-lis, Maltese Cross, and gold crowns are heraldic reminders of the island's history as a colony ruled by first the Kingdom of France, then the Knights Hospitaller and in turn the Kingdom of Sweden. Eventually, the island returned to French rule. [0]",
@@ -582,10 +497,7 @@
         "adoptionDate": 1977,
         "related": {
             "country": [
-                {
-                    "name": "France",
-                    "image": "france.svg"
-                }
+                "France"
             ]
         },
         "sources": [
@@ -594,7 +506,6 @@
     }
     ,{
         "name": "Saint Pierre and Miquelon",
-        "image": "saint-pierre-and-miquelon.svg",
         "category": "Dependent Territories",
         "history": "In 1982 an unofficial local flag was designed, based on the Collectivity's coat of arms. The flag was likely designed by André Paturel, a local business owner. [0]",
         "meaning": "The flag is blue with a yellow ship, said to be the Grande Hermine, which brought Jacques Cartier to Saint-Pierre on 15 June 1536. Three square fields placed along the hoist recall the origin of most inhabitants of the islands, from top to bottom, Basques, Bretons, and Normans. [0]",
@@ -630,10 +541,7 @@
         "adoptionDate": 1982,
         "related": {
             "country": [
-                {
-                    "name": "France",
-                    "image": "france.svg"
-                }
+                "France"
             ]
         },
         "sources": [
@@ -642,7 +550,6 @@
     }
     ,{
         "name": "Wallis and Futuna",
-        "image": "wallis-and-futuna.svg",
         "category": "Dependent Territories",
         "history": "The official flag of Wallis and Futuna is the French national flag, as it is a French territory. Wallis and Futuna has a locally used unofficial flag which bears the French flag in the canton. [0]",
         "meaning": "See History.",
@@ -663,16 +570,10 @@
         "adoptionDate": 1985,
         "related": {
             "country": [
-                {
-                    "name": "France",
-                    "image": "france.svg"
-                }
+                "France"
             ],
             "memberOf": [
-                {
-                    "name": "Pacific Community",
-                    "image": "pacific-community.svg"
-                }
+                "Pacific Community"
             ]
         },
         "sources": [
@@ -681,7 +582,6 @@
     }
     ,{
         "name": "Aruba",
-        "image": "aruba.svg",
         "category": "Dependent Territories",
         "history": "Aruba's national flag was adopted on March 18, 1976. [0]",
         "meaning": "The blue field represents the sky, the sea, peace, hope, Aruba's future and its ties to the past. The two narrow stripes \"suggest the movement toward status aparte\". The other \"industry, all the minerals (gold and phosphates in the past, petroleum in the early 20th century)\". [1] In addition to sun, gold, and abundance, the yellow is also said to represent wanglo flowers.\n\nThe star has particularly complex symbolism. It is vexillologically unusual in having four points, representing the four cardinal directions. These refer in turn to the many countries of origin of the people of Aruba. The star also represents the island itself: a land of often red soil bordered by white beaches in a blue sea. The red colour also represents blood shed by Arubans, the Indian inhabitants, during the French pass war; patriotic love. The white also represents purity, honesty and the white beaches of Aruba. [0]",
@@ -705,16 +605,10 @@
         "adoptionDate": 1976,
         "related": {
             "country": [
-                {
-                    "name": "Netherlands",
-                    "image": "netherlands.svg"
-                }
+                "Netherlands"
             ],
             "similar": [
-                {
-                    "name": "Curaçao",
-                    "image": "curaçao.svg"
-                }
+                "Curaçao"
             ]
         },
         "sources": [
@@ -723,7 +617,6 @@
     }
     ,{
         "name": "Curaçao",
-        "image": "curaçao.svg",
         "category": "Dependent Territories",
         "history": "The flag was designed in 1984 by Martin den Dulk. Curaçao had organized a small competition to choose the annual flag that will represent them. Martin den Dulk was one of the many participants but his interpretation of the flag won the judges over. His design won first place and his flag became the flag of Curaçao.\n\nAfter Aruba's adoption of its own flag (while still part of the Netherlands Antilles), Curaçao received approval for a flag in 1979. Two thousand designs were submitted to a special council; ten were shortlisted, and the council decided on 29 November 1982. With some modifications, the flag was adopted on 2 July 1984. [0]",
         "meaning": "The blue symbolises the sea and sky (the bottom and top blue sections, respectively) divided by a yellow stroke representing the bright sun which bathes the island. The two stars represent Curaçao and Klein Curaçao, but also 'Love and Happiness'. The five points on each star symbolise the five continents from which Curaçao's people come. [0]",
@@ -744,19 +637,11 @@
         "adoptionDate": 1984,
         "related": {
             "country": [
-                {
-                    "name": "Netherlands",
-                    "image": "netherlands.svg"
-                }
+                "Netherlands"
             ],
             "similar": [
-                {
-                    "name": "Aruba",
-                    "image": "aruba.svg"
-                },{
-                    "name": "Nauru",
-                    "image": "nauru.svg"
-                }
+                "Aruba",
+                "Nauru"
             ]
         },
         "sources": [
@@ -765,7 +650,6 @@
     }
     ,{
         "name": "Sint Maarten",
-        "image": "sint-maarten.svg",
         "category": "Dependent Territories",
         "history": "The flag of Sint Maarten is the national flag of Sint Maarten, a country within the Kingdom of the Netherlands occupying the southern half of the island of Saint Martin. The flag, designed by Roselle Richardson, was officially adopted on 13 June 1985. [0]",
         "meaning": "The red symbolises war and bloodshed, the blue peace and assurance of pardon, and the white purity and faith. [0]",
@@ -786,16 +670,10 @@
         "adoptionDate": 1985,
         "related": {
             "country": [
-                {
-                    "name": "Netherlands",
-                    "image": "netherlands.svg"
-                }
+                "Netherlands"
             ],
             "similar": [
-                {
-                    "name": "Philippines",
-                    "image": "philippines.svg"
-                }
+                "Philippines"
             ]
         },
         "sources": [
@@ -804,7 +682,6 @@
     }
     ,{
         "name": "Bonaire",
-        "image": "bonaire.svg",
         "category": "Dependent Territories",
         "history": "The flag of Bonaire was adopted on 11 December 1981. Noted vexillologist Whitney Smith was involved in developing the flag's design. [0]",
         "meaning": "The blue and yellow triangles represent the sea and sun respectively while the dividing white strip represents the sky. The colors red, white, and blue also show Bonaire's loyalty to the Kingdom of the Netherlands. The black compass represents the population of Bonaire who come from the four corners of the world.\n\nThe red six-pointed star represents the original six villages of Bonaire - Antriol, Nikiboko, Nort Saliña, Playa, Rincon and Tera Korá. [0]",
@@ -831,10 +708,7 @@
         "adoptionDate": 1981,
         "related": {
             "country": [
-                {
-                    "name": "Netherlands",
-                    "image": "netherlands.svg"
-                }
+                "Netherlands"
             ]
         },
         "sources": [
@@ -843,7 +717,6 @@
     }
     ,{
         "name": "Sint Eustatius",
-        "image": "sint-eustatius.svg",
         "category": "Dependent Territories",
         "history": "The flag of Sint Eustatius was adopted on 16 November 2004 (Statia Day). The island's flag was designed by Zuwena Suares. [0]",
         "meaning": "/",
@@ -870,10 +743,7 @@
         "adoptionDate": 2004,
         "related": {
             "country": [
-                {
-                    "name": "Netherlands",
-                    "image": "netherlands.svg"
-                }
+                "Netherlands"
             ]
         },
         "sources": [
@@ -882,7 +752,6 @@
     }
     ,{
         "name": "Saba",
-        "image": "saba.svg",
         "category": "Dependent Territories",
         "history": "The flag of Saba was adopted on December 6, 1985 (national day of the island). 130 different designs were presented to the Commission. The chosen flag was designed by an 18-year-old Saban named Daniel Johnson.\n\nSaba accepted Dutch sovereignty after 1816 and used the Dutch flag. However, since some islanders considered Saba a \"republic\", they added a special symbol – a green cabbage - to emphasize their independence, and this symbol was used probably until about the 1920s. [0]",
         "meaning": "/",
@@ -906,10 +775,7 @@
         "adoptionDate": 1985,
         "related": {
             "country": [
-                {
-                    "name": "Netherlands",
-                    "image": "netherlands.svg"
-                }
+                "Netherlands"
             ]
         },
         "sources": [
@@ -918,7 +784,6 @@
     }
     ,{
         "name": "Cook Islands",
-        "image": "cook-islands.svg",
         "category": "Dependent Territories",
         "history": "The flag of the Cook Islands, officially known as the Cook Islands Ensign, is based on the traditional design for former British colonies in the Pacific region.\n\nFrom 1973 to 1979, the flag was green with the stars in yellow shifted towards the fly. The green colour represented the continuous growth and life of the islands; the yellow represented the faith, love, happiness, and commitment shown by the islanders. [0]",
         "meaning": "The Union Flag is symbolic of the nation's historic ties to the United Kingdom and to the Commonwealth of Nations. The stars stand for the fifteen islands that make up the Cook Islands (Tongareva, Rakahanga, Manihiki, Pukapuka, Nassau, Suwarrow, Palmerston, Aitutaki, Manuae, Takutea, Aitu, Mitiaro, Mauke, Rarotonga and Mangaia). The blue represents the ocean and the peaceful nature of the inhabitants. [0]",
@@ -939,25 +804,14 @@
         "adoptionDate": 1979,
         "related": {
             "country": [
-                {
-                    "name": "New Zealand",
-                    "image": "new-zealand.svg"
-                }
+                "New Zealand"
             ],
             "memberOf": [
-                {
-                    "name": "Pacific Community",
-                    "image": "pacific-community.svg"
-                }
+                "Pacific Community"
             ],
             "similar": [
-                {
-                    "name": "Australia",
-                    "image": "australia.svg"
-                },{
-                    "name": "New Zealand",
-                    "image": "new-zealand.svg"
-                }
+                "Australia",
+                "New Zealand"
             ]
         },
         "sources": [
@@ -966,7 +820,6 @@
     }
     ,{
         "name": "Niue",
-        "image": "niue.svg",
         "category": "Dependent Territories",
         "history": "The flag of Niue was adopted on 15 October 1975. [0]",
         "meaning": "The Union Jack symbolises the protection granted by the United Kingdom in 1900 after petitioning by the Kings and Chiefs of Niue. The golden yellow is inspired by the bright sunshine of Niue and also said to symbolise the warm feelings of the Niuean people towards New Zealand and her people. The association with New Zealand, which took over responsibility and administration of Niue in 1901, is also represented by the four small stars that depict the Southern Cross. Finally the blue disc containing a larger star represents the deep blue sea surrounding the self-governing island of Niue. [0]",
@@ -990,10 +843,7 @@
         "adoptionDate": 1975,
         "related": {
             "country": [
-                {
-                    "name": "New Zealand",
-                    "image": "new-zealand.svg"
-                }
+                "New Zealand"
             ],
             "memberOf": [
                 {
@@ -1008,7 +858,6 @@
     }
     ,{
         "name": "Ross Dependency",
-        "image": "ross-dependency.svg",
         "category": "Dependent Territories",
         "history": "Currently, only the New Zealand national flag serves in an official capacity in the Ross Dependency. The only other 'official' flag seen in photographs was the New Zealand Post flag to denote Scott Base's post office.\n\nRoss Dependency (New Zealand's territorial claim in Antarctica) uses the New Zealand flag, but vexillologist James Dignan's design concept was seen flying there at one time (when a friend of Dignan took it with him to Vanda Station in 1994). [0]",
         "meaning": "The New Zealand flag is the basis for his design, though with an 'Ice Blue' background representing the Ross Sea, and the white horizontal bar at the bottom of the flag representing the Ross Ice Shelf. [0]",
@@ -1032,19 +881,11 @@
         "adoptionDate": 1994,
         "related": {
             "country": [
-                {
-                    "name": "New Zealand",
-                    "image": "new-zealand.svg"
-                }
+                "New Zealand"
             ],
             "similar": [
-                {
-                    "name": "New Zealand",
-                    "image": "new-zealand.svg"
-                },{
-                    "name": "Tuvalu",
-                    "image": "tuvalu.svg"
-                }
+                "New Zealand",
+                "Tuvalu"
             ]
         },
         "sources": [
@@ -1053,7 +894,6 @@
     }
     ,{
         "name": "Tokelau",
-        "image": "tokelau.svg",
         "category": "Dependent Territories",
         "history": "As Tokelau is a non-self-governing territory of New Zealand, the flag of New Zealand has been used as the official flag for Tokelau. However, in May 2008 the local parliament, the General Fono, approved a distinctive flag and national emblem for Tokelau. This flag has not yet been widely used for official purposes, but an official launch of the new flag was planned for October 2009. The Governor-General presented the flag to the Ulu-o-Tokelau as Tokelau's first official flag on 7 September 2009.\n\nA referendum on self-determination in 2006 failed to carry (it was supported, but not with the necessary supermajority), and another one in October 2007 fell 16 votes short. [0]",
         "meaning": "Tokelau's Flag depicts a Tokelauan canoe sailing towards the manu (Southern Cross). The canoe symbolises Tokelau's journey towards finding the best governance structure for its people; the Southern Cross symbolises a navigational aid for the journey. The Southern Cross has helped Tokelauan fishermen navigate the waters around Tokelau for centuries while they have fished to sustain families and villages with its riches.\n\nThe white stars of the Southern Cross are a symbol of Christianity, an important part of everyday life in Tokelau. White also signifies the cooperation and unity among the atolls of Tokelau and a shared aspiration to secure a better life for Tokelauans. Yellow signifies a happy, peaceful community. Blue signifies the ocean on which Tokelauans depend for their livelihood and is also the colour of the sky which holds the stars that direct Tokelau's people. [1]",
@@ -1074,16 +914,10 @@
         "adoptionDate": 2008,
         "related": {
             "country": [
-                {
-                    "name": "New Zealand",
-                    "image": "new-zealand.svg"
-                }
+                "New Zealand"
             ],
             "memberOf": [
-                {
-                    "name": "Pacific Community",
-                    "image": "pacific-community.svg"
-                }
+                "Pacific Community"
             ]
         },
         "sources": [
@@ -1093,7 +927,6 @@
     }
     ,{
         "name": "Guernsey",
-        "image": "guernsey.svg",
         "category": "Dependent Territories",
         "history": "The previous flag of Guernsey was the St George's Cross. Guernsey was permitted to use it in 1936 for its state flag. The current flag of Guernsey was adopted in 1985 and consists of the red cross of St. George with an additional gold cross within it. The change was prompted by confusion at international sporting events over competitors from Guernsey and England using the same flag. It was designed by the Guernsey Flag Investigation Committee chaired by the then Deputy Bailiff Graham Dorey and first flew in the island on 15 February 1985. [0]",
         "meaning": "The gold cross represents Duke William of Normandy, who, it is claimed, had such a cross on his flag in the Battle of Hastings, given to him by Pope Alexander II. [0]",
@@ -1114,10 +947,7 @@
         "adoptionDate": 1985,
         "related": {
             "country": [
-                {
-                    "name": "United Kingdom",
-                    "image": "united-kingdom.svg"
-                }
+                "United Kingdom"
             ]
         },
         "sources": [
@@ -1126,7 +956,6 @@
     }
     ,{
         "name": "Isle of Man",
-        "image": "isle-of-man.svg",
         "category": "Dependent Territories",
         "history": "The flag has been the official flag of Man since 1 December 1932 and is based on the Manx coat of arms, which dates back to the 13th century. The three legs are known in Manx as ny tree cassyn (\"the three legs\"). Before its adoption in 1932, the official flag of the Isle of Man was the Union Jack. [0]",
         "meaning": "The triskelion is an ancient symbol, used by the Mycenaeans and the Lycians. It is not known for certain why the symbol was originally adopted on the Isle of Man. [0]",
@@ -1147,10 +976,7 @@
         "adoptionDate": 1932,
         "related": {
             "country": [
-                {
-                    "name": "United Kingdom",
-                    "image": "united-kingdom.svg"
-                }
+                "United Kingdom"
             ]
         },
         "sources": [
@@ -1159,7 +985,6 @@
     }
     ,{
         "name": "Jersey",
-        "image": "jersey.svg",
         "category": "Dependent Territories",
         "history": "The current flag is the first to be adopted officially. Unofficially, a plain red saltire had been used since at least the 1830s. The official flag adds the badge and crown to this.\n\nThe origins of the association to Jersey of the red saltire are unknown. A 1906 letter by the Bailiff of Jersey, describing the flag as \"the red St Andrew's cross on white ground\", states it was used to signal the neutrality of the Channel Islands during wars between England and France. A 1483 papal bull guaranteed the islands' neutrality during the Hundred Years' War. The saltire may have been a variation of the St George's Cross.\n\nLinks to the St Patrick's Cross have been proposed. The St Patrick's Cross is commonly identified with the arms of the FitzGeralds, a Cambro-Norman family which became powerful in Ireland, and who also owned land in Jersey. N. V. L. Rybot in 1951 suggested that Jersey's flag originated from a mistake in a 1783 flag book by Carington Bowles, which was copied by later authors. Rybot's theory is that Bowles misinterpreted Ierse (Dutch for \"Irish\") as meaning \"Jersey\" in a Dutch flag-book he used as a source. However, French Admiralty charts show that Jersey was using the red saltire before 1783.\n\nThe move to a new flag was begun in 1977 with Queen Elizabeth's Silver Jubilee. It was felt by many in Jersey that the flag was insufficiently distinctive to represent the island, that there was too much confusion with the cross of St. Patrick as an Irish symbol, and that the red saltire had been taken as one of the international maritime signal flags. [0]",
         "meaning": "See History.",
@@ -1180,10 +1005,7 @@
         "adoptionDate": 1981,
         "related": {
             "country": [
-                {
-                    "name": "United Kingdom",
-                    "image": "united-kingdom.svg"
-                }
+                "United Kingdom"
             ]
         },
         "sources": [
@@ -1192,7 +1014,6 @@
     }
     ,{
         "name": "Anguilla",
-        "image": "anguilla.svg",
         "category": "Dependent Territories",
         "history": "The Blue Ensign for Anguilla was adopted in 1990. It is used on land; it is also used at sea by vessels operated by the Government of Anguilla. Anguilla's civil ensign—that is the ensign worn on civilian vessels registered in Anguilla—is the undifferenced Red Ensign, commonly used as a civil ensign throughout the British Empire. Anguilla has not yet adopted a distinctive version of the Red Ensign. Ashore, the dolphin flag is commonly used as an all-purpose civil flag, either in place of, or in addition to the Blue Ensign. The Union Jack defaced with the Anguilla coat of arms is used by the Governor, which is the traditional design for Governors of the British overseas territories. [0]",
         "meaning": "The coat of arms consists of three dolphins, which were featured on the earlier Anguillan flag, and which stand for friendship, wisdom and strength. [0]",
@@ -1219,10 +1040,7 @@
         "adoptionDate": 1990,
         "related": {
             "country": [
-                {
-                    "name": "United Kingdom",
-                    "image": "united-kingdom.svg"
-                }
+                "United Kingdom"
             ]
         },
         "sources": [
@@ -1231,7 +1049,6 @@
     }
     ,{
         "name": "Ascension Island",
-        "image": "ascension-island.svg",
         "category": "Dependent Territories",
         "history": "The Ascension Island Council approved a final design for a coat of arms in January 2012. Following the agreement of the Governor of St Helena, Ascension and Tristan de Cunha, the design was submitted to the College of Arms for formal approval. The council also agreed that the flag design should be a blue ensign defaced with the proposed arms. The arms received royal approval in August 2012 and are now in official use by the Ascension Island Government.\n\nA final design for the island's flag was agreed by the Ascension Island Council in November 2012 and received approval from HM the Queen in April 2013. This flag was raised for the first time on 11 May 2013. [0]",
         "meaning": "See History.",
@@ -1252,10 +1069,7 @@
         "adoptionDate": 2013,
         "related": {
             "country": [
-                {
-                    "name": "United Kingdom",
-                    "image": "united-kingdom.svg"
-                }
+                "United Kingdom"
             ]
         },
         "sources": [
@@ -1264,7 +1078,6 @@
     }
     ,{
         "name": "Bermuda",
-        "image": "bermuda.svg",
         "category": "Dependent Territories",
         "history": "The flag is unusual for a British overseas territory in that it is used on land in a red ensign form; most other British overseas territories use a version of the blue ensign for general use ashore. Bermuda's use of a red ensign on land is in keeping with Canada (pre-1965) and the Union of South Africa (pre 1928), both of which used red ensigns ashore as local flags in the early part of the 20th century. Bermuda's flag is an appropriate civil ensign for vessels registered on the Bermuda portion of the British Register, by virtue of the Bermuda Merchant Shipping Act of 2002. The Governor of Bermuda uses a Union Flag defaced with the coat of arms, a design traditional for Governors of the British overseas territories. For the state ensign, a blue ensign is used. [0]",
         "meaning": "The coat of arms of Bermuda depicts a red lion holding a shield that has a depiction of a wrecked ship upon it. The red lion is a symbol of England and alludes to Bermuda’s relationship with that country. The wrecked ship is the Sea Venture, the flagship of the Virginia Company. The ship was deliberately driven on to the reefs of Bermuda, by Admiral Sir George Somers, in 1609, to prevent it from foundering in a storm. All aboard survived, resulting in the settlement of the island. The Latin motto under the coat of arms, Quo Fata Ferunt, means “Whither the Fates Carry [Us]”. [1]",
@@ -1285,10 +1098,7 @@
         "adoptionDate": 1910,
         "related": {
             "country": [
-                {
-                    "name": "United Kingdom",
-                    "image": "united-kingdom.svg"
-                }
+                "United Kingdom"
             ]
         },
         "sources": [
@@ -1298,7 +1108,6 @@
     }
     ,{
         "name": "British Antarctic Territory",
-        "image": "british-antarctic-territory.svg",
         "category": "Dependent Territories",
         "history": "The flag of the British Antarctic Territory was granted in 1963, a year after the British Antarctic Territory was created. Previously the Territory was a part of the Falkland Islands Dependencies and used the same flag.\n\nThe flag is a white ensign with the Union Flag in the canton, defaced with the coat of arms of the British Antarctic Territory. The flag flies over the British research stations in the Territory. Vessels of the British Antarctic Survey use a blue ensign defaced with the shield from the coat of arms. A flag is available for the Commissioner of the British Antarctic Territory, a Union Flag defaced with the coat of arms.\n\nIt is the only Overseas British Territory to use the white ensign. [0]",
         "meaning": "The arms consist of a shield bearing a flaming torch on a wavy background representing the sea. The dexter supporter is a golden lion, representing the United Kingdom. The sinister supporter is an Emperor penguin, representing the native wildlife in the territory. The lion stands on a compartment of grass, while the penguin stands on a compartment of ice. The crest is a representation of the RRS Discovery, the research ship used by Robert Falcon Scott and Ernest Shackleton on their first journey to the Antarctic.\n\nThe motto is “Research and Discovery”, reflecting the aims of the British Antarctic Survey. [0]",
@@ -1319,10 +1128,7 @@
         "adoptionDate": 1963,
         "related": {
             "country": [
-                {
-                    "name": "United Kingdom",
-                    "image": "united-kingdom.svg"
-                }
+                "United Kingdom"
             ]
         },
         "sources": [
@@ -1331,7 +1137,6 @@
     }
     ,{
         "name": "British Indian Ocean Territory",
-        "image": "british-indian-ocean-territory.svg",
         "category": "Dependent Territories",
         "history": "It is understood that the flag, which was granted by Queen Elizabeth II on the 25th anniversary of the BIOT in 1990 is that of the Commissioner and has only semi-official status.\n\nGiven that it is impossible for civilians to visit the British Indian Ocean Territory, it is not clear how widely this flag is used. However, a video was released by the Naval Support Facility on Diego Garcia. It shows a scene where the flag is being flown. The only settlements on the Islands are the Anglo-American naval and air facilities.\n\nThe flag does indeed fly at Diego Garcia, along with the American Flag. Both are lowered at the end of the duty day. [0]",
         "meaning": "The palm tree and crown are symbols of the Indian Ocean Territory. The wavy lines depict the waters of the Indian Ocean [0]",
@@ -1352,10 +1157,7 @@
         "adoptionDate": 1990,
         "related": {
             "country": [
-                {
-                    "name": "United Kingdom",
-                    "image": "united-kingdom.svg"
-                }
+                "United Kingdom"
             ]
         },
         "sources": [
@@ -1364,7 +1166,6 @@
     }
     ,{
         "name": "British Virgin Islands",
-        "image": "british-virgin-islands.svg",
         "category": "Dependent Territories",
         "history": "The flag of the British Virgin Islands was adopted on 15 November 1960. [0]",
         "meaning": "The arms consist of a shield, featuring a lady dressed in white holding a golden lamp, with 11 other golden lamps surrounding her on a green field. It is a representation of Saint Ursula, a Christian saint who is said to have taken a pilgrimage across Europe with 11,000 virgin handmaidens. When Christopher Columbus sighted the islands in 1493, the islands were said to have reminded him of the story of Saint Ursula, and that is how the islands got their name. The arms were chosen as a representation of this story. The Latin motto under the coat of arms, Vigilate, means \"Be Vigilant\". [1]",
@@ -1385,10 +1186,7 @@
         "adoptionDate": 1960,
         "related": {
             "country": [
-                {
-                    "name": "United Kingdom",
-                    "image": "united-kingdom.svg"
-                }
+                "United Kingdom"
             ]
         },
         "sources": [
@@ -1398,7 +1196,6 @@
     }
     ,{
         "name": "Cayman Islands",
-        "image": "cayman-islands.svg",
         "category": "Dependent Territories",
         "history": "The flag of the Cayman Islands was adopted on 14 May 1958 after the colony was officially granted a coat-of-arms. Prior to that, the Islands had used the British flag for all official occasions. In 1999, the white disc was removed and the arms were more than doubled in size, although the pre-1999 flag remains popular and is still used on some official occasions, and the Cayman Islands Government website describes the flag as a \"British blue ensign with the arms on a white disc in the fly\". During the 2004, 2008 and 2012 Summer Olympics, and during the 2010 and 2014 Winter Olympics, the Cayman Islands team marched in under the flag as described on the government website. [0]",
         "meaning": "The Cayman Islands’ coat of arms consists of a shield, a crested helm and the motto. Three green stars, representing each of the three inhabited Islands (Grand Cayman, Little Cayman and Cayman Brac), are set in the lower two-thirds of the shield. The stars rest on blue and white wavy bands representing the sea. In the top third of the shield, against a red background, is a gold lion passant guardant (walking with the further forepaw raised and the body seen from the side), representing Britain. Above the shield is a green turtle on a coil of rope. Behind the turtle is a gold pineapple. The turtle represents Cayman's seafaring history; the rope, its traditional thatch-rope industry; and the pineapple, its ties with Jamaica.\n\nThe islands’ motto, “He hath founded it upon the seas”, is printed at the bottom of the shield. This line, a verse from Psalm 24 Verse 2, acknowledges the Caymans’ Christian heritage, as well as its ties to the sea. [1]",
@@ -1419,10 +1216,7 @@
         "adoptionDate": 1958,
         "related": {
             "country": [
-                {
-                    "name": "United Kingdom",
-                    "image": "united-kingdom.svg"
-                }
+                "United Kingdom"
             ]
         },
         "sources": [
@@ -1432,7 +1226,6 @@
     }
     ,{
         "name": "Falkland Islands",
-        "image": "falkland-islands.svg",
         "category": "Dependent Territories",
         "history": "The Falkland Islands have been claimed and occupied by several nations throughout its history, who generally used their national flags on the islands. It wasn't until 1876 that the islands were given a flag of their own, which consisted of a Blue Ensign defaced with the seal of the islands.\n\nOn 29 September 1948 the flag was updated to include the new coat-of-arms superimposed upon a white disc. The flag was banned by the Argentine military junta from 2 April-14 June 1982, during their occupation of the islands, when it was replaced by the flag of Argentina.\n\nIn 1999 the size of the arms was increased and the white disc removed to create the current flag. [0]",
         "meaning": "The coat of arms of the Falkland Islands was granted to the Falkland Islands on 29 September 1948. It consists of a shield containing a ram on tussock grass in the field with a sailing ship underneath and the motto of the Falklands (Desire the Right) below.\n\nThe ship represents the Desire, the vessel in which the English sea-captain John Davis is reputed to have discovered the Falkland Islands in 1592; the motto, Desire the Right, also refers to the ship's name. The ram represents sheep farming, which until recently was the principal economic activity of the islands, and the tussock grass shows the most notable native vegetation. [1]",
@@ -1453,10 +1246,7 @@
         "adoptionDate": 1999,
         "related": {
             "country": [
-                {
-                    "name": "United Kingdom",
-                    "image": "united-kingdom.svg"
-                }
+                "United Kingdom"
             ]
         },
         "sources": [
@@ -1466,7 +1256,6 @@
     }
     ,{
         "name": "Gibraltar",
-        "image": "gibraltar.svg",
         "category": "Dependent Territories",
         "history": "The flag of Gibraltar is an elongated banner of arms based on the coat of arms of Gibraltar, granted by Royal Warrant from Queen Isabella I of Castile on 10 July 1502. [0]",
         "meaning": "The castle does not resemble any in Gibraltar, but is supposed to represent the fortress of Gibraltar. The key is said to symbolise the fortress' significance as Gibraltar was seen to be the key to Spain by the Moors and Spanish and later as the key to the Mediterranean by the British. [0]",
@@ -1490,10 +1279,7 @@
         "adoptionDate": 1982,
         "related": {
             "country": [
-                {
-                    "name": "United Kingdom",
-                    "image": "united-kingdom.svg"
-                }
+                "United Kingdom"
             ]
         },
         "sources": [
@@ -1502,7 +1288,6 @@
     }
     ,{
         "name": "Montserrat",
-        "image": "montserrat.svg",
         "category": "Dependent Territories",
         "history": "The flag of Montserrat is simply the Montserrat arms placed on the fly of the British Blue Ensign and was taken into use sometime considerably after 1909, quite possibly after the colony of the Leeward Islands (which consisted of several British-administered islands in the region) dissolved in 1958, making Montserrat a stand-alone colony. [0]",
         "meaning": "The arms feature Erin, the female personification of Ireland, and the golden harp, another symbol of Ireland. This reflects the colony's Irish ancestry. [0]",
@@ -1522,17 +1307,11 @@
         "design": "It is a Blue Ensign with the Union Flag in the canton and the coat of arms of Montserrat in the fly. [0]",
         "adoptionDate": 1958,
         "related": {
-            "country": [
-                {
-                    "name": "United Kingdom",
-                    "image": "united-kingdom.svg"
-                }
+           "country": [
+                "United Kingdom"
             ],
             "memberOf": [
-                {
-                    "name": "Caribbean Community",
-                    "image": "caricom.svg"
-                }
+                "Caribbean Community"
             ]
         },
         "sources": [
@@ -1541,7 +1320,6 @@
     }
     ,{
         "name": "Pitcairn Islands",
-        "image": "pitcairn-islands.svg",
         "category": "Dependent Territories",
         "history": "The flag of the Pitcairn Islands was adopted on April 2, 1984. The design was suggested by the Pitcairn Island Council in December 1980 and approved by Queen Elizabeth II in April 1984. The flag was flown on Pitcairn for the first time in May 1984, during a visit by the then Governor, Sir Richard Stratton (1980-1984). [0]",
         "meaning": "The coat of arms of the Pitcairn Islands features a shield depicting the anchor and Bible from HMS Bounty. This represents the ancestral history of the islanders, most of whom are descended from the sailors who mutinied on the Bounty in 1789. The design of the shield is green and blue representing the island rising from the ocean. The helmet and crest are a flowering slip of miro and a Pitcairn Island wheelbarrow. [0]",
@@ -1562,16 +1340,10 @@
         "adoptionDate": 1984,
         "related": {
             "country": [
-                {
-                    "name": "United Kingdom",
-                    "image": "united-kingdom.svg"
-                }
+                "United Kingdom"
             ],
             "memberOf": [
-                {
-                    "name": "Pacific Community",
-                    "image": "pacific-community.svg"
-                }
+                "Pacific Community"
             ]
         },
         "sources": [
@@ -1580,7 +1352,6 @@
     }
     ,{
         "name": "Saint Helena",
-        "image": "saint-helena.svg",
         "category": "Dependent Territories",
         "history": "The flag of Saint Helena was adopted on October 4, 1984. Prior to the adoption of the current coat of arms and flag in 1984, the flag and shield showed the ship and coastal scene taken from the colonial seal of the colony. [0]",
         "meaning": "The shield features a rocky coastline and three-masted sailing ship, with a Saint Helena plover atop. [0]",
@@ -1601,10 +1372,7 @@
         "adoptionDate": 1984,
         "related": {
             "country": [
-                {
-                    "name": "United Kingdom",
-                    "image": "united-kingdom.svg"
-                }
+                "United Kingdom"
             ]
         },
         "sources": [
@@ -1613,7 +1381,6 @@
     }
     ,{
         "name": "South Georgia and the South Sandwich Islands",
-        "image": "south-georgia-and-the-south-sandwich-islands.svg",
         "category": "Dependent Territories",
         "history": "The original flag had a smaller version of the coat-of-arms displayed in a white disc, but this was later changed to the current flag. In June 2006, the College of Arms in Newsletter No. 9 said, \"South Georgia and Sandwich Islands: the flag of this overseas territory, illustrated left, has been approved by Her Majesty and accordingly placed on record at the College of Arms, along with the flag of the commissioner of the territory. College reference: Standards 5/96, 97.\" The flag that is illustrated in Newsletter No. 9 shows the arms in full, without a white disc.\n\nThe coat of arms of South Georgia and the South Sandwich Islands was granted in 1985, upon the creation of the territory. Prior to 1985, South Georgia and the South Sandwich Islands were a dependency of the Falkland Islands, and used their coat of arms. However, prior to 1962, the islands were grouped with what is now the British Antarctic Territory and their coat of arms was used instead of the Falkland Islands’ arms. [0][1]",
         "meaning": "The arms consist of a shield containing a golden lion rampant holding a torch, representing the United Kingdom and discovery, together with two golden estoiles from the arms of James Cook who discovered the islands. The background of the shield is blue and white lozenges. The supporters are a fur seal and a macaroni penguin, both animals native to the islands. The crest is a reindeer, from the two herds of reindeer found on South Georgia Island. The seal stands on a mountain, while the penguin stands on ice.\n\nThe motto is Leo Terram Propriam Protegat (Latin: “[Let the] Lion protect his own land”). [1]",
@@ -1634,10 +1401,7 @@
         "adoptionDate": 2002,
         "related": {
             "country": [
-                {
-                    "name": "United Kingdom",
-                    "image": "united-kingdom.svg"
-                }
+                "United Kingdom"
             ]
         },
         "sources": [
@@ -1647,7 +1411,6 @@
     }
     ,{
         "name": "Tristan da Cunha",
-        "image": "tristan-da-cunha.svg",
         "category": "Dependent Territories",
         "history": "The flag of Tristan da Cunha was adopted on October 20, 2002, in a proclamation made by the Governor of Saint Helena under a Royal Warrant granted by Queen Elizabeth II. Prior to this, as a dependency of Saint Helena, Tristan da Cunha used the flag of Saint Helena for official purposes.\n\nThe designer is the prominent vexillologist Graham Bartram. [0]",
         "meaning": "The arms consist of a shield featuring four albatrosses in a blue-and-white mirror image design. The two supporters are Tristan rock lobsters, which are found in the waters surrounding the island. The crest features a naval crown and a Tristan da Cunha longboat.\n\nThe motto is “Our faith is our strength”. [1]",
@@ -1668,10 +1431,7 @@
         "adoptionDate": 2002,
         "related": {
             "country": [
-                {
-                    "name": "United Kingdom",
-                    "image": "united-kingdom.svg"
-                }
+                "United Kingdom"
             ]
         },
         "sources": [
@@ -1681,7 +1441,6 @@
     }
     ,{
         "name": "Turks and Caicos Islands",
-        "image": "turks-and-caicos-islands.svg",
         "category": "Dependent Territories",
         "history": "The flag of the Turks and Caicos Islands is similar to the flags of other British dependencies and colonies as it has the Union Flag in the canton. It was adopted on November 7, 1968. [0]",
         "meaning": "The arms consist of a shield bearing a conch shell, lobster, and cactus on a yellow background. The dexter and sinister supporters are flamingos. The crest is a pelican between two sisal plants representing connection to the rope industry. [1]",
@@ -1702,10 +1461,7 @@
         "adoptionDate": 1968,
         "related": {
             "country": [
-                {
-                    "name": "United Kingdom",
-                    "image": "united-kingdom.svg"
-                }
+                "United Kingdom"
             ]
         },
         "sources": [
@@ -1715,7 +1471,6 @@
     }
     ,{
         "name": "American Samoa",
-        "image": "american-samoa.svg",
         "category": "Dependent Territories",
         "history": "Adopted in April 1960 to replace the \"Stars and Stripes\" as the official flag of the territory, it has been the flag of the Territory of American Samoa since that year. The colors used epitomize the traditional colors of the United States and Samoa.\n\nBefore the first Europeans set foot on the islands in the 18th century, Samoa did not use any flags. They first utilized flags during the 1800s, although it is unclear which ones were flown due to partial documentation. The islands were contested by Germany, the United Kingdom and the United States at the turn of the century; the three countries resolved the dispute by dividing Samoa amongst themselves during the Tripartite Convention in 1899. As a result, the United States took control over the eastern half of Samoa and raised their flag on April 27, 1900. It went on to be the only official flag of American Samoa until 1960.\n\nIn the mid-20th century, Samoans began to take a more active role in the local government. Consequently, deliberations began over a new territorial flag and the Samoans were invited to propose ideas. Local government leaders and the U.S. Army Institute of Heraldry then designed the flag while incorporating these ideas into it. The flag was officially adopted April 27, 1960, sixty years to the day the U.S. first raised the American flag over Samoa. [0]",
         "meaning": "The red, white and blue represent the colors traditionally utilized by both the United States and Samoa. The bald eagle represents the U.S. and features on the flag, despite the fact it does not live in American Samoa. It clutches two Samoan symbols, alluding to America's guardianship over American Samoa, as well as evoking the Great Seal of the United States. The symbols are a uatogi (a war club, epitomizing the government's power) and a fue (a fly-whisk, representing the wisdom of traditional Samoan leaders). [0]",
@@ -1736,16 +1491,10 @@
         "adoptionDate": 1960,
         "related": {
             "country": [
-                {
-                    "name": "United States",
-                    "image": "united-states.svg"
-                }
+                "United States"
             ],
             "memberOf": [
-                {
-                    "name": "Pacific Community",
-                    "image": "pacific-community.svg"
-                }
+                "Pacific Community"
             ]
         },
         "sources": [
@@ -1754,7 +1503,6 @@
     }
     ,{
         "name": "Guam",
-        "image": "guam.svg",
         "category": "Dependent Territories",
         "history": "The flag of the United States territory of Guam was adopted on February 9, 1948. [0]",
         "meaning": "The coat of arms is an almond shaped emblem, which depicts a proa sailing in Agana Bay near Hagåtña. The shape of the emblem recalls the slingshot stones used by the islanders' ancestors. [0]",
@@ -1772,16 +1520,10 @@
         "adoptionDate": 1948,
         "related": {
             "country": [
-                {
-                    "name": "United States",
-                    "image": "united-states.svg"
-                }
+                "United States"
             ],
             "memberOf": [
-                {
-                    "name": "Pacific Community",
-                    "image": "pacific-community.svg"
-                }
+                "Pacific Community"
             ]
         },
         "sources": [
@@ -1790,7 +1532,6 @@
     }
     ,{
         "name": "Northern Mariana Islands",
-        "image": "northern-mariana-islands.svg",
         "category": "Dependent Territories",
         "history": "The flag of the Commonwealth of the Northern Mariana Islands was adopted in July 1985, by the Second Northern Marianas Constitution. The NMI flag was originally designed by Taga during the year 1985. Later during that year, they finalized the draft of the flag in the last CNMI constitutional convention. This was the most symbolic moment of the annexation of the CNMI. [0]",
         "meaning": "The flag consists of three symbols, the star for the USA, the latte stone for the chamorros, and the mwarmwar for the carolinians, and the mostly shaded blue areas for the ocean of the Marianas trench. [0]",
@@ -1811,16 +1552,10 @@
         "adoptionDate": 1985,
         "related": {
             "country": [
-                {
-                    "name": "United States",
-                    "image": "united-states.svg"
-                }
+                "United States"
             ],
             "memberOf": [
-                {
-                    "name": "Pacific Community",
-                    "image": "pacific-community.svg"
-                }
+                "Pacific Community"
             ]
         },
         "sources": [
@@ -1829,7 +1564,6 @@
     }
     ,{
         "name": "Puerto Rico",
-        "image": "puerto-rico.svg",
         "category": "Dependent Territories",
         "history": "The origins of the current flag of Puerto Rico, adopted by the commonwealth of Puerto Rico in 1952, can be traced to 1868, when the first Puerto Rican flag, \"The Revolutionary Flag of Lares\", was conceived by Dr. Ramón Emeterio Betances and embroidered by Mariana \"Brazos de Oro\" Bracetti. This flag was used in the short-lived Puerto Rican revolt against Spanish rule in the island, known as \"El Grito de Lares\".\n\nJuan de Mata Terreforte, an exiled veteran of \"El Grito de Lares\" and Vice-President of the Cuban Revolutionary Committee, in New York City, adopted the flag of Lares as the flag of Puerto Rico until 1895, when the current design, modeled after the Cuban flag, was unveiled and adopted by the 59 Puerto Rican exiles of the Cuban Revolutionary committee. [0]",
         "meaning": "The white star symbolizes Puerto Rico; the three sides of the triangle signify the executive, legislative and judicial parts of the government; blue stands for the sky and the coastal waters; red symbolizes the blood shed by warriors, while white represents liberty, victory, and peace. [1]",
@@ -1850,16 +1584,10 @@
         "adoptionDate": 1895,
         "related": {
             "country": [
-                {
-                    "name": "United States",
-                    "image": "united-states.svg"
-                }
+                "United States"
             ],
             "similar": [
-                {
-                    "name": "Cuba",
-                    "image": "cuba.svg"
-                }
+                "Cuba"
             ]
         },
         "sources": [
@@ -1869,7 +1597,6 @@
     }
     ,{
         "name": "United States Virgin Islands",
-        "image": "united-states-virgin-islands.svg",
         "category": "Dependent Territories",
         "history": "The concept or idea of a U.S. Virgin Islands flag began with the administration of Rear Admiral Summer Ely Whitmore Kitelle, who was sworn in as governor of the islands on April 26, 1921. He approached Mr. White, captain of the Grib, and Percival Wilson Sparks, and asked them for suggestions for a flag design. Sparks, a cartoonist, drew a design on paper. Afterwards Sparks transferred it on heavy cotton material, then asked his wife Grace and her sister Blanche Joseph to embroider the design. [0]",
         "meaning": "The eagle holds an olive branch in one talon, and three arrows in the other, representing the three major islands: Saint Thomas, Saint John, and Saint Croix. Additionally, the colors of the flag are: yellow, representing various characteristics of the territory and the flowers; green, symbolizing the hills; white, depicting the clouds; blue, representing the waters and red, representing love. [0]",
@@ -1899,10 +1626,7 @@
         "adoptionDate": 1921,
         "related": {
             "country": [
-                {
-                    "name": "United States",
-                    "image": "united-states.svg"
-                }
+                "United States"
             ]
         },
         "sources": [

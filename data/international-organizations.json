@@ -1,7 +1,6 @@
 [
     {
         "name": "United Nations",
-        "image": "united-nations.svg",
         "category": "International Organizations",
         "history": "The organizers of the 1945 United Nations Conference on International Organization in San Francisco, California wanted an insignia that could be made into a pin to identify delegates. United States Secretary of State Edward Stettinius, Jr. was chairperson of the U.S. delegation, and realized that a temporary design might become the permanent symbol of the United Nations. He formed a committee headed by Oliver Lundquist that developed a design consisting of a world map surrounded by leaves from a design created by Donal McLaughlin.\n\nThe blue that appears in the background of the insignia was chosen to be \"the opposite of red, the war colour\", although the exact shade has never been officially specified by the United Nations. The original colour the group chose in 1945 was a gray blue that differs from the current United Nations flag. The globe used in the original design was an azimuthal projection focused on the North Pole with the United States, the host nation of the conference, at the centre. The projection that was used cut off portions of the Southern Hemisphere at the latitude of Argentina, which was acceptable at the time, as Argentina was not planned to be an original member of the United Nations. The projection was later altered so that no country will be at prominence within the flag. The new logo was now designed so that the globe is bisected in the centre by the Prime Meridian and the International Date Line.\n\nIn 1946, a UNO committee got the task of making a definite design, which was presented December 2, 1946, and adopted by the plenary session of the UNO on December 7, 1946. The earlier version had the globe 90 degrees turned eastward compared with the present flag, which has the Prime Meridian and the International Date Line forming the vertical diameter. According to press statements, the change was made to move North America away from the centre of the emblem. [0]",
         "meaning": "The olive branches are a symbol for peace, and the world map represents all the people and the countries of the world.\n\nWhite and blue are the official colours of the United Nations. [0]",
@@ -24,7 +23,6 @@
     }
     ,{
         "name": "European Union",
-        "image": "europe.svg",
         "category": "International Organizations",
         "history": "Originally designed in 1955 for the Council of Europe by Arsène Heitz and Paul M. G. Lévy, the flag was adopted by the European Communities, the predecessors of the present Union, in 1986. [0][1]",
         "meaning": "The blue represents the West, while the number and position of the stars represent completeness and unity, respectively. [1]",
@@ -42,91 +40,34 @@
         "adoptionDate": 1986,
         "related": {
             "member": [
-                {
-                    "name": "Austria",
-                    "image": "austria.svg"
-                },{
-                    "name": "Belgium",
-                    "image": "belgium.svg"
-                },{
-                    "name": "Bulgaria",
-                    "image": "bulgaria.svg"
-                },{
-                    "name": "Croatia",
-                    "image": "croatia.svg"
-                },{
-                    "name": "Cyprus",
-                    "image": "cyprus.svg"
-                },{
-                    "name": "Czech Republic",
-                    "image": "czech-republic.svg"
-                },{
-                    "name": "Denmark",
-                    "image": "denmark.svg"
-                },{
-                    "name": "Estonia",
-                    "image": "estonia.svg"
-                },{
-                    "name": "Finland",
-                    "image": "finland.svg"
-                },{
-                    "name": "France",
-                    "image": "france.svg"
-                },{
-                    "name": "Germany",
-                    "image": "germany.svg"
-                },{
-                    "name": "Greece",
-                    "image": "greece.svg"
-                },{
-                    "name": "Hungary",
-                    "image": "hungary.svg"
-                },{
-                    "name": "Ireland",
-                    "image": "ireland.svg"
-                },{
-                    "name": "Italy",
-                    "image": "italy.svg"
-                },{
-                    "name": "Latvia",
-                    "image": "latvia.svg"
-                },{
-                    "name": "Lithuania",
-                    "image": "lithuania.svg"
-                },{
-                    "name": "Luxembourg",
-                    "image": "luxembourg.svg"
-                },{
-                    "name": "Malta",
-                    "image": "malta.svg"
-                },{
-                    "name": "Netherlands",
-                    "image": "netherlands.svg"
-                },{
-                    "name": "Poland",
-                    "image": "poland.svg"
-                },{
-                    "name": "Portugal",
-                    "image": "portugal.svg"
-                },{
-                    "name": "Romania",
-                    "image": "romania.svg"
-                },{
-                    "name": "Slovakia",
-                    "image": "slovakia.svg"
-                },{
-                    "name": "Slovenia",
-                    "image": "slovenia.svg"
-                },{
-                    "name": "Spain",
-                    "image": "spain.svg"
-                },{
-                    "name": "Sweden",
-                    "image": "sweden.svg"
-                },{
-                    "name": "United Kingdom",
-                    "image": "united-kingdom.svg"
-                }
+                "Austria",
+                "Belgium",
+                "Bulgaria",
+                "Croatia",
+                "Cyprus",
+                "Czech Republic",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Ireland",
+                "Italy",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Netherlands",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Slovakia",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "United Kingdom"
             ]
         },
         "sources": [
@@ -136,7 +77,6 @@
     }
     ,{
         "name": "Pacific Community",
-        "image": "pacific-community.svg",
         "category": "International Organizations",
         "history": "On 6 December 1999 during a conference in Papeete the SPC, formerly the South Pacific Commission adopted the present flag. [0]",
         "meaning": "The arch represents the secretariat which ties the countries together. The sail and ocean symbolise linkage and interchange, while the sail itself represents a canoe and symbolises movement and change. The palm tree symbolises wealth. The colors intend to mirror the clear night skies of the Pacific (the dark blue field and the white stars). The turquoise sail, arch and lower wave symbolises youth and the island chains of the region. Each member of the organization is represented by a star.[0]",
@@ -157,85 +97,32 @@
         "adoptionDate": 1999,
         "related": {
             "member": [
-                {
-                    "name": "American Samoa",
-                    "image": "american-samoa.svg"
-                },{
-                    "name": "Australia",
-                    "image": "australia.svg"
-                },{
-                    "name": "Cook Islands",
-                    "image": "cook-islands.svg"
-                },{
-                    "name": "Fiji",
-                    "image": "fiji.svg"
-                },{
-                    "name": "France",
-                    "image": "france.svg"
-                },{
-                    "name": "French Polynesia",
-                    "image": "french-polynesia.svg"
-                },{
-                    "name": "Guam",
-                    "image": "guam.svg"
-                },{
-                    "name": "Kiribati",
-                    "image": "kiribati.svg"
-                },{
-                    "name": "Marshall Islands",
-                    "image": "marshall-islands.svg"
-                },{
-                    "name": "Micronesia",
-                    "image": "micronesia.svg"
-                },{
-                    "name": "Nauru",
-                    "image": "nauru.svg"
-                },{
-                    "name": "New Caledonia",
-                    "image": "new-caledonia.svg"
-                },{
-                    "name": "New Zealand",
-                    "image": "new-zealand.svg"
-                },{
-                    "name": "Niue",
-                    "image": "niue.svg"
-                },{
-                    "name": "Northern Mariana Islands",
-                    "image": "northern-mariana-islands.svg"
-                },{
-                    "name": "Palau",
-                    "image": "palau.svg"
-                },{
-                    "name": "Papua New Guinea",
-                    "image": "papua-new-guinea.svg"
-                },{
-                    "name": "Pitcairn Islands",
-                    "image": "pitcairn-islands.svg"
-                },{
-                    "name": "Samoa",
-                    "image": "samoa.svg"
-                },{
-                    "name": "Solomon Islands",
-                    "image": "solomon-islands.svg"
-                },{
-                    "name": "Tokelau",
-                    "image": "tokelau.svg"
-                },{
-                    "name": "Tonga",
-                    "image": "tonga.svg"
-                },{
-                    "name": "Tuvalu",
-                    "image": "tuvalu.svg"
-                },{
-                    "name": "United States",
-                    "image": "united-states.svg"
-                },{
-                    "name": "Vanuatu",
-                    "image": "vanuatu.svg"
-                },{
-                    "name": "Wallis and Futuna",
-                    "image": "wallis-and-futuna.svg"
-                }
+                "American Samoa",
+                "Australia",
+                "Cook Islands",
+                "Fiji",
+                "France",
+                "French Polynesia",
+                "Guam",
+                "Kiribati",
+                "Marshall Islands",
+                "Micronesia",
+                "Nauru",
+                "New Caledonia",
+                "New Zealand",
+                "Niue",
+                "Northern Mariana Islands",
+                "Palau",
+                "Papua New Guinea",
+                "Pitcairn Islands",
+                "Samoa",
+                "Solomon Islands",
+                "Tokelau",
+                "Tonga",
+                "Tuvalu",
+                "United States",
+                "Vanuatu",
+                "Wallis and Futuna"
             ]
         },
         "sources": [
@@ -244,7 +131,6 @@
     }
     ,{
         "name": "Arab League",
-        "image": "arab-league.svg",
         "category": "International Organizations",
         "history": "The flag of the Arab League was adopted in 1945.\n\nThere are also several flags for the Arab League, usually seen at Arab League summits: one, with an inverted Arab League flag with a white background for the President of the summit was clearly seen in the Arab League Summit in Beirut (2002).\n\nOlder Arab League flags have the chains in red or black, the Arabic script in black or gold with green or white crescents, usually adopted in the 1950s to the 1970s. [0]",
         "meaning": "The twenty-two links in the chain represent the twenty-two members of the League at the time of the flag's adoption. The script gives the name of the organization: \"League of Arab States\". [0]",
@@ -265,73 +151,28 @@
         "adoptionDate": 1945,
         "related": {
             "member": [
-                {
-                    "name": "Algeria",
-                    "image": "algeria.svg"
-                },{
-                    "name": "Bahrain",
-                    "image": "bahrain.svg"
-                },{
-                    "name": "Comoros",
-                    "image": "comoros.svg"
-                },{
-                    "name": "Djibouti",
-                    "image": "djibouti.svg"
-                },{
-                    "name": "Egypt",
-                    "image": "egypt.svg"
-                },{
-                    "name": "Iraq",
-                    "image": "iraq.svg"
-                },{
-                    "name": "Jordan",
-                    "image": "jordan.svg"
-                },{
-                    "name": "Kuwait",
-                    "image": "kuwait.svg"
-                },{
-                    "name": "Lebanon",
-                    "image": "lebanon.svg"
-                },{
-                    "name": "Libya",
-                    "image": "libya.svg"
-                },{
-                    "name": "Mauritania",
-                    "image": "mauritania.svg"
-                },{
-                    "name": "Morocco",
-                    "image": "morocco.svg"
-                },{
-                    "name": "Oman",
-                    "image": "oman.svg"
-                },{
-                    "name": "Palestine",
-                    "image": "palestine.svg"
-                },{
-                    "name": "Qatar",
-                    "image": "qatar.svg"
-                },{
-                    "name": "Saudi Arabia",
-                    "image": "saudi-arabia.svg"
-                },{
-                    "name": "Somalia",
-                    "image": "somalia.svg"
-                },{
-                    "name": "Sudan",
-                    "image": "sudan.svg"
-                },{
-                    "name": "Syria",
-                    "image": "syria.svg"
-                },{
-                    "name": "Tunisia",
-                    "image": "tunisia.svg"
-                },{
-                    "name": "United Arab Emirates",
-                    "image": "united-arab-emirates.svg"
-                },{
-                    "name": "Yemen",
-                    "image": "yemen.svg"
-                }
+                "Algeria",
+                "Bahrain",
+                "Comoros",
+                "Djibouti",
+                "Egypt",
+                "Iraq",
+                "Jordan",
+                "Kuwait",
+                "Lebanon",
+                "Libya",
+                "Mauritania",
+                "Morocco",
+                "Oman",
+                "Palestine",
+                "Qatar",
+                "Saudi Arabia",
+                "Somalia",
+                "Sudan",
+                "Syria",
+                "Tunisia",
+                "United Arab Emirates",
+                "Yemen"
             ]
         },
         "sources": [
@@ -340,7 +181,6 @@
     }
     ,{
         "name": "Caribbean Community",
-        "image": "caricom.svg",
         "category": "International Organizations",
         "history": "The Standard or Flag of the Caribbean Community was chosen in November 1983 at the Conference of Heads of Government Meeting in Port of Spain, Trinidad. There the Conference approved the design of the CARICOM flag. The original design was done by the firm of WINART Studies in Georgetown, Guyana but this was substantially modified at the Meeting of the Conference of Heads of Government in July 1983. The flag was first flown on 4 July 1984 in Nassau, Bahamas at the fifth Meeting of the Conference of Heads of Government. [0]",
         "meaning": "The Flag features a blue background - the upper part being of a light blue representing the sky and the lower part of a dark blue representing the Caribbean Sea. The yellow circle in the centre of the Flag represents the sun on which is printed in black, the logo of the Caribbean Community - two interlocking Cs. The two Cs are in the form of broken links in a chain, symbolising both unity and the break with the colonial past. The narrow ring of green around the sun represents the vegetation of the Region. [0]",
@@ -367,52 +207,21 @@
         "adoptionDate": 1983,
         "related": {
             "member": [
-                {
-                    "name": "Antigua and Barbuda",
-                    "image": "antigua-and-barbuda.svg"
-                },{
-                    "name": "Bahamas",
-                    "image": "bahamas.svg"
-                },{
-                    "name": "Barbados",
-                    "image": "barbados.svg"
-                },{
-                    "name": "Belize",
-                    "image": "belize.svg"
-                },{
-                    "name": "Dominica",
-                    "image": "dominica.svg"
-                },{
-                    "name": "Grenada",
-                    "image": "grenada.svg"
-                },{
-                    "name": "Guyana",
-                    "image": "guyana.svg"
-                },{
-                    "name": "Haiti",
-                    "image": "haiti.svg"
-                },{
-                    "name": "Jamaica",
-                    "image": "jamaica.svg"
-                },{
-                    "name": "Montserrat",
-                    "image": "montserrat.svg"
-                },{
-                    "name": "Saint Kitts and Nevis",
-                    "image": "saint-kitts-and-nevis.svg"
-                },{
-                    "name": "Saint Lucia",
-                    "image": "saint-lucia.svg"
-                },{
-                    "name": "Saint Vincent and the Grenadines",
-                    "image": "saint-vincent-and-the-grenadines.svg"
-                },{
-                    "name": "Suriname",
-                    "image": "suriname.svg"
-                },{
-                    "name": "Trinidad and Tobago",
-                    "image": "trinidad-and-tobago.svg"
-                }
+                "Antigua and Barbuda",
+                "Bahamas",
+                "Barbados",
+                "Belize",
+                "Dominica",
+                "Grenada",
+                "Guyana",
+                "Haiti",
+                "Jamaica",
+                "Montserrat",
+                "Saint Kitts and Nevis",
+                "Saint Lucia",
+                "Saint Vincent and the Grenadines",
+                "Suriname",
+                "Trinidad and Tobago"
             ]
         },
         "sources": [
@@ -421,7 +230,6 @@
     }
     ,{
         "name": "Benelux",
-        "image": "benelux.svg",
         "category": "International Organizations",
         "history": "The flag of Benelux is an unofficial flag commissioned by the Committee for Belgian-Dutch-Luxembourgian Cooperation in 1951. [0]",
         "meaning": "The red stripe is from the Flag of Luxembourg, the blue stripe is from the Flag of the Netherlands, and the black stripe and yellow lion rampant are taken from the Coat of arms of Belgium. The lion also historically represents the Benelux - or in other words, the Low Countries - area as a whole, since each constituent nation possesses a coat of arms featuring a lion rampant facing left (Leo Belgicus), which during the 1600s already symbolised the Low Lands as a whole or in part. [0]",
@@ -448,16 +256,9 @@
         "adoptionDate": 1951,
         "related": {
             "member": [
-                {
-                    "name": "Belgium",
-                    "image": "belgium.svg"
-                },{
-                    "name": "Luxembourg",
-                    "image": "luxembourg.svg"
-                },{
-                    "name": "Netherlands",
-                    "image": "netherlands.svg"
-                }
+                "Belgium",
+                "Luxembourg",
+                "Netherlands"
             ]
         },
         "sources": [
@@ -466,7 +267,6 @@
     }
     ,{
         "name": "Association of Southeast Asian Nations",
-        "image": "asean.svg",
         "category": "International Organizations",
         "history": "The flag of the Association of Southeast Asian Nations was adopted in July 1997, and consists of the official emblem of ASEAN on a blue background. The design of the flag derived from the Emblem of the Association of Southeast Asian Nations.\n\nASEAN's previous flag was similar to the current one - it had six paddy stalks representing the five founding members and Brunei and the word ASEAN written under the stalks. The background was white instead of blue, the border of the circle along with the word ASEAN was cyan, and the circle was bright yellow. The stalks themselves were golden brownish in colour. [0]",
         "meaning": "The official symbolism of the flag is detailed in the ASEAN Charter. Blue represents peace and stability, red represents courage and dynamism, white represents purity, and yellow represents prosperity.\n\nThe stalks symbolise ASEAN's ten members.\n\nThe colours of the flag – blue, red, white, and yellow – represent the main colours of the national flags of all ten ASEAN member states. [0]",
@@ -490,37 +290,16 @@
         "adoptionDate": 1997,
         "related": {
             "member": [
-                {
-                    "name": "Brunei",
-                    "image": "brunei.svg"
-                },{
-                    "name": "Cambodia",
-                    "image": "cambodia.svg"
-                },{
-                    "name": "Indonesia",
-                    "image": "indonesia.svg"
-                },{
-                    "name": "Laos",
-                    "image": "laos.svg"
-                },{
-                    "name": "Malaysia",
-                    "image": "malaysia.svg"
-                },{
-                    "name": "Myanmar",
-                    "image": "myanmar.svg"
-                },{
-                    "name": "Philippines",
-                    "image": "philippines.svg"
-                },{
-                    "name": "Singapore",
-                    "image": "singapore.svg"
-                },{
-                    "name": "Thailand",
-                    "image": "thailand.svg"
-                },{
-                    "name": "Vietnam",
-                    "image": "vietnam.svg"
-                }
+                "Brunei",
+                "Cambodia",
+                "Indonesia",
+                "Laos",
+                "Malaysia",
+                "Myanmar",
+                "Philippines",
+                "Singapore",
+                "Thailand",
+                "Vietnam"
             ]
         },
         "sources": [
@@ -529,7 +308,6 @@
     }
     ,{
         "name": "Union of South American Nations",
-        "image": "unasur.svg",
         "category": "International Organizations",
         "history": "The flag has not been officially ratified by UNASUR but is still used during official events. [0]",
         "meaning": "The white curves represent the South American continent. [0]",
@@ -547,43 +325,18 @@
         "adoptionDate": 2008,
         "related": {
             "member": [
-                {
-                    "name": "Argentina",
-                    "image": "argentina.svg"
-                },{
-                    "name": "Bolivia",
-                    "image": "bolivia.svg"
-                },{
-                    "name": "Brazil",
-                    "image": "brazil.svg"
-                },{
-                    "name": "Chile",
-                    "image": "chile.svg"
-                },{
-                    "name": "Colombia",
-                    "image": "colombia.svg"
-                },{
-                    "name": "Ecuador",
-                    "image": "ecuador.svg"
-                },{
-                    "name": "Guyana",
-                    "image": "guyana.svg"
-                },{
-                    "name": "Paraguay",
-                    "image": "paraguay.svg"
-                },{
-                    "name": "Peru",
-                    "image": "peru.svg"
-                },{
-                    "name": "Suriname",
-                    "image": "suriname.svg"
-                },{
-                    "name": "Uruguay",
-                    "image": "uruguay.svg"
-                },{
-                    "name": "Venezuela",
-                    "image": "venezuela.svg"
-                }
+                "Argentina",
+                "Bolivia",
+                "Brazil",
+                "Chile",
+                "Colombia",
+                "Ecuador",
+                "Guyana",
+                "Paraguay",
+                "Peru",
+                "Suriname",
+                "Uruguay",
+                "Venezuela"
             ]
         },
         "sources": [
@@ -593,7 +346,6 @@
     }
     ,{
         "name": "Andean Community",
-        "image": "andean-community.svg",
         "category": "International Organizations",
         "history": "The flag was adopted in May 2004. [0]",
         "meaning": "White represents peace, harmony and unity in diversity. The golden emblem stands for the strenght of the ideals of integration. [0]",
@@ -611,19 +363,10 @@
         "adoptionDate": 2004,
         "related": {
             "member": [
-                {
-                    "name": "Bolivia",
-                    "image": "bolivia.svg"
-                },{
-                    "name": "Colombia",
-                    "image": "colombia.svg"
-                },{
-                    "name": "Ecuador",
-                    "image": "ecuador.svg"
-                },{
-                    "name": "Peru",
-                    "image": "peru.svg"
-                }
+                "Bolivia",
+                "Colombia",
+                "Ecuador",
+                "Peru"
             ]
         },
         "sources": [
@@ -633,7 +376,6 @@
     }
     ,{
         "name": "African Union",
-        "image": "african-union.svg",
         "category": "International Organizations",
         "history": "he current flag of the African Union was adopted at its 14th Ordinary Session of the Assembly of Heads of State and Government, which took place in Addis Ababa on 31 January 2010.\n\nDuring the 8th African Union Summit which took place in Addis Ababa on 29 and 30 January 2007, the Heads of State and Government decided to launch a competition for the selection of a new flag for the Union. They prescribed a green background for the flag symbolising hope of Africa and stars to represent Member States.\n\nPursuant to this decision, the Muammar Gaddafi-led African Union Commission (AUC) organised a competition for the selection of a new flag for the African Union. The AUC received a total of 106 entries proposed by citizens of 19 African countries and 2 from the Diaspora. The proposals were then examined by a panel of experts put in place by the African Union Commission and selected from the five African regions for short listing according to the main directions given by the Heads of State and Government. [0]",
         "meaning": "It contains a green background symbolizing hope of Africa and 53 gold stars to represent the Member States. [0]",
@@ -654,169 +396,60 @@
         "adoptionDate": 2010,
         "related": {
             "member": [
-                {
-                    "name": "Algeria",
-                    "image": "algeria.svg"
-                },{
-                    "name": "Angola",
-                    "image": "angola.svg"
-                },{
-                    "name": "Benin",
-                    "image": "benin.svg"
-                },{
-                    "name": "Botswana",
-                    "image": "botswana.svg"
-                },{
-                    "name": "Burkina Faso",
-                    "image": "burkina-faso.svg"
-                },{
-                    "name": "Burundi",
-                    "image": "burundi.svg"
-                },{
-                    "name": "Cape Verde",
-                    "image": "cape-verde.svg"
-                },{
-                    "name": "Cameroon",
-                    "image": "cameroon.svg"
-                },{
-                    "name": "Central African Republic",
-                    "image": "central-african-republic.svg"
-                },{
-                    "name": "Chad",
-                    "image": "chad.svg"
-                },{
-                    "name": "Comoros",
-                    "image": "comoros.svg"
-                },{
-                    "name": "Congo",
-                    "image": "congo.svg"
-                },{
-                    "name": "Democratic Republic of the Congo",
-                    "image": "democratic-republic-congo.svg"
-                },{
-                    "name": "Djibouti",
-                    "image": "djibouti.svg"
-                },{
-                    "name": "Egypt",
-                    "image": "egypt.svg"
-                },{
-                    "name": "Equatorial Guinea",
-                    "image": "equatorial-guinea.svg"
-                },{
-                    "name": "Eritrea",
-                    "image": "eritrea.svg"
-                },{
-                    "name": "Ethiopia",
-                    "image": "ethiopia.svg"
-                },{
-                    "name": "Gabon",
-                    "image": "gabon.svg"
-                },{
-                    "name": "Gambia",
-                    "image": "gambia.svg"
-                },{
-                    "name": "Ghana",
-                    "image": "ghana.svg"
-                },{
-                    "name": "Guinea",
-                    "image": "guinea.svg"
-                },{
-                    "name": "Guinea-Bissau",
-                    "image": "guinea-bissau.svg"
-                },{
-                    "name": "Ivory Coast",
-                    "image": "ivory-coast.svg"
-                },{
-                    "name": "Kenya",
-                    "image": "kenya.svg"
-                },{
-                    "name": "Lesotho",
-                    "image": "lesotho.svg"
-                },{
-                    "name": "Liberia",
-                    "image": "liberia.svg"
-                },{
-                    "name": "Libya",
-                    "image": "libya.svg"
-                },{
-                    "name": "Madagascar",
-                    "image": "madagascar.svg"
-                },{
-                    "name": "Malawi",
-                    "image": "malawi.svg"
-                },{
-                    "name": "Mali",
-                    "image": "mali.svg"
-                },{
-                    "name": "Mauritania",
-                    "image": "mauritania.svg"
-                },{
-                    "name": "Mauritius",
-                    "image": "mauritius.svg"
-                },{
-                    "name": "Mozambique",
-                    "image": "mozambique.svg"
-                },{
-                    "name": "Namibia",
-                    "image": "namibia.svg"
-                },{
-                    "name": "Niger",
-                    "image": "niger.svg"
-                },{
-                    "name": "Nigeria",
-                    "image": "nigeria.svg"
-                },{
-                    "name": "Rwanda",
-                    "image": "rwanda.svg"
-                },{
-                    "name": "Sahrawi Arab Democratic Republic",
-                    "image": "sahrawi-arab-democratic-republic.svg"
-                },{
-                    "name": "São Tomé and Príncipe",
-                    "image": "sao-tome-and-principe.svg"
-                },{
-                    "name": "Senegal",
-                    "image": "senegal.svg"
-                },{
-                    "name": "Seychelles",
-                    "image": "seychelles.svg"
-                },{
-                    "name": "Sierra Leone",
-                    "image": "sierra-leone.svg"
-                },{
-                    "name": "Somalia",
-                    "image": "somalia.svg"
-                },{
-                    "name": "South Africa",
-                    "image": "south-africa.svg"
-                },{
-                    "name": "South Sudan",
-                    "image": "south-sudan.svg"
-                },{
-                    "name": "Sudan",
-                    "image": "sudan.svg"
-                },{
-                    "name": "Swaziland",
-                    "image": "swaziland.svg"
-                },{
-                    "name": "Tanzania",
-                    "image": "tanzania.svg"
-                },{
-                    "name": "Togo",
-                    "image": "togo.svg"
-                },{
-                    "name": "Tunisia",
-                    "image": "tunisia.svg"
-                },{
-                    "name": "Uganda",
-                    "image": "uganda.svg"
-                },{
-                    "name": "Zambia",
-                    "image": "zambia.svg"
-                },{
-                    "name": "Zimbabwe",
-                    "image": "zimbabwe.svg"
-                }
+                "Algeria",
+                "Angola",
+                "Benin",
+                "Botswana",
+                "Burkina Faso",
+                "Burundi",
+                "Cape Verde",
+                "Cameroon",
+                "Central African Republic",
+                "Chad",
+                "Comoros",
+                "Congo",
+                "Democratic Republic of the Congo",
+                "Djibouti",
+                "Egypt",
+                "Equatorial Guinea",
+                "Eritrea",
+                "Ethiopia",
+                "Gabon",
+                "Gambia",
+                "Ghana",
+                "Guinea",
+                "Guinea-Bissau",
+                "Ivory Coast",
+                "Kenya",
+                "Lesotho",
+                "Liberia",
+                "Libya",
+                "Madagascar",
+                "Malawi",
+                "Mali",
+                "Mauritania",
+                "Mauritius",
+                "Mozambique",
+                "Namibia",
+                "Niger",
+                "Nigeria",
+                "Rwanda",
+                "Sahrawi Arab Democratic Republic",
+                "São Tomé and Príncipe",
+                "Senegal",
+                "Seychelles",
+                "Sierra Leone",
+                "Somalia",
+                "South Africa",
+                "South Sudan",
+                "Sudan",
+                "Swaziland",
+                "Tanzania",
+                "Togo",
+                "Tunisia",
+                "Uganda",
+                "Zambia",
+                "Zimbabwe"
             ]
         },
         "sources": [
@@ -825,7 +458,6 @@
     }
     ,{
         "name": "East African Community",
-        "image": "east-african-community.svg",
         "category": "International Organizations",
         "history": "The flag of the East African Community is the flag used since 2008 by the East African Community, an intergovernmental organisation composed of six countries in the African Great Lakes region in eastern Africa.\n\nThe first version of the flag was adopted in 2003 by the Community Emblem Act, 2003 when the Community only consisted of three members: Kenya, Tanzania, and Uganda. In 2007 the Community expanded to include Burundi and Rwanda. In 2008 to take into account this expansion of membership the Community Emblems (Amendment) Act, 2008 was passed, which modified the emblem to include Burundi and Rwanda. [0]",
         "meaning": "The Community Emblem Act, 2003 sets out the symbolism behind the flag. Blue: Lake Victoria signifying the unity of the EAC Partner States. White, Black, Green, Yellow, Red: Representing the different colours of the flags of each of the EAC Partner States. Handshake: East African Community. Centre: Emblem of the East African Community. [0]",
@@ -855,25 +487,12 @@
         "adoptionDate": 2008,
         "related": {
             "member": [
-                {
-                    "name": "Burundi",
-                    "image": "burundi.svg"
-                },{
-                    "name": "Kenya",
-                    "image": "kenya.svg"
-                },{
-                    "name": "Rwanda",
-                    "image": "rwanda.svg"
-                },{
-                    "name": "South Sudan",
-                    "image": "south-sudan.svg"
-                },{
-                    "name": "Tanzania",
-                    "image": "tanzania.svg"
-                },{
-                    "name": "Uganda",
-                    "image": "uganda.svg"
-                }
+                "Burundi",
+                "Kenya",
+                "Rwanda",
+                "South Sudan",
+                "Tanzania",
+                "Uganda"
             ]
         },
         "sources": [

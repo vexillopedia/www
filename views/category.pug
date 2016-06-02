@@ -15,6 +15,6 @@ block body
         ul.card-list
             each flag in flags
                 li.card
-                    a(href="/flag/" + flag.name) 
-                        img(src="/img/flag/" + flag.image alt= flag.name)
-                        span #{flag.name}
+                    a(href="/flag/" + flag) 
+                        img(src="/img/flag/" + dashify(flag) + ".svg" alt= flag)
+                        span #{flag}
