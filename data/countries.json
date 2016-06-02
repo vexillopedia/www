@@ -77,6 +77,10 @@
         "related": {
             "memberOf": [
                 {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+                ,{
                     "name": "Arab League",
                     "image": "arab-league.svg"    
                 }
@@ -147,7 +151,14 @@
         ],
         "design": "It is split horizontally into an upper red half and a lower black half, and features a yellow half-gear crossed with a machete and crowned with a star. [0]",
         "adoptionDate": 1975,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Angola"
         ]
@@ -657,7 +668,14 @@
         ],
         "design": "A horizontal bicolor of yellow and red with a green vertical band at the hoist. [0]",
         "adoptionDate": 1959,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Benin",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html",
@@ -776,7 +794,14 @@
         ],
         "design": "A light blue field cut horizontally in the centre by a black stripe with a thin white frame. [0]",
         "adoptionDate": 1966,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Botswana"
         ]
@@ -908,7 +933,14 @@
         ],
         "design": "A horizontal bicolor of red and green with a yellow star in the center. [0]",
         "adoptionDate": 1984,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Burkina_Faso"
         ]
@@ -934,7 +966,14 @@
         ],
         "design": "A white saltire on a red and green field with a white disk, consisting of three red solid six-pointed stars outlined in green, being on the center. [0]",
         "adoptionDate": 1967,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Burundi"
         ]
@@ -1053,7 +1092,14 @@
         ],
         "design": "Five unequal horizontal bands; the top-most band of blue - equal to one half the width of the flag - is followed by three bands of white, red, and white, each equal to 1/12 of the width, and a bottom stripe of blue equal to one quarter of the flag width; a circle of 10, yellow, five-pointed stars is centered on the red stripe and positioned 3/8 of the length of the flag from the hoist side. [1]",
         "adoptionDate": 1992,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Cape_Verde",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -1086,7 +1132,14 @@
         ],
         "design": "Four equal horizontal bands of blue (top), white, green, and yellow with a vertical red band in center; a yellow five-pointed star to the hoist side of the blue band. [1]",
         "adoptionDate": 1958,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Central_African_Republic",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -1114,6 +1167,12 @@
         "design": "A vertical tricolor of blue, yellow, and red. [0]",
         "adoptionDate": 1959,
         "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Andorra",
@@ -1279,6 +1338,10 @@
         "related": {
             "memberOf": [
                 {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+                ,{
                     "name": "Arab League",
                     "image": "arab-league.svg"    
                 }
@@ -1309,7 +1372,14 @@
         ],
         "design": "Sky blue flag, adorned with a yellow star in the upper left canton and cut diagonally by a red stripe with a thin yellow frame. [0]",
         "adoptionDate": 2006,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Democratic_Republic_of_the_Congo"
         ]
@@ -1335,7 +1405,14 @@
         ],
         "design": "A diagonal tricolour of green, yellow and red radiating from the lower hoist side corner. [0]",
         "adoptionDate": 1959,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Republic_of_the_Congo"
         ]
@@ -1592,6 +1669,10 @@
         "related": {
             "memberOf": [
                 {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+                ,{
                     "name": "Arab League",
                     "image": "arab-league.svg"    
                 }
@@ -1771,6 +1852,10 @@
         "related": {
             "memberOf": [
                 {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+                ,{
                     "name": "Arab League",
                     "image": "arab-league.svg"    
                 }
@@ -1853,7 +1938,14 @@
         ],
         "design": "A horizontal tricolor of green, white and red with a blue isosceles triangle based on the hoist side and the National Coat of arms of Equatorial Guinea centered in the white band. [0]",
         "adoptionDate": 1979,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Equatorial_Guinea",
             "https://flagspot.net/flags/gq.html"
@@ -1883,7 +1975,14 @@
         ],
         "design": "A red isosceles triangle based on the hoist-side pointed toward the fly-side and then divided into two right triangles: the upper triangle is green and the lower triangle is blue with an Emblem (1952-1962) in gold (a vertical olive branch encircled by an olive wreath) centered on the hoist side of the triangle. [0]",
         "adoptionDate": 1995,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Eritrea"
         ]
@@ -1945,7 +2044,12 @@
         ],
         "design": "A horizontal tricolor of green, yellow and red with the National Emblem superimposed at the center. [0]",
         "adoptionDate": 1996,
-        "related": {},
+        "related": {"memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]},
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Ethiopia"
         ]
@@ -2139,7 +2243,14 @@
         ],
         "design": "A horizontal triband of green, gold and blue. [0]",
         "adoptionDate": 1960,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Gabon"
         ]
@@ -2168,7 +2279,14 @@
         ],
         "design": "A horizontal tricolor of red, blue and green; each band of colour is separated by a narrow band of white. [0]",
         "adoptionDate": 1965,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Gambia"
         ]
@@ -2264,7 +2382,14 @@
         ],
         "design": "A horizontal triband of red, gold, and green, charged with a black star in the center. [0]",
         "adoptionDate": 1957,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Ghana"
         ]
@@ -2377,6 +2502,12 @@
         "design": "A vertical tricolour of red, yellow and green. [0]",
         "adoptionDate": 1958,
         "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Mali",
@@ -2412,7 +2543,14 @@
         ],
         "design": "One vertical red line on the hoist side charged with a black five-pointed star; two horizontal lines on the fly side (yellow and green). [0]",
         "adoptionDate": 1973,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Guinea-Bissau"
         ]
@@ -3060,7 +3198,14 @@
         ],
         "design": "A horizontal tricolour of black, white-edged red, and green with two crossed white spears behind a red, white, and black Maasai shield. [0]",
         "adoptionDate": 1963,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Kenya"
         ]
@@ -3337,7 +3482,14 @@
         ],
         "design": "A horizontal triband of blue, white and green; charged with a black mokorotlo (a Basotho hat) centred on the white band. [0]",
         "adoptionDate": 2006,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Lesotho"
         ]
@@ -3364,6 +3516,12 @@
         "design": "Eleven horizontal stripes alternating red and white; in the canton, a white star on a blue field. [0]",
         "adoptionDate": 1847,
         "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Malaysia",
@@ -3405,6 +3563,10 @@
         "related": {
             "memberOf": [
                 {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+                ,{
                     "name": "Arab League",
                     "image": "arab-league.svg"    
                 }
@@ -3574,7 +3736,14 @@
         ],
         "design": "A horizontal bicolour of red and green with a white vertical band on the hoist side. [0]",
         "adoptionDate": 1958,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Madagascar"
         ]
@@ -3600,7 +3769,14 @@
         ],
         "design": "A horizontal triband of black, red, and green; charged with a red rising sun centred on the black stripe. [0]",
         "adoptionDate": 1964,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Malawi"
         ]
@@ -3698,6 +3874,12 @@
         "design": "A vertical tricolor of green, gold and red. [0]",
         "adoptionDate": 1961,
         "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Guinea",
@@ -3796,6 +3978,10 @@
         "related": {
             "memberOf": [
                 {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+                ,{
                     "name": "Arab League",
                     "image": "arab-league.svg"    
                 }
@@ -3830,7 +4016,14 @@
         ],
         "design": "Four horizontal bands of red, blue, yellow and green. [0]",
         "adoptionDate": 1968,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Mauritius"
         ]
@@ -4101,7 +4294,14 @@
         ],
         "design": "A horizontal triband of green, black and yellow (each band is separated by a white fimbriation); with a red chevron based on the hoist side charged with a hoe, over a rifle, over an open book, over a yellow five-pointed star. [0]",
         "adoptionDate": 1983,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Mozambique"
         ]
@@ -4175,7 +4375,14 @@
         ],
         "design": "A white-edged red diagonal band radiating from the lower hoist-side corner. The upper triangle is blue, charged with a gold sun with 12 triangular rays and the lower triangle is green. [0]",
         "adoptionDate": 1990,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Namibia"
         ]
@@ -4425,12 +4632,20 @@
         ],
         "design": "A horizontal triband of orange, white and green; charged with an orange circle in the centre. [0]",
         "adoptionDate": 1957,
-        "related": {"similar": [
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ],
+            "similar": [
                 {
                     "name": "India",
                     "image": "india.svg"
                 }
-            ]},
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Niger"
         ]
@@ -4453,7 +4668,14 @@
         ],
         "design": "A vertical bicolour triband of green, white and green. [0]",
         "adoptionDate": 1960,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Nigeria",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -4981,7 +5203,14 @@
         ],
         "design": "A horizontal tricolour of blue (double width), yellow and green; charged with a sun-yellow sun in the upper-hoist side corner. [0]",
         "adoptionDate": 2001,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Rwanda"
         ]
@@ -5182,7 +5411,14 @@
         ],
         "design": "A horizontal tricolour of green, yellow and green; with a red triangle based at the hoist and two black five-pointed stars in the yellow stripe. [0]",
         "adoptionDate": 1975,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_São_Tomé_and_Príncipe",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -5240,6 +5476,12 @@
         "design": "A vertical tricolour of green, yellow and red; charged with a green five-pointed star at the centre. [0]",
         "adoptionDate": 1960,
         "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Mali",
@@ -5315,7 +5557,14 @@
         ],
         "design": "Five oblique bands of blue (hoist side), yellow, red, white, and green (bottom) radiating from the bottom of the hoist side. [0]",
         "adoptionDate": 1996,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Seychelles"
         ]
@@ -5341,7 +5590,14 @@
         ],
         "design": "A horizontal tricolour of light green, white and light blue. [0]",
         "adoptionDate": 1961,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Sierra_Leone"
         ]
@@ -5527,6 +5783,10 @@
         "related": {
             "memberOf": [
                 {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+                ,{
                     "name": "Arab League",
                     "image": "arab-league.svg"    
                 }
@@ -5578,7 +5838,14 @@
         ],
         "design": "A horizontal bicolor of red and blue with a black isosceles triangle based on the hoist-side and a green pall, a central green band that splits into a horizontal Y, centered over the partition lines and was edged in both white against the red and the blue bands and gold against the triangle, in which the arms of the Y ends at the corners of the hoist and embraces the triangle on the hoist-side. [0]",
         "adoptionDate": 1994,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_South_Africa"
         ]
@@ -5613,7 +5880,14 @@
         ],
         "design": "A horizontal tricolour of black, red, and green, fimbriated with white stripes; with a blue equilateral triangle based on the hoist side bearing a gold star. [0]",
         "adoptionDate": 2005,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_South_Sudan"
         ]
@@ -5711,6 +5985,10 @@
         "related": {
             "memberOf": [
                 {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+                ,{
                     "name": "Arab League",
                     "image": "arab-league.svg"    
                 }
@@ -5788,7 +6066,14 @@
         ],
         "design": "A horizontal triband of blue (top and bottom) and the yellow-edged red (triple width) with a large black and white shield covering two spears and a staff decorated with feather tassels all placed centered horizontally in the red band. [0]",
         "adoptionDate": 1968,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Swaziland"
         ]
@@ -5969,7 +6254,14 @@
         ],
         "design": "A yellow-edged black diagonal band divided diagonally from the lower hoist-side corner: the upper triangle is green and the lower triangle is blue. [0]",
         "adoptionDate": 1964,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Tanzania"
         ]
@@ -6037,7 +6329,14 @@
         ],
         "design": "Five equal horizontal bands of green (top and bottom) alternating with yellow; with a red canton bearing a white five-pointed star. [0]",
         "adoptionDate": 1960,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Togo"
         ]
@@ -6126,6 +6425,10 @@
         "related": {
             "memberOf": [
                 {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+                ,{
                     "name": "Arab League",
                     "image": "arab-league.svg"    
                 }
@@ -6272,7 +6575,14 @@
         ],
         "design": "Six equal horizontal bands of black (top), yellow, red, black, yellow, and red (bottom); a white disc is superimposed at the centre and depicts the national symbol, a grey crowned crane, facing the hoist side. [0]",
         "adoptionDate": 1962,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Uganda"
         ]
@@ -6762,7 +7072,14 @@
         ],
         "design": "A green field with an orange coloured eagle in flight over a rectangular block of three vertical stripes coloured from left to right in red, black and orange. [0]",
         "adoptionDate": 1964,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Zambia",
             "https://flagspot.net/flags/zm.html"
@@ -6795,7 +7112,14 @@
         ],
         "design": "Seven horizontal stripes of green, yellow, red, black, red, yellow and green with a black-edged white isosceles triangle base on the hoist side bearing a Zimbabwe bird superimposed on a red five-pointed star. [0]",
         "adoptionDate": 1980,
-        "related": {},
+        "related": {
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Zimbabwe"
         ]

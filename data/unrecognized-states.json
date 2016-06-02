@@ -66,6 +66,12 @@
                     "image": "morocco.svg"
                 }
             ],
+            "memberOf": [
+                {
+                    "name": "African Union",
+                    "image": "african-union.svg"
+                }
+            ],
             "similar": [
                 {
                     "name": "Jordan",

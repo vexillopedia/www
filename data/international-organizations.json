@@ -631,4 +631,196 @@
             "https://en.wikipedia.org/wiki/Andean_Community"
         ]
     }
+    ,{
+        "name": "African Union",
+        "image": "african-union.svg",
+        "category": "International Organizations",
+        "history": "he current flag of the African Union was adopted at its 14th Ordinary Session of the Assembly of Heads of State and Government, which took place in Addis Ababa on 31 January 2010.\n\nDuring the 8th African Union Summit which took place in Addis Ababa on 29 and 30 January 2007, the Heads of State and Government decided to launch a competition for the selection of a new flag for the Union. They prescribed a green background for the flag symbolising hope of Africa and stars to represent Member States.\n\nPursuant to this decision, the Muammar Gaddafi-led African Union Commission (AUC) organised a competition for the selection of a new flag for the African Union. The AUC received a total of 106 entries proposed by citizens of 19 African countries and 2 from the Diaspora. The proposals were then examined by a panel of experts put in place by the African Union Commission and selected from the five African regions for short listing according to the main directions given by the Heads of State and Government. [0]",
+        "meaning": "It contains a green background symbolizing hope of Africa and 53 gold stars to represent the Member States. [0]",
+        "ratio": "31:42",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#006239"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#FABC0C"
+            }
+        ],
+        "design": "A dark green map of the African continent on a white sun, surrounded by a circle of 53 5-pointed gold (yellow) stars, on a dark green field. [0]",
+        "adoptionDate": 2010,
+        "related": {
+            "member": [
+                {
+                    "name": "Algeria",
+                    "image": "algeria.svg"
+                },{
+                    "name": "Angola",
+                    "image": "angola.svg"
+                },{
+                    "name": "Benin",
+                    "image": "benin.svg"
+                },{
+                    "name": "Botswana",
+                    "image": "botswana.svg"
+                },{
+                    "name": "Burkina Faso",
+                    "image": "burkina-faso.svg"
+                },{
+                    "name": "Burundi",
+                    "image": "burundi.svg"
+                },{
+                    "name": "Cape Verde",
+                    "image": "cape-verde.svg"
+                },{
+                    "name": "Cameroon",
+                    "image": "cameroon.svg"
+                },{
+                    "name": "Central African Republic",
+                    "image": "central-african-republic.svg"
+                },{
+                    "name": "Chad",
+                    "image": "chad.svg"
+                },{
+                    "name": "Comoros",
+                    "image": "comoros.svg"
+                },{
+                    "name": "Congo",
+                    "image": "congo.svg"
+                },{
+                    "name": "Democratic Republic of the Congo",
+                    "image": "democratic-republic-congo.svg"
+                },{
+                    "name": "Djibouti",
+                    "image": "djibouti.svg"
+                },{
+                    "name": "Egypt",
+                    "image": "egypt.svg"
+                },{
+                    "name": "Equatorial Guinea",
+                    "image": "equatorial-guinea.svg"
+                },{
+                    "name": "Eritrea",
+                    "image": "eritrea.svg"
+                },{
+                    "name": "Ethiopia",
+                    "image": "ethiopia.svg"
+                },{
+                    "name": "Gabon",
+                    "image": "gabon.svg"
+                },{
+                    "name": "Gambia",
+                    "image": "gambia.svg"
+                },{
+                    "name": "Ghana",
+                    "image": "ghana.svg"
+                },{
+                    "name": "Guinea",
+                    "image": "guinea.svg"
+                },{
+                    "name": "Guinea-Bissau",
+                    "image": "guinea-bissau.svg"
+                },{
+                    "name": "Ivory Coast",
+                    "image": "ivory-coast.svg"
+                },{
+                    "name": "Kenya",
+                    "image": "kenya.svg"
+                },{
+                    "name": "Lesotho",
+                    "image": "lesotho.svg"
+                },{
+                    "name": "Liberia",
+                    "image": "liberia.svg"
+                },{
+                    "name": "Libya",
+                    "image": "libya.svg"
+                },{
+                    "name": "Madagascar",
+                    "image": "madagascar.svg"
+                },{
+                    "name": "Malawi",
+                    "image": "malawi.svg"
+                },{
+                    "name": "Mali",
+                    "image": "mali.svg"
+                },{
+                    "name": "Mauritania",
+                    "image": "mauritania.svg"
+                },{
+                    "name": "Mauritius",
+                    "image": "mauritius.svg"
+                },{
+                    "name": "Mozambique",
+                    "image": "mozambique.svg"
+                },{
+                    "name": "Namibia",
+                    "image": "namibia.svg"
+                },{
+                    "name": "Niger",
+                    "image": "niger.svg"
+                },{
+                    "name": "Nigeria",
+                    "image": "nigeria.svg"
+                },{
+                    "name": "Rwanda",
+                    "image": "rwanda.svg"
+                },{
+                    "name": "Sahrawi Arab Democratic Republic",
+                    "image": "sahrawi-arab-democratic-republic.svg"
+                },{
+                    "name": "São Tomé and Príncipe",
+                    "image": "sao-tome-and-principe.svg"
+                },{
+                    "name": "Senegal",
+                    "image": "senegal.svg"
+                },{
+                    "name": "Seychelles",
+                    "image": "seychelles.svg"
+                },{
+                    "name": "Sierra Leone",
+                    "image": "sierra-leone.svg"
+                },{
+                    "name": "Somalia",
+                    "image": "somalia.svg"
+                },{
+                    "name": "South Africa",
+                    "image": "south-africa.svg"
+                },{
+                    "name": "South Sudan",
+                    "image": "south-sudan.svg"
+                },{
+                    "name": "Sudan",
+                    "image": "sudan.svg"
+                },{
+                    "name": "Swaziland",
+                    "image": "swaziland.svg"
+                },{
+                    "name": "Tanzania",
+                    "image": "tanzania.svg"
+                },{
+                    "name": "Togo",
+                    "image": "togo.svg"
+                },{
+                    "name": "Tunisia",
+                    "image": "tunisia.svg"
+                },{
+                    "name": "Uganda",
+                    "image": "uganda.svg"
+                },{
+                    "name": "Zambia",
+                    "image": "zambia.svg"
+                },{
+                    "name": "Zimbabwe",
+                    "image": "zimbabwe.svg"
+                }
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_African_Union"
+        ]
+    }
 ]
