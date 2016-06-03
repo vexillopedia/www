@@ -611,7 +611,11 @@
         ],
         "design": "Divided diagonally from the lower hoist-side corner; the upper triangle is yellow and the lower triangle is orange; centered along the dividing line is a large black and white dragon facing away from the hoist side. [0]",
         "adoptionDate": 1969,
-        "related": {},
+        "related": {
+            "similar": [
+                "Wales"
+            ]
+        },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Bhutan",
             "https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html"
@@ -5728,6 +5732,12 @@
                 "South Georgia and the South Sandwich Islands",
                 "Tristan da Cunha",
                 "Turks and Caicos Islands"
+            ],
+            "subdivision": [
+                "England",
+                "Northern Ireland",
+                "Scotland",
+                "Wales"
             ],
             "memberOf": [
                 "European Union"

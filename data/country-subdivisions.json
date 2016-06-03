@@ -904,4 +904,122 @@
             "https://en.wikipedia.org/wiki/Flag_of_Zanzibar"
         ]
     }
+    ,{
+        "name": "England",
+        "category": "Country Subdivisions",
+        "history": "The flag of England is derived from St George's Cross. The association of the red cross as an emblem of England can be traced back to the Middle Ages, and it was used as a component in the design of the Union Flag in 1606. [0]",
+        "meaning": "See History.",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#CE1124"
+            }
+        ],
+        "design": "A red centred cross on a white background [0]",
+        "adoptionDate": 1191,
+        "related": {
+            "country": [
+                "United Kingdom"
+            ],
+            "similar": [
+                "Guernsey",
+                "Northern Ireland"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_England"
+        ]
+    }
+    ,{
+        "name": "Northern Ireland",
+        "category": "Country Subdivisions",
+        "history": "The Flag of Northern Ireland, also known as the Ulster Flag or Ulster Banner, was used by the Northern Ireland government from 1953 until the government and parliament were abolished in 1973. Since then, it has had no official status and is not used by the current Northern Ireland government nor by the British government.\n\nHowever, it is still in common use; by loyalists/unionists, and to represent Northern Ireland internationally in some sporting competitions. The flag has become controversial; it is seen as an Ulster loyalist symbol and is rejected by Irish nationalists/republicans. [0]",
+        "meaning": "/",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#CC0000"
+            }
+        ],
+        "design": "A red cross on a white field defaced with a crowned white six-pointed star with a red hand in the centre. [0]",
+        "adoptionDate": 1953,
+        "related": {
+            "country": [
+                "United Kingdom"
+            ],
+            "similar": [
+                "England",
+                "Guernsey"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Northern_Ireland"
+        ]
+    }
+    ,{
+        "name": "Scotland",
+        "category": "Country Subdivisions",
+        "history": "According to legend, the Christian apostle and martyr Saint Andrew, the patron saint of Scotland, was crucified on an X-shaped cross at Patras, (Patrae), in Achaea. Use of the familiar iconography of his martyrdom, showing the apostle bound to an X-shaped cross, first appears in the Kingdom of Scotland in 1180 during the reign of William I. It was again depicted on seals used during the late 13th century, including on one used by the Guardians of Scotland, dated 1286.\n\nUsing a simplified symbol which does not depict St. Andrew's image, the saltire or crux decussata, (from the Latin crux, 'cross', and decussis, 'having the shape of the Roman numeral X'), began in the late 14th century. In June 1385, the Parliament of Scotland decreed that Scottish soldiers serving in France would wear a white Saint Andrew's Cross, both in front and behind, for identification.\n\nThe earliest reference to the Saint Andrew's Cross as a flag is found in the Vienna Book of Hours, circa 1503, in which a white saltire is depicted with a red background. In the case of Scotland, use of a blue background for the Saint Andrew's Cross is said to date from at least the 15th century, with the first certain illustration of a flag depicting such appearing in Sir David Lyndsay of the Mount's Register of Scottish Arms, circa 1542.\n\nThe legend surrounding Scotland's association with the Saint Andrew's Cross was related by Walter Bower and George Buchanan, who claimed that the flag originated in a 9th-century battle, where Óengus II led a combined force of Picts and Scots to victory over the Angles, led by Æthelstan. Supposedly, a miraculous white saltire appeared in the blue sky and Óengus' troops were roused to victory by the omen. Consisting of a blue background over which is placed a white representation of an X-shaped cross, the Saltire is one of Scotland's most recognisable symbols. [0]",
+        "meaning": "See History.",
+        "ratio": "",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0065BD"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A white satire on a blue field. [0]",
+        "adoptionDate": 1503,
+        "related": {
+            "country": [
+                "United Kingdom"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Scotland"
+        ]
+    }
+    ,{
+        "name": "Wales",
+        "category": "Country Subdivisions",
+        "history": "The flag incorporates the Red Dragon of Cadwaladr, King of Gwynedd, along with the Tudor colours of green and white. It was used by Henry VII at the Battle of Bosworth in 1485, after which it was carried in state to St Paul's Cathedral. The red dragon was then included as a supporter of the Tudor royal arms to signify their Welsh descent. It was officially recognised as the Welsh national flag in 1959. [0]",
+        "meaning": "See History.",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#00AB39"
+            },{
+                "name": "red",
+                "hex": "#D21034"
+            }
+        ],
+        "design": "A red dragon passant on a green and white field. [0]",
+        "adoptionDate": 1959,
+        "related": {
+            "country": [
+                "United Kingdom"
+            ],
+            "similar": [
+                "Bhutan"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Wales"
+        ]
+    }
 ]
