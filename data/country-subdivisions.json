@@ -552,5 +552,254 @@
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Valencian_Community"
         ]
+    },{
+        "name": "New South Wales",
+        "category": "Country Subdivisions",
+        "history": "The current state flag of New South Wales was officially adopted by the government of New South Wales in 1876.\n\nThis flag was adopted due to criticisms from the British Admiralty that the previous design was too similar to the design of the Victorian flag.\n\nThe state badge was designed by the Colonial Architect James Barnet and Captain Francis Hixson, a retired Royal Navy officer. [0]",
+        "meaning": "Even though no meaning for the design was given, it is perhaps a simplified version of what was the semi-official arms of New South Wales at the time. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002776"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#E00034"
+            },{
+                "name": "yellow",
+                "hex": "#FDC82F"
+            }
+        ],
+        "design": "The flag is based on the defaced British Blue Ensign with the state badge located in the fly. The badge, based on the coat of arms, is a white disc with the cross of St George, a golden lion passant guardant in the centre of the cross and an eight-pointed gold star on each arm of the cross. [0]",
+        "adoptionDate": 1876,
+        "related": {
+            "country": [
+                "Australia"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_New_South_Wales"
+        ]
+    },{
+        "name": "Queensland",
+        "category": "Country Subdivisions",
+        "history": "The flag dates from 1876, with minor variations, and the badge was designed by William Hemmant, the Colonial Secretary and Treasurer of Queensland in 1876. [0]",
+        "meaning": "/",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002776"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#E00034"
+            },{
+                "name": "blue",
+                "hex": "#3D7DE1"
+            }
+        ],
+        "design": "A British Blue Ensign defaced with the state badge on a white disc in the fly. The badge is a light blue Maltese Cross with an imperial crown in the centre of the cross. [0]",
+        "adoptionDate": 1876,
+        "related": {
+            "country": [
+                "Australia"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Queensland"
+        ]
+    },{
+        "name": "South Australia",
+        "category": "Country Subdivisions",
+        "history": "The current state flag of South Australia, was officially adopted by the government of South Australia in 1904.\n\nThe badge is believed to have been originally designed by Robert Craig, a teacher at the School of Arts in Adelaide, and officially gazetted on 14 January 1904. [0]",
+        "meaning": "The 1904 design shows in heraldic form a local bird - what was called a Piping Shrike, a form of magpie. There has been some speculation that the stylisation of the bird was inspired by the Imperial German (and Austrian) heraldic eagle.  [1]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002776"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#E00034"
+            },{
+                "name": "orange",
+                "hex": "#FFA300"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            }
+        ],
+        "design": "The flag is based on the defaced British Blue Ensign with the state badge located in the fly. The badge is a gold disc featuring a piping shrike with its wings outstretched. [0]",
+        "adoptionDate": 1904,
+        "related": {
+            "country": [
+                "Australia"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_South_Australia",
+            "https://flagspot.net/flags/au-sa.html"
+        ]
+    },{
+        "name": "Tasmania",
+        "category": "Country Subdivisions",
+        "history": "The current state flag of Tasmania was officially adopted following a proclamation by Tasmanian colonial Governor Sir Frederick Weld on 25 September 1876, and was first published in the Tasmanian Gazette the same day. This flag has remained almost unchanged since 1875, with only a slight change of the style of the lion when the flag was officially adopted by the government in 1975, although this was a mistake, as it had already been officially gazetted by the colonial government in 1876. [0]",
+        "meaning": "There is no official record of how the lion came to be included on the flag. Where this design originated from is unknown, but it is assumed that the red lion is a link with England. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002776"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#E00034"
+            }
+        ],
+        "design": "The flag consists of a defaced British Blue Ensign with the state badge located in the fly. The badge is a white disk with a red lion passant in the centre of the disk. [0]",
+        "adoptionDate": 1876,
+        "related": {
+            "country": [
+                "Australia"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Tasmania"
+        ]
+    },{
+        "name": "Victoria",
+        "category": "Country Subdivisions",
+        "history": "Victoria then adopted the current flag in 1877 with the stars of the southern cross from then on having 5, 6, 7, 7 and 8 points. The depictions of the crown have varied in accordance with heraldic fashion and the wishes of the monarch of the time. During Queen Victoria's reign, the crown had slightly dipped arches. From c. 1901–1952, during the reigns of Kings Edward VII, George V, Edward VIII and George VI the depiction of the crown known as the \"Tudor Crown\", with domed arches, was used. In 1953 the Tudor Crown was replaced with the St Edward's Crown. [0]",
+        "meaning": "/",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002776"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#E00034"
+            }
+        ],
+        "design": "A British Blue Ensign defaced by the state badge of Victoria in the fly. The badge is the Southern Cross topped by an imperial crown, which is currently the St Edward's Crown. The stars of the Southern Cross are white and range from five to eight points with each star having one point pointing to the top of the flag. [0]",
+        "adoptionDate": 1870,
+        "related": {
+            "country": [
+                "Australia"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Victoria"
+        ]
+    },{
+        "name": "Western Australia",
+        "category": "Country Subdivisions",
+        "history": "The current state flag of Western Australia was officially adopted by the government of Western Australia in 1953. [0]",
+        "meaning": "The black swan has long been a symbol of Western Australia. The original colony was called the Swan River Colony at the location which is now Perth. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002776"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#E00034"
+            },{
+                "name": "yellow",
+                "hex": "#FED100"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            }
+        ],
+        "design": "The flag is based on the defaced British Blue Ensign with the state badge located in the fly. The badge is a gold disc with a native black swan, the swan is facing towards the hoist. [0]",
+        "adoptionDate": 1953,
+        "related": {
+            "country": [
+                "Australia"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Western_Australia"
+        ]
+    },{
+        "name": "Australian Capital Territory",
+        "category": "Country Subdivisions",
+        "history": "The current flag of the Australian Capital Territory was officially adopted by the Australian Capital Territory Legislative Assembly in 1993.\n\nThe flag differs from the Australian state flags as it is not a modified (technically defaced) British Blue Ensign. It is similar in design to the flag of the Northern Territory.\n\nEven though the Australian Capital Territory has existed since 1909 and was given self-government in 1989, it had never had a flag of its own. Consequently, the government decided that the Territory should adopt a flag. In 1988 and 1992 competitions for a proposed new flag were held, in which artists and residents of the ACT could put forth their designs for the new flag. Subsequently the current flag won the competition. The ACT Legislative Assembly then officially adopted this flag in 1993.\n\nThe flag was designed by Ivo Ostyn. [0]",
+        "meaning": "The flag uses the Canberra city colours of blue and gold (which also happen to be the heraldic colours of Australia). The Southern Cross appears as five white stars on a blue panel at the hoist, whilst in the centre of the gold field in the fly is the modified arms of the City of Canberra. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#00005B"
+            },{
+                "name": "yellow",
+                "hex": "#EEA400"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A vertical 1:2 bicolour of blue (charged with the Southern Cross) and gold (charged with a modified Coat of arms of Canberra) [0]",
+        "adoptionDate": 1993,
+        "related": {
+            "country": [
+                "Australia"
+            ],
+            "similar": [
+                "Northern Territory"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Australian_Capital_Territory"
+        ]
+    },{
+        "name": "Northern Territory",
+        "category": "Country Subdivisions",
+        "history": "The current state flag of the Northern Territory was officially adopted by the Northern Territory, Australia in 1978. The Northern Territory has been in existence since 1911, but could not hoist its first flag until self-government in 1978.\n\nThe Flag of the Northern Territory was officially acknowledged and raised for the first time in a ceremony celebrating self-government, on the esplanade in Darwin, the Territorial capital, on 1 July 1978. The ceremony was further acknowledged by a 19-gun salute from HMAS Derwent. As the Northern Territory never had colonial status or a prior flag, it was decided that an original design would be created. The flag was designed by Robert Ingpen, a prominent artist originally from Drysdale, Victoria. Ingpen used a number of designs suggested by the public as a basis for his final design. [0]",
+        "meaning": "The flag's colours consist of the official Territorian colours of black, white and ochre. The Southern Cross appears as five white stars on a black panel at the hoist. In the fly of the flag is a stylised Sturt's Desert Rose, the Territory's floral emblem since 1961, with seven white petals and a black seven-pointed core. The seven white petals represent the six Australian States and the Northern Territory. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "ochre",
+                "hex": "#E65A00"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A vertical 1:2 bicolour of black (charged with the Southern Cross) and ochre (charged with a stylised Sturt's Desert Rose) [0]",
+        "adoptionDate": 1978,
+        "related": {
+            "country": [
+                "Australia"
+            ],
+            "similar": [
+                "Australian Capital Territory"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Northern_Territory"
+        ]
     }
 ]
