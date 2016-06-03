@@ -84,5 +84,473 @@
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Wallonia"
         ]
+    },{
+        "name": "Andalusia",
+        "category": "Country Subdivisions",
+        "history": "The current flag of Andalusia was adopted in 1918. Blas Infante (1885-1936), the \"Father\" of the Andalusian Fatherland, initiated an assembly at Ronda in 1918. This assembly adopted a charter based on the Antequera Constitution (a nationalist Andalusian charter that styled Andalusia as an autonomous republic inside a Spanish federal state; this constitution is known as Constitución Federal de Antequera) and also adopted the current flag of Andalusia and coat of arms as \"national symbols\". [0]",
+        "meaning": "The colours of Andalusian flag, green and white, represent hope and peace.\n\nThe coat of arms bears the Pillars of Hercules, the ancient name given to the promontories that flank the entrance to the Strait of Gibraltar and bears the following legend: \"ANDALUCÍA POR SÍ, PARA ESPAÑA Y LA HUMANIDAD\" (Andalusia by herself, for Spain and for Humankind). [0][1]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#006633"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "Horizontal green-white-green triband charged with the coat of arms.",
+        "adoptionDate": 1918,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Andalusia",
+            "https://en.wikipedia.org/wiki/Coat_of_arms_of_Andalusia"
+        ]
+    },{
+        "name": "Aragon",
+        "category": "Country Subdivisions",
+        "history": "The current Coat of arms of Aragon was first documented in 1499. Its fourth quarter, the Coat of arms of the Crown of Aragon, features on the Coat of Arms of Spain, as well as the flags and heraldry of several territories in Spain and abroad which were ruled by the Crown of Aragon, such as Catalonia, the Balearic Islands and Languedoc-Roussillon. The flag of modern Aragon, adopted in 1983, has the arms over the Crown arms. [0]",
+        "meaning": "The Coat of arms of the Spanish Autonomous Community of Aragon was first chronicled in 1499 by Pablo Hurus. The first quarter represents the legendary Kingdom of Sobrarbe and the establishment of Aragonese liberty. The second, the Cross of Íñigo Arista, represents the Pyrenees and the monarchy. The third has the St George's Cross, with four severed Moors' heads to represent the conquest as Aragon extended into the plains, with tradition stating that the saint helped the Aragonese in the battle. The fourth quarter has the pallets, representing the union of Aragon to the Counties of Catalonia to create the Crown of Aragon, of which they are the coat of arms. The third quarter is inspired by the coat of arms and flag of Sardinia. Aragon ruled Sardinia from in the 14th and 15th centuries. The forth represents the bars of Aragon, that are the basis of the flag and that historically represented the King of the Crown of Aragon. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "yellow",
+                "hex": "#FCDD09"
+            },{
+                "name": "red",
+                "hex": "#DA121A"
+            }
+        ],
+        "design": "Four horizontal red stripes on a golden background, charged with the coat of arms of Aragon. [0]",
+        "adoptionDate": 1983,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Aragon"
+        ]
+    },{
+        "name": "Asturias",
+        "category": "Country Subdivisions",
+        "history": "According to the tradition, this Cross was carried by Don Pelayo (later King Pelayo), in the decisive Battle of Covadonga against the Moors in 722. This battle, fought in the mountains of Asturias, was hailed by 19th and 20th century historiography as the start of the \"Reconquista\" or Re-conquest of Iberia from \"Moorish domination.\" However, there is no historical evidence that Pelayo used exactly this same cross.\n\nIn 908 the Asturian King Alfonso III the Great ordered that the original wooden -oak- cross be clad in gold and precious stones. It is now kept in this form in the Cathedral of Oviedo. [0]",
+        "meaning": "The Greek letters Alpha and omega hang from its horizontal axis. This is a direct reference to the Book of Revelation 1:8, 'I am the Alpha and the Omega, the beginning and the end, says the Lord God, who is, and who was, and who is to come, the Almighty.' [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0066FF"
+            },{
+                "name": "yellow",
+                "hex": "#F7D417"
+            }
+        ],
+        "design": "The flag of Asturias shows the \"Cruz de la Victoria\" (Victory Cross) in gold over a blue field. [0]",
+        "adoptionDate": 1990,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Asturias"
+        ]
+    },{
+        "name": "Balearic Islands",
+        "category": "Country Subdivisions",
+        "history": "The flag of the Balearic Islands is the official flag of the Balearic Islands, an autonomous community of Spain located in the western Mediterranean Sea. The flag, which was adopted in 1983, incorporates the design of the Senyera. [0]",
+        "meaning": "The Senyera represents the old Kingdom of Aragon and the castle on the canton represents the old Kingdom of Mallorca. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "yellow",
+                "hex": "#FCDD09"
+            },{
+                "name": "red",
+                "hex": "#DA121A"
+            },{
+                "name": "purple",
+                "hex": "#40104C"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "Four horizontal red stripes on a golden background with the coat of arms in the canton. [0]",
+        "adoptionDate": 1983,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Balearic_Islands"
+        ]
+    },{
+        "name": "Basque Country",
+        "category": "Country Subdivisions",
+        "history": "The flag was designed in 1894 to represent the province of Biscay in a set of one flag for each of the seven Basque provinces and one for the whole country; however, since PNV activity was scarce outside of Biscay, only the Biscayne flag was publicly recognized. It was hoisted for the first time in the \"Euzkeldun Batzokija\", the club that preceded EAJ-PNV. The party adopted it in 1895 and, in 1933, proposed it as the flag of the whole Basque Country.\n\nSince the Basque people had accepted the \"ikurriña\", at the suggestion of the socialist counselor Aznar, the Basque Government adopted it as the flag of the Basque Autonomous Region in 1936. This flag was used as the Naval jack of the Basque Auxiliary Navy, a section of the Spanish Republican Navy operating in the Bay of Biscay during the Spanish Civil War.\n\nIn 1938, after the military defeat of the Basque Government the regime of General Franco prohibited this flag —although it continued to be used in the Basque departements of France. In the following decades it became a symbol of defiance – the first actions of the clandestine group ETA involved placing flags in public places.\n\nThe Basque flag was legalized again in 1977 during the Spanish transition to democracy. Two years later, the Basque Government adopted it as the flag of the Basque autonomous community. It is also used as an unofficial flag for some sectors of Basque society in other provinces. [0]",
+        "meaning": "The red ground symbolizes the Biscayan people (the race); the green saltire might represent the Oak of Guernica, a symbol of the old laws of Biscay, or Fueros; and over them, the white cross, God's symbol of Basque Catholic devotion. Thus, red, white and green have become the national Basque colors. [0]",
+        "ratio": "14:25",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#D52B1E"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#009B48"
+            }
+        ],
+        "design": "A white cross over a green saltire on a red field. [0]",
+        "adoptionDate": 1978,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Basque_Country_(autonomous_community)"
+        ]
+    },{
+        "name": "Canary Islands",
+        "category": "Country Subdivisions",
+        "history": "The tricolour flag has its origins in the Canarias Libre movement of the 1960s. It was designed by Carmen Sarmiento and her sons Arturo and Jesus Cantero Sarmiento, and first displayed (in paper form) on 8 September 1961. [0]",
+        "meaning": "It combined the blue and white colours of the Province of Santa Cruz de Tenerife (Province of Canary Islands) with the blue and yellow colours of the Province of Las Palmas.\n\nThe coat of arms displays on top the Spanish royal crown. The seven gray islands represent the Canary Islands of volcanic origin in the Atlantic Ocean. The supporters are dogs from which the islands may derive their name, possibly from the Latin term Insularia Canaria, meaning Island of the Dogs, a name applied originally only to the island of Gran Canaria. It is thought that the dense population of an endemic breed of large and fierce dogs, like the Presa Canario, was the characteristic that most struck the few ancient Romans who established contact with the islands by the sea. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#0768A9"
+            },{
+                "name": "yellow",
+                "hex": "#FFCC00"
+            }
+        ],
+        "design": "A vertical tricolour of three equal bands of white, blue, and yellow. The state flag includes the Coat of arms of the Canary Islands in the central band. [0]",
+        "adoptionDate": 1982,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Canary_Islands"
+        ]
+    },{
+        "name": "Cantabria",
+        "category": "Country Subdivisions",
+        "history": "The flag design is heir to the ship registration flag of the maritime province of Santander, assigned by Royal Order of July 30, 1845. [0]",
+        "meaning": "/",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#DA121A"
+            }
+        ],
+        "design": "Two horizontal bands of same width, white on top, red on the bottom. [0]",
+        "adoptionDate": 1984,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Cantabria"
+        ]
+    },{
+        "name": "Castile-La Mancha",
+        "category": "Country Subdivisions",
+        "history": "Seven different designs for a flag were proposed during the era of the \"pre-autonomous\" region. The selected design was that of Manchego heraldist Ramón José Maldonado. This was made official in Article 5 of the Statute of Autonomy. [0]",
+        "meaning": "/",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "crimson",
+                "hex": "#A21C1C"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#FFCC00"
+            },{
+                "name": "blue",
+                "hex": "#1D4BBA"
+            }
+        ],
+        "design": "A rectangle divided vertically into two equal squares: the first, together with the mast, crimson red with a castle of Or masoned in sable and port and windows of azure; the second, white. [0]",
+        "adoptionDate": 1982,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Castilla-La_Mancha"
+        ]
+    },{
+        "name": "Castile and León",
+        "category": "Country Subdivisions",
+        "history": "The lion design is attributed to Alfonso VII of León, who became king of León and Castile in 1126. The castle symbol is attributed to his grandson Alfonso VIII of Castile, In 1230, Ferdinand III of Castile united the two kingdoms in the Crown of Castile (1230-1715) and quartered the arms as a symbol of the union. [0]",
+        "meaning": "This flag is used to represent the two cultural identities who share this administrative region, the Castle for Castile, and the Lion for León. [0]",
+        "ratio": "10:13",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#DA121A"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "purple",
+                "hex": "#742C64"
+            },{
+                "name": "yellow",
+                "hex": "#FFCC00"
+            },{
+                "name": "blue",
+                "hex": "#1D4BBA"
+            }
+        ],
+        "design": "It consists of the quartered coats of arms of Castile, represented by a castle, and León, represented by a lion. [0]",
+        "adoptionDate": 1983,
+        "related": {
+            "country": [
+                "Spain"
+            ],
+            "city": [
+                "Valladolid"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Castile_and_León"
+        ]
+    },{
+        "name": "Catalonia",
+        "category": "Country Subdivisions",
+        "history": "According to a 14th-century legend, the flag dates back from the 9th century, when the four red bars were drawn, as an act of gratitude, on Wilfred I the Hairy's (Count of Barcelona) golden shield by king Charles the Bald's fingers drenched with blood from the Count's war wounds prior to Wilfred's death in 897 during the siege of Barcelona by Lobo ibn Mohammed, the Moorish governor of Lleida. This legend would relate the emblem unambiguosly to the Counts of Barcelona title.\n\nRomantic-driven Catalan nationalists were particularly keen on this legend during the Renaixença, in the 19th century, albeit it has always been recognized and divulged as such even in patriotic circles. Charles the Bald had died 20 years earlier, in 877.Another version of this legend cites Louis the Pious as the king drawing the bars during the conquest of Barcelona, in this version drawing them in a golden shield, but Louis died before Guifré was born. Also, Barcelona was conquered long before the events described on the legend. Another medieval variant of the legend features Ramon Berenguer painting the bars with his own blood on a yellow shield, with the yellow field of the shield being the arms of Aragon before his marriage. [0]",
+        "meaning": "The bars of Aragon, that are the basis of the flag and that historically represented the King of the Crown of Aragon. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "yellow",
+                "hex": "#FCDD09"
+            },{
+                "name": "red",
+                "hex": "#DA121A"
+            }
+        ],
+        "design": "Four horizontal red stripes on a golden background. [0]",
+        "adoptionDate": 1933,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Catalonia"
+        ]
+    },{
+        "name": "Extremadura",
+        "category": "Country Subdivisions",
+        "history": "The flag first appeared in the middle of the 1970s, after the death of Francisco Franco, in an era when the rights of the regional communities were being reclaimed and re-established across Spain.\n\nDespite the flag’s relatively recent origins, various interpretations exist regarding why green, white, and black were chosen and what they signify; even the inventor or creator of the flag is unknown. What is known is that by the 1980s the flag had become so popular amongst Extremadurans as the principal symbol of regional identity that those who presented the Statute of Autonomy in 1983 did not hesitate in including an article concerning this flag in this Statute. [0]",
+        "meaning": "In official government publications, the colors of the flag are said to honor aspects of the region’s history during the Middle Ages: green representing the the emblem of the Order of Alcántara, white representing the Kingdom of León, which repopulated the region during the Reconquista and black representing the Aftasid kings of the Taifa of Badajoz.\n\nHowever, in 2008, in the regional press, a professor of history named Antonio Galache Cortés posited his own theory on the meaning of the flag’s colors. Galache Cortés believed that the color green referred to the Muslim era of Spain, in which Extremadura enjoyed its only period of complete independence as an Aftasid taifa. The color white referred to the Kingdom of León and the integration of the region into what would become Spain, while black was the color of the clothing worn by the Lusitanians, according to Strabo.\n\nGalache Cortés’ theory has been disputed. In a television interview, Luis Ramallo, president of the region before the era of autonomy, attributed the creation of the flag to a lawyer from Oliva de la Frontera, Martín Rodríguez Contreras. This theory was supported by professor of anthropology Javier Marcos Arévalo, who in his studies on Extremaduran identity states that Rodríguez Contreras’ design was chosen after various proposals and its colors were derived from the following: green and white from the traditional colors of Cáceres, and black and white from the colors of Badajoz.\n\nIn terms of symbolic meaning, the green symbolizes hope, the white honor of the people, the black to unemployment, marginalization, and backwardness, although it can also refer to the region’s Almohad past. Javier Marcos Arévalo adds that the flag first appears in the written record on February 27, 1977 and made its first public appearance on November 14, 1976 at Oliva de la Frontera. Its first official sanction occurred in the city of Cáceres after a motion was passed by the Junta Preautonómica and later made into law by the Statute of Autonomy.\n\nThe widow of Martín Rodríguez Contreras has written articles also attributing the creation of the flag to her husband.\n\nAnother theory on the flag’s colors, which has become a popular one, asserts that the flag originated when the colors of the football clubs of the two capitals of the province, the Club Polideportivo Cacereño (green shirt, white shorts) and the Club Deportivo Badajoz (black-and-white shirt, white shorts) were combined. However, the two athletic clubs simply took their colors from the traditional colors of their respective cities and provinces: green for Cáceres and black (from the Aftasid taifa) for Badajoz. Another theory explains the colors as signifying: green representing hope for a new Extremadura, white representing purity of the natural environment, and black representing sadness of the various emigrants who have had to leave their beloved land. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#00AB39"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            }
+        ],
+        "design": "Three horizontal stripes of green, white, and black charged with the coat of arms. [0]",
+        "adoptionDate": 1983,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Extremadura"
+        ]
+    },{
+        "name": "Galicia",
+        "category": "Country Subdivisions",
+        "history": "The flag of Galicia appeared for first time in the 19th century, probably based on the colours of the ancient medieval flags of the Kingdom of Galicia. Originally, the flag was probably a blue St Andrew's Cross over a white field – St Andrew is one of the most popular saints in Galicia. The Coat of Arms of Galicia was actually the former flag of the Kingdom of Galicia. [0]",
+        "meaning": "Colors blue, white and gold were always related with Galicia. The chalice and the golden crosses on blue background have been its symbol since medieval times. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#0099CC"
+            }
+        ],
+        "design": "White field with a blue band crossing the flag from the top-left corner to the bottom-right. The State flag also has the coat of arms on top. [0]",
+        "adoptionDate": 1984,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Galicia"
+        ]
+    },{
+        "name": "La Rioja",
+        "category": "Country Subdivisions",
+        "history": "During the Week of La Rioja in Madrid (November 1977), organized by Colectivo Riojano, a flag was created, painted with a spray can with four colors: white positioned vertically and red, green, and yellow horizontally. Subsequently, in spring of 1978, the Colectivo Riojano also distributed some oval-shaped stickers with a four-colored design, which acquired its present form. In the same year, this flag began to appear in festivals in various towns, even though it lacked official sanction. It appeared, for example, in the revived street party of San Juan in Arnedo, where it appeared for the first time atop the Peña Lubumbas.\n\nA major impetus for the flag’s adoption was its use during the celebration known as \"I Día de La Rioja\", celebrated in Nájera in October 1978. From that point on, various regional collectives adopted the flag for their use. In January 1979, some townspeople from Haro asked their mayor to fly the flag from the town hall, as other town halls already were flying it. The association \"Amigos de La Rioja\" sent a letter to the president of the provincial council asking that the flag fly from the Provincial Palace (Palacio de la Diputación).\n\nThe flag, already known by this time as the \"cuatricolor\", was flying from various corners of La Rioja and in many flag designs, the red colored part of the flag acquired a reddish color tone approaching that of the color of red wine.\n\nIn May 1979, the flag flew from Mount Laturce during the celebrations of the \"Día de Clavijo\".\n\nPressure from the public, as well as the support given by city councils across La Rioja, led to the flag being officially approved by the Riojan government. In August 1979, an inquiry on the flag was sent out to the city councils across the region, with the result that 115 approved of the flag, 51 abstained, and 8 were against it.\n\nOn August 14, 1979, a plenary meeting of the Provincial Council finally approved the flag, with 17 votes for the flag by the political parties UCD and PSOE, the abstention of the Coalición Democrática (7 members). On September 15, at the festival of Our Lady of Valvanera the \"cuatricolor\" flew for the first time from the balcony of the Regional Council.\n\nSubsequently, with the creation of the autonomous community of La Rioja, the flag was designated as one of the symbols of Riojan identity. [0]",
+        "meaning": "The official meaning of the colors is given as: red representing wine and vineyards, white for the river and the sky, green for fields, orchards, mountains and forests, and yellow for lands and monuments [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#DC291E"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#66BC29"
+            },{
+                "name": "yellow",
+                "hex": "#FFC82E"
+            }
+        ],
+        "design": "The flag consist of four horizontal bands of equal size, with the colors of red, white, green, and yellow. [0]",
+        "adoptionDate": 1982,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_La_Rioja"
+        ]
+    },{
+        "name": "Community of Madrid",
+        "category": "Country Subdivisions",
+        "history": "The flag of the Community of Madrid was designed by José María Cruz Novillo. [0]",
+        "meaning": "The crimson color stands for Castile as Madrid has been historically Castillian, and the stars represents each of the administrative areas of the province of Madrid, which are the City of Madrid, Alcalá de Henares, Torrelaguna, San Martín de Valdeiglesias, El Escorial, Getafe and Chinchón. Together the stars represent the Little Dipper. [0]",
+        "ratio": "7:11",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#C60B1E"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "Crimson red field, with seven five-pointed stars in silver, placed four and three in the centre of the field. [0]",
+        "adoptionDate": 1983,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Community_of_Madrid"
+        ]
+    },{
+        "name": "Region of Murcia",
+        "category": "Country Subdivisions",
+        "history": "The four castles evoke the region’s history as a frontier zone caught between the Crown of Aragon and the Kingdom of Castile, and the Nasrid Kingdom of Granada and the Mediterranean Sea: four territories of land and sea, Christians and Muslims, adventurers and warriors, all of which created a distinct Murcian culture. The four castles also can refer to the four lordships that initially carved up the area after it was conquered by Alfonso X of Castile.\n\nThe seven crowns were granted to the Kingdom of Murcia by the Castilian Crown. The first five crowns were granted by Alfonso X on May 14, 1281, when he granted the standard and municipal seal to the capital city of Murcia. The sixth crown was granted by Peter of Castile on May 4, 1361, in honor of the loyalty of Murcia shown to Peter’s cause during the War of the Two Peters.\n\nThe seventh crown was granted by Philip V of Spain on September 16, 1709 in honor of the loyalty of Murcia shown to Philip’s cause during the War of the Spanish Succession. [0]",
+        "meaning": "See History.",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "crimson",
+                "hex": "#9C1F2D"
+            },{
+                "name": "yellow",
+                "hex": "#FCB714"
+            }
+        ],
+        "design": "Four castles with battlements or, in the upper left corner, arranged in rows of two, and seven royal crowns in the upper right corner, arranged in four rows, with a pattern of one, three, two, and one, respectively; against a crimson or carmine red background [0]",
+        "adoptionDate": 1982,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Region_of_Murcia"
+        ]
+    },{
+        "name": "Navarre",
+        "category": "Country Subdivisions",
+        "history": "The flag of Navarre, the flag of the autonomous community of Navarre, was designed in 1910 by Arturo Campión, Julio Altadill, and Hermilio de Oloriz. In 1910, the design was approved by the Provincial Council of Navarre and it was sanctioned by the Organic Law of Reintegration and Improvement of the Regional Government of Navarre (Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, or LORAFNA) of August 10, 1982. [0]",
+        "meaning": "The color red was chosen for the flag because this was the color of the field of the coat-of-arms. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#DA121A"
+            },{
+                "name": "yellow",
+                "hex": "#EAC102"
+            }
+        ],
+        "design": "Red field with the coat of arms in the center.",
+        "adoptionDate": 1982,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Navarre"
+        ]
+    },{
+        "name": "Valencian Community",
+        "category": "Country Subdivisions",
+        "history": "The flag of the Valencian Community was adopted on July 1, 1982. It is an historical derivation of the Senyera, the heraldic symbol of the Crown of Aragon, also used today with few variations in all the former kingdoms and counties which were a part of this crown. [0]",
+        "meaning": "See History.",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "yellow",
+                "hex": "#FCDD09"
+            },{
+                "name": "red",
+                "hex": "#DA121A"
+            },{
+                "name": "blue",
+                "hex": "#0072BC"
+            }
+        ],
+        "design": "Four red bars on a yellow background, crowned with a blue strip party per pale next to the spear. [0]",
+        "adoptionDate": 1982,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Valencian_Community"
+        ]
     }
 ]
