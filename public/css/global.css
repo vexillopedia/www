@@ -18,6 +18,10 @@ body {
     font-size: 1.5em;
     font-weight: normal;
 }
+.title a {
+    color: white;
+    text-decoration: none;
+}
 
 /* Main Padding */
 .header,
