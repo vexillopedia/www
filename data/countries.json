@@ -1404,6 +1404,8 @@
                 "European Union"
             ],
             "similar": [
+                "Åland",
+                "Faroe Islands",
                 "Finland",
                 "Iceland",
                 "Norway",
@@ -1830,8 +1832,13 @@
             "memberOf": [
                 "European Union"
             ],
+            "subdivision": [
+                "Åland"
+            ],
             "similar": [
+                "Åland",
                 "Denmark",
+                "Faroe Islands",
                 "Iceland",
                 "Norway",
                 "Sweden"
@@ -2294,6 +2301,7 @@
                 "European Union"
             ],
             "similar": [
+                "Iraqi Kurdistan",
                 "Tajikistan"
             ]
         },
@@ -2323,7 +2331,9 @@
         "adoptionDate": 1944,
         "related": {
             "similar": [
+                "Åland",
                 "Denmark",
+                "Faroe Islands",
                 "Finland",
                 "Norway",
                 "Sweden"
@@ -2448,6 +2458,9 @@
         "related": {
             "memberOf": [
                 "Arab League"
+            ],
+            "subdivision": [
+                "Iraqi Kurdistan"  
             ],
             "similar": [
                 "Egypt",
@@ -3990,7 +4003,9 @@
         "adoptionDate": 1821,
         "related": {
             "similar": [
+                "Åland",
                 "Denmark",
+                "Faroe Islands",
                 "Finland",
                 "Iceland",
                 "Sweden"
@@ -5202,7 +5217,9 @@
                 "European Union"
             ],
             "similar": [
+                "Åland",
                 "Denmark",
+                "Faroe Islands",
                 "Finland",
                 "Iceland",
                 "Norway"
@@ -5296,7 +5313,8 @@
         "adoptionDate": 1992,
         "related": {
             "similar": [
-                "Hungary"
+                "Hungary",
+                "Iraqi Kurdistan"
             ]
         },
         "sources": [
@@ -5330,6 +5348,9 @@
             "memberOf": [
                 "African Union",
                 "East African Community"
+            ],
+            "subdivision": [
+                "Zanzibar"
             ]
         },
         "sources": [

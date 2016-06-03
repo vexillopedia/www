@@ -801,5 +801,107 @@
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_the_Northern_Territory"
         ]
+    },{
+        "name": "Åland",
+        "category": "Country Subdivisions",
+        "history": "The flag has been the official flag of the autonomous Finnish province of Åland since 1954. It was first hoisted in the capital Mariehamn on 3 April 1954.\n\nPrior to autonomy, an unofficial horizontal bicolour triband of blue-yellow-blue was in use. The flag was made illegal in 1935. [0]",
+        "meaning": "The flag of Åland consists of the Swedish flag defaced by a red cross symbolising Finland. Today, blue and white are considered Finnish colours, but in the early days of Finnish nationalism, red and yellow from the Finnish coat of arms were also an option. [0]",
+        "ratio": "17:26",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0053A5"
+            },{
+                "name": "yellow",
+                "hex": "#FFCE00"
+            },{
+                "name": "red",
+                "hex": "#D21034"
+            }
+        ],
+        "design": "Red-defaced yellow Scandinavian Cross on a blue field. [0]",
+        "adoptionDate": 1954,
+        "related": {
+            "country": [
+                "Finland"
+            ],
+            "similar": [
+                "Denmark",
+                "Faroe Islands",
+                "Finland",
+                "Iceland",
+                "Norway",
+                "Sweden"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Åland"
+        ]
+    },{
+        "name": "Iraqi Kurdistan",
+        "category": "Country Subdivisions",
+        "history": "The Flag of Kurdistan first appeared during the movement for Kurdish independence from the Ottoman Empire, and is the official flag of the autonomous Kurdistan Region in Iraq, which is under the control of the Kurdistan Regional Government. [0]",
+        "meaning": "The main characteristic of the flag is the blazing golden sun emblem (called a Roj) at its center. The emblem's sun disk has 21 rays, equal in size and shape, with the single odd ray at top and the two even rays on the bottom. Number 21 is a venerated number, standing for rebirth/renaissance in the ancient and native Kurdish religion of Yazdanism and its modern offshoots.\n\nThe symbolism of the colors is: red for the blood of the martyrs of Kurdistan, and the continued struggle for freedom; green for Kurdistan's nature, mountains, life and vitality; yellow for bright and freedom; and white for peace, freedom, and equality. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#ED2024"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#278E43"
+            },{
+                "name": "yellow",
+                "hex": "#FEBD11"
+            }
+        ],
+        "design": "Red, Yellow, Green and white with sun disk (\"Rozh\" \"Roj\" \"Roush\") having 21 rays, equal in size and shape. [0]",
+        "adoptionDate": 1992,
+        "related": {
+            "country": [
+                "Iraq"
+            ],
+            "similar": [
+                "Hungary",
+                "Tajikistan"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Kurdistan"
+        ]
+    },{
+        "name": "Zanzibar",
+        "category": "Country Subdivisions",
+        "history": "The flag of Zanzibar was adopted on 9 January 2005. [0]",
+        "meaning": "/",
+        "ratio": "",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#00A3DD"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "green",
+                "hex": "#1EB53A"
+            },{
+                "name": "yellow",
+                "hex": "#FCD116"
+            }
+        ],
+        "design": "It is a horizontal tricolour of blue, black, and green with the national flag of Tanzania in the canton. [0]",
+        "adoptionDate": 2005,
+        "related": {
+            "country": [
+                "Tanzania"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Zanzibar"
+        ]
     }
 ]
