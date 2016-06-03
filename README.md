@@ -1,7 +1,7 @@
 # Vexillopedia | The flag encyclopedia
 > _vexillum_ (flag) + _paedia_ (education)
 
-:es: :fr: :cn: :kr: :de: :us: :uk: :it: :jp: :ru: ... [https://vexillopedia.herokuapp.com](https://vexillopedia.herokuapp.com)
+:es: :fr: :cn: :kr: :de: :us: :uk: :it: :jp: :ru: ... [http://www.vexillopedia.org](http://www.vexillopedia.org)
 
 The goal of this project is to build a simple, exhaustive and collaborative encyclopedia on all kinds of flags.
 
