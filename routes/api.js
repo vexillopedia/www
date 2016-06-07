@@ -4,12 +4,12 @@ const express = require("express")
 const router = express.Router()
 
 // Data
-const countries = require("./../data/countries.json")
-const unrecognizedStates = require("./../data/unrecognized-states.json")
-const internationalOrganizations = require("./../data/international-organizations.json")
-const dependentTerritories = require("./../data/dependent-territories.json")
-const countrySubdivisions = require("./../data/country-subdivisions.json")
 const cities = require("./../data/cities.json")
+const countries = require("./../data/countries.json")
+const countrySubdivisions = require("./../data/country-subdivisions.json")
+const dependentTerritories = require("./../data/dependent-territories.json")
+const internationalOrganizations = require("./../data/international-organizations.json")
+const unrecognizedStates = require("./../data/unrecognized-states.json")
 
 const allFlags = [].concat(
     countries, 
@@ -28,32 +28,26 @@ router.get("/categories", (req, res) => {
                 categories.push(flag.category)
 
             return categories
-        }, [])
+        }, ["All Flags"])
         .sort()
     )
 })
 router.get("/category/:category", (req, res) => {
     switch (req.params.category) {
+        case "All Flags":
+            res.json(allFlags
+                .map(flag => flag.name)
+                .sort()
+            )
+            break
+        case "Cities":
+            res.json(cities
+                .map(flag => flag.name)
+                .sort()
+            )
+            break
         case "Countries":
             res.json(countries
-                .map(flag => flag.name)
-                .sort()
-            )
-            break
-        case "Unrecognized States":
-            res.json(unrecognizedStates
-                .map(flag => flag.name)
-                .sort()
-            )
-            break
-        case "International Organizations":
-            res.json(internationalOrganizations
-                .map(flag => flag.name)
-                .sort()
-            )
-            break
-        case "Dependent Territories":
-            res.json(dependentTerritories
                 .map(flag => flag.name)
                 .sort()
             )
@@ -64,8 +58,20 @@ router.get("/category/:category", (req, res) => {
                 .sort()
             )
             break
-        case "Cities":
-            res.json(cities
+        case "Dependent Territories":
+            res.json(dependentTerritories
+                .map(flag => flag.name)
+                .sort()
+            )
+            break
+        case "International Organizations":
+            res.json(internationalOrganizations
+                .map(flag => flag.name)
+                .sort()
+            )
+            break
+        case "Unrecognized States":
+            res.json(unrecognizedStates
                 .map(flag => flag.name)
                 .sort()
             )
