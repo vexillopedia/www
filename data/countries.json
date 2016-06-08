@@ -935,6 +935,21 @@
         "design": "A vertical bicolour triband of red, white, and red in the ratio 1:2:1, with a red maple leaf charged in the centre. [0]",
         "adoptionDate": 1965,
         "related": {
+            "subdivision": [
+                "Alberta",
+                "British Columbia",
+                "Manitoba",
+                "New Brunswick",
+                "Newfoundland and Labrador",
+                "Northwest Territories",
+                "Nova Scotia",
+                "Nunavut",
+                "Ontario",
+                "Prince Edward Island",
+                "Quebec",
+                "Saskatchewan",
+                "Yukon"
+            ],
             "similar": [
                 "Peru"
             ]

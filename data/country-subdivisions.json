@@ -969,7 +969,7 @@
         "category": "Country Subdivisions",
         "history": "According to legend, the Christian apostle and martyr Saint Andrew, the patron saint of Scotland, was crucified on an X-shaped cross at Patras, (Patrae), in Achaea. Use of the familiar iconography of his martyrdom, showing the apostle bound to an X-shaped cross, first appears in the Kingdom of Scotland in 1180 during the reign of William I. It was again depicted on seals used during the late 13th century, including on one used by the Guardians of Scotland, dated 1286.\n\nUsing a simplified symbol which does not depict St. Andrew's image, the saltire or crux decussata, (from the Latin crux, 'cross', and decussis, 'having the shape of the Roman numeral X'), began in the late 14th century. In June 1385, the Parliament of Scotland decreed that Scottish soldiers serving in France would wear a white Saint Andrew's Cross, both in front and behind, for identification.\n\nThe earliest reference to the Saint Andrew's Cross as a flag is found in the Vienna Book of Hours, circa 1503, in which a white saltire is depicted with a red background. In the case of Scotland, use of a blue background for the Saint Andrew's Cross is said to date from at least the 15th century, with the first certain illustration of a flag depicting such appearing in Sir David Lyndsay of the Mount's Register of Scottish Arms, circa 1542.\n\nThe legend surrounding Scotland's association with the Saint Andrew's Cross was related by Walter Bower and George Buchanan, who claimed that the flag originated in a 9th-century battle, where Óengus II led a combined force of Picts and Scots to victory over the Angles, led by Æthelstan. Supposedly, a miraculous white saltire appeared in the blue sky and Óengus' troops were roused to victory by the omen. Consisting of a blue background over which is placed a white representation of an X-shaped cross, the Saltire is one of Scotland's most recognisable symbols. [0]",
         "meaning": "See History.",
-        "ratio": "",
+        "ratio": "3:5",
         "colors": [
             {
                 "name": "blue",
@@ -984,6 +984,9 @@
         "related": {
             "country": [
                 "United Kingdom"
+            ],
+            "similar": [
+                "Nova Scotia"
             ]
         },
         "sources": [
@@ -1020,6 +1023,451 @@
         },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Wales"
+        ]
+    }
+    ,{
+        "name": "Alberta",
+        "category": "Country Subdivisions",
+        "history": "Around the time of the upcoming centennial celebration of Canadian Confederation petitions were submitted in November 1966 to Premier Ernest Charles Manning by the Social Credit Women's Auxiliaries of the Alberta Social Credit League to give Alberta its own unique flag. The flag was designed and approved as the official provincial flag by the Alberta legislature on June 1, 1968. [0]",
+        "meaning": "The provincial colours, adopted in 1984, are blue and gold (deep yellow); they are also referred to as \"Alberta blue\" and \"Alberta gold\", appearing on the flag/shield in the sky/background and wheat background, respectively. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0D3692"
+            },{
+                "name": "yellow",
+                "hex": "#FEBA35"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#FC1921"
+            },{
+                "name": "green",
+                "hex": "#0D6826"
+            },{
+                "name": "grey",
+                "hex": "#BDBDBD"
+            }
+        ],
+        "design": "Ultramarine blue with the shield of the Alberta arms centred on the flag. [0]",
+        "adoptionDate": 1968,
+        "related": {
+            "country": [
+                "Canada"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Alberta"
+        ]
+    }
+    ,{
+        "name": "British Columbia",
+        "category": "Country Subdivisions",
+        "history": "From 1870 to 1906, British Columbia was occasionally represented by a modified British blue ensign featuring various forms of the great seal of the Colony of British Columbia. The current flag of British Columbia was based upon the 1906 arms of the province, designed by Anglican priest Canon Arthur John Beanlands of Victoria. Originally, the arms featured the Union Flag on the bottom. This was changed as it conflicted with the expression \"The sun never sets on the British Empire.\" Based upon Beanlands' revised design, the flag of British Columbia was introduced on June 14, 1960, by Premier W. A. C. Bennett, and was first flown on board the BC Ferries motor vessel Sidney (later Queen of Sidney). [0]",
+        "meaning": "The four wavy white and three wavy blue lines symbolize the province's location between the Pacific Ocean and the Rocky Mountains. The setting sun represents the fact that British Columbia is Canada's westernmost province. The sun may also reflect the provincial motto \"Splendor sine occasu\" (beauty that never diminishes)—or, in other words, the sun that never sets (on the British Empire).\n\nThe Union Flag on top reflects the province's British heritage, while the King Edward crown in the centre represents the Canadian Royal Family. [0]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#00247D"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#CF142B"
+            },{
+                "name": "yellow",
+                "hex": "#FFCC00"
+            }
+        ],
+        "design": "At the top of the flag is a rendition of the Royal Union Flag, defaced in the centre by a crown, and with a setting sun below. [0]",
+        "adoptionDate": 1960,
+        "related": {
+            "country": [
+                "Canada"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_British_Columbia"
+        ]
+    }
+    ,{
+        "name": "Manitoba",
+        "category": "Country Subdivisions",
+        "history": "This flag was approved by the passage of a bill in the Manitoba Legislative Assembly on May 11, 1965 and was officially proclaimed on 12 May 1966. Queen Elizabeth II gave permission for the use of the Union device the preceding year (October 1965). The decision to adopt the flag was made after the federal government decided to replace the Canadian Red Ensign with the Maple Leaf flag, which was quite controversial at the time. The Manitoban flag, intentionally designed to resemble the Canadian red ensign, was seen as a way of preserving heritage that some felt was lost when the national flag was changed. The flag of Ontario was adopted under similar circumstances.\n\nIn 2001, a survey conducted by the North American Vexillological Association (NAVA) placed the Manitoba provincial flag 44th in design quality out of the 72 Canadian provincial, U.S. state, and U.S. territory flags ranked. [0]",
+        "meaning": "On the white chief is the Cross of Saint George, a symbol of England. The bison is a symbolic reminder of the various bison that formerly roamed the province. [1]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CC0000"
+            },{
+                "name": "blue",
+                "hex": "#000066"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#165016"
+            },{
+                "name": "brown",
+                "hex": "#9E7E3A"
+            }
+        ],
+        "design": "A Red Ensign with the shield of the Coat of arms of Manitoba in the field. [0]",
+        "adoptionDate": 1966,
+        "related": {
+            "country": [
+                "Canada"
+            ],
+            "similar": [
+                "Bermuda",
+                "Ontario"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Manitoba",
+            "https://en.wikipedia.org/wiki/Coat_of_arms_of_Manitoba"
+        ]
+    }
+    ,{
+        "name": "New Brunswick",
+        "category": "Country Subdivisions",
+        "history": "The flag of New Brunswick, Canada, is a banner modelled after the province's coat of arms and was adopted by proclamation on February 24, 1965.\n\nThe flag ranked #18 in the North American Vexillological Association's survey of North American state and provincial flags. [0]",
+        "meaning": "The gold lioin represents New Brunswick's ties to both the Brunswick region in Germany and (the arms of) the Monarch of Canada. The Scottish Lymphad, the traditional representation of a ship in heraldry, represents shipbuilding, one of the province's main industries at the time the coat of arms was adopted and throughout much of the province's history. [0]",
+        "ratio": "5:8",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#D32927"
+            },{
+                "name": "yellow",
+                "hex": "#F4C600"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#1A3C86"
+            }
+        ],
+        "design": "A gold lion on the red field across the top one-third. The lower two-thirds of the flag depicts a Scottish Lymphad. [0]",
+        "adoptionDate": 1965,
+        "related": {
+            "country": [
+                "Canada"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_New_Brunswick"
+        ]
+    }
+    ,{
+        "name": "Nova Scotia",
+        "category": "Country Subdivisions",
+        "history": "The flag of Nova Scotia, created in 1858, is a banner of the coat of arms of Nova Scotia, which were granted to the Scottish colony by Charles I, in 1625.\n\nDespite continuous usage of the flag to represent Nova Scotia since 1858, the flag was only recognized by the Provincial government of Nova Scotia as the official provincial flag in May 2013, through the Provincial Flag Act (Bill 82), after an eleven-year-old girl researching a project realized that no one had recognized the flag officially in 155 years of usage. [0]",
+        "meaning": "The similarity to the Scottish flag reflects the province's name, which is Latin for \"New Scotland\". Nova Scotia was one of the few British colonies to be granted its own Coat of Arms, and the flag is the only one of the original Canadian provinces dating back to before confederation. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#0047B6"
+            },{
+                "name": "yellow",
+                "hex": "#FDD44F"
+            },{
+                "name": "red",
+                "hex": "#D21034"
+            }
+        ],
+        "design": "A blue saltire on a white field, charged with an inescutcheon bearing the royal arms of Scotland, a gold shield with a red lion rampant surrounded by a loyal double tressure. [0]",
+        "adoptionDate": 1858,
+        "related": {
+            "country": [
+                "Canada"
+            ],
+            "similar": [
+                "Scotland"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Nova_Scotia"
+        ]
+    }
+    ,{
+        "name": "Newfoundland and Labrador",
+        "category": "Country Subdivisions",
+        "history": "The flag of Newfoundland and Labrador was introduced in 1980, and was designed by Newfoundland artist Christopher Pratt. The flag design, with the proportions 2:1, was approved by the House of Assembly of the province of Newfoundland and Labrador, Canada, on May 28, 1980. It was flown for the first time on Discovery Day; June 24, 1980. [0]",
+        "meaning": "The design was chosen due to its broad symbolism. The blue colour represents the sea, the white colour represents snow and ice of winter, the red colour represents the effort and struggle of Newfoundlanders and Labradorians, and the gold colour symbolizes the confidence Newfoundlanders and Labradorians have in themselves and for the future.\n\nThe blue triangles are meant as a tribute to the Union Jack, and stand for the British heritage of Newfoundland and Labrador. The two red triangles are meant to represent the two areas of the province—the mainland and the island. The gold arrow, according to Pratt, points towards a \"brighter future\"; the arrow becomes a sword, honouring the sacrifices of Newfoundlanders in military service when the flag is draped as a vertical banner. The red triangles and the gold arrow form a trident, symbolizing the province's dependence on its fisheries and the resources of the sea. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#002373"
+            },{
+                "name": "red",
+                "hex": "#CD0019"
+            },{
+                "name": "yellow",
+                "hex": "#F8D80E"
+            }
+        ],
+        "design": "Four blue triangle-rectangles positioned in a similar fashion as the Union Jack on the hoist and two white triangle-rectangle bordered in red at the top and bottom of the second half, with a yellow vertical arrow bordered in red at the center.",
+        "adoptionDate": 1980,
+        "related": {
+            "country": [
+                "Canada"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Newfoundland_and_Labrador"
+        ]
+    }
+    ,{
+        "name": "Ontario",
+        "category": "Country Subdivisions",
+        "history": "Before 1965, the Canadian Red Ensign had served as the national flag of Canada. It was flown at all military installations in Canada and overseas, outside the legislature and government buildings, at Royal Canadian Legion halls, and many private homes. In 1964, the federal government, after a long and acrimonious debate, replaced the Red Ensign with the current flag of Canada. This decision was unpopular among millions of Canadians. These included many Ontarians, particularly in rural areas that made up much of the political base of Premier John Robarts' Ontario Progressive Conservatives.\n\nRobarts thus proposed that Ontario would have its own flag and that it would be a Red Ensign like the previous Canadian flag. It was traditional for jurisdictions around the world with a British system of government and way of life to adapt either a blue or red ensign as a flag, by adding the local coat of arms or some other symbol. In Ontario, it was logical to place the Ontario shield of arms on the flag. While Robarts insisted that he supported the new national flag, he felt the Ensign was an important symbol that reflected Ontario's British heritage and the sacrifices made by Canadian troops under the Red Ensign. As Robarts put it, the Ontario flag \"covers our history.\"\n/nCanadians were exhausted by the long debate over the national flag and leaders of both the Ontario Liberal Party and the Ontario New Democratic Party decided to support the design for the proposed Ontario flag. The only opposition came from Sudbury Liberal Member of Provincial Parliament Elmer Sopha who was fervently opposed to the flag, arguing that it failed to reflect Ontario's diverse character and that it was \"a flag of revenge\" against the new national flag. However, he was only joined by one other MPP, Liberal Leo Troy, in voting against the flag, and it was passed by the Legislative Assembly on March 17.\n\nThe flag of Manitoba was adopted under similar circumstances. [0]",
+        "meaning": "The shield of arms consists of three gold maple leaves on a green background, above which is a wide white band with a red St. George's cross. The maple leaves on the shield are of course the symbol of Canada. The cross of St. George recalls the historic connection with Britain. [1]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CC0000"
+            },{
+                "name": "blue",
+                "hex": "#000066"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#007934"
+            },{
+                "name": "yellow",
+                "hex": "#F3CC00"
+            }
+        ],
+        "design": "A Red Ensign with the shield of the Coat of arms of Ontario in the field. [0]",
+        "adoptionDate": 1965,
+        "related": {
+            "country": [
+                "Canada"
+            ],
+            "similar": [
+                "Bermuda",
+                "Manitoba"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Ontario",
+            "https://en.wikipedia.org/wiki/Coat_of_arms_of_Ontario"
+        ]
+    }
+    ,{
+        "name": "Prince Edward Island",
+        "category": "Country Subdivisions",
+        "history": "The flag was adopted March 24, 1964. [0]",
+        "meaning": "Based upon the Armorial Bearings of Prince Edward Island, the flag contains a gold Heraldic Lion which also appeared on the Coat of Arms for Prince Edward, Duke of Kent (for whom the Province was named) and on that of King Edward VII, who granted the Bearings. Beneath the lion is a single plot of grass representing PEI and England, both of which are islands. Upon the mound of grass stand a mature Oak tree (the official tree of Prince Edward Island) which represents England and three smaller saplings on the left, representing the 3 counties into which Prince Edward Island has been divided since 1767. Framing the flag on the three sides away from the mast are alternating bands of red and white, the official colors of Canada. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#D54040"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#F3DB61"
+            },{
+                "name": "green",
+                "hex": "#2AA299"
+            },{
+                "name": "brown",
+                "hex": "#D3AF9A"
+            }
+        ],
+        "design": "The upper third of the flag features the English heraldic lion. he lower two-thirds show an island on which appear three small oak saplings under the protection of a great oak tree. The three sides away from the mast are bordered by alternating bands of red and white. [0]",
+        "adoptionDate": 1964,
+        "related": {
+            "country": [
+                "Canada"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Prince_Edward_Island"
+        ]
+    }
+    ,{
+        "name": "Quebec",
+        "category": "Country Subdivisions",
+        "history": "The flag of Quebec, called the Fleurdelisé, was adopted for the province by the government of Quebec, during the administration of Maurice Duplessis. It was the first provincial flag officially adopted in Canada, first shown on January 21, 1948, at the Parliament Building of the National Assembly in Quebec City. Quebec's Flag Day (January 21) commemorates its adoption each year, though for some time it was celebrated in May.\n\nA 2001 survey by the North American Vexillological Association ranked the Fleurdelisé as the best provincial or territorial flag, and the third-best of the flags of all U.S. and Canadian provinces, territories, and states. [0]",
+        "meaning": "Its white fleurs-de-lis (symbols of purity) and blue field (symbolizing Heaven) come from a banner honouring the Virgin Mary. One such was reputedly carried by French-Canadian militia at General Louis-Joseph de Montcalm's victory at Carillon. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#003399"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A blue field with a white cross and a white fleur-de-lys in each of the four blue rectangles.",
+        "adoptionDate": 1948,
+        "related": {
+            "country": [
+                "Canada"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Quebec"
+        ]
+    }
+    ,{
+        "name": "Saskatchewan",
+        "category": "Country Subdivisions",
+        "history": "The current flag of Saskatchewan was adopted on September 22, 1969, the result of a province-wide competition that drew over four thousand entries. The winning entry was designed by Anthony Drake of Hodgeville, Saskatchewan. [0]",
+        "meaning": "The upper green half of the flag represents the northern Saskatchewan forest lands, while the gold lower half symbolizes the southern, prairie wheat-fields.\n\nOn the gold chief is a lion passant or leopard, a royal symbol of England. The three gold sheaves of wheat, or garbs, represent the province's agriculture. [0][1]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#076A21"
+            },{
+                "name": "yellow",
+                "hex": "#FDD401"
+            },{
+                "name": "red",
+                "hex": "#DD1810"
+            }
+        ],
+        "design": "A green-yellow vertical bicolour charged with the coat of arms in the canton and the floral emblem in the fly. [0]",
+        "adoptionDate": 1969,
+        "related": {
+            "country": [
+                "Canada"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Saskatchewan",
+            "https://en.wikipedia.org/wiki/Coat_of_arms_of_Saskatchewan"
+        ]
+    }
+    ,{
+        "name": "Northwest Territories",
+        "category": "Country Subdivisions",
+        "history": "The Northwest Territories' first official flag was chosen by a special committee of the Legislative Assembly of the Northwest Territories in 1969. The committee reviewed entries from a Canada wide contest. The winner of the contest was Robert Bessant from Margaret, Manitoba. [0]",
+        "meaning": "Two blue panels represent the Northwest Territories' many rivers and lakes. The white section, representing ice and snow, is equal in area to the 2 blue panels combined. The territorial Shield is centred in the white section. The white section of the Shield, with a wavy blue line dividing it, represents the Arctic Ocean and the Northwest Passage. A diagonal line, representing the tree line, divides the lower portion into a green and red section with green symbolizing the trees and red symbolizing the tundra. The gold bars in the green section and the white fox in the red section represent the abundant minerals and furs upon which the history and prosperity of the Northwest Territories has been based. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#00549F"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#EE3629"
+            },{
+                "name": "green",
+                "hex": "#008165"
+            },{
+                "name": "yellow",
+                "hex": "#FFC32A"
+            }
+        ],
+        "design": "A blue field, on which is a Canadian pale (a white stripe taking up half the width of the flag), with at the centre, the shield from the coat of arms of the Northwest Territories. [0]",
+        "adoptionDate": 1969,
+        "related": {
+            "country": [
+                "Canada"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Northwest_Territories"
+        ]
+    }
+    ,{
+        "name": "Nunavut",
+        "category": "Country Subdivisions",
+        "history": "The process of creating a flag for Nunavut began prior to its creation as a territory in 1999. This created significant excitement in the vexillographic community, as it was the first change in the map of Canada since Newfoundland became a province in 1949 and was being created in a region with little flag history. In deference to the elders of the Inuit communities of Nunavut, the development of both the Nunavut flag and coat of arms was guided by their input. The process sought to give the public an opportunity to offer input into the colours and symbolism of the flag as well as to give local artists an opportunity to participate. Led by the Chief Herald of Canada, a group developing the flag visited a number of communities to seek input and learn about local culture, including Rankin Inlet, Baker Lake, Cape Dorset, Iqaluit, and Pangnirtung.\n\nThe group then put out a call for submissions across all of Canada, and received over 800. These submissions were reviewed and winnowed by a committee made up of artists and local elders who chose ten finalists. From the symbols and colours of these ten finalists, five draft designs of the flag were developed. They were assisted in drafting these by local Inuit artist Andrew Qappik. The final version of the flag was reviewed and accepted by the commission responsible for its adoption as well as the Governor General of Canada and Queen Elizabeth II. It was officially unveiled on 1 April 1999, the day when both the territory and government of Nunavut became official.\n\nFollowing its adoption, the flag has been criticized for vexillological reasons. Specifically, it has been criticized for having too many colours, the placement of the star at the end of the flag, the use of gold and white as the background field, and the use of a black outline around the inukshuk. [0]",
+        "meaning": "The colours blue and gold were selected to represent the \"riches of land, sea, and sky\", while red is used to represent Canada as a whole. The inuksuk, which divides the flag, is a traditional stone monument used to guide travellers and to mark sacred sites. In the upper fly, the blue star represents the North Star (Niqirtsituk), an important object due to its key role as a navigational beacon, and as symbolically representing the wisdom and leadership of community elders. [0]",
+        "ratio": "9:16",
+        "colors": [
+            {
+                "name": "yellow",
+                "hex": "#FDD500"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#D51516"
+            },{
+                "name": "blue",
+                "hex": "#0164BB"
+            }
+        ],
+        "design": "Gold and white fields divided vertically by a red inuksuk with a blue star in the upper fly. [0]",
+        "adoptionDate": 1999,
+        "related": {
+            "country": [
+                "Canada"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Nunavut"
+        ]
+    }
+    ,{
+        "name": "Yukon",
+        "category": "Country Subdivisions",
+        "history": "The flag of Yukon was officially adopted on March 1, 1968. The flag was chosen from a territory-wide competition as part of Canada's Centennial celebrations of 1967. The competition was sponsored by the Whitehorse branch of the Royal Canadian Legion. A C$100 prize was offered to the winning design. There were a total of 137 submissions with the winning design coming from Yukon College graduate Lynn Lambert. Lambert submitted 10 designs of which one made the final three designs as selected by a committee, with his eventually being named the winner. A prototype design was sent to Ottawa for suitable heraldic description. An expert in Ottawa sent back an amended version of the submitted flag design. The committee in Whitehorse however kept with the original design. The flag was adopted by a 'Flag Act' on December 1, 1967. [0]",
+        "meaning": "The flag is divided into three coloured panels: green representing Yukon's forests, white representing snow and blue representing Yukon's lakes and rivers.\n\nIn the centre of the white panel is the Coat of Arms of Yukon above a wreath of fireweed, the floral emblem of the Yukon. The crest of the Coat of Arms is a Malamute sled dog, a common work dog in the Yukon, standing on a mound of snow. The shield of the Coat of Arms contains at the top, a cross of St. George for England with a roundel with a pattern of vair (fur), called Roundel in Vair. Below in the middle of the shield are two wavy lines representing Yukon's rivers on a blue background.\n\nFinally at the bottom of the shield are two red triangles representing Yukon's mountains with gold circles in them representing the Yukon's great mineral resources. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#187B01"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#0738AC"
+            },{
+                "name": "red",
+                "hex": "#D51810"
+            },{
+                "name": "yellow",
+                "hex": "#FEDC00"
+            }
+        ],
+        "design": "A blue, white and green tricolour with the coat of arms of Yukon at the centre, above a wreath of fireweed. [0]",
+        "adoptionDate": 1968,
+        "related": {
+            "country": [
+                "Canada"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Yukon"
         ]
     }
 ]
