@@ -1470,4 +1470,251 @@
             "https://en.wikipedia.org/wiki/Flag_of_Yukon"
         ]
     }
+    ,{
+        "name": "Alabama",
+        "category": "Country Subdivisions",
+        "history": "Alabama's current flag was adopted in 1895. The legislation was introduced by Representative John W. A. Sanford Jr. Sanford's father, John W. A. Sanford, had commanded the 60th Alabama Infantry Regiment during the U.S. Civil War and he modeled his design on the battle flag used by that regiment.\n\nThe saltire of Alabama's flag most closely resembles the saltire of the flag of Florida, which has its heritage in the Spanish Cross of Burgundy. Southern Alabama was originally part of Spanish Florida and subsequently West Florida.\n\nIt is sometimes believed that the crimson saltire of the current flag of Alabama was designed to resemble the blue saltire of the Confederate Battle Flag. Many battle flags were square, and the flag of Alabama is sometimes also depicted as square. The legislation that created the state flag did not specify that the flag was to be square, however.\n\nAccording to historian John M. Coski, the adoption of Alabama's flag coincided with the rise of Jim Crow laws and segregation, as other former Confederate slave states, such as Mississippi and Florida, also adopted new state flags based off Confederate designs around the same time when those states instituted Jim Crow segregation laws themselves. [0]",
+        "meaning": "See History.",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#B10021"
+            }
+        ],
+        "design": "Crimson cross of St. Andrew in a field of white. [0]",
+        "adoptionDate": 1895,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Alabama"
+        ]
+    }
+    ,{
+        "name": "Alaska",
+        "category": "Country Subdivisions",
+        "history": "More than 30 years before Alaska was to become a state, the Alaska Department of the American Legion sponsored a territorial contest for Alaskan children in grades seven through twelve. Winning the contest in 1927, the design of Benny Benson, a 13-year-old Alaska Native residing at the Jesse Lee Home for Children in Seward, was chosen to represent the future flag of the Territory of Alaska. Up to that time, Alaskans had flown only the U.S. flag since the territory was purchased from Russia in 1867. Benson's design was chosen over roughly 700 other submissions from schoolchildren territory-wide in grades 7–12. Most other entries featured variations on the territorial seal, the midnight sun, the northern lights, polar bears, and/or gold pans. To celebrate his achievement, Benson was awarded US$1,000 and an engraved watch. [0]",
+        "meaning": "According to Benny Benson, \"the blue field is for the Alaska sky and the forget-me-not, an Alaskan flower. The North Star is for the future state of Alaska, the most northerly in the union. The Dipper is for the Great Bear—symbolizing strength.\"\n\nThe Big Dipper is an asterism in the constellation Ursa Major which symbolizes a bear, an animal indigenous to Alaska. As depicted on the flag, its stars can be used as a guide by the novice to locate Polaris and determine true north, which varies considerably from a magnetic north. [0]",
+        "ratio": "125:177",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0F204B"
+            },{
+                "name": "yellow",
+                "hex": "#FFB612"
+            }
+        ],
+        "design": "Eight gold stars, in the shape of \"the big dipper\", on a blue background. [0]",
+        "adoptionDate": 1927,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Alaska"
+        ]
+    }
+    ,{
+        "name": "Arizona",
+        "category": "Country Subdivisions",
+        "history": "While Colonel Harris is credited with the creation of the Rifle Team flag, several individuals appear to have played a role in the creation of the state's first official flag. W. R. Stewart of Mesa was working in conjunction with Colonel Charles W. Harris, who was the Arizona Adjutant General and head of the Arizona National Guard. Stewart, as President of the Mesa Rifle Team, felt compelled to design a flag for competition. Stewart's wife (Mae) sewed the first flag for competition from a sketch he had made on the back of an envelope. Carl Hayden, Arizona's first US Congressman, was reported to have been involved with Colonel Harris in designing the first state flag, and his wife, Nan Hayden, was responsible for sewing the first state flag. Rachael Berry, a leader in women's suffrage and the first woman elected to the First Arizona Legislature during Arizona's first year of statehood in 1912, also is reported to have codesigned the Arizona flag with another woman (likely Nan Hayden) in the years preceding statehood. Many individuals likely were involved in its conception, design, and production, rather than one or two individuals working independently; the specific language used in official state of Arizona materials likely has merit.\n\nThe Stewart/Harris version of the competition flag's origin is due to Stewart dropping some copper dye and white material into boiling water and the result was the copper color now seen on the flag. While some sources claim the rising sun of the earlier proposals was thought to resemble the Japanese flag and was therefore changed to the present star, most official sources (including official state documents) cite the Spanish flag and the influence of the early Arizona explorers conquistadores Cabeza de Vaca and Coronado as they searched unsuccessfully for the lost (gold) City of Cibola as the inspiration for the colors. It is worth to remind, nonetheless, that these early Arizona's explorers never used the current Spanish flag, which is of a much recent invention (1785).\n\nThe flag was adopted on February 17, 1917, by the 3rd Arizona Legislature. It was passed into law without the signature of Governor Thomas Campbell. The governor did not officially state his reasons for taking no action on the bill. [0]",
+        "meaning": "The 13 rays of red and weld-yellow on the top half, the colors of the flag of Spain, represent the 13 original states. The red and yellow also symbolize Arizona's picturesque sunsets. The copper star represents the copper mining industry in Arizona. The rest of the flag is colored blue, representing the Colorado River. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#BF0A30"
+            },{
+                "name": "yellow",
+                "hex": "#FED700"
+            },{
+                "name": "copper",
+                "hex": "#CE5C17"
+            },{
+                "name": "blue",
+                "hex": "#002868"
+            }
+        ],
+        "design": "13 rays of red and weld-yellow on the top half of a blue field charged with a five-point copper star. [0]",
+        "adoptionDate": 1917,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Arizona"
+        ]
+    }
+    ,{
+        "name": "Arkansas",
+        "category": "Country Subdivisions",
+        "history": "The design was created by Willie Kavanaugh Hocker of Wabbaseka and selected from a field of 65 entries in a 1912 contest.\n\nAround 1912, the Pine Bluff chapter of the Daughters of the American Revolution (DAR) wished to present a state flag for the commissioning of the battleship USS Arkansas. When it was discovered that Arkansas did not have a state flag, the DAR chapter decided to sponsor a contest to design a flag. Hocker, a member of the Pine Bluff DAR chapter, won with a design that is similar to the current flag. She designed the flag with three blue stars in the middle of the white diamond and omitted \"ARKANSAS\". At the request of the flag committee, chaired by Secretary of State Earle Hodges, Hocker added \"ARKANSAS\" and rearranged the stars to one on top and two on bottom. This flag was adopted by the legislature on February 26,1913. [0]",
+        "meaning": "According to the 1987 state law defining the flag, the diamond represents Arkansas' status as \"the only diamond-bearing state in the Union\" (Crater of Diamonds State Park was the only diamond mine in North America at the time, before more recent discoveries in Colorado and Montana). The number (25) of white stars around the border of the diamond represents Arkansas' position as the 25th state to join the union. The blue star above \"ARKANSAS\" represents the Confederate States of America, which Arkansas joined in secession. The design of the border around the white diamond evokes the saltire found on the Confederate battle flag.\n\nThe three stars below \"ARKANSAS\" have three separate meanings: it represents the three nations to which Arkansas has belonged (Spain, France, and the U.S.); the Louisiana Purchase, which brought Arkansas into the U.S. and was signed in 1803; and Arkansas as the third state (after Louisiana and Missouri) formed from the Louisiana Purchase. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#BF0A30"
+            },{
+                "name": "blue",
+                "hex": "#002868"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "Red field containing a large blue-bordered white diamond. Twenty-nine five-pointed stars appear on the flag: twenty-five small white stars within the blue border, and four larger blue stars in the white diamond. The inscription \"ARKANSAS\" appears in blue within the white lozenge, with one star above and three stars below. The star above and the two outer stars below point upwards; the inner star below points downwards. [0]",
+        "adoptionDate": 1924,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Arkansas"
+        ]
+    }
+    ,{
+        "name": "California",
+        "category": "Country Subdivisions",
+        "history": "The Bear Flag is the official flag of the state of California. The precursor of the flag was first flown during the 1846 Bear Flag Revolt and was also known as the Bear Flag. The original Grizzly Bear Flag was designed by Peter Storm in anticipation of ending oppressive Mexican rule over the Free and Sovereign State of California, for all time. [0]",
+        "meaning": "The single red star represents the 1836 California Lone Star Flag. The bear is a reminiscence of the Bear Flag.",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#B71234"
+            },{
+                "name": "brown",
+                "hex": "#BD8A5E"
+            },{
+                "name": "brown",
+                "hex": "#584528"
+            },{
+                "name": "green",
+                "hex": "#008542"
+            }
+        ],
+        "design": "Contains a single red star, a red stripe along the bottom, and a grizzly bear. [0]",
+        "adoptionDate": 1911,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_California"
+        ]
+    }
+    ,{
+        "name": "Colorado",
+        "category": "Country Subdivisions",
+        "history": "The flag was designed by Andrew Carlisle Johnson in 1911 and adopted by the Colorado General Assembly on June 5 of the same year. [0]",
+        "meaning": "The blue is meant to represent the skies, the gold stands for the sunshine enjoyed by the state, the white represents the snowcapped mountains, and the red represents the ruddy colored earth. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#102E82"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#BF2C34"
+            },{
+                "name": "yellow",
+                "hex": "#F5D047"
+            }
+        ],
+        "design": "Three horizontal stripes of blue, white, and blue. On top of these stripes sits a circular red \"C\", filled with a golden disk. [0]",
+        "adoptionDate": 1964,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Colorado"
+        ]
+    }
+    ,{
+        "name": "Connecticut",
+        "category": "Country Subdivisions",
+        "history": "The Connecticut General Assembly approved the flag in 1897 after it was introduced by Governor Owen Vincent Coffin in 1895. The design comes from the seal of Saybrook Colony, designed by George Fenwick when it was established in 1639. [0]",
+        "meaning": "The three grapevines represent three oldest settlements (Windsor, Wethersfield, and Hartford). The banner below the shield reads \"Qui Transtulit Sustinet\", Latin for \"He who transplanted still sustains\", Connecticut's state motto. [0]",
+        "ratio": "3:4",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0C2D83"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#FFD312"
+            },{
+                "name": "green",
+                "hex": "#129612"
+            },{
+                "name": "brown",
+                "hex": "#961E1D"
+            },{
+                "name": "purple",
+                "hex": "#B400B4"
+            }
+        ],
+        "design": "White shield with three grapevines on a field of azure blue. [0]",
+        "adoptionDate": 1897,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Connecticut"
+        ]
+    }
+    ,{
+        "name": "Delaware",
+        "category": "Country Subdivisions",
+        "history": "The current flag was adopted on July 24, 1913. The coat of arms in the center of the flag was adopted on January 17, 1777. [0]",
+        "meaning": "The date \"December 7, 1787\", declares the day on which Delaware became the first state to ratify the United States Constitution. The colors of the flag reflect the colors of the uniform of General George Washington.\n\nThe coat of arms depicts a shield of horizontal green, blue, and white stripes. On the stripes are a sheaf of wheat, an ear of corn, and an ox standing on grass, all representing Delaware's agriculture. Above the shield is a sailing ship. Supporting the shield are a farmer on the left and a soldier on the right. The state motto, below the shield, reads \"Liberty and Independence\". [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#76A1A0"
+            },{
+                "name": "yellow",
+                "hex": "#F0DC82"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A buff-colored diamond on a field of colonial blue, with the coat of arms of the state of Delaware inside the diamond and the date \"December 7, 1787\" below the diamond. [0]",
+        "adoptionDate": 1913,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Delaware"
+        ]
+    }
 ]
