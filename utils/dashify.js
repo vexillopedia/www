@@ -1,5 +1,10 @@
 "use strict"
 
-const dashify = (str) => String(str).replace(/ /g, "-").toLowerCase()
+const dashify = (str) => 
+    String(str)
+        .replace(/ /g, "-")
+        .replace(/\(/g, "-")
+        .replace(/\)/g, "")
+        .toLowerCase()
 
 module.exports = dashify
