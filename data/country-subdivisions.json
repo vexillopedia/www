@@ -1490,6 +1490,9 @@
         "related": {
             "country": [
                 "United States"
+            ],
+            "similar": [
+                "Florida"
             ]
         },
         "sources": [
@@ -1715,6 +1718,259 @@
         },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Delaware"
+        ]
+    }
+    ,{
+        "name": "Florida",
+        "category": "Country Subdivisions",
+        "history": "The design was approved by popular referendum November 6, 1900. The flag's current design has been in use since May 21, 1985, after the state seal was graphically altered and officially sanctioned for use by state officials.\n\nBetween 1868 and 1900, the flag of Florida was simply the state seal on a white background. In a discrepancy, however, a later version of the state seal depicts a steamboat with a white flag that includes a red saltire, similar to Florida's current flag. In the late 1890s, Governor Francis P. Fleming, a nationalist, advocated that St. Andrew's Cross be added so that it would not appear to be a white flag of truce hanging still on a flagpole. Floridians approved the addition of St. Andrew's Cross by popular referendum in 1900. The red saltire of the Cross of Burgundy represents the cross on which St. Andrew was crucified, and the standard can be frequently seen in Florida's historic settlements, such as St. Augustine, today.\n\nLastly, some historians see the addition of a red saltire as a commemoration of Florida's contributions to the Confederacy by Governor Fleming, who served in the 2nd Florida Regiment of the Confederate army. The addition was made during a period of nostalgia for the \"Lost Cause\" around the time of the flag's change. According to historian John M. Coski, the adoption of Florida's flag coincided with the rise of Jim Crow laws and segregation, as other former Confederate slave states, such as Mississippi and Alabama, also adopted new state flags based off Confederate designs around the same time when those states instituted Jim Crow segregation laws themselves [0]",
+        "meaning": "See History.",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#A80534"
+            },{
+                "name": "yellow",
+                "hex": "#FFB900"
+            }
+        ],
+        "design": "A red saltire on a white field, with the seal of Florida superimposed at the center. [0]",
+        "adoptionDate": 1900,
+        "related": {
+            "country": [
+                "United States"
+            ],
+            "similar": [
+                "Alabama"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Florida"
+        ]
+    }
+    ,{
+        "name": "Georgia (State)",
+        "category": "Country Subdivisions",
+        "history": "In 2002, Sonny Perdue was elected Governor of Georgia, partially on a platform of allowing Georgians to choose their own flag in a state referendum. He authorized the Georgia legislature to draft a new flag in 2003.\n\nThe Georgia General Assembly's proposed flag combined elements of Georgia's previous flags, creating a composition that was inspired by the Confederate First National flag, the Stars and Bars, rather than the Confederate Battle Flag. Perdue signed the legislation into law on May 8, 2003.\n\nThe 2003 flag legislation also authorized a public referendum on which of the two most recent flags (the 2001 and 2003 versions) would be officially adopted as the flag of the state. The referendum took place during the state's March 2, 2004 presidential primary election. If the 2003 flag was rejected, the pre-2001 design would have been put to a vote. The 2003 design won 73.1% of the vote in the referendum. [0]",
+        "meaning": "The design principle is based on the first national flag of the Confederacy, which was nicknamed the \"Stars and Bars\".\n\nThe ring of stars that encompass the state's coat of arms symbolize Georgia's status as one of the original Thirteen Colonies.\n\nIn the coat of arms, the arch symbolizes the state's constitution and the pillars represent the three branches of government: legislative, executive, and judicial. The words of the state motto, \"Wisdom, Justice, and Moderation\", are wrapped around the pillars, guarded by a male figure dressed in colonial attire dating back to the time of the American Revolutionary War. Within the arms, a sword is drawn to represent the defense of the state's constitution. An additional motto, In God We Trust, is positioned underneath these elements acting as the state's \"foundation\".  [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002D56"
+            },{
+                "name": "yellow",
+                "hex": "#EED000"
+            },{
+                "name": "red",
+                "hex": "#B50027"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "Three stripes consisting of red, white, red. A blue canton containing a ring of 13 stars encompassing the state's coat of arms in gold. [0]",
+        "adoptionDate": 2003,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Georgia_(U.S._state)"
+        ]
+    }
+    ,{
+        "name": "Hawaii",
+        "category": "Country Subdivisions",
+        "history": "The same flag had also previously been used by the kingdom, protectorate, republic, and territory of Hawaii. It is the only U.S. state flag to feature the Union flag of the United Kingdom, a remnant of the British Empire's influence on Hawaiian history.\n\nThe original flag was designed to feature stripes alternating in the order red-white-blue, also attributed to various historical flags of the United Kingdom. The flag used at the first official flying of the flag of Hawaii erroneously placed the stripes in the order white-red-blue, although it seems explorers to the island disagree about the exact order of colors and the number of stripes up to the late 1840s. There may have been possibly different versions of the flag with different numbers of stripes and colors. The number of stripes also changed: originally, the flag was designed with either seven or nine horizontal stripes, and in 1845 it was officially changed to eight stripes. The latter arrangement was adopted and is used today. [0]",
+        "meaning": "The field of the flag is composed of eight horizontal stripes, symbolizing the eight major islands (Hawaiʻi, Oʻahu, Kauaʻi, Kahoʻolawe, Lānaʻi, Maui, Molokaʻi and Niʻihau). [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#CF142B"
+            },{
+                "name": "blue",
+                "hex": "#00247D"
+            }
+        ],
+        "design": "8 alternating horizontal stripes of white, red, and blue, with a Union flag in the canton. [0]",
+        "adoptionDate": 1845,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Hawaii"
+        ]
+    }
+    ,{
+        "name": "Idaho",
+        "category": "Country Subdivisions",
+        "history": "The Seal of the Territory of Idaho was adopted in 1863, and redrawn several times before statehood in 1890. The state Great Seal was designed by Emma Edwards Green, the only woman to design a state seal.\n\nThe flag of the state of Idaho consists of the state seal on a field of blue. [0]",
+        "meaning": "The seal depicts a miner and a woman representing equality, liberty and justice. The symbols on the seal represent some of Idaho’s natural resources: mines, forests, farmland, and wildlife.\n\nThe current seal contains the text \"Great Seal of the State of Idaho\" in the outer ring, with the star that signifies a new light in the galaxy of states. The inner ring contains a banner with the Latin motto, Esto perpetua (\"Let it be perpetual\" or \"It is forever\"). A woman, signifying justice, and a man, dressed as a miner, support a shield. The miner reminds us of the chief industry of the State at the time of statehood.\n\nInside, the shield bears images symbolic of the State. The pine tree in the foreground refers to Idaho's immense timber interests. The husbandman plowing on the left side of the shield, together with the sheaf of grain beneath the shield, are emblematic of Idaho's agricultural resources, while the two cornucopias, or horns of plenty, refer to the horticultural. Idaho has a game law, which protects the elk and moose, and an elk's head rises above the shield. The state flower, the wild Syringa or Mock Orange, grows at the woman's feet, while the ripened wheat grows as high as her shoulder. The river depicted in the shield is the Snake or Shoshone River. [0]",
+        "ratio": "26:33",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#003776"
+            },{
+                "name": "yellow",
+                "hex": "#FFE835"
+            },{
+                "name": "red",
+                "hex": "#EF1439"
+            }
+        ],
+        "design": "State seal of Idaho on a field of blue. [0]",
+        "adoptionDate": 1957,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_and_seal_of_Idaho"
+        ]
+    }
+    ,{
+        "name": "Illinois",
+        "category": "Country Subdivisions",
+        "history": "The Great Seal of the State of Illinois is the official emblem of the state, and signifies the official nature of a document produced by the state of Illinois. The flag of the state of Illinois consists of the seal of Illinois on a white background, with the word \"Illinois\" underneath the seal. The present seal was adopted in 1869, the flag bearing the central elements of the seal was adopted in 1915, and the word, Illinois was added to the flag in 1970. [0]",
+        "meaning": "The current flag depicts the Great Seal of Illinois, which was originally designed in 1819 and emulated the Great Seal of the United States. In the eagle's beak there is a banner with the state motto, \"State Sovereignty, National Union.\" The dates on the seal, 1818 and 1868, represent the year Illinois became a state and the year in which the Great Seal was redesigned by Sharon Tyndale. [0]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "brown",
+                "hex": "#84623C"
+            },{
+                "name": "red",
+                "hex": "#980826"
+            },{
+                "name": "blue",
+                "hex": "#002868"
+            },{
+                "name": "yellow",
+                "hex": "#FFE60F"
+            },{
+                "name": "grey",
+                "hex": "#B4B4B4"
+            },{
+                "name": "green",
+                "hex": "#3F863F"
+            }
+        ],
+        "design": "Seal of Illinois on a white field. [0]",
+        "adoptionDate": 1969,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_and_seal_of_Illinois"
+        ]
+    }
+    ,{
+        "name": "Indiana",
+        "category": "Country Subdivisions",
+        "history": "The flag of Indiana was designed by Paul Hadley and officially adopted by the state of Indiana on May 31, 1917. It was the state's first official flag and has remained unchanged since then except for the creation of a statute to standardize the production of the flag. [0]",
+        "meaning": "The flag consists of a gold torch that represents liberty and enlightenment; the rays around the torch represent their far-reaching influence. The nineteen stars represent Indiana's place as the nineteenth state to join the United States. The thirteen stars in the outer loop symbolize the original Thirteen Colonies, the five inner stars represent the next five states added to the Union, and the one large star above the torch represents Indiana. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#000F5D"
+            },{
+                "name": "yellow",
+                "hex": "#D59F0F"
+            }
+        ],
+        "design": "A gold torch surrounded by an outer circle of thirteen stars, an inner semi circle of five stars, and a 19th, larger, star at the top of the torch, crowned by the word 'Indiana', representing Indiana's admission to the Union as the 19th state. [0]",
+        "adoptionDate": 1917,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Indiana"
+        ]
+    }
+    ,{
+        "name": "Iowa",
+        "category": "Country Subdivisions",
+        "history": "The flag was adopted in 1921; it was first approved in May 1917, by the Iowa State Council for Defense. It was designed in 1917, by Knoxville, Iowa, resident Mrs. Dixie Cornell Gebhardt, of the Daughters of the American Revolution of Iowa. [0]",
+        "meaning": "The vertical tricolor of blue, white, and red reflects Iowa's history as part of the French Louisiana Territory.\n\nThe image of a bald eagle with a long ribbon reading \"Our liberties we prize and our rights we will maintain\", taken from the Seal of Iowa, is centered in the middle white stripe. The word \"Iowa\" is placed directly below it in red, serifed majuscules. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0A1F62"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#D90026"
+            },{
+                "name": "brown",
+                "hex": "#A54A00"
+            }
+        ],
+        "design": "A vertical tricolor consisting of blue, white, red. The center stripe is twice the width of the other two and contains an eagle holding a ribbon. [0]",
+        "adoptionDate": 1921,
+        "related": {
+            "country": [
+                "United States"
+            ],
+            "similar": [
+                "France"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Iowa"
+        ]
+    }
+    ,{
+        "name": "Kansas",
+        "category": "Country Subdivisions",
+        "history": "The flag of Kansas was designed in 1925. Officially adopted by the Kansas State Legislature in 1927 and modified in 1961 (the word \"Kansas\" was added below the seal in gold block lettering). First flown at Fort Riley by Governor Benjamin S. Paulen in 1927 for the troops at Fort Riley and for the Kansas National Guard.\n\nFrom 1925 to 1927, Kansas used a state banner instead of a flag. The Kansas state banner, which consisted of a large sunflower and the word \"Kansas\" on a blue field, was intended to be hung from a horizontal bar, rather than a vertical flag pole. It was given a unique design to avoid \"competition\" with the United States flag. However, after the banner was rejected for display in Washington, D.C., and generated complaints for its awkward method of hanging, the state legislature adopted a state flag that saw the addition of the word \"Kansas\" at the bottom in 1961 but has otherwise retained its original design. [0]",
+        "meaning": "The state seal centered on the flag tells the history of Kansas and his figures representing pioneer life. The seal contains: a landscape with a rising sun (the east), a river and steamboat (commerce), a settler's cabin and a man plowing a field (agriculture), a wagon train heading west (American expansion), Indians hunting American Bison (the buffalo are fleeing from the Indians), a cluster of 34 stars (top of the seal) and the State motto \"Ad Astra per Aspera\" - Latin : \"To the Stars through Difficulties\" (above the stars).\n\nThe thirty-four stars clustered at the top of the seal identify Kansas as the 34th state to be accepted into the Union of the United States. [0]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002569"
+            },{
+                "name": "yellow",
+                "hex": "#F1AD02"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "Seal of Kansas on a field of azure. A sunflower is displayed above the seal and the word \"Kansas\" below. [0]",
+        "adoptionDate": 1965,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Kansas"
         ]
     }
 ]
