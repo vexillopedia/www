@@ -2278,4 +2278,268 @@
             "https://en.wikipedia.org/wiki/Flag_of_Missouri"
         ]
     }
+    ,{
+        "name": "Montana",
+        "category": "Country Subdivisions",
+        "history": "The current flag was adopted in 1905, and the word \"Montana\" above the seal was added in 1981. In 1985, the flag was again modified to specify the font used in \"Montana\".\n\nThe North American Vexillological Association (NAVA) declared the flag of Montana to be the third worst state/provincial flag, 70th in a field of 72 in a list that contained all the provinces of Canada, U.S. states and U.S. territories. [0]",
+        "meaning": "The outer ring of the seal contains the text \"The Great Seal of the State of Montana\". The inner circle depicts a landscape of mountains, plains and forests by the Great Falls on the Missouri River. A plow, a pick and a shovel are depicted on the front, representing the state's industry. The banner at the bottom of the seal reads the territorial motto of Oro y Plata, meaning \"Gold and Silver\" in Spanish. [1]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002A68"
+            },{
+                "name": "yellow",
+                "hex": "#FFD90F"
+            },{
+                "name": "brown",
+                "hex": "#A81800"
+            },{
+                "name": "green",
+                "hex": "#A2D100"
+            }
+        ],
+        "design": "The Montanan state seal centered on a blue field. [0]",
+        "adoptionDate": 1905,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Montana",
+            "https://en.wikipedia.org/wiki/Seal_of_Montana"
+        ]
+    }
+    ,{
+        "name": "Nebraska",
+        "category": "Country Subdivisions",
+        "history": "The current design was adopted in 1925, although a design in 1921 from an architect based in the U.S. state of New York was rejected by the Nebraskan state government. The official designation of the design as the state flag occurred in 1963; Nebraska was one of the last states to adopt an official flag.\n\nThe Nebraskan flag was rated in a survey by the North American Vexillological Association as 71st out of 72 U.S. and Canadian flags, making it the second-worst flag in the survey. The worst-ranked flag, the flag of Georgia at the time, was temporary and has since been changed. In 2002, the Nebraska Legislature's Government, Military and Veterans Affairs Committee discussed a bill that would have created a commission that would suggest new flag designs to the Legislature. The flag was not changed. [0]",
+        "meaning": "A train steams across the background, with mountains in the distance. A steamboat plies the waters of the Missouri River. A simple cabin and sheaves of harvested wheat portray the importance of settlers and agriculture. A blacksmith works at his anvil in the foreground. At the top of the seal a banner holds the motto \"Equality Before the Law\", and around the outer ring of the seal contain the text \"Great Seal of the State of Nebraska, March 1st, 1867\". [1]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002A86"
+            },{
+                "name": "yellow",
+                "hex": "#FFCC00"
+            }
+        ],
+        "design": "Seal of Nebraska in gold on an azure field [0]",
+        "adoptionDate": 1925,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Nebraska",
+            "https://en.wikipedia.org/wiki/Seal_of_Nebraska"
+        ]
+    }
+    ,{
+        "name": "Nevada",
+        "category": "Country Subdivisions",
+        "history": "The current flag had its origin in a design contest announced in 1926. The winning design, by Louis Shellback III, was subjected to some revision in the state legislature, where there was disagreement between the two houses over the placement of the word \"Nevada\" on the flag. A compromise was reached, and in 1929 Governor Fred B. Balzar signed into law a bill adopting the new flag. In 1989, however, a legislative researcher discovered that the bill as sent to and signed by the Governor did not accurately reflect the 1929 legislative agreement. The flag used from 1929 until it was revised in 1991 displayed the letters of the word \"Nevada\" in a complete circle around the flag's single star, with the \"N\" of Nevada at the uppermost tip of the star indicating its \"northern\" position in the civil war, and with each of the other letters of the word Nevada located in the spaces between the remaining points of the star, displaying near each junction of the star's pentagonal center. Thus \"Nevada\" was spelt from the \"N\" at the top, radiating clockwise E, V, A, D, A, in the spaces between the star's points. A law enacted in 1991 directed that the word \"Nevada\" appear below the star and above the sagebrush sprays, thus producing the current design. [0]",
+        "meaning": "The emblem contains a silver star, below which appears the state's name. Above the star is a golden-yellow scroll with the words \"Battle Born\", one of the state's mottos (in reference to Nevada becoming a state during the American Civil War). Below the star and state name are two sprays of green sagebrush (the state flower) with yellow flowers. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0047AB"
+            },{
+                "name": "yellow",
+                "hex": "#FFDF00"
+            },{
+                "name": "green",
+                "hex": "#017B21"
+            },{
+                "name": "grey",
+                "hex": "#C9C0BB"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            }
+        ],
+        "design": "Solid cobalt blue field. The canton contains two sagebrush branches encircling a silver star with the text \"Nevada\" and \"Battle Born\". [0]",
+        "adoptionDate": 1991,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Nevada"
+        ]
+    }
+    ,{
+        "name": "New Hampshire",
+        "category": "Country Subdivisions",
+        "history": "The State of New Hampshire has held two seals since it declared its independence from Great Britain on January 5, 1776. While both seals have been retained, most people are only familiar with the Great Seal due to its corporate use.\n\nThe New Hampshire state flag's design was ranked as one of the ten worst flags (specifically 63rd out of 72) within the United States (including all U.S. states and U.S. territories), and Canadian provinces in a 2001 survey of members of the North American Vexillological Association. [0]",
+        "meaning": "The 1931 State Seal law placed the frigate Raleigh as the centerpiece of the new seal. The Raleigh was built in Portsmouth in 1776, as one of the first 13 warships sponsored by the Continental Congress for a new American navy. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002A86"
+            },{
+                "name": "yellow",
+                "hex": "#EFAE0E"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#3F863F"
+            },{
+                "name": "brown",
+                "hex": "#9E4D3C"
+            },{
+                "name": "red",
+                "hex": "#DE1C2C"
+            }
+        ],
+        "design": "The state seal centered on a blue background. [0]",
+        "adoptionDate": 1931,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_and_seal_of_New_Hampshire"
+        ]
+    }
+    ,{
+        "name": "New Jersey",
+        "category": "Country Subdivisions",
+        "history": "The coat of arms was originally designed by Pierre Eugene du Simitiere in 1777 and was modified slightly in 1928.\n\nThe seal is the central motif in the flag of New Jersey and the Great Seal of the State of New Jersey. [0]",
+        "meaning": "The coat of arms contains a horse's head; beneath that is a helmet, showing that New Jersey governs itself, and it has three plows on a shield to highlight the state's agriculture tradition, which shows why the state has the nickname \"Garden State\". The two Goddesses represent the state motto, \"Liberty and Prosperity\". Liberty is on the left. She is holding a staff with a liberty cap on it, and the word liberty underneath her. The goddess on the right is Ceres, goddess of agriculture. She is holding a cornucopia with prosperity written below her. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "yellow",
+                "hex": "#F0DC82"
+            },{
+                "name": "blue",
+                "hex": "#00589C"
+            },{
+                "name": "red",
+                "hex": "#EF1439"
+            },{
+                "name": "orange",
+                "hex": "#FF9E0F"
+            },{
+                "name": "brown",
+                "hex": "#A96A41"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "The coat of arms of the state on a buff-colored background. [0]",
+        "adoptionDate": 1896,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Coat_of_arms_of_New_Jersey"
+        ]
+    }
+    ,{
+        "name": "New Mexico",
+        "category": "Country Subdivisions",
+        "history": "The Daughters of the American Revolution pushed New Mexico to design a contemporary and unique flag in 1920. A contest to design the new state flag was won by Dr. Harry Mera of Santa Fe, New Mexico. Mera was an archaeologist who was familiar with the Zia Sun symbol found at Zia Pueblo on a 19th-century pot. The symbol has sacred meaning to the Zia. Four is a sacred number which symbolizes the Circle of Life: the four directions, the four times of day, the four stages of life, and the four seasons. The circle binds the four elements of four together. His winning design is the flag that the state uses today.\n\nNew Mexico has the best-designed flag of any U.S. state, territory or Canadian province, according to a 2001 survey by the North American Vexillological Association. [0]",
+        "meaning": "The flag of the U.S. state of New Mexico consists of a red sun symbol of the Zia on a field of yellow. The colors invoke the flags of Habsburg Spain (the Cross of Burgundy flag) and the Crown of Aragon brought by the conquistadors. This highlights the state's Native American Pueblo and Spanish roots. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "yellow",
+                "hex": "#FFD700"
+            },{
+                "name": "red",
+                "hex": "#BF0A30"
+            }
+        ],
+        "design": "The ancient Zia Sun symbol in red, in the center of a field of yellow. [0]",
+        "adoptionDate": 1925,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_New_Mexico"
+        ]
+    }
+    ,{
+        "name": "New York",
+        "category": "Country Subdivisions",
+        "history": "The coat of arms of the state of New York was formally adopted in 1778, and appears as a component of the state's flag and seal. [0]",
+        "meaning": "According to Joseph Gavit in New York History, Volume XXXI, the seal symbolizes the following:\n\nIn the center, a shield reveals the sun rising behind Mount Beacon over the Hudson River. \"The shield symbolizes in the full sun the name and idea of Old York and the old world; the mountains, river and meadow, with the ships, convey the name and idea of New York in the new world.\"\n\nTo the right, Justice is ready to fight tyranny with her sword held high.\n\nLiberty on the left, holds her foot on the overthrown English Crown. \"This New York is supported by Justice and Liberty, and discards monarchy.\"\n\nThe world globe is displayed above the shield. \"By exhibiting the eastern and western continents on the globe, the old and new are brought together.\"\n\nAbove the world globe soars the eagle. \"while the eagle on the crest proclaims, Westward the course of empire takes its way.\"\n\nThe bottom ribbon exclaims \"Excelsior,\" which means \"still higher\" or \"ever upward.\" [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002D72"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#F2A900"
+            },{
+                "name": "red",
+                "hex": "#FF3515"
+            },{
+                "name": "green",
+                "hex": "#2C5234"
+            }
+        ],
+        "design": "The coat of arms on a solid blue background. [0]",
+        "adoptionDate": 1901,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Coat_of_arms_of_New_York"
+        ]
+    }
+    ,{
+        "name": "North Carolina",
+        "category": "Country Subdivisions",
+        "history": "A former Confederate soldier and then state Adjutant General, Johnston Jones, introduced the bill which led the state legislature to adopt this flag in March 1885 to replace the flag that had been adopted on June 22, 1861, immediately following the state's declaration of secession from the Union on May 20, 1861. The red field of the old flag was replaced by a blue field. This was the first and only flag formally representing the State of North Carolina and is not considered to be a Confederate Flag, but rather the first state flag.\n\nDuring the American Civil War, secessionist leaders spoke of the Mecklenburg Declaration with reverence, attempting to connect it with the state's joining the Confederacy. Confederate leader Jefferson Davis spoke to a Charlotte crowd in September 1864 saying \"people of this section were the first to defy British authority and declare themselves free\" encouraging them to continue backing the Confederacy's civil war effort. [0]",
+        "meaning": "The flag bears the dates of the Mecklenburg Declaration of Independence (May 20, 1775) and of the Halifax Resolves (April 12, 1776), documents that place North Carolina at the forefront of the American independence movement. Both dates also appear on the Great Seal of North Carolina. [0]",
+        "ratio": "",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002868"
+            },{
+                "name": "red",
+                "hex": "#BF0A30"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#FFCA00"
+            }
+        ],
+        "design": "A blue union, containing in the center thereof a white star with the letter \"N\" in gilt on the left and the letter \"C\" in gilt on the right of said star, the circle containing the same to be one-third the width of the union. [0]",
+        "adoptionDate": 1991,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_North_Carolina"
+        ]
+    }
 ]
