@@ -1240,7 +1240,7 @@
     ,{
         "name": "Ontario",
         "category": "Country Subdivisions",
-        "history": "Before 1965, the Canadian Red Ensign had served as the national flag of Canada. It was flown at all military installations in Canada and overseas, outside the legislature and government buildings, at Royal Canadian Legion halls, and many private homes. In 1964, the federal government, after a long and acrimonious debate, replaced the Red Ensign with the current flag of Canada. This decision was unpopular among millions of Canadians. These included many Ontarians, particularly in rural areas that made up much of the political base of Premier John Robarts' Ontario Progressive Conservatives.\n\nRobarts thus proposed that Ontario would have its own flag and that it would be a Red Ensign like the previous Canadian flag. It was traditional for jurisdictions around the world with a British system of government and way of life to adapt either a blue or red ensign as a flag, by adding the local coat of arms or some other symbol. In Ontario, it was logical to place the Ontario shield of arms on the flag. While Robarts insisted that he supported the new national flag, he felt the Ensign was an important symbol that reflected Ontario's British heritage and the sacrifices made by Canadian troops under the Red Ensign. As Robarts put it, the Ontario flag \"covers our history.\"\n/nCanadians were exhausted by the long debate over the national flag and leaders of both the Ontario Liberal Party and the Ontario New Democratic Party decided to support the design for the proposed Ontario flag. The only opposition came from Sudbury Liberal Member of Provincial Parliament Elmer Sopha who was fervently opposed to the flag, arguing that it failed to reflect Ontario's diverse character and that it was \"a flag of revenge\" against the new national flag. However, he was only joined by one other MPP, Liberal Leo Troy, in voting against the flag, and it was passed by the Legislative Assembly on March 17.\n\nThe flag of Manitoba was adopted under similar circumstances. [0]",
+        "history": "Before 1965, the Canadian Red Ensign had served as the national flag of Canada. It was flown at all military installations in Canada and overseas, outside the legislature and government buildings, at Royal Canadian Legion halls, and many private homes. In 1964, the federal government, after a long and acrimonious debate, replaced the Red Ensign with the current flag of Canada. This decision was unpopular among millions of Canadians. These included many Ontarians, particularly in rural areas that made up much of the political base of Premier John Robarts' Ontario Progressive Conservatives.\n\nRobarts thus proposed that Ontario would have its own flag and that it would be a Red Ensign like the previous Canadian flag. It was traditional for jurisdictions around the world with a British system of government and way of life to adapt either a blue or red ensign as a flag, by adding the local coat of arms or some other symbol. In Ontario, it was logical to place the Ontario shield of arms on the flag. While Robarts insisted that he supported the new national flag, he felt the Ensign was an important symbol that reflected Ontario's British heritage and the sacrifices made by Canadian troops under the Red Ensign. As Robarts put it, the Ontario flag \"covers our history.\"\n\nCanadians were exhausted by the long debate over the national flag and leaders of both the Ontario Liberal Party and the Ontario New Democratic Party decided to support the design for the proposed Ontario flag. The only opposition came from Sudbury Liberal Member of Provincial Parliament Elmer Sopha who was fervently opposed to the flag, arguing that it failed to reflect Ontario's diverse character and that it was \"a flag of revenge\" against the new national flag. However, he was only joined by one other MPP, Liberal Leo Troy, in voting against the flag, and it was passed by the Legislative Assembly on March 17.\n\nThe flag of Manitoba was adopted under similar circumstances. [0]",
         "meaning": "The shield of arms consists of three gold maple leaves on a green background, above which is a wide white band with a red St. George's cross. The maple leaves on the shield are of course the symbol of Canada. The cross of St. George recalls the historic connection with Britain. [1]",
         "ratio": "1:2",
         "colors": [
@@ -1971,6 +1971,311 @@
         },
         "sources": [
             "https://en.wikipedia.org/wiki/Flag_of_Kansas"
+        ]
+    }
+    ,{
+        "name": "Kentucky",
+        "category": "Country Subdivisions",
+        "history": "Once Kentucky became part of the Union in 1792, the state adopted the 15-star flag of the Union. The U.S. flag was kept as the unofficial state flag for many years that followed. During the American Civil War, the flag of the Confederate States as well as the flag of the Union flew over Kentucky with prominence varying on location and the progression of the war.\n\nThe flag was designed by Jesse Cox Burgess, an art teacher in Frankfort, the state capital. The flag was adopted by the Kentucky General Assembly on March 26, 1918, and finalized the process by including a drawing in the statutes on 1928. [0]",
+        "meaning": "The flag consists of the Commonwealth's seal on a navy blue field, surrounded by the words \"Commonwealth of Kentucky\" above and sprigs of goldenrod, the state flower, below. The seal depicts a pioneer and a statesman embracing. Popular belief claims that the buckskin-clad man on the left is Daniel Boone, who was largely responsible for the exploration of Kentucky, and the man in the suit on the right is Henry Clay, Kentucky's most famous statesman. However, the official explanation is that the men represent all frontiersmen and statesmen, rather than any specific persons. The state motto: \"United We Stand, Divided We Fall\" circles them. The motto comes from the lyrics of \"The Liberty Song\", a patriotic song from the American Revolution. [0]",
+        "ratio": "10:19",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#000066"
+            },{
+                "name": "yellow",
+                "hex": "#E6AD05"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#396D4B"
+            }
+        ],
+        "design": "Seal of Kentucky on a field of azure. [0]",
+        "adoptionDate": 1918,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Kentucky"
+        ]
+    }
+    ,{
+        "name": "Louisiana",
+        "category": "Country Subdivisions",
+        "history": "Prior to 1861, the state of Louisiana had no official flag, though a flag similar to the present one was often used unofficially.\n\nIn January 1861, after declaring secession from the United States but before the formation of the Confederate States of America, Louisiana unofficially used a flag based on the flag of France with seven stars on the blue stripe.\n\nIn February 1861, Louisiana officially adopted a flag with a single yellow star in a red canton, with thirteen red, white and blue stripes. This was used through the end of the American Civil War, though the Pelican flag and Flag of January 1861 remained in use unofficially.\n\nOn November 22, 2010, a new version of the flag bearing an updated version of \"A Pelican In Her Piety\" was unveiled. The new flag was a result of a bill passed during the 2006 legislative session legally requiring a standardized flag and to combat the issue of several alternating versions of the 1912 flag being in circulation. [0]",
+        "meaning": "The flag of Louisiana consists of a heraldic charge called a \"pelican in her piety\", representing a mother pelican wounding her breast to feed her young from the blood. The mother pelican's head and outspread wings covering the three pelican chicks nestled below her form a stylized fleur-de-lis, another emblem of similar significance often depicted in Louisiana. This symbol, emblematic of Christian charity (and of Catholicism), is also found on the state seal. [0]",
+        "ratio": "7:11",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#00447B"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#F99D32"
+            },{
+                "name": "red",
+                "hex": "#FF2A2A"
+            }
+        ],
+        "design": "Image of a pelican feeding her young with her own blood on a field of azure. Below the pelican, a ribbon displays \"Union Justice Confidence\". [0]",
+        "adoptionDate": 2010,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Louisiana"
+        ]
+    }
+    ,{
+        "name": "Maine",
+        "category": "Country Subdivisions",
+        "history": "The Maine legislature approved the current flag on February 23, 1909. [0]",
+        "meaning": "In the center of the shield, a moose rests under a tall pine tree. A farmer and seaman represent the traditional reliance on agriculture and the sea by the state. The North Star represents the state motto: Dirigo (\"I Lead\"). [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002664"
+            },{
+                "name": "yellow",
+                "hex": "#FFE84F"
+            },{
+                "name": "red",
+                "hex": "#FF163C"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#3E6F3E"
+            },{
+                "name": "green",
+                "hex": "#3E6218"
+            },{
+                "name": "brown",
+                "hex": "#6F513E"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            }
+        ],
+        "design": "The state coat of arms on a blue field. [0]",
+        "adoptionDate": 1909,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Maine"
+        ]
+    }
+    ,{
+        "name": "Maryland",
+        "category": "Country Subdivisions",
+        "history": "The Maryland colony was founded by Cecilius Calvert, second baron and Lord Baltimore (1605–1675), which was granted to him as George's son and heir by King Charles I, hence the use of his family's coat of arms in the flag. At first, only the gold and black Calvert arms were associated with Maryland, being reintroduced in 1854. The red and white colored arms of the Crossland family, which belonged to the family of Calvert's (Lord Baltimore's) paternal grandmother, gained popularity during the American Civil War, during which Maryland remained with the Union despite a large proportion of the citizenry's support for the Confederacy, especially in the central City of Baltimore and the counties of the southern part of the state and the Eastern Shore of the Chesapeake Bay. Those Marylanders who supported the Confederacy, many of whom fought in the Army of Northern Virginia of General Robert E. Lee, adopted the Crossland banner, which was red and white with the bottony (trefoil) cross (seen as \"secession colors\") and often used a metal bottony cross pinned to their gray uniforms or caps (kepis). The black and gold (yellow) colors with the chevron design of the Calvert family were used in the flags and devices and uniform pins of the Union Army regiments in the northern Army of the Potomac.\n\nAfter the war, Marylanders who had fought on either side of the conflict returned to their state in need of reconciliation. The present design, which incorporates both of the coats of arms used by George Calvert, began appearing. At first, the Crossland coat of arms was put in the upper-left corner, but this was supposedly swapped with the Union's Calvert arms because of the Union victory.\n\nThe flag in its present form was first flown on October 11, 1880, in Baltimore, at a parade marking the 150th anniversary of the founding of Baltimore (1729–1730). It also was flown on October 25, 1888, at the Gettysburg Battlefield during ceremonies dedicating monuments to the Maryland regiments of the Army of the Potomac by reorganized regiments of the former state militia, now the Maryland National Guard. However, it was not officially adopted as the state flag until 1904.\n\nIt is one of only four U.S. state flags that does not contain the color blue (the other three being Alabama, California, and New Mexico). It is also the only US state flag to be directly based on English heraldry, although the flag of Washington, D.C. is a modification of the coat of arms of George Washington's family. [0]",
+        "meaning": "The black and gold design on the flag is the coat of arms from the Calvert line. It was granted to George Calvert as a reward for his storming a fortification during a battle (the vertical bars approximate the bars of the palisade). The red and white design is the coat of arms of the Crossland line, the family of Lord Baltimore's mother, and features a cross bottony with the red and white sides of the cross alternating. Since George Calvert's mother was a heiress, he was entitled to use both coats of arms in his banner. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "yellow",
+                "hex": "#EAAB00"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#981E32"
+            }
+        ],
+        "design": "Heraldic banner of George Calvert, 1st Baron Baltimore. [0]",
+        "adoptionDate": 1904,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Maryland"
+        ]
+    }
+    ,{
+        "name": "Massachusetts",
+        "category": "Country Subdivisions",
+        "history": "The state flag was officially adopted in 1901, but had been used unofficially since the American Revolutionary War as the ensign of the Massachusetts State Navy. In 1971, the earlier pine tree was replaced by the current design. [0]",
+        "meaning": "The shield depicts an Algonquian Native American with bow and arrow; the arrow is pointed downward, signifying peace. The arm itself is the Goliad symbol common in early Texas flags and signifying the philosophy that those represented would rather lose their right arm than live under tyranny. A white star with five points appears next to the figure's head, signifying Massachusetts' admission as the sixth U.S. state. A blue ribbon surrounds the shield, bearing the state motto Ense Petit Placidam, Sub Libertate Quietem (\"By the Sword We Seek Peace, But Peace Only Under Liberty\"). Above the shield is the state military crest: the bent arm holding a broadsword aloft. The sword has its blade up, to remind that it was through the American Revolution that liberty was won. [0]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#1F2C5C"
+            },{
+                "name": "yellow",
+                "hex": "#E6A300"
+            }
+        ],
+        "design": "The state coat of arms centered on a white field. [0]",
+        "adoptionDate": 1971,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Massachusetts"
+        ]
+    }
+    ,{
+        "name": "Michigan",
+        "category": "Country Subdivisions",
+        "history": "The present flag, adopted in 1911, is the third state flag. The first flag featured a portrait of Michigan's first governor, Stevens T. Mason, on one side and the state coat of arms and \"a soldier and a lady\" on the other side. The first flag is completely lost, and no images of it exist, as far as anyone knows. The second flag, adopted in 1865, displayed the state coat of arms on one side and the United States coat of arms on the other. [0]",
+        "meaning": "The state coat of arms depicts a light blue shield, upon which the sun rises over a lake and peninsula, and a man with a raised hand representing peace and holding a long gun representing the fight for state and nation as a frontier state.\n\nAs supporters, the elk and moose are derived from the Hudson's Bay Company coat of arms, and depict great animals of Michigan. The bald eagle represents the United States which formed the State of Michigan from the Northwest Territory.\n\nThe design features three Latin mottos. From top-to-bottom they are:\nOn red ribbon: \"E Pluribus Unum,\" means \"Out of many, one,\" a motto of the United States.\nOn light blue shield: \"Tuebor,\" means \"I will defend.\"\nOn white ribbon: \"Si Quæris Peninsulam Amœnam Circumspice,\" means \"If you seek a pleasant peninsula, look about you.\" (The official state motto). [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#00287E"
+            },{
+                "name": "red",
+                "hex": "#EF1439"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "brown",
+                "hex": "#86473F"
+            },{
+                "name": "yellow",
+                "hex": "#FFEF6F"
+            },{
+                "name": "green",
+                "hex": "#35B336"
+            }
+        ],
+        "design": "Coat of arms of Michigan on a blue field. [0]",
+        "adoptionDate": 1911,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Michigan"
+        ]
+    }
+    ,{
+        "name": "Minnesota",
+        "category": "Country Subdivisions",
+        "history": "The first state flag of Minnesota was adopted in 1893; at that time a prototype flag was commissioned from the local embroiderer Pauline Gerhardin Fjelde, which won a gold medal at the Chicago World's Fair.\n\nThe current flag was adopted in 1957 and the state seal on the flag was modified in 1983. [0]",
+        "meaning": "The sun, visible on the western horizon, signifies summer in the northern hemisphere. The horizon's visibility signifies the flat plains covering much of Minnesota. The American Indian on horseback is riding towards the south and represents the American Indian heritage of Minnesota. The Indian's horse and spear and the Pioneer's ax, rifle, and plow represent tools that were used for hunting and labor. The stump symbolizes the importance of the lumber industry in Minnesota's history. The Mississippi River and St. Anthony Falls are depicted to note the importance of these resources in transportation and industry. The cultivated ground and the plow symbolize the importance of agriculture in Minnesota. Beyond the falls three pine trees represent the state tree and the three pine regions of Minnesota; the St. Croix, Mississippi, and Lake Superior. [1]",
+        "ratio": "7:11",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#3D68C9"
+            },{
+                "name": "yellow",
+                "hex": "#FCB216"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#ED1A3A"
+            },{
+                "name": "green",
+                "hex": "#60BB48"
+            }
+        ],
+        "design": "State seal on a medium blue field. [0]",
+        "adoptionDate": 1983,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Minnesota",
+            "https://en.wikipedia.org/wiki/Seal_of_Minnesota"
+        ]
+    }
+    ,{
+        "name": "Mississippi",
+        "category": "Country Subdivisions",
+        "history": "The flag of the state of Mississippi was first adopted by the U.S. state of Mississippi in April 1894, replacing the flag that had been adopted in 1861. The flag was subsequently repealed in 1906 and readopted in April 2001. The flag is unique among U.S. state flags as it is the sole remaining U.S. state flag which still depicts the Confederate battle flag's saltire, after Georgia adopted a new state flag in 2003. [0]",
+        "meaning": "/",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002868"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#BF0A30"
+            }
+        ],
+        "design": "Three horizontal stripes of blue, white and red. The canton is square, spans 2 stripes, consists of a red background with a blue saltire, bordered with white and emblazoned with thirteen (13) five-pointed stars. [0]",
+        "adoptionDate": 1894,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Mississippi"
+        ]
+    }
+    ,{
+        "name": "Missouri",
+        "category": "Country Subdivisions",
+        "history": "The Missourian state flag was designed and stitched in Cape Girardeau, Missouri, by Marie Elizabeth Watkins Oliver, the wife of former State Senator R.B. Oliver. It was made the official flag of the state on March 22, 1913, when then governor Elliot Woolfolk Major signed a bill making it official. [0]",
+        "meaning": "The flag is a tricolor consisting of three horizontal stripes of red, white and blue. These represent valor, purity, vigilance, and justice. The colors also reflect the state's historic status as part of the French Louisiana (New France). In the center white stripe is the Seal of Missouri, circled by a blue band containing 24 stars, symbolizing Missouri's admission as the 24th U.S. state. [0]",
+        "ratio": "7:12",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#AB0635"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#004B8D"
+            }
+        ],
+        "design": "A horizontal tricolor of red, white and blue. The Missouri Seal, surrounded by a blue band and stars, is superimposed in the field center. [0]",
+        "adoptionDate": 1913,
+        "related": {
+            "country": [
+                "United States"
+            ],
+            "similar": [
+                "Netherlands",
+                "Paraguay"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Missouri"
         ]
     }
 ]
