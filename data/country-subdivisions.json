@@ -2542,4 +2542,289 @@
             "https://en.wikipedia.org/wiki/Flag_of_North_Carolina"
         ]
     }
+    ,{
+        "name": "North Dakota",
+        "category": "Country Subdivisions",
+        "history": "The design for the flag of the state of North Dakota is an almost exact copy of the unit banner carried by the state's troop contingent in the Philippine–American War. It was adopted by the North Dakota Legislative Assembly on March 3, 1911, although the color was not precisely specified at that time. Legislation in 1943 brought the flag in line with the original troop banner, which is on display at the North Dakota Heritage Center in Bismarck. [0]",
+        "meaning": "The flag also resembles the Great Seal of the United States. [0]",
+        "ratio": "26:33",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002A86"
+            },{
+                "name": "yellow",
+                "hex": "#FFD12B"
+            },{
+                "name": "red",
+                "hex": "#FF163C"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "brown",
+                "hex": "#663D3D"
+            },{
+                "name": "green",
+                "hex": "#20D942"
+            }
+        ],
+        "design": "Unit banner carried by the state's troop in the Philippine–American War. [0]",
+        "adoptionDate": 1943,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_North_Dakota"
+        ]
+    }
+    ,{
+        "name": "Ohio",
+        "category": "Country Subdivisions",
+        "history": "The flag was designed in 1901 by John Eisenmann for the Pan-American Exposition and adopted in 1902. Before that, for nearly a century after statehood, Ohio had no legally authorized state flag. One unsuccessful proposal called for a design based on the state seal.\n\nOhio's swallowtail flag is the only non-rectangular U.S. state flag. [0]",
+        "meaning": "The flag's red, white, and blue elements symbolize the state's natural features and order of admission into the Union. A prominent disc in the flag's triangular canton is suggestive of the state's name. [0]",
+        "ratio": "8:13",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#001C5A"
+            },{
+                "name": "red",
+                "hex": "#C1133D"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "Guidon consisting of 5 horizontal stripes alternating between red and white. The chevron is azure containing a white and red \"O\" and 17 white stars. [0]",
+        "adoptionDate": 1902,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Ohio"
+        ]
+    }
+    ,{
+        "name": "Oklahoma",
+        "category": "Country Subdivisions",
+        "history": "Oklahoma's first flag was adopted in 1911, four years after statehood. Taking the colors red, white, and blue from the flag of the United States, the flag featured a large centered white star fimbriated in blue on a red field. The number 46 was written in blue inside the star, as Oklahoma was the forty-sixth state to join the Union.\n\nA contest, sponsored by the Daughters of the American Revolution, was held in 1924 to replace the flag, as red flags were closely associated with communism. The winning entry by Louise Fluke, which was adopted as the state flag on April 2, 1925, resembled the current flag without the word Oklahoma on it. That word was added in 1941 in an effort to combat widespread illiteracy.\n\nThe official design of the state flag has not changed since 1941, however, unauthorized Oklahoma flag designs became prevalent throughout the state, so much so that the correct and official design of the flag was becoming lost. These unauthorized flags displayed stylized eagle feathers, incorrectly shaped crosses, an incorrectly shaped calument, wrong colors, or combinations of these and other errors. In 2005, an Oklahoma boy scout leader designing patches for a National Jamboree contingent was looking for an image of the Oklahoma state flag and noticed that there were multiple unauthorized designs of the Oklahoma state flag displayed on state government, historical, and educational websites. With some research he was able to identify the official design to use, but because of the prevalence of unauthorized designs, he contacted his state representative, and was the impetus to standardize the colors and shapes by Oklahoma Senate Bill 1359 and signed into law by Governor Brad Henry on May 23, 2006, taking effect on November 1, 2006. [0]",
+        "meaning": "The Osage shield is covered by two symbols of peace: the Plains-style ceremonial pipe representing Native Americans, and the olive branch representing European Americans. Six golden brown crosses, Native American symbols for stars, are spaced on the shield. The blue field is inspired by the Choctaw flag adopted by the tribe in 1860 and carried though the American Civil War. The blue field also represents devotion. The shield surmounted by the calumet and olive branch represents defensive or protective warfare, showing a love of peace by a united people. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0073CF"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "brown",
+                "hex": "#B3995D"
+            },{
+                "name": "brown",
+                "hex": "#9A3B26"
+            },{
+                "name": "green",
+                "hex": "#1D5C42"
+            }
+        ],
+        "design": "Buffalo-skin shield with seven eagle feathers on a sky blue field. [0]",
+        "adoptionDate": 2006,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Oklahoma"
+        ]
+    }
+    ,{
+        "name": "Oregon",
+        "category": "Country Subdivisions",
+        "history": "The current flag of Oregon became official on February 26, 1925. What is believed to be the first flag of Oregon produced was made that year by Meier & Frank, sewn by Marjorie Kennedy and Blanche Cox, employees of the department store. [0]",
+        "meaning": "The flag field is navy blue with all lettering and symbols in gold, representing the state colors of Oregon. On the obverse, the legend STATE OF OREGON is written above an escutcheon, which also appears in the Oregon state seal. The shield is surrounded by 33 stars, representing Oregon's admission to the Union as the 33rd state. Below the shield is written 1859, the year in which Oregon became a state. [0]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002A86"
+            },{
+                "name": "yellow",
+                "hex": "#FFEA0F"
+            }
+        ],
+        "design": "Seal of Oregon in gold on an azure field. Above the seal the text \"State of Oregon\" is displayed in a wavy flow. [0]",
+        "adoptionDate": 1925,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Oregon"
+        ]
+    }
+    ,{
+        "name": "Pennsylvania",
+        "category": "Country Subdivisions",
+        "history": "Originally authorized by the state in 1799, the current design was enacted by law in 1907.\n\nIn the summer of 2005, a bill was introduced to the state legislature to add \"Pennsylvania\" to the bottom of the flag in golden letters. The Pennsylvania House of Representatives voted in favor of the change. The legislation was proposed by State Representative Tim Solobay. The Senate has not yet taken action on the bill. [0]",
+        "meaning": "The Pennsylvania coat of arms features a shield crested by an American bald eagle, flanked by horses, and adorned with symbols of Pennsylvania's strengths—a ship carrying state commerce to all parts of the world; a clay-red plough, a symbol of Pennsylvania's rich natural resources; and three golden sheaves of wheat, representing fertile fields and Pennsylvania's wealth of human thought and action. An olive branch and cornstalk cross limbs beneath—symbols of peace and prosperity. The state motto, \"Virtue, Liberty and Independence\", appears festooned below. Atop the coat of arms is a bald eagle, representing Pennsylvania's loyalty to the United States. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002A86"
+            },{
+                "name": "yellow",
+                "hex": "#FFCE00"
+            },{
+                "name": "green",
+                "hex": "#076A21"
+            },{
+                "name": "red",
+                "hex": "#D10B10"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "brown",
+                "hex": "#352B00"
+            },{
+                "name": "grey",
+                "hex": "#414141"
+            }
+        ],
+        "design": "Coat of Arms of Pennsylvania on a blue field. [0]",
+        "adoptionDate": 1900,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Pennsylvania"
+        ]
+    }
+    ,{
+        "name": "Rhode Island",
+        "category": "Country Subdivisions",
+        "history": "The present flag of the state of Rhode Island was formally adopted in 1897. As early as the 1640s, the anchor and \"hope\" were found on the Rhode Island Seal, and the seal's words and emblems were likely inspired by the biblical phrase \"hope we have as an anchor of the soul,\" found in Hebrews, Verse 6:18-19. Rhode Island's earliest colonists were fleeing religious persecution in Massachusetts due to their Christian beliefs. [0]",
+        "meaning": "The gold anchor in the center is a symbol for hope. The thirteen gold stars stand for the original 13 colonies and Rhode Island's status as the 13th state to ratify the Constitution. [0]",
+        "ratio": "29:33",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#FEC500"
+            },{
+                "name": "blue",
+                "hex": "#003271"
+            }
+        ],
+        "design": "Gold anchor, surrounded by 13 gold stars, on a field of white. A blue ribbon below the anchor contains the text \"hope\". [0]",
+        "adoptionDate": 1897,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Rhode_Island"
+        ]
+    }
+    ,{
+        "name": "South Carolina",
+        "category": "Country Subdivisions",
+        "history": "The flag of the U.S. state of South Carolina has existed in some form since 1775, being based on one of the first Revolutionary War flags. South Carolina's flag was ranked as the 10th best designed state or provincial flag in North America by the North American Vexillological Association in 2001. [0]",
+        "meaning": "The flag's palmetto and crescent are popular throughout South Carolina and other southeastern states as a symbol of the state's long-standing heritage. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#003366"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "White palmetto tree on an indigo field. The canton contains a white crescent (gorget). [0]",
+        "adoptionDate": 1861,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_South_Carolina"
+        ]
+    }
+    ,{
+        "name": "South Dakota",
+        "category": "Country Subdivisions",
+        "history": "The original flag of South Dakota consisted of a dominant sun encircled by the text \"South Dakota\" and \"The Sunshine State\". The inscription on the bottom was changed in 1992.\n\nAccording to a 2001 survey by the North American Vexillological Association, South Dakota’s flag was the fifth-worst (68th out of 72) U.S. and Canadian subnational flag in design quality, in a contest that included all Canadian provinces, U.S. states and U.S. territories. It was criticized in particular by the association for the unnecessary repetition of the state name. [0]",
+        "meaning": "/",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0074A8"
+            },{
+                "name": "yellow",
+                "hex": "#FFC400"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A field of sky blue charged with a version (in navy blue on white) of the state seal in the center, surrounded by gold triangles representing the sun's rays, surrounded in turn by inscriptions in gold sans-serif capitals of \"SOUTH DAKOTA\" on top and \"THE MOUNT RUSHMORE STATE\" (the state nickname) on the bottom. [0]",
+        "adoptionDate": 1992,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_South_Dakota"
+        ]
+    }
+    ,{
+        "name": "Tennessee",
+        "category": "Country Subdivisions",
+        "history": "The flag was designed by Colonel LeRoy Reeves of the Tennessee National Guard, a Johnson City attorney who was serving in the Tennessee National Guard in 1905 when he created the new flag design.\n\nThe Tennessee State Legislature officially adopted the flag on April 17, 1905. [0]",
+        "meaning": "The three stars represent the three Grand Divisions of the state, East Tennessee, Middle Tennessee, and West Tennessee. The blue circle around the stars represents the unity of the \"Grand Divisions\" of the state.\n\nThe blue bar at the edge of the flag was purely a design consideration. When asked about the blue bar, Reeves stated that \"The final blue bar relieves the sameness of the crimson field and prevents the flag from showing too much crimson when hanging limp.\" [0]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CC0000"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#002D65"
+            }
+        ],
+        "design": "A blue circle with three white five-pointed stars on a rectangular field of red, with a strip of white and blue on the fly. [0]",
+        "adoptionDate": 1905,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Tennessee"
+        ]
+    }
 ]
