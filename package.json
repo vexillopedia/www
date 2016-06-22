@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
+    "coverage:check": "istanbul check-coverage --statements 100 --branches 100 --functions 100 --lines 100",
     "start": "node index.js",
-    "test": "for file in data/*.json; do jsonlint $file -q; done || exit 1"
+    "test": "istanbul cover _mocha -- ./**/*.test.js && npm run coverage:check"
   },
   "repository": {
     "type": "git",
@@ -27,7 +28,9 @@
     "pug": "^2.0.0-alpha6"
   },
   "devDependencies": {
-    "jsonlint": "^1.6.2",
+    "chai": "^3.5.0",
+    "istanbul": "^0.4.4",
+    "mocha": "^2.5.3",
     "nodemon": "^1.9.1"
   }
 }
