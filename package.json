@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "nodemon index.js",
     "coverage:check": "istanbul check-coverage --statements 100 --branches 100 --functions 100 --lines 100",
+    "coverage:report": "cat ./coverage/lcov.info | codecov",
     "start": "node index.js",
     "test": "istanbul cover _mocha -- ./**/*.test.js && npm run coverage:check"
   },
@@ -29,6 +30,7 @@
   },
   "devDependencies": {
     "chai": "^3.5.0",
+    "codecov.io": "^0.1.6",
     "istanbul": "^0.4.4",
     "mocha": "^2.5.3",
     "nodemon": "^1.9.1"
