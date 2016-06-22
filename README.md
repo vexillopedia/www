@@ -17,5 +17,11 @@ This project follows the [all-contributors](https://github.com/kentcdodds/all-co
 Contributions of any kind welcome!
 
 
+## Status
+
+[![Travis](https://img.shields.io/travis/AntonioVdlC/vexillopedia.svg?branch=master)](https://travis-ci.org/AntonioVdlC/vexillopedia)
+[![Codecov](https://img.shields.io/codecov/c/github/AntonioVdlC/vexillopedia.svg)](https://codecov.io/github/AntonioVdlC/vexillopedia)
+
+
 ## Licence
-MIT
+[![license](https://img.shields.io/npm/l/html-template-tag.svg)](http://opensource.org/licenses/MIT)
