@@ -30,6 +30,7 @@
   },
   "devDependencies": {
     "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
     "codecov.io": "^0.1.6",
     "istanbul": "^0.4.4",
     "mocha": "^2.5.3",
