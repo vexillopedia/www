@@ -10,7 +10,7 @@ The goal of this project is to build a simple, exhaustive and collaborative ency
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key) + 🎌 for flags):
 
-| [![Antonio Villagra De La Cruz](https://avatars.githubusercontent.com/AntonioVdlC?s=100)<br /><sub>Antonio Villagra De La Cruz</sub>](http://antoniovdlc.me)<br />[💻](https://github.com/AntonioVdlC/vexillopedia/commits?author=AntonioVdlC) [🎌](https://github.com/AntonioVdlC/vexillopedia/commits?author=AntonioVdlC) [📖](https://github.com/AntonioVdlC/vexillopedia/commits?author=AntonioVdlC) [🐛](https://github.com/AntonioVdlC/vexillopedia/issues?q=author%3AAntonioVdlC) |
+| [![Antonio Villagra De La Cruz](https://avatars.githubusercontent.com/AntonioVdlC?s=100)<br /><sub>Antonio Villagra De La Cruz</sub>](http://antoniovdlc.me)<br />[💻](https://github.com/AntonioVdlC/vexillopedia/commits?author=AntonioVdlC) [🎌](https://github.com/AntonioVdlC/vexillopedia/commits?author=AntonioVdlC) [📖](https://github.com/AntonioVdlC/vexillopedia/commits?author=AntonioVdlC) [🐛](https://github.com/AntonioVdlC/vexillopedia/issues?q=author%3AAntonioVdlC) [🚇](https://github.com/AntonioVdlC/vexillopedia/blob/master/.travis.yml) [⚠️](https://github.com/AntonioVdlC/vexillopedia/commits?author=AntonioVdlC)|
 | :---: |
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification.
