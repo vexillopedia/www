@@ -77,7 +77,7 @@ router.get("/category/:category", (req, res) => {
             )
             break
         default:
-            res.status(404).send({error: "Category not found."})
+            res.status(404).send("Category " + req.params.category + " not found.")
     }
 })
 
@@ -89,9 +89,13 @@ router.get("/flags", (req, res) => {
     )
 })
 router.get("/flag/:flag", (req, res) => {
-    res.json(allFlags
+    let flag = allFlags
         .find(flag => flag.name === req.params.flag)
-    )
+    
+    if (flag) 
+        res.json(flag)
+    else
+        res.status(404).send("Flag " + req.params.flag + " not found.")
 })
 
 module.exports = router

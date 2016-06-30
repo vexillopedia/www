@@ -32,7 +32,12 @@ router.get("/category/:category", (req, res) => {
     ]
     
     Promise.all(urls.map(url => 
-        fetch(url).then(data => data.json())
+        fetch(url).then(response => {
+            if (response.status === 200)
+                return response.json()
+            else
+                return Promise.reject(response)
+        })
     )).then((json) => {
         res.render("category", {
             name: req.params.category,
@@ -40,6 +45,11 @@ router.get("/category/:category", (req, res) => {
         })
     })
     .catch((err) => {
+        if (err.status === 404)
+            res.send("Category " + req.params.category + " not found.")
+        else
+            res.send("Oops, that wasn't expected!")
+
         next(err)
     })
 })
@@ -51,11 +61,21 @@ router.get("/flag/:flag", (req, res) => {
     ]
     
     Promise.all(urls.map(url => 
-        fetch(url).then(data => data.json())
+        fetch(url).then(response => {
+            if (response.status === 200)
+                return response.json()
+            else
+                return Promise.reject(response)
+        })
     )).then((json) => {
         res.render("flag", json[0])
     })
     .catch((err) => {
+        if (err.status === 404)
+            res.send("Flag " + req.params.flag + " not found.")
+        else
+            res.send("Oops, that wasn't expected!")
+
         next(err)
     })
 })
