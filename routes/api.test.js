@@ -15,6 +15,16 @@ const categories = [
   , "Unrecognized States"
 ]
 
+const flags = [
+    ... require("../data/cities")
+  , ... require("../data/countries")
+  , ... require("../data/country-subdivisions")
+  , ... require("../data/dependent-territories")
+  , ... require("../data/international-organizations")
+  , ... require("../data/unrecognized-states")
+].map((flag) => flag.name)
+
+
 app.use("/", api)
 chai.use(chaiHttp)
 
@@ -99,10 +109,6 @@ describe("api", function () {
     })
 
     describe("/flag/:flag", function () {
-        // -- TODO
-        // -- Find a way to retrieve all the flags to test them individually
-        let flags = ["Valladolid", "Spain"]
-
         flags.forEach(function (flag) {
             it("should return all the flag details of " + flag, function (done) {
                 chai.request(app)
@@ -128,7 +134,7 @@ describe("api", function () {
                         expect(flag.ratio).to.not.equal("")
 
                         expect(Array.isArray(flag.colors)).to.equal(true)
-                        expect(flag.colors.every((color) => typeof color.name === "string" && typeof color.hex === "string" && color.hex.slice(0, 1) === "#" && !!parseInt(color.hex.slice(1), 16))).to.equal(true)
+                        expect(flag.colors.every((color) => typeof color.name === "string" && typeof color.hex === "string" && /(^#[0-9A-F]{6}$)|(^#[0-9A-F]{3}$)/.test(color.hex))).to.equal(true)
 
                         expect(typeof flag.design).to.equal("string")
                         expect(flag.design).to.not.equal("")
