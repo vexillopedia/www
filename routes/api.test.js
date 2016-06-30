@@ -152,5 +152,13 @@ describe("api", function () {
                     })
             })
         })
+        it("should return a 404 status code when not in the data", function (done) {
+            chai.request(app)
+                .get("/flag/Not A Flag")
+                .end(function (err, res) {
+                    expect(res).to.have.status(404)
+                    done()
+                })
+        })
     })
 })
