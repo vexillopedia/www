@@ -308,7 +308,7 @@
         "category": "Dependent Territories",
         "history": "Guadeloupe, an overseas region and department of France located in the Caribbean, has no flag with official status other than the French national flag. [0]",
         "meaning": "The blue stripe with the fleus-de-lis represent France, wherehas the yellow sun and green sugar cane are based on the coat of arms of Guadeloupe's capital Basse-Terre. [0]",
-        "ratio": "",
+        "ratio": "2:3",
         "colors": [
             {
                 "name": "blue",
@@ -472,7 +472,7 @@
         "category": "Dependent Territories",
         "history": "The flag of Saint Barthélemy is the French tricolor. This is because Saint Barthélemy is a self-governing overseas collectivity of France. An unofficial flag of Saint-Barthélemy consisting of the island's coat of arms centered on a white field is also used on the island. [0]",
         "meaning": "The coat of arms of Saint-Barthélemy is a shield divided into three horizontal stripes (parted per fess), three gold fleurs-de-lis on blue, above a white Maltese cross on red, over three gold crowns on blue, and \"Ouanalao\" is what the indigenous people called the island. On top of the shield is a mural crown.\n\nThe fleurs-de-lis, Maltese Cross, and gold crowns are heraldic reminders of the island's history as a colony ruled by first the Kingdom of France, then the Knights Hospitaller and in turn the Kingdom of Sweden. Eventually, the island returned to French rule. [0]",
-        "ratio": "",
+        "ratio": "2:3",
         "colors": [
             {
                 "name": "white",
@@ -847,10 +847,7 @@
                 "New Zealand"
             ],
             "memberOf": [
-                {
-                    "name": "Pacific Community",
-                    "image": "pacific-community.svg"
-                }
+                "Pacific Community"
             ]
         },
         "sources": [
