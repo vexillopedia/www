@@ -2,6 +2,7 @@
 
 const express = require("express")
 const fetch = require("node-fetch")
+const uniqueRandom = require("unique-random-array")
 
 const router = express.Router()
 
@@ -76,6 +77,22 @@ router.get("/flag/:flag", (req, res) => {
         else
             res.send("Oops, that wasn't expected!")
 
+        next(err)
+    })
+})
+
+// Random Flag
+router.get("/random", (req, res) => {
+    let urls = [
+        req.protocol + "://" + req.get("host") + "/api/flags/"
+    ]
+
+    Promise.all(urls.map(url =>
+        fetch(url).then(response => response.json())
+    )).then((json) => {
+        res.redirect("/flag/" + uniqueRandom(json[0])())
+    })
+    .catch((err) => {
         next(err)
     })
 })

@@ -27,7 +27,8 @@
     "express": "^4.13.4",
     "forever": "^0.15.2",
     "node-fetch": "^1.5.1",
-    "pug": "^2.0.0-alpha6"
+    "pug": "^2.0.0-alpha6",
+    "unique-random-array": "^1.0.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
