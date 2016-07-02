@@ -8,6 +8,12 @@ body {
     display: none;
 }
 
+/* Main Padding */
+.header,
+.main {
+    padding: 1em 1.618em;
+}
+
 /* Header */
 .header {
     background-color: darkblue;
@@ -23,10 +29,12 @@ body {
     text-decoration: none;
 }
 
-/* Main Padding */
-.header,
-.main {
-    padding: 1em 1.618em;
+/* Menu Icon */
+.menu-icon {
+    float: right;
+}
+.menu-icon img {
+    height: 1.5em;
 }
 
 /* Cards */
