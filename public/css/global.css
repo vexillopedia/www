@@ -33,9 +33,11 @@ body {
 .menu-icon {
     float: right;
 }
+.menu-icon a {
+    margin-left: 1em;
+}
 .menu-icon img {
     height: 1.5em;
-    margin-left: 2em;
 }
 
 /* Cards */

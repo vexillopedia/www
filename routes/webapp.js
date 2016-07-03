@@ -97,4 +97,9 @@ router.get("/random", (req, res) => {
     })
 })
 
+// Contribute
+router.get("/contribute", (req, res) => {
+    res.redirect("https://github.com/AntonioVdlC/vexillopedia")
+})
+
 module.exports = router
