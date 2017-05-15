@@ -16,30 +16,15 @@ self.addEventListener("install", function(event) {
   )
 })
 
-self.addEventListener("fetch", function(event) {
-  event.waitUntil(
-    caches.match(event.request).then(function(cached) {
-      const networked = fetch(event.request)
-        .then(fetchedFromNetwork, unableToResolve)
-        .catch(unableToResolve)
-
-      return cached || networked
-
-      function fetchedFromNetwork(response) {
+self.addEventListener('fetch', function(event) {
+  event.respondWith(
+    caches.match(event.request).then(function(resp) {
+      return resp || fetch(event.request).then(function(response) {
         caches.open(version).then(function(cache) {
           cache.put(event.request, response.clone())
         })
-
-        return response
-      }
-
-      function unableToResolve(error) {
-        return new Response("<h1>Service unavailable</h1>", {
-          status: 503,
-          statusText: "Service unavailable",
-          headers: new Headers({ "Content-Type": "text/html" })
-        })
-      }
+        return response.clone()
+      })
     })
   )
 })
