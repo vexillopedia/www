@@ -14,7 +14,7 @@ block body
             h2.section-title 
                 span#search-text(class="hidden") Search Flags
                 span#select-text Select a Flag
-            input#search-flag.search-input(class="hidden")
+            input#search-flag.search-input(class="hidden" aria-label="Search a Flag")
             ul.card-list
                 each flag in flags
                     li.card
