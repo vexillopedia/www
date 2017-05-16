@@ -3,6 +3,7 @@
 const express = require("express")
 
 const dashify = require("./utils/dashify")
+const redirectToHTTPS = require("./utils/redirectToHTTPS")
 
 const webapp = require("./routes/webapp")
 const api = require("./routes/api")
@@ -13,6 +14,9 @@ const app = express()
 app.set("views", "./views")
 app.set("view engine", "pug")
 app.locals.dashify = dashify
+
+// Redirect HTTP traffic to HTTPS
+app.use(redirectToHTTPS({ ignore: ["localhost:8080"] }))
 
 // Static files
 app.use(express.static(__dirname + "/public"))

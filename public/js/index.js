@@ -1,29 +1,29 @@
 ;(function () {
     // Caching DOM elements/arrays
-    let selectTextSpan = document.getElementById("select-text")
-    let searchTextSpan = document.getElementById("search-text")
-    let searchFlagInput = document.getElementById("search-flag")
-    
-    let flagCards = document.querySelectorAll(".search .card")
-    let flagCardsArray = Array.from(flagCards)
-    let flagNamesArray = flagCardsArray.map((card) => {
+    var selectTextSpan = document.getElementById("select-text")
+    var searchTextSpan = document.getElementById("search-text")
+    var searchFlagInput = document.getElementById("search-flag")
+
+    var flagCards = document.querySelectorAll(".search .card")
+    var flagCardsArray = Array.prototype.slice.call(flagCards)
+    var flagNamesArray = flagCardsArray.map(function (card) {
         return card.querySelector("span").innerText.toLowerCase()
     })
-    
+
     // Progressive enhancement
     selectTextSpan.classList.add("hidden")
     searchTextSpan.classList.remove("hidden")
     searchFlagInput.classList.remove("hidden")
     
-    flagCardsArray.forEach((card) => { 
+    flagCardsArray.forEach(function (card) { 
         card.classList.add("hidden") 
     })
-    
-    // Search flags
-    searchFlagInput.addEventListener("keyup", (e) => {
-        let searchText = e.target.value.toLowerCase()
 
-        flagCardsArray.forEach((card, i) => {
+    // Search flags
+    searchFlagInput.addEventListener("keyup", function (e) {
+        var searchText = e.target.value.toLowerCase()
+
+        flagCardsArray.forEach(function (card, i) {
             (searchText && flagNamesArray[i].indexOf(searchText) > -1) ?
                 card.classList.remove("hidden") :
                 card.classList.add("hidden")

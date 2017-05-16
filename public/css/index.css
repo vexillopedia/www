@@ -11,10 +11,8 @@
 }
 .welcome-title {
     font-size: 1.5em;
+    font-weight: normal;
     margin-bottom: 0em;
-}
-.welcome-text {
-    font-size: 1.25em;
 }
 
 /* Search */
