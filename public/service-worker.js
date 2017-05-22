@@ -17,16 +17,29 @@ self.addEventListener("install", function(event) {
 })
 
 self.addEventListener("fetch", function(event) {
-  event.respondWith(
-    caches.match(event.request).then(function(resp) {
-      return resp || fetch(event.request).then(function(response) {
-        caches.open(version).then(function(cache) {
-          cache.put(event.request, response.clone())
-        })
+  // Bypass cache when fetching a random flag (but not the icon!)
+  // This will make the random route unavailable when offline ...
+  let url = event.request.url
+  if (url.includes("/random") && !url.includes(".png")) {
+    event.respondWith(
+      fetch(event.request).then(function(response) {
         return response.clone()
       })
-    })
-  )
+    )
+  }
+  // For any other ressource, look up cache first!
+  else {
+    event.respondWith(
+      caches.match(event.request).then(function(resp) {
+        return resp || fetch(event.request).then(function(response) {
+          caches.open(version).then(function(cache) {
+            cache.put(event.request, response.clone())
+          })
+          return response.clone()
+        })
+      })
+    )
+  }
 })
 
 self.addEventListener("activate", function(event) {
