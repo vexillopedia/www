@@ -19,6 +19,11 @@
         card.classList.add("hidden") 
     })
 
+    // Scroll up when search flag input is focused
+    searchFlagInput.addEventListener("focus", function () {
+        searchTextSpan.scrollIntoView()
+    })
+
     // Search flags
     searchFlagInput.addEventListener("keyup", function (e) {
         var searchText = e.target.value.toLowerCase()
