@@ -3,7 +3,7 @@ const chaiHttp = require('chai-http');
 const expect = chai.expect;
 
 const app = require('express')();
-const api = require('./api');
+const api = require('./index');
 
 const categories = [
   'All Flags',
@@ -16,12 +16,12 @@ const categories = [
 ];
 
 const flags = [
-  ...require('../data/cities'),
-  ...require('../data/countries'),
-  ...require('../data/country-subdivisions'),
-  ...require('../data/dependent-territories'),
-  ...require('../data/international-organizations'),
-  ...require('../data/unrecognized-states')
+  ...require('../../data/cities'),
+  ...require('../../data/countries'),
+  ...require('../../data/country-subdivisions'),
+  ...require('../../data/dependent-territories'),
+  ...require('../../data/international-organizations'),
+  ...require('../../data/unrecognized-states')
 ].map(flag => flag.name);
 
 app.use('/', api);

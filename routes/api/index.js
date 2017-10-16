@@ -4,12 +4,12 @@ const express = require('express');
 const router = express.Router();
 
 // Data
-const cities = require('./../data/cities.json');
-const countries = require('./../data/countries.json');
-const countrySubdivisions = require('./../data/country-subdivisions.json');
-const dependentTerritories = require('./../data/dependent-territories.json');
-const internationalOrganizations = require('./../data/international-organizations.json');
-const unrecognizedStates = require('./../data/unrecognized-states.json');
+const cities = require('./../../data/cities.json');
+const countries = require('./../../data/countries.json');
+const countrySubdivisions = require('./../../data/country-subdivisions.json');
+const dependentTerritories = require('./../../data/dependent-territories.json');
+const internationalOrganizations = require('./../../data/international-organizations.json');
+const unrecognizedStates = require('./../../data/unrecognized-states.json');
 
 const allFlags = [].concat(
   countries,
