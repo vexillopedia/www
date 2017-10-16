@@ -8,13 +8,16 @@ const router = express.Router();
 
 // Home
 router.get('/', (req, res, next) => {
-  let urls = ['/api/categories', '/api/flags'];
+  let urls = [
+    req.protocol + '://' + req.get('host') + '/api/categories',
+    req.protocol + '://' + req.get('host') + '/api/flags'
+  ];
 
   Promise.all(urls.map(url => fetch(url).then(data => data.json())))
     .then(json => {
       res.render('index', {
-        categories: json[0],
-        flags: json[1]
+        categories: json[0].data,
+        flags: json[1].data
       });
     })
     .catch(err => {
@@ -24,7 +27,13 @@ router.get('/', (req, res, next) => {
 
 // Categories
 router.get('/category/:category', (req, res) => {
-  let urls = ['/api/category/' + req.params.category];
+  let urls = [
+    req.protocol +
+      '://' +
+      req.get('host') +
+      '/api/category/' +
+      req.params.category
+  ];
 
   Promise.all(
     urls.map(url =>
@@ -37,7 +46,7 @@ router.get('/category/:category', (req, res) => {
     .then(json => {
       res.render('category', {
         name: req.params.category,
-        flags: json[0]
+        flags: json[0].data
       });
     })
     .catch(err => {
@@ -51,7 +60,9 @@ router.get('/category/:category', (req, res) => {
 
 // Flags
 router.get('/flag/:flag', (req, res) => {
-  let urls = ['/api/flag/' + req.params.flag];
+  let urls = [
+    req.protocol + '://' + req.get('host') + '/api/flag/' + req.params.flag
+  ];
 
   Promise.all(
     urls.map(url =>
@@ -62,7 +73,7 @@ router.get('/flag/:flag', (req, res) => {
     )
   )
     .then(json => {
-      res.render('flag', json[0]);
+      res.render('flag', json[0].data);
     })
     .catch(err => {
       if (err.status === 404)
@@ -75,11 +86,11 @@ router.get('/flag/:flag', (req, res) => {
 
 // Random Flag
 router.get('/random', (req, res) => {
-  let urls = ['/api/flags/'];
+  let urls = [req.protocol + '://' + req.get('host') + '/api/flags/'];
 
   Promise.all(urls.map(url => fetch(url).then(response => response.json())))
     .then(json => {
-      res.redirect('/flag/' + uniqueRandom(json[0])());
+      res.redirect('/flag/' + uniqueRandom(json[0].data)());
     })
     .catch(err => {
       next(err);

@@ -36,7 +36,7 @@ describe('api', function() {
         .get('/categories')
         .end(function(err, res) {
           expect(res).to.have.status(200);
-          expect(Array.isArray(res.body)).to.equal(true);
+          expect(Array.isArray(res.body.data)).to.equal(true);
           done();
         });
     });
@@ -46,7 +46,7 @@ describe('api', function() {
         .get('/categories')
         .end(function(err, res) {
           expect(res).to.have.status(200);
-          expect(res.body.indexOf('All Flags')).to.not.equal(-1);
+          expect(res.body.data.indexOf('All Flags')).to.not.equal(-1);
           done();
         });
     });
@@ -57,7 +57,7 @@ describe('api', function() {
         .end(function(err, res) {
           expect(res).to.have.status(200);
           expect(
-            res.body.some(
+            res.body.data.some(
               (category, i, categories) => !i || categories[i - 1] < category
             )
           ).to.equal(true);
@@ -71,7 +71,7 @@ describe('api', function() {
         .end(function(err, res) {
           expect(res).to.have.status(200);
           expect(
-            res.body.some(
+            res.body.data.some(
               (category, i, categories) => !i || categories[i - 1] !== category
             )
           ).to.equal(true);
@@ -90,12 +90,16 @@ describe('api', function() {
             .get('/category/' + category)
             .end(function(err, res) {
               expect(res).to.have.status(200);
-              expect(Array.isArray(res.body)).to.equal(true);
+              expect(Array.isArray(res.body.data)).to.equal(true);
               expect(
-                res.body.some((flag, i, flags) => !i || flags[i - 1] < flag)
+                res.body.data.some(
+                  (flag, i, flags) => !i || flags[i - 1] < flag
+                )
               ).to.equal(true);
               expect(
-                res.body.some((flag, i, flags) => !i || flags[i - 1] !== flag)
+                res.body.data.some(
+                  (flag, i, flags) => !i || flags[i - 1] !== flag
+                )
               ).to.equal(true);
               done();
             });
@@ -121,12 +125,12 @@ describe('api', function() {
         .get('/flags')
         .end(function(err, res) {
           expect(res).to.have.status(200);
-          expect(Array.isArray(res.body)).to.equal(true);
+          expect(Array.isArray(res.body.data)).to.equal(true);
           expect(
-            res.body.some((flag, i, flags) => !i || flags[i - 1] < flag)
+            res.body.data.some((flag, i, flags) => !i || flags[i - 1] < flag)
           ).to.equal(true);
           expect(
-            res.body.some((flag, i, flags) => !i || flags[i - 1] !== flag)
+            res.body.data.some((flag, i, flags) => !i || flags[i - 1] !== flag)
           ).to.equal(true);
           done();
         });
@@ -142,7 +146,7 @@ describe('api', function() {
           .end(function(err, res) {
             expect(res).to.have.status(200);
 
-            let flag = res.body;
+            let flag = res.body.data;
 
             expect(typeof flag.name).to.equal('string');
             expect(flag.name).to.not.equal('');
